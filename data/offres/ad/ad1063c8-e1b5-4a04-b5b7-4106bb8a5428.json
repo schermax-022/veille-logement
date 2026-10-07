@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 33851,
   "guid": "ad1063c8-e1b5-4a04-b5b7-4106bb8a5428",
@@ -94,5 +94,209 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 33851,
+  "guid": "ad1063c8-e1b5-4a04-b5b7-4106bb8a5428",
+  "reference": "33851",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe986a0b-e697-4dc1-ac56-156a731f855e/large/ba6e2e94-94e4-4e17-87d5-2e5179820421",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe986a0b-e697-4dc1-ac56-156a731f855e/large/65a98b3e-d5af-4295-a5ff-cf2d8aa82e4a",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe986a0b-e697-4dc1-ac56-156a731f855e/large/97d3f237-9fb2-4e94-866d-9003bd65ad10",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe986a0b-e697-4dc1-ac56-156a731f855e/large/78435440-c2bb-4d35-b535-b2759fc95092",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe986a0b-e697-4dc1-ac56-156a731f855e/large/06252555-3195-4087-ac38-63b884a58cea",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe986a0b-e697-4dc1-ac56-156a731f855e/large/48cd1093-7b53-42c5-89b0-0436ea431092",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe986a0b-e697-4dc1-ac56-156a731f855e/large/dbc6278b-610f-4717-a657-7cf498570829",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe986a0b-e697-4dc1-ac56-156a731f855e/large/71a5cb3e-f21a-4bd8-a5bd-f47f7fee7f90",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe986a0b-e697-4dc1-ac56-156a731f855e/large/701a679c-fbf3-4715-8a46-e08f70820c13",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe986a0b-e697-4dc1-ac56-156a731f855e/large/d2ba390d-8d96-4530-a770-2061ff3b9d87",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 44377,
+   "guid": "fe986a0b-e697-4dc1-ac56-156a731f855e",
+   "reference": "44377",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 66.0,
+   "municipality": {
+    "id": 35054,
+    "postcode": "94000",
+    "code": "94028",
+    "name": "Créteil"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3553,
+   "guid": "361a79e1-dcfd-4922-ada8-c7b14641fb71",
+   "reference": "3553",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-03-01",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité appartement T3 à CRETEIL, surface de 66 m².\n\nSans frais d'agence.\n\nCet appartement comprend un séjour, deux chambres et une cuisine. \n\nL'immeuble est sécurisé, bénéficie d'un ascenseur et la présence d'un(e) régisseur(se) est assurée. Le logement est situé au rez-de-chaussée.\n\nChauffage collectif. Deux places de parking incluses.\n\nPrésence de plusieurs lignes de RER avec la gare Créteil Pompadour à environ 16 minutes à pied. Commerces à proximité. Établissements scolaires accessibles autour du bien. Grands axes routiers à proximité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 934.16,
+  "rentChargeAmount": 255.96,
+  "rentParkingAmount": 188.3,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1104.16,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

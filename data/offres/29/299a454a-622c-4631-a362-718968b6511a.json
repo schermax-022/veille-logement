@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 51269,
   "guid": "299a454a-622c-4631-a362-718968b6511a",
@@ -94,5 +94,167 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51269,
+  "guid": "299a454a-622c-4631-a362-718968b6511a",
+  "reference": "51269",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2f2bd6fc-c2cf-412d-a890-019693d7e0fa/large/2b163467-afa7-4b13-8faa-24c8d03aee73",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2f2bd6fc-c2cf-412d-a890-019693d7e0fa/large/11363663-b312-4595-a259-f58e54ab42e8",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2f2bd6fc-c2cf-412d-a890-019693d7e0fa/large/34fc1bb9-b87c-4fc9-a223-252b17e3370c",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2f2bd6fc-c2cf-412d-a890-019693d7e0fa/large/80751a94-3cdc-4218-938c-c08a08e87c78",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58786,
+   "guid": "2f2bd6fc-c2cf-412d-a890-019693d7e0fa",
+   "reference": "58786",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 31.0,
+   "municipality": {
+    "id": 27522,
+    "postcode": "69110",
+    "code": "69202",
+    "name": "Sainte-Foy-lès-Lyon"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8314,
+   "guid": "0ddcf9b8-09ca-470d-887e-c4e143d142e4",
+   "reference": "8314",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-16",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence MONTRAY située à SAINTE FOY-LES-LYON  – CHEMIN DE MONTRAY\nEn bordure du 5ème arrondissement de Lyon.\n\nLa résidence se situe non loin du centre-ville, à proximité de la mairie, hôpital, école et commerce de proximité.\nDesservie par les TCL bus C19 arrêt « Sainte Foy Hôpital »\n\nAppartement de type  studio situé au 1er étage de la résidence avec ascenseur. \nLogement composé d'une espace de vie avec cuisine équipée,  salle d'eau avec des toilettes.\nLe chauffage est individuel au gaz tout comme la production d’eau chaude. \nCharges incluses : charges générales d’immeuble ainsi que le garage\n\nMerci de situer l’environnement avant un éventuel positionnement.\nLa date limite de dépôt des candidatures n'est pas contractuelle.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 515.0,
+  "rentChargeAmount": 45.0,
+  "rentParkingAmount": 70.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 585.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

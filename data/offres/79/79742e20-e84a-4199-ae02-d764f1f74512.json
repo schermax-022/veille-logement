@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 50509,
   "guid": "79742e20-e84a-4199-ae02-d764f1f74512",
@@ -94,5 +94,186 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50509,
+  "guid": "79742e20-e84a-4199-ae02-d764f1f74512",
+  "reference": "50509",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3eb36cb9-be88-4eb9-b8f0-9a0ee8936cde/large/5a77c47b-d70f-4460-9a71-ed6fe3ba345b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3eb36cb9-be88-4eb9-b8f0-9a0ee8936cde/large/9c8d4ba1-18e7-4eea-97c2-5fcee3e5db3c",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3eb36cb9-be88-4eb9-b8f0-9a0ee8936cde/large/0f0b457a-abd1-4497-ae72-d0109e61ffc6",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3eb36cb9-be88-4eb9-b8f0-9a0ee8936cde/large/d91c67d0-7982-46d7-be41-e8604a2ae660",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3eb36cb9-be88-4eb9-b8f0-9a0ee8936cde/large/e5483aa1-58e4-469a-8b3f-4ae3c8aa98a9",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58189,
+   "guid": "3eb36cb9-be88-4eb9-b8f0-9a0ee8936cde",
+   "reference": "58189",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 21.83,
+   "municipality": {
+    "id": 27374,
+    "postcode": "69410",
+    "code": "69040",
+    "name": "Champagne-au-Mont-d'Or"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 7007,
+   "guid": "904a7f77-4dec-4c78-8c53-951fe5afaa01",
+   "reference": "7007",
+   "livingRules": null,
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2023,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-24",
+  "endDateOfPublication": "2026-10-14",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence BULLE D AIR située rue JEAN CLAUDE BARTET, 69140 CHAMPAGNE AU MONT D OR.\nProche du plateau de la Duchère, avec commerces et centres sportifs.\nLes transports en commun sont à proximité, lignes de bus 21 / 61, arrêt: AV DE CHAMPAGNE.\n\nLogement autonome situé au 2ème étage avec ascenseur, entièrement équipé , coin cuisine avec frigo, coin nuit séparé avec literie et bureau, accès internet (payant).\nLa redevance mensuelle comprend toutes les charges (charges générales, provision de chauffage, d'eau chaude et d'eau froide).\n\nLe logement sera disponible à compter du 23/10/2026 (sous réserve d'éventuels travaux).\n\nLa garantie VISALE est exigée par le bailleur, ainsi qu'un NUD (demande de logement sociale en cours de validité dans le SNE).\nMerci de bien situer l'environnement, avant de vous positionner sur cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 212.82,
+  "rentChargeAmount": 52.47,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 207.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

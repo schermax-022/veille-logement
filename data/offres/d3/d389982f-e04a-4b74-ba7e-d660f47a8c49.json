@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 44341,
   "guid": "d389982f-e04a-4b74-ba7e-d660f47a8c49",
@@ -94,5 +94,192 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 44341,
+  "guid": "d389982f-e04a-4b74-ba7e-d660f47a8c49",
+  "reference": "44341",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/7193152e-f05e-4240-b42f-f7efb0bed64c/large/7aacfff6-649b-45aa-9d85-e7dbb6ae3f0a",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/7193152e-f05e-4240-b42f-f7efb0bed64c/large/12cd0335-a034-4e0d-a01b-50a8947bf803",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/7193152e-f05e-4240-b42f-f7efb0bed64c/large/a78c7d0c-d617-4f72-b0c3-bafde893171a",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/7193152e-f05e-4240-b42f-f7efb0bed64c/large/4c23f776-260a-47b3-9ba3-e8412384f40a",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/7193152e-f05e-4240-b42f-f7efb0bed64c/large/926eedbd-d07e-4380-9476-aaa01e3095da",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/7193152e-f05e-4240-b42f-f7efb0bed64c/large/37d2f02a-efff-49f7-99d4-cf60f1ca9ac3",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/7193152e-f05e-4240-b42f-f7efb0bed64c/large/1fd6df30-465a-4976-af88-35a9f0fd5b9e",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 53219,
+   "guid": "7193152e-f05e-4240-b42f-f7efb0bed64c",
+   "reference": "53219",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 68.65,
+   "municipality": {
+    "id": 16996,
+    "postcode": "46000",
+    "code": "46042",
+    "name": "Cahors"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 7635,
+   "guid": "3b15ceb2-332e-4a7a-9681-064dc8d14984",
+   "reference": "7635",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": "2026-07-18"
+  },
+  "availableAt": "2026-07-18",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence idéalement située en plein cœur de Cahors, sur la Place Émilien Imbert, entièrement rénovée dans le cadre du programme Action Cœur de Ville. Vous bénéficierez d’un emplacement privilégié, à proximité immédiate de l’ensemble des commerces, services et commodités.\n\nPour faciliter vos déplacements en transports en commun, le réseau de bus ainsi que la gare sont accessibles.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 551.11,
+  "rentChargeAmount": 50.0,
+  "rentParkingAmount": 60.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 551.11,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 205.95,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

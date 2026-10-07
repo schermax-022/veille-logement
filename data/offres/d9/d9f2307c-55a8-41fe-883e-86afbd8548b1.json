@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 51034,
   "guid": "d9f2307c-55a8-41fe-883e-86afbd8548b1",
@@ -94,5 +94,173 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51034,
+  "guid": "d9f2307c-55a8-41fe-883e-86afbd8548b1",
+  "reference": "51034",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/14/14a70865-1e20-445d-b500-f7cfa3d586a5/large/908c8dd5-13fe-4495-990d-219f8b0eaf8d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/14/14a70865-1e20-445d-b500-f7cfa3d586a5/large/9b76f03f-5f64-466a-8d98-1356e70dc767",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/14/14a70865-1e20-445d-b500-f7cfa3d586a5/large/8beb37bc-dee9-4342-b10b-e1bfb9b70dca",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/14/14a70865-1e20-445d-b500-f7cfa3d586a5/large/7e1dd222-3848-47c6-969d-30a12afe7852",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58616,
+   "guid": "14a70865-1e20-445d-b500-f7cfa3d586a5",
+   "reference": "58616",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 64.0,
+   "municipality": {
+    "id": 30939,
+    "postcode": "78150",
+    "code": "78158",
+    "name": "Le Chesnay-Rocquencourt"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 4902,
+   "guid": "b0cd4e4a-61a8-42fa-8a2f-560ab5e67848",
+   "reference": "4902",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2017-01-01",
+   "constructionYear": 2017,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-30",
+  "endDateOfPublication": "2026-10-16",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Dans la commune du Chesnay-Rocquencourt (Rue Auguste Brunot) à proximité des commerces et des transports en commun.\n\nTRANSPORTS :\nGare de la Celle Saint-Cloud (4,5 km) Transilien ligne L jusqu'à Paris Saint-Lazare en 30 mn \nGare de Versailles-Chantiers (6,3 km) Transilien ligne N jusqu'à Paris Montparnasse en 13 mn \nTransilien ligne U jusqu'à la Défense Grande Arche en 21 mn\nGare de Versailles Rive Gauche (6 km) RER C jusqu'à Champ de Mars Tour Eiffel en 25 mn \nRéseau de bus interurbain Lignes A, B, H et T\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1028.98,
+  "rentChargeAmount": 357.75,
+  "rentParkingAmount": 45.34,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1028.98,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

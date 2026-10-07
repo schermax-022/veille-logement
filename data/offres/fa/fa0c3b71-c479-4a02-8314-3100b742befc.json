@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 27662,
   "guid": "fa0c3b71-c479-4a02-8314-3100b742befc",
@@ -94,5 +94,192 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 27662,
+  "guid": "fa0c3b71-c479-4a02-8314-3100b742befc",
+  "reference": "27662",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5d3b0afc-2326-486a-9175-baaa45c502f0/large/712e27d7-f6df-49de-96ac-f9f350bf3d92",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5d3b0afc-2326-486a-9175-baaa45c502f0/large/6cb2c7f6-b2dc-4b15-80b0-5ece5990f709",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5d3b0afc-2326-486a-9175-baaa45c502f0/large/9b3a29ae-236a-47c1-bd5e-9cd616e78320",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5d3b0afc-2326-486a-9175-baaa45c502f0/large/0b7a33e1-b5c2-4110-8070-5d8a34fcff3d",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5d3b0afc-2326-486a-9175-baaa45c502f0/large/edc7c571-b854-47bd-ae22-302933e2321f",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5d3b0afc-2326-486a-9175-baaa45c502f0/large/642a000f-efe9-4d84-8576-eb881b6c922f",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5d3b0afc-2326-486a-9175-baaa45c502f0/large/b6a9645d-d0e7-4a98-a1fd-9abe233ff10a",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 38914,
+   "guid": "5d3b0afc-2326-486a-9175-baaa45c502f0",
+   "reference": "38914",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 87.0,
+   "municipality": {
+    "id": 4670,
+    "postcode": "14123",
+    "code": "14271",
+    "name": "Fleury-sur-Orne"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 5924,
+   "guid": "cc9d773d-2a30-4a48-ab03-fae209f57dc7",
+   "reference": "5924",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-02-02",
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-06",
+  "endDateOfPublication": "2026-10-11",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "LES BALCONS FLEURY.\nVotre futur logement au 40 route d’Harcourt, Fleury-sur-Orne, aux portes de Caen, disponible 2ème trimestre 2026.\nSituée dans l’Écoquartier Les Hauts de l’Orne, cette résidence neuve allie nature, confort et accessibilité.\nProfitez d’un cadre de vie verdoyant et paisible, avec des appartements modernes à ossature bois, prolongés par balcon ou terrasse.\nIdéalement desservie par le tramway T3 (Caen centre en moins de 10 min), à 8 min de la gare, 10 min du centre-ville et 20 min de l’aéroport Carpiquet.\nÉcoles et services à proximité immédiate pour simplifier votre quotidien.\nUn logement neuf, performant, à loyer maîtrisé, pensé pour votre confort et votre qualité de vie.\n\nNous vous proposons un appartement T4 de 87 m² situé au 1er étage avec ascenseur, avec balcon.\nCuisine ouverte, aménagée.\nPossibilité de location d'une deuxième place de stationnement selon disponibilité au prix de 35 €/ mois.\n\nLivraison prévue pour début juillet 2026.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 868.41,
+  "rentChargeAmount": 178.57,
+  "rentParkingAmount": 35.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 868.41,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

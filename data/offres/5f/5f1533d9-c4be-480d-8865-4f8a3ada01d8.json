@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 49122,
   "guid": "5f1533d9-c4be-480d-8865-4f8a3ada01d8",
@@ -94,5 +94,210 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 49122,
+  "guid": "5f1533d9-c4be-480d-8865-4f8a3ada01d8",
+  "reference": "49122",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/16582d7a-97f4-4214-88be-4f37e783cdee/large/56a811b0-ce32-40b4-9301-fd7d2cca1e01",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/16582d7a-97f4-4214-88be-4f37e783cdee/large/81566687-e9a3-4166-a511-da0e249e5b70",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/16582d7a-97f4-4214-88be-4f37e783cdee/large/4d0168fc-f7ff-42b7-8541-a8cd26c9b9a7",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/16582d7a-97f4-4214-88be-4f37e783cdee/large/e44d6551-75b9-4086-b6a7-dad3d9eb9aa4",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/16582d7a-97f4-4214-88be-4f37e783cdee/large/1469676e-ee33-472a-94ea-94662c8d6730",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/16582d7a-97f4-4214-88be-4f37e783cdee/large/de20ff42-9f20-4dda-8b23-b457bac5670f",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/16582d7a-97f4-4214-88be-4f37e783cdee/large/24aa9079-144c-45ed-97f9-547fb8a12771",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/16582d7a-97f4-4214-88be-4f37e783cdee/large/7b8cf059-392a-4af5-b1e6-3eed444e35a2",
+    "urlContentType": "image/png",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/16582d7a-97f4-4214-88be-4f37e783cdee/large/402bdbe0-85b1-4f87-a6b6-853c0be46ea3",
+    "urlContentType": "image/png",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/16582d7a-97f4-4214-88be-4f37e783cdee/large/c0a54682-3831-4421-b119-5004c4a0cd6f",
+    "urlContentType": "image/png",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 35639,
+   "guid": "16582d7a-97f4-4214-88be-4f37e783cdee",
+   "reference": "35639",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 94.58,
+   "municipality": {
+    "id": 13000,
+    "postcode": "33140",
+    "code": "33550",
+    "name": "Villenave-d'Ornon"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 2,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 5478,
+   "guid": "4001220f-ff1b-4fee-92d6-1863aed63e5d",
+   "reference": "5478",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2025-11-15",
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-14",
+  "endDateOfPublication": "2026-10-11",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence se situe Avenue du Maréchal Juin, à proximité des transports en commun et à moins de 5 minutes des commerces et services : supermarché, établissements scolaires, aires de jeux pour enfants …\nL'ensemble immobilier se compose d'un bâtiment de 5 étages avec parking au sous-sol\n\nNous vous proposons un appartement non meublé, composé d'une entrée avec dégagement, cuisine non équipée ouverte sur le séjour, 1 suite parentale avec salle d'eau, 2 chambres, salle de bains, WC séparés et 1 grande loggia de 40.60m².\n\nPhotos non contractuelles\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 931.4,
+  "rentChargeAmount": 173.84,
+  "rentParkingAmount": 43.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 931.4,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

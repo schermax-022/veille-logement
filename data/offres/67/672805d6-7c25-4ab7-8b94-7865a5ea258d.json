@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 35907,
   "guid": "672805d6-7c25-4ab7-8b94-7865a5ea258d",
@@ -89,5 +89,132 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 35907,
+  "guid": "672805d6-7c25-4ab7-8b94-7865a5ea258d",
+  "reference": "35907",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/27d26da8-9d2d-4ad3-bd1a-008e31424aee/large/16291a60-b390-4b90-84e5-8d8917ccb27d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 35044,
+   "guid": "27d26da8-9d2d-4ad3-bd1a-008e31424aee",
+   "reference": "35044",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 15.0,
+   "municipality": {
+    "id": 20945,
+    "postcode": "56500",
+    "code": "56140",
+    "name": "Moréac"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "COLLECTIVE",
+   "toiletType": "COLLECTIVE",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 5408,
+   "guid": "17836e63-4312-42e6-81af-6fc4a6c385b2",
+   "reference": "5408",
+   "livingRules": "",
+   "type": {
+    "id": 4,
+    "ordering": 13,
+    "code": "AUT",
+    "label": "Autres résidences",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-03-27",
+  "endDateOfPublication": "2026-11-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Nous vous proposons de louer une chambre à Moréac et de vivre l'expérience enrichissante de l'hébergement temporaire chez l'habitant. \nA votre disposition, cuisine, salle d'eau (douche) et autres équipements présent dans le logement. \nLocal vélo et parking\n\nL’hébergement temporaire chez l’habitant est une solution de logement clé en main, rapide et flexible. \nOffre pour les -30 ans.\n* avril à octobre = 15 euros la nuitée ou 250 euros par mois\n\n* novembre à mars = 17 euros la nuitée ou 270 euros par mois\n\n* durée d’hébergement de 8 mois maximum sur une année civile\n\n*les hébergements proposés par le dispositif HTH ne constituent pas une adresse principale.\n\nPostulez ! Action Logement prendra contact avec vous pour faire le point sur votre demande",
+  "paymentType": {
+   "id": 1,
+   "ordering": 2,
+   "code": "JNR",
+   "label": "Journalier"
+  },
+  "housingFeeBaseBound": 15.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 90.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

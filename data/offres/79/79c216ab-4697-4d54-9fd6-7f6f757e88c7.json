@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 50693,
   "guid": "79c216ab-4697-4d54-9fd6-7f6f757e88c7",
@@ -94,5 +94,210 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50693,
+  "guid": "79c216ab-4697-4d54-9fd6-7f6f757e88c7",
+  "reference": "50693",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b0/b01ddd0b-4b5c-4d0b-a1ed-f6ccc919a65f/large/2d8a2428-2556-4329-89d0-78b38091fc3d",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b0/b01ddd0b-4b5c-4d0b-a1ed-f6ccc919a65f/large/bfde8dfc-290e-4794-809e-6632b8ce7cf8",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b0/b01ddd0b-4b5c-4d0b-a1ed-f6ccc919a65f/large/7b1920c2-3bee-491a-b0b3-b94cbd0964c9",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b0/b01ddd0b-4b5c-4d0b-a1ed-f6ccc919a65f/large/65c931e7-a0c9-46b3-8217-348263a74287",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b0/b01ddd0b-4b5c-4d0b-a1ed-f6ccc919a65f/large/cd47d148-adaa-4927-90b1-1ddb6eab7d5f",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b0/b01ddd0b-4b5c-4d0b-a1ed-f6ccc919a65f/large/28108c02-5191-4c23-b947-25b2e854b818",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b0/b01ddd0b-4b5c-4d0b-a1ed-f6ccc919a65f/large/d200eeb8-ca04-4354-9fc6-9b45c13bc713",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b0/b01ddd0b-4b5c-4d0b-a1ed-f6ccc919a65f/large/fb15e82b-60c6-4a25-892b-f3d5f614e9ac",
+    "urlContentType": "image/png",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b0/b01ddd0b-4b5c-4d0b-a1ed-f6ccc919a65f/large/da5fbb8f-08fe-44fb-97e6-c82dcdfdc408",
+    "urlContentType": "image/png",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b0/b01ddd0b-4b5c-4d0b-a1ed-f6ccc919a65f/large/b26bc681-c94b-420f-8fe6-bd215a124b5a",
+    "urlContentType": "image/png",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58358,
+   "guid": "b01ddd0b-4b5c-4d0b-a1ed-f6ccc919a65f",
+   "reference": "58358",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 52.94,
+   "municipality": {
+    "id": 4228,
+    "postcode": "12000",
+    "code": "12202",
+    "name": "Rodez"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 8,
+    "ordering": 8,
+    "code": "IPE",
+    "label": "Individuel pompe à chaleur",
+    "commercialLabel": "Pompe à chaleur électrique individuelle non comprise dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 8262,
+   "guid": "ce350bf0-c801-4737-9808-cc859c434861",
+   "reference": "8262",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-05",
+  "endDateOfPublication": "2026-10-28",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Cette résidence a fait l’objet d’une rénovation complète en 2026 dans le cadre du programme Action Cœur de Ville. Située Impasse de Montcalm, en plein centre-ville de Rodez, elle bénéficie d’un emplacement à proximité des commodités.\n\nRodez, préfecture de l’Aveyron, dispose d’un réseau de transports dont une gare, d’un hôpital, d’établissements scolaires, des équipements sportifs, culturels et des commerces.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 439.99,
+  "rentChargeAmount": 46.0,
+  "rentParkingAmount": 60.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 439.99,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

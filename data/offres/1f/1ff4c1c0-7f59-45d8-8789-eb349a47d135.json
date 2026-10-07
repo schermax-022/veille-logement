@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 47589,
   "guid": "1ff4c1c0-7f59-45d8-8789-eb349a47d135",
@@ -94,5 +94,212 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 47589,
+  "guid": "1ff4c1c0-7f59-45d8-8789-eb349a47d135",
+  "reference": "47589",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5dbf0fcc-f389-4611-a506-90afec2537e2/large/194f8ef5-6936-4580-84b6-b4e94b6babdc",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5dbf0fcc-f389-4611-a506-90afec2537e2/large/654b59a3-e1a5-43e9-a971-0c693f863f81",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5dbf0fcc-f389-4611-a506-90afec2537e2/large/403eb90c-5efe-4054-bdd6-8b97a821b82d",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5dbf0fcc-f389-4611-a506-90afec2537e2/large/d6af3f71-9d6c-4b54-9176-0dc4c545cc84",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5dbf0fcc-f389-4611-a506-90afec2537e2/large/d05b0253-11f9-4161-8543-d1f2adb03773",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5dbf0fcc-f389-4611-a506-90afec2537e2/large/ae5808c6-307a-40d5-b5a4-c6b7e402c01d",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5dbf0fcc-f389-4611-a506-90afec2537e2/large/1e73f9ce-0d4f-4537-83fb-bd9c942bafea",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5dbf0fcc-f389-4611-a506-90afec2537e2/large/7f49207f-cd1f-4597-80a2-7c33800667bc",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5dbf0fcc-f389-4611-a506-90afec2537e2/large/7a300116-2055-4631-a0af-b9420caba764",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 55833,
+   "guid": "5dbf0fcc-f389-4611-a506-90afec2537e2",
+   "reference": "55833",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 66.07,
+   "municipality": {
+    "id": 22449,
+    "postcode": "59000",
+    "code": "59350",
+    "name": "Lille"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 12,
+    "ordering": 12,
+    "code": "9",
+    "label": "9"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3104,
+   "guid": "5093aaf7-7d61-4af8-acb4-619485befe14",
+   "reference": "3104",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2021,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-21",
+  "endDateOfPublication": "2027-01-03",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Au sein de la commune de Lille, à proximité de l'arrêt de bus Porte de Valenciennes et également d'une pharmacie et d'autres commerces. \n\nNous vous proposons un appartement comprenant : une entrée avec placard, un séjour cuisine, deux chambres avec placard, une salle de bains, un wc séparé, un cellier, un dégagement, une loggia. \n\nLe loyer charges comprises comprend un emplacement de stationnement.\n\nLe montant du dépôt de garantie correspond à un mois de loyer hors charges.\n\nEligibilité d’attribution : \nCatégorie de ménage – 2 personne dont le plancher de ressources mensuelles dépasse 2 920€.\nCatégorie de ménage – 3 personnes dont le plancher de ressources mensuelles dépasse 3 511€.\n\nEn cas d'instruction de votre dossier, un conseiller prendra contact avec vous afin de vous notifier l’éligibilité de votre dossier.\n\nLa date limite de dépôt des candidatures n'est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 876.27,
+  "rentChargeAmount": 210.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 876.27,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

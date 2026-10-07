@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 10511,
   "guid": "d3205c5f-8172-44e2-b043-4221fa59cfc3",
@@ -89,5 +89,171 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 10511,
+  "guid": "d3205c5f-8172-44e2-b043-4221fa59cfc3",
+  "reference": "10511",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/80/808b547d-03f6-4264-a893-74500cf61f98/large/0eb379b7-ffac-48e4-a477-7dcd39a53ca4",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/80/808b547d-03f6-4264-a893-74500cf61f98/large/2f5aeb7c-48d1-4e7f-97fd-67076fa76377",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/80/808b547d-03f6-4264-a893-74500cf61f98/large/deb37b0d-13e5-45cc-93f6-bcd286a990bd",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/80/808b547d-03f6-4264-a893-74500cf61f98/large/246cc7bb-bcf3-47f5-a6c1-3ba8149e141b",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 19562,
+   "guid": "808b547d-03f6-4264-a893-74500cf61f98",
+   "reference": "19562",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 10.0,
+   "municipality": {
+    "id": 29898,
+    "postcode": "76400",
+    "code": "76259",
+    "name": "Fécamp"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": "COLLECTIVE",
+   "toiletType": "COLLECTIVE",
+   "bathroomType": "COLLECTIVE",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2626,
+   "guid": "7b444797-6548-4f5d-9d54-ee714cb3a6df",
+   "reference": "2626",
+   "livingRules": "Plafond de ressources à respecter\nLocation souhaitée pour une durée minimum de 6 mois\nEn intégrant cette colocation, il ne faut pas être occupant de deux logements du parc social\n",
+   "type": {
+    "id": 7,
+    "ordering": 5,
+    "code": "COL",
+    "label": "Co-location meublée",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CLO",
+     "label": "Colocation"
+    }
+   ],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-05-20",
+  "endDateOfPublication": "2026-12-14",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Colocation meublée et tout équipées : formule clé en main.\nTout compris : eau, électricité, chauffage, assurance habitation, internet haut débit.\nTout équipé : lave-linge, literie, vaisselle.\nPrès des transports en commun et commerces\nSans frais d'agence et sans engagement de durée.\n\nAppartement avec espace privatif (chambre) et espace partagé (salle à manger, cuisine, salle de bain, sanitaires)\nAppartement intégralement meublé\nLe loyer comprend toutes les charges (chauffage, électricité, eau, accès internet haut débit, assurance habitation).\nChambre disponible à la location. Location souhaitée pour une durée minimum de 6 mois\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 223.28,
+  "rentChargeAmount": 126.22,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 223.28,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

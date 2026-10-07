@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 48514,
   "guid": "6aba2d0b-a6f4-40a0-872a-9005702066d7",
@@ -94,5 +94,200 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 48514,
+  "guid": "6aba2d0b-a6f4-40a0-872a-9005702066d7",
+  "reference": "48514",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/25/255df6a9-aecb-4fc5-8b6b-0a0a04bd2211/large/cfbf346d-95cb-4748-a67c-82bb52e780af",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/25/255df6a9-aecb-4fc5-8b6b-0a0a04bd2211/large/79fc72e0-708a-4213-9a34-bbc31025ec81",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/25/255df6a9-aecb-4fc5-8b6b-0a0a04bd2211/large/e7b10770-2b5d-4f21-8aa0-420a6bc50724",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/25/255df6a9-aecb-4fc5-8b6b-0a0a04bd2211/large/4f1a66df-5601-4b27-965e-b8186fa62cf0",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/25/255df6a9-aecb-4fc5-8b6b-0a0a04bd2211/large/525e789a-40b0-476b-9db2-83cc341c5741",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/25/255df6a9-aecb-4fc5-8b6b-0a0a04bd2211/large/6460310d-c173-41cf-b568-9f25807f630b",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/25/255df6a9-aecb-4fc5-8b6b-0a0a04bd2211/large/c85776c0-2baf-4d8f-8e0b-eaf56ad971f0",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56555,
+   "guid": "255df6a9-aecb-4fc5-8b6b-0a0a04bd2211",
+   "reference": "56555",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 59.72,
+   "municipality": {
+    "id": 26859,
+    "postcode": "67300",
+    "code": "67447",
+    "name": "Schiltigheim"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7913,
+   "guid": "c3ce3ac6-d979-4df3-b440-7fd9cbc31b7f",
+   "reference": "7913",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-10-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-01",
+  "endDateOfPublication": "2026-10-07",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "PROGRAMME NEUF A SCHILTIGHEIM\n\nVenez découvrir cette belle résidence neuve rue Clémenceau à 67300 SCHILTIGHEIM. \nSituée à 12 km de la ville de STRASBOURG, accès rapide à l'autoroute A4, à 1km gare de Bischheim, à proximité immédiate des bus et des pistes cyclables, avec accès au tram en transport en commun à 16 minutes. \nProche toutes commodités : supermarché, centre nautique, salle de spectacle, crèches, écoles et établissements scolaires.\n\nAppartement T3 composé d'une entrée, d'une cuisine meublée (plaques vitrocéramique, hotte et évier) ouverte sur séjour avec BALCON, de deux chambres et d'une salle d'eau avec douche et W.C.\nPlancher chauffant.\nPossibilité de louer une place de parking en sous-sol, pour un montant mensuel de 30 euros.\n\n(ATTENTION: photos d'un logement témoin)\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 690.78,
+  "rentChargeAmount": 185.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 690.78,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

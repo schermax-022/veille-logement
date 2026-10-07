@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 41143,
   "guid": "e48359dd-6ce2-44c3-990b-c9bcbdd0d75b",
@@ -94,5 +94,208 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 41143,
+  "guid": "e48359dd-6ce2-44c3-990b-c9bcbdd0d75b",
+  "reference": "41143",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cd/cd6f4ebf-feaf-4844-866a-4c879a6f2c40/large/5aee5c4e-3793-4f62-9d9d-4f96df2bc7e9",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cd/cd6f4ebf-feaf-4844-866a-4c879a6f2c40/large/a710005b-d3c9-4135-a3d1-5628c5980dd7",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cd/cd6f4ebf-feaf-4844-866a-4c879a6f2c40/large/20c4a400-ccb8-4035-b0c2-48fe9bf6671b",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cd/cd6f4ebf-feaf-4844-866a-4c879a6f2c40/large/482bca8b-02a2-463a-8bc1-3546ccea8041",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cd/cd6f4ebf-feaf-4844-866a-4c879a6f2c40/large/6cd3c92f-39c7-4c81-814b-eeeca681f239",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cd/cd6f4ebf-feaf-4844-866a-4c879a6f2c40/large/f8d0d284-1d54-490b-8119-7a70ed7d0867",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cd/cd6f4ebf-feaf-4844-866a-4c879a6f2c40/large/1352ca20-60df-4cb9-9e88-33d2324858df",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cd/cd6f4ebf-feaf-4844-866a-4c879a6f2c40/large/79533ef7-eda1-4f25-b57f-6b317cbb9081",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cd/cd6f4ebf-feaf-4844-866a-4c879a6f2c40/large/378099a1-62fb-42e4-8661-8f864cd22881",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cd/cd6f4ebf-feaf-4844-866a-4c879a6f2c40/large/58c65c24-2a59-46b6-b209-5eb8dc849ed1",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 50512,
+   "guid": "cd6f4ebf-feaf-4844-866a-4c879a6f2c40",
+   "reference": "50512",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 79.67,
+   "municipality": {
+    "id": 35004,
+    "postcode": "93150",
+    "code": "93007",
+    "name": "Le Blanc-Mesnil"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 6977,
+   "guid": "1f72bd3b-e440-4222-9b17-1b9a6646eb6c",
+   "reference": "6977",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-18",
+  "endDateOfPublication": "2027-06-04",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Résidence neuve. Livraison prévue JUILLET 2026. Acceptation sur plan uniquement (PAS DE VISITE) T4  de 79,67 m² situé au rez de chaussée comprenant une entrée avec rangements, un séjour avec cuisine ouverte et aménagée de 26,59 m² donnant sur une terrasse de 4,06 m² exposition sud, 3 chambres avec rangements de 10,65 , 11,16  et 12,56 m² , une salle de bain , une salle de douche et des toilettes séparées. Chauffage collectif urbain et deux places de parking en sous-sol  compris dans le loyerNB : photos des logements non contractuelles, en illustration des prestations types.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1004.01,
+  "rentChargeAmount": 303.53,
+  "rentParkingAmount": 109.12,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1094.01,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

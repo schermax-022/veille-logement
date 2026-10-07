@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 24270,
   "guid": "2c38dd71-8080-4ee9-9184-cddf83edf121",
@@ -94,5 +94,187 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 24270,
+  "guid": "2c38dd71-8080-4ee9-9184-cddf83edf121",
+  "reference": "24270",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6e/6ec8b351-1869-4b7c-ac38-b98f352959ca/large/9e11e131-69b3-42ca-ad8e-d61d68813f37",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6e/6ec8b351-1869-4b7c-ac38-b98f352959ca/large/403f864e-63f4-4811-beb9-9e0936ad4e4a",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6e/6ec8b351-1869-4b7c-ac38-b98f352959ca/large/219b6cd2-f256-4e2f-9ad5-bdcb3869fa0f",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6e/6ec8b351-1869-4b7c-ac38-b98f352959ca/large/6a6b51d2-0404-4b97-92ae-7cf4ec71fb11",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6e/6ec8b351-1869-4b7c-ac38-b98f352959ca/large/35082ad1-963d-46e2-9354-1e15a6f4da82",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6e/6ec8b351-1869-4b7c-ac38-b98f352959ca/large/098523a4-6481-453a-9cee-74078302475b",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 36190,
+   "guid": "6ec8b351-1869-4b7c-ac38-b98f352959ca",
+   "reference": "36190",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 88.59,
+   "municipality": {
+    "id": 32619,
+    "postcode": "82000",
+    "code": "82121",
+    "name": "Montauban"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "CEL",
+     "label": "Cellier"
+    }
+   ],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3903,
+   "guid": "1b4c0309-cd21-491b-95b1-358984618834",
+   "reference": "3903",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": "2025-04-01"
+  },
+  "availableAt": "2025-11-18",
+  "endDateOfPublication": "2026-11-03",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence en R+3 est située en centre-ville, à proximité immédiate des commodités et du Jardin des Plantes.\nLe bien est desservi par les transports en commun avec le réseau de bus et la gare. Accès à l’autoroute A20 (sortie 63).\n\nAppartement T3 de 88.59m² situé au 2ème étage sans ascenseur et sans parking.\n\nLogement comprenant : un cellier, une cuisine ouverte sur le séjour, un hall, deux chambres dont une avec placard, une salle de bain et un WC séparé. Consultez le plan pour découvrir l’agencement. \n\nChauffage et eau inclus dans le loyer.\n\nCe bien locatif a été entièrement remis à neuf dans le cadre du programme Action Cœur de Ville courant 2025.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 780.0,
+  "rentChargeAmount": 110.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 780.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 199.0,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

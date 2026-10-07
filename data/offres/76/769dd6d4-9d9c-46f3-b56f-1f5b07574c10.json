@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 28124,
   "guid": "769dd6d4-9d9c-46f3-b56f-1f5b07574c10",
@@ -94,5 +94,162 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 28124,
+  "guid": "769dd6d4-9d9c-46f3-b56f-1f5b07574c10",
+  "reference": "28124",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/683b706b-8bd9-4652-9015-a3a65ac03b0a/large/81eaeedd-23ad-4a84-828c-9f1c12a0cc09",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/683b706b-8bd9-4652-9015-a3a65ac03b0a/large/712fa414-1363-4363-b23d-2c21d425e3c9",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/683b706b-8bd9-4652-9015-a3a65ac03b0a/large/e88fcdae-c827-4864-8e48-d6e247ee8ffa",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/683b706b-8bd9-4652-9015-a3a65ac03b0a/large/ea5e779d-e5ce-4979-8650-a029f7bb8391",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 39469,
+   "guid": "683b706b-8bd9-4652-9015-a3a65ac03b0a",
+   "reference": "39469",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.0,
+   "municipality": {
+    "id": 4458,
+    "postcode": "13003",
+    "code": "13203",
+    "name": "Marseille 3e Arrondissement"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 8,
+    "ordering": 8,
+    "code": "IPE",
+    "label": "Individuel pompe à chaleur",
+    "commercialLabel": "Pompe à chaleur électrique individuelle non comprise dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 5981,
+   "guid": "c0a6445f-5dc7-4e3a-bfcc-d734573c0a15",
+   "reference": "5981",
+   "livingRules": "",
+   "type": {
+    "id": 3,
+    "ordering": 7,
+    "code": "RHV",
+    "label": "Résidence hôtelière à vocation sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-11-03",
+  "endDateOfPublication": "2027-01-01",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Etablissement à 3 km du Vieux-Port et à 9 km du stade Vélodrome. Vous pourrez profiter gratuitement d'une connexion Wi-Fi dans l'ensemble de l'établissement, et un parking privé est disponible sur demande. Tous les logements disposent d'une télévision à écran plat ainsi que d'une kitchenette équipée d'un micro-ondes et d'un réfrigérateur. Leur salle de bains privative est pourvue d'une douche. Le linge de lit et les serviettes de toilette sont fournis. Les Docks se trouve à 7 minutes en métro du centre commercial Les Terrasses du Port. L'aéroport le plus proche, celui de Marseille Provence, est situé à 24 km. Une caution bancaire restituable au départ vous sera demandée.\n\nNotre partenaire Résidis, vous propose une offre de logement en appart'hôtel.\n \nLes studios sont tout équipés pour vos séjours d'affaires ou de loisirs.\nServices inclus : kitchenette, accueil 24/7J petit-déjeuner buffet, transports en commun à proximité, laverie 24/7J, WiFi \nLa résidence Les Docks se trouve à à 7 minutes en métro du centre commercial Les Terrasses du Port, à 3 km du Vieux-Port et à 9 km du stade Vélodrome. \n \nLa durée du séjour peut être d’une nuit à plusieurs mois. \n \n \nTarification longue durée : 35€/ nuit dès 28 nuits consécutives.\n\n",
+  "paymentType": {
+   "id": 1,
+   "ordering": 2,
+   "code": "JNR",
+   "label": "Journalier"
+  },
+  "housingFeeBaseBound": 35.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 300.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

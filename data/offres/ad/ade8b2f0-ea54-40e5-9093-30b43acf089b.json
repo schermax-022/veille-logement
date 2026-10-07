@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 1911,
   "guid": "ade8b2f0-ea54-40e5-9093-30b43acf089b",
@@ -89,5 +89,206 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 1911,
+  "guid": "ade8b2f0-ea54-40e5-9093-30b43acf089b",
+  "reference": "1911",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/17/174478c7-7a8a-405e-b7ad-41f9ec9be497/large/e208e524-9512-46d4-b5ee-77461b8e3cc0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/17/174478c7-7a8a-405e-b7ad-41f9ec9be497/large/c8c1525a-c83e-4f75-a016-3e829ff3dd85",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/17/174478c7-7a8a-405e-b7ad-41f9ec9be497/large/97b8a3ff-b58b-4d7b-bedb-f8e4779c0c96",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/17/174478c7-7a8a-405e-b7ad-41f9ec9be497/large/95f5f7c1-205f-49a6-b69f-cea78c6f465d",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16679,
+   "guid": "174478c7-7a8a-405e-b7ad-41f9ec9be497",
+   "reference": "16679",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 27609,
+    "postcode": "69003",
+    "code": "69383",
+    "name": "Lyon 3e Arrondissement"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 198,
+   "guid": "3465595d-6e1e-4dce-b574-c596478389be",
+   "reference": "198",
+   "livingRules": " Une caution bancaire restituable au départ vous sera demandée. ",
+   "type": {
+    "id": 3,
+    "ordering": 7,
+    "code": "RHV",
+    "label": "Résidence hôtelière à vocation sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "RES",
+     "label": "Services de restauration",
+     "isIncluded": false
+    },
+    {
+     "id": 3,
+     "ordering": 4,
+     "code": "LIG",
+     "label": "Service de lingerie (location de draps et serviettes)",
+     "isIncluded": false
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 13,
+     "ordering": 14,
+     "code": "REC",
+     "label": "Réception 24H/24",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-02-23",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Notre partenaire Montempô, vous propose une offre de logement en appart'hôtel.\n\n \n\nLes studios sont tout équipés pour vos séjours d'affaires ou de loisirs.\n\nServices inclus : kitchenette, accueil 24/7J petit-déjeuner buffet, transports en commun à proximité, laverie 24/7J, WiFi gratuit, espace de co-working.\n\nLa résidence Montempô Lyon Part-Dieu est à 400 mètres de la gare de Lyon-Part-Dieu et à moins de 10 minutes de marche de nombreux cafés et restaurants.\n\n \n\nLa Résidence Montempô Lyon Part-Dieu est Idéalement située à Lyon 3ème au 30 avenue Georges Pompidou 69003 LYON, quartier de la Part-Dieu, à proximité de son centre commercial et de la gare SNCF. Nombreuses lignes de Bus, métro B, Tramway T1 et T4. \n\n \n\nLa durée du séjour peut être d’une nuit à plusieurs mois. \n\n \n\nAfin de finaliser votre demande et réserver votre studio Montempô (sous réserve de disponibilités), et bénéficier de l’offre Action logement, nous vous invitons à suivre le lien ci-dessous : \n\n \n\nhttps://www.montempo.fr/sejours/offres-appart-hotel/logement-temporaire/ \n\n \n\nTarification longue durée : 37€/ nuit dès 28 nuits consécutives.",
+  "paymentType": {
+   "id": 1,
+   "ordering": 2,
+   "code": "JNR",
+   "label": "Journalier"
+  },
+  "housingFeeBaseBound": 59.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 45.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

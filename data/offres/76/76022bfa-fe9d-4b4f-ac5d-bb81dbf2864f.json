@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 51228,
   "guid": "76022bfa-fe9d-4b4f-ac5d-bb81dbf2864f",
@@ -94,5 +94,184 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51228,
+  "guid": "76022bfa-fe9d-4b4f-ac5d-bb81dbf2864f",
+  "reference": "51228",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a0/a0f749aa-89ad-41ee-af75-3c08a7ffae6f/large/3478b6ea-d91e-4f75-a9c8-af347cf5006a",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a0/a0f749aa-89ad-41ee-af75-3c08a7ffae6f/large/1eed0ff4-ad77-4bd3-8ebf-4562e0f1688f",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a0/a0f749aa-89ad-41ee-af75-3c08a7ffae6f/large/4ba95226-1d48-48bf-8d9e-476b833bd0e5",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a0/a0f749aa-89ad-41ee-af75-3c08a7ffae6f/large/90434486-24f8-4c70-846e-3e1eb1d89f93",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a0/a0f749aa-89ad-41ee-af75-3c08a7ffae6f/large/f5631fee-86b1-42c2-9224-9de06955c61d",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a0/a0f749aa-89ad-41ee-af75-3c08a7ffae6f/large/2dc1346e-6aab-4bee-9083-065a92714ab7",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a0/a0f749aa-89ad-41ee-af75-3c08a7ffae6f/large/6e3ef87b-4afb-4c63-aff0-48e8bdd5bdd1",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a0/a0f749aa-89ad-41ee-af75-3c08a7ffae6f/large/77144980-bb12-40e2-bba9-21f8729865c5",
+    "urlContentType": "image/png",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58774,
+   "guid": "a0f749aa-89ad-41ee-af75-3c08a7ffae6f",
+   "reference": "58774",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 34.0,
+   "municipality": {
+    "id": 35056,
+    "postcode": "94260",
+    "code": "94034",
+    "name": "Fresnes"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8311,
+   "guid": "11319d81-f39e-4efc-b103-5bdf20f18f34",
+   "reference": "8311",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-06",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Le logement est idéalement situé en plein centre-ville de Fresnes (94260), à deux pas de la mairie, avec commerces et transports facilement accessibles.\n\nLe centre commercial La Cerisaie se trouve à environ 8 minutes à pied, avec de nombreuses enseignes.\n\n🚇 Transports et accès\n\n• Châtelet : environ 45 min (bus + métro 14)\n• Bibliothèque François-Mitterrand : environ 39 min (TVM + métro 14)\n• Denfert-Rochereau : environ 32 min (bus + RER B)\n• RER C : environ 15 min à pied\n• Accès rapide à l’autoroute A6\n\nStudio meublé de 34 m² avec coin nuit, offrant un espace de vie confortable et de nombreux rangements.\n\nIl se compose de :\n\n• un coin nuit avec grand dressing et de nombreux rangements ;\n• une salle de bain avec douche à l’italienne et WC suspendu ;\n• une cuisine meublée et entièrement équipée ;\n• un salon aménagé avec canapé, table basse et rangements.\n\nLe logement bénéficie ainsi d’un aménagement fonctionnel permettant de bien distinguer l’espace nuit de l’espace de vie.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 720.0,
+  "rentChargeAmount": 80.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1440.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
  "liste": {
   "id": 26714,
   "guid": "88ab2b95-8657-4bbe-9bf9-7ef4f68f5873",
@@ -94,5 +94,168 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 26714,
+  "guid": "88ab2b95-8657-4bbe-9bf9-7ef4f68f5873",
+  "reference": "26714",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d33e485-7b7c-4ebd-82c5-1e2a88832fc0/large/765a0942-7e96-4901-b157-4492de5bfbba",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d33e485-7b7c-4ebd-82c5-1e2a88832fc0/large/dc612f51-6c5e-4e53-9071-2fa00148c410",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d33e485-7b7c-4ebd-82c5-1e2a88832fc0/large/887ad184-fb60-47fc-be9d-2532f92d7bf6",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 38298,
+   "guid": "4d33e485-7b7c-4ebd-82c5-1e2a88832fc0",
+   "reference": "38298",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 11.0,
+   "municipality": {
+    "id": 29984,
+    "postcode": "76600",
+    "code": "76351",
+    "name": "Le Havre"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "COLLECTIVE",
+   "toiletType": "COLLECTIVE",
+   "bathroomType": "COLLECTIVE",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 5819,
+   "guid": "96195748-6386-4630-b020-cd244b30e40d",
+   "reference": "5819",
+   "livingRules": "Soumis à plafond de ressources.\nLocation souhaitée pour une durée minimum de 6 mois.\nEn intégrant cette colocation, il ne faut pas être occupant de deux logements du parc social.\n",
+   "type": {
+    "id": 7,
+    "ordering": 5,
+    "code": "COL",
+    "label": "Co-location meublée",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CLO",
+     "label": "Colocation"
+    }
+   ],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-12-04",
+  "endDateOfPublication": "2026-12-14",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "VOTRE COLOCATION CLE EN MAIN :\nTOUT COMPRIS : eau, électricité, chauffage, assurance habitation, internet haut débit.\nTOUT EQUIPEE : lave-linge, literie, vaisselle.\nPrès des transports en commun et commerces.\nSans frais d'agence et sans engagement de durée.\n\n\nAppartement avec espace privatif (chambre) et espace partagé (salle à manger, cuisine, salle de bain, sanitaires)\nAppartement intégralement meublé\nLe loyer comprend toutes les charges (chauffage, électricité, eau, accès internet haut débit, assurance habitation)\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 331.24,
+  "rentChargeAmount": 122.51,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 331.24,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }
