@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Veille des offres de logement-actionlogement.fr et de inli.fr
+Veille des offres de logement-actionlogement.fr, inli.fr et cdc-habitat.fr
 
-À chaque passage, pour chaque site (le détail In'li est dans inli.py) :
+À chaque passage, pour chaque site (In'li : inli.py ; CDC Habitat : cdc.py) :
   1. récupère toutes les offres publiées (API publique du site, toute la France par défaut) ;
   2. met à jour la base data/ : nouvelles offres, retraits, remises en ligne, modifications ;
   3. récupère les fiches détaillées (en priorité celles de la zone d'alerte) ;
@@ -13,7 +13,7 @@ Usage :
     python veille.py               # passage normal
     python veille.py --test-email  # envoie un exemple d'alerte avec une vraie annonce parisienne
     python veille.py --export      # régénère seulement les fichiers Excel
-    python veille.py --site inli   # un seul site (action-logement ou inli)
+    python veille.py --site inli   # un seul site (action-logement, inli ou cdc)
 """
 
 from __future__ import annotations
@@ -214,23 +214,24 @@ def _safe(label: str, fn) -> int:
 
 
 def main() -> int:
+    import cdc
     import inli
-    parser = argparse.ArgumentParser(description="Veille des offres Action Logement et In'li")
+    parser = argparse.ArgumentParser(description="Veille des offres Action Logement, In'li et CDC Habitat")
     parser.add_argument("--test-email", action="store_true", help="envoie un exemple d'alerte par site")
     parser.add_argument("--export", action="store_true", help="régénère seulement les fichiers Excel")
-    parser.add_argument("--site", choices=["tous", "action-logement", "inli"], default="tous")
+    parser.add_argument("--site", choices=["tous", "action-logement", "inli", "cdc"], default="tous")
     args = parser.parse_args()
-    if args.test_email:
-        al, il = run_test_email, inli.run_test_email
-    elif args.export:
-        al, il = run_export, inli.run_export
-    else:
-        al, il = run_check, inli.run
+    mode = "test_email" if args.test_email else "export" if args.export else "check"
+    sites = [  # (nom, choix --site, activé, {mode: fonction})
+        ("Action Logement", "action-logement", True,
+         {"check": run_check, "test_email": run_test_email, "export": run_export}),
+        ("In'li", "inli", inli.ENABLED, {"check": inli.run, "test_email": inli.run_test_email, "export": inli.run_export}),
+        ("CDC Habitat", "cdc", cdc.ENABLED, {"check": cdc.run, "test_email": cdc.run_test_email, "export": cdc.run_export}),
+    ]
     codes = []
-    if args.site in ("tous", "action-logement"):
-        codes.append(_safe("Action Logement", al))
-    if args.site in ("tous", "inli") and inli.ENABLED:
-        codes.append(_safe("In'li", il))
+    for label, key, enabled, fns in sites:
+        if args.site in ("tous", key) and enabled:
+            codes.append(_safe(label, fns[mode]))
     return max(codes or [0])
 
 

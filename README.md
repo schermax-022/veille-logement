@@ -1,7 +1,8 @@
-# Veille Action Logement et In'li — registre des offres et alertes e-mail
+# Veille Action Logement, In'li et CDC Habitat — registre des offres et alertes e-mail
 
-Deux choses, en continu, sur [logement-actionlogement.fr](https://logement-actionlogement.fr/search)
-et sur [inli.fr](https://www.inli.fr/locations/offres/) (section « In'li » plus bas) :
+Deux choses, en continu, sur [logement-actionlogement.fr](https://logement-actionlogement.fr/search),
+[inli.fr](https://www.inli.fr/locations/offres/) et [cdc-habitat.fr](https://www.cdc-habitat.fr/recherche/location)
+(sections « In'li » et « CDC Habitat » plus bas) :
 
 1. **Un registre de toutes les offres publiées** (toute la France), avec toutes les informations de chaque
    annonce, sa date de mise en ligne et sa date de retrait, consultable dans un fichier **Excel**.
@@ -57,7 +58,25 @@ In'li n'a pas d'API : le script lit directement les pages du site, de la même f
   attendues), le passage In'li est abandonné sans rien modifier. Après plusieurs échecs, vous recevez un e-mail :
   ajoutez alors la variable `USE_BROWSER` = `true`, et le script lira les pages avec un vrai navigateur.
 
-Un problème sur un site n'empêche jamais l'autre de tourner.
+## CDC Habitat
+
+CDC Habitat n'a pas d'API publique, mais sa page de résultats « Louer » contient, pour sa carte, la **liste complète**
+des logements à louer de toute la France (environ 830) : numéro de lot, loyer charges comprises, catégorie, position GPS.
+
+- **Liste** : une seule page lue à chaque passage, ce qui suffit pour repérer nouveautés et retraits.
+- **Vignette** : pour chaque logement, une seule fois, la petite fiche de la carte donne la ville, le code postal et le
+  lien de l'annonce. Pour une nouveauté, elle est lue tout de suite, avant de décider d'une alerte.
+- **Fiche détaillée** : loyer charges comprises, charges générales et de chauffage, dépôt de garantie, facture
+  d'énergie estimée, encadrement des loyers (Paris), catégorie (social, intermédiaire, loyer libre…), pièces, surface,
+  étage, équipements, année de construction, chauffage, DPE et GES, description, photos, référence, téléphone de
+  l'agence. Les fiches des logements déjà en ligne se remplissent au fil des passages (120 par passage, ceux proches
+  de la zone d'abord), soit environ 4 heures pour tout le stock.
+- **Zone d'alerte** : par code postal, mêmes villes que pour les autres sites. **Plafond** : 1 100 € charges comprises.
+- **Places de parking** : enregistrées dans l'Excel mais jamais signalées par e-mail.
+- **Données** : `data/cdc/` et Excel `offres-cdc-habitat.xlsx`, publié au même endroit que les autres.
+- E-mails envoyés au nom de « Veille CDC Habitat ».
+
+Un problème sur un site n'empêche jamais les autres de tourner.
 
 ## Format de stockage (et pourquoi)
 
@@ -174,6 +193,10 @@ pour ne plus avoir de plafond.
 | `INLI_ALERT_POSTCODES` | mêmes villes | Codes postaux de la zone In'li (`75*` = tout Paris) |
 | `INLI_MAX_DETAILS_PER_RUN` | `150` | Fiches In'li lues par passage |
 | `INLI_ENABLED` | `true` | `false` pour désactiver In'li |
+| `CDC_ALERT_MAX_RENT` | = `ALERT_MAX_RENT` | Plafond propre à CDC Habitat (charges comprises) |
+| `CDC_ALERT_POSTCODES` | mêmes villes | Codes postaux de la zone CDC Habitat (`75*` = tout Paris) |
+| `CDC_MAX_DETAILS_PER_RUN` | `120` | Logements CDC Habitat complétés (vignette + fiche) par passage |
+| `CDC_ENABLED` | `true` | `false` pour désactiver CDC Habitat |
 | `ALERT_ON_RELISTING` | `true` | E-mail aussi quand une offre retirée revient |
 | `ALERT_ON_FIRST_RUN` | `false` | E-mails dès le premier passage pour les offres déjà en ligne |
 | `SEARCH_BODY` | toute la France | Périmètre enregistré (même format que la recherche du site) |
