@@ -48,7 +48,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           # toujours partir de la toute dernière version de la base (et non de celle du moment du déclenchement)
-          ref: ${{ github.event.repository.default_branch }}
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v5
         with:
