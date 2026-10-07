@@ -1,0 +1,99 @@
+name: Veille annonces Action Logement
+
+on:
+  schedule:
+    # Toutes les 30 minutes (heure UTC). GitHub peut retarder de quelques minutes.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Que faire ?"
+        type: choice
+        default: check
+        options:
+          - check       # vérification normale
+          - test-email  # envoyer un exemple d'alerte avec une vraie annonce parisienne
+          - export      # republier le fichier Excel
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veille-action-logement
+  cancel-in-progress: false
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      MODE: ${{ inputs.mode || 'check' }}
+      EXPORT_PATH: export/offres-action-logement.xlsx
+      # Réglages facultatifs (Settings → Secrets and variables → Actions → Variables)
+      ALERT_ZONES: ${{ vars.ALERT_ZONES }}
+      SEARCH_BODY: ${{ vars.SEARCH_BODY }}
+      USE_BROWSER: ${{ vars.USE_BROWSER }}
+      MAX_DETAILS_PER_RUN: ${{ vars.MAX_DETAILS_PER_RUN }}
+      # E-mail (Settings → Secrets and variables → Actions → Secrets)
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_SECURITY: ${{ vars.SMTP_SECURITY }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Installer le navigateur (seulement si USE_BROWSER = true)
+        if: vars.USE_BROWSER == 'true'
+        run: |
+          pip install -r requirements-navigateur.txt
+          python -m playwright install --with-deps --only-shell chromium
+
+      - name: Lancer la veille
+        run: |
+          case "$MODE" in
+            test-email) python veille.py --test-email ;;
+            export)     python veille.py --export ;;
+            *)          python veille.py ;;
+          esac
+
+      - name: Sauvegarder la base des offres
+        id: save
+        if: always() && env.MODE == 'check'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if ! git diff --cached --quiet; then
+            # l'Excel n'est republié que si des offres ou l'historique ont changé (pas seulement l'heure du passage)
+            if ! git diff --cached --quiet -- data/offres data/historique.csv; then
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              msg="Veille : mise à jour des offres"
+            else
+              msg="Veille : passage sans changement"
+            fi
+            git commit -q -m "$msg"
+            git pull -q --rebase --autostash
+            git push -q
+          fi
+
+      - name: Publier le fichier Excel
+        if: always() && (steps.save.outputs.changed == 'true' || env.MODE == 'export') && hashFiles('export/offres-action-logement.xlsx') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view donnees >/dev/null 2>&1 || \
+            gh release create donnees --title "Données de la veille" \
+              --notes "Fichier Excel des offres, mis à jour automatiquement à chaque changement."
+          gh release upload donnees export/offres-action-logement.xlsx --clobber
