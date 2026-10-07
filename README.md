@@ -1,11 +1,13 @@
-# Veille Action Logement — registre des offres et alertes e-mail
+# Veille Action Logement et In'li — registre des offres et alertes e-mail
 
-Deux choses, en continu, sur [logement-actionlogement.fr](https://logement-actionlogement.fr/search) :
+Deux choses, en continu, sur [logement-actionlogement.fr](https://logement-actionlogement.fr/search)
+et sur [inli.fr](https://www.inli.fr/locations/offres/) (section « In'li » plus bas) :
 
 1. **Un registre de toutes les offres publiées** (toute la France), avec toutes les informations de chaque
    annonce, sa date de mise en ligne et sa date de retrait, consultable dans un fichier **Excel**.
-2. **Un e-mail à chaque nouvelle offre dans votre zone** : Paris (tous arrondissements), Vincennes, Saint-Mandé,
-   Boulogne-Billancourt, Issy-les-Moulineaux, Neuilly-sur-Seine, Levallois-Perret, Charenton-le-Pont, Montreuil.
+2. **Un e-mail à chaque nouvelle offre dans votre zone, à 1 100 € par mois maximum** : Paris (tous arrondissements),
+   Vincennes, Saint-Mandé, Boulogne-Billancourt, Issy-les-Moulineaux, Neuilly-sur-Seine, Levallois-Perret,
+   Charenton-le-Pont, Montreuil.
    L'e-mail reproduit l'annonce : photos, loyer et frais, caractéristiques, résidence, conditions d'accès,
    description et bouton vers la fiche.
 
@@ -34,6 +36,28 @@ Le site s'appuie sur une API publique (`api.logement-actionlogement.fr`), sans c
 Un retrait n'est **validé qu'après 2 vérifications complètes d'affilée** sans l'offre, et jamais lors d'une
 vérification où l'API a mal répondu : pas de faux retraits si le site a un raté. Si l'offre revient, c'est
 noté comme « Remise en ligne ».
+
+## In'li
+
+In'li n'a pas d'API : le script lit directement les pages du site, de la même façon qu'un visiteur.
+
+- **Liste** : `inli.fr/locations/offres/?page=1…N`, 24 annonces par page, environ 700 annonces en tout.
+  Chaque annonce est identifiée par sa référence (ex. `PRV-251606`).
+- **Fiche détaillée** : loyer charges comprises et hors charges, provisions de charges, stationnement, dépôt de
+  garantie, encadrement des loyers, pièces, chambres, surface, étage, équipements, DPE et GES, description, photos.
+  In'li n'affiche pas de date de publication : la date de mise en ligne est celle de la première détection.
+- **Zone d'alerte** : par code postal (In'li ne donne pas le code INSEE), mêmes villes qu'Action Logement.
+- **Plafond** : 1 100 € par mois **charges comprises** (le prix « cc » affiché par In'li).
+  Attention : In'li propose du logement intermédiaire, souvent plus cher. Le jour de la mise en place, aucune des 24
+  offres In'li de la zone n'était sous 1 100 €. Pour un plafond propre à In'li, ajoutez la variable
+  `INLI_ALERT_MAX_RENT` (par exemple `1300`).
+- **Données** : `data/inli/` (même organisation que pour Action Logement) et Excel `offres-inli.xlsx`, publié au
+  même endroit que l'autre.
+- **Protection anti-robots** : si le site renvoie une page presque vide au script (moins de la moitié des annonces
+  attendues), le passage In'li est abandonné sans rien modifier. Après plusieurs échecs, vous recevez un e-mail :
+  ajoutez alors la variable `USE_BROWSER` = `true`, et le script lira les pages avec un vrai navigateur.
+
+Un problème sur un site n'empêche jamais l'autre de tourner.
 
 ## Format de stockage (et pourquoi)
 
@@ -130,11 +154,26 @@ Montreuil-sur-Mer, Neuilly-sur-Seine n'est pas Neuilly-sur-Marne. `751*` couvre 
 Pour modifier la liste, ajoutez la variable `ALERT_ZONES` (onglet **Variables**), par exemple :
 `751*,94080,94067,92012,92040,92051,92044,94018,93048,94033` (ajout de Fontenay-sous-Bois).
 
+## Changer le plafond de loyer des alertes
+
+Par défaut, seules les offres dont le loyer affiché ne dépasse pas **1 100 € par mois** déclenchent un e-mail.
+C'est le montant mensuel total affiché par le site, celui que filtre son option « loyer max ». Une offre sans
+loyer indiqué déclenche quand même l'alerte, par prudence. Le registre et l'Excel, eux, gardent toutes les offres,
+quel que soit leur loyer.
+
+Pour changer le plafond, ajoutez la variable `ALERT_MAX_RENT` (onglet **Variables**), par exemple `1200`, ou `0`
+pour ne plus avoir de plafond.
+
 ## Tous les réglages
 
 | Variable | Défaut | Rôle |
 |---|---|---|
 | `ALERT_ZONES` | voir ci-dessus | Communes qui déclenchent un e-mail |
+| `ALERT_MAX_RENT` | `1100` | Loyer maximum (€/mois) pour recevoir un e-mail ; `0` = pas de plafond |
+| `INLI_ALERT_MAX_RENT` | = `ALERT_MAX_RENT` | Plafond propre à In'li (charges comprises) |
+| `INLI_ALERT_POSTCODES` | mêmes villes | Codes postaux de la zone In'li (`75*` = tout Paris) |
+| `INLI_MAX_DETAILS_PER_RUN` | `150` | Fiches In'li lues par passage |
+| `INLI_ENABLED` | `true` | `false` pour désactiver In'li |
 | `ALERT_ON_RELISTING` | `true` | E-mail aussi quand une offre retirée revient |
 | `ALERT_ON_FIRST_RUN` | `false` | E-mails dès le premier passage pour les offres déjà en ligne |
 | `SEARCH_BODY` | toute la France | Périmètre enregistré (même format que la recherche du site) |

@@ -58,8 +58,21 @@ def comparable(offer: dict) -> dict:
     return {k: v for k, v in offer.items() if k not in VOLATILE}
 
 
+def al_summary(rec: dict) -> dict:
+    """Colonnes de l'historique pour une offre Action Logement."""
+    return {
+        "reference": pick(rec, "reference") or "",
+        "ville": pick(rec, "lodging.municipality.name") or "",
+        "code_postal": pick(rec, "lodging.municipality.postcode") or "",
+        "typologie": labels(pick(rec, "lodging.lodgingTypology")) or "",
+        "loyer": fmt(pick(rec, "totalRentAmountBaseBound"), "money") or "",
+    }
+
+
 class Store:
-    def __init__(self, data_dir: Path):
+    def __init__(self, data_dir: Path, summary=None, tracked=None):
+        self.summary = summary or al_summary   # colonnes de l'historique, selon le site
+        self.tracked = tracked if tracked is not None else TRACKED
         self.dir = Path(data_dir)
         self.offers_dir = self.dir / "offres"
         self.history_path = self.dir / "historique.csv"
@@ -131,15 +144,10 @@ class Store:
 
     # -- événements -------------------------------------------------------------------
     def event(self, when: str, kind: str, rec: dict | None, details: str = "") -> None:
-        rec = rec or {}
-        rent = pick(rec, "totalRentAmountBaseBound") if rec else None
+        info = self.summary(rec) if rec else {}
         self._events.append({
-            "horodatage": when, "evenement": kind, "guid": rec.get("guid", ""),
-            "reference": pick(rec, "reference") or "" if rec else "",
-            "ville": pick(rec, "lodging.municipality.name") or "" if rec else "",
-            "code_postal": pick(rec, "lodging.municipality.postcode") or "" if rec else "",
-            "typologie": labels(pick(rec, "lodging.lodgingTypology")) or "" if rec else "",
-            "loyer": fmt(rent, "money") or "" if rec else "",
+            "horodatage": when, "evenement": kind, "guid": (rec or {}).get("guid", ""),
+            **{k: info.get(k, "") for k in ("reference", "ville", "code_postal", "typologie", "loyer")},
             "details": details,
         })
 
@@ -175,7 +183,7 @@ class Store:
         if comparable(old) == comparable(offer):
             return []
         changes = []
-        for path, label, kind in TRACKED:
+        for path, label, kind in self.tracked:
             a, b = dig(old, path), dig(offer, path)
             if a != b:
                 changes.append(f"{label} : {fmt(a, kind) or '—'} → {fmt(b, kind) or '—'}")

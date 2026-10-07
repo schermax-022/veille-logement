@@ -244,10 +244,11 @@ def _base_message(subj: str) -> EmailMessage:
     return msg
 
 
-def send_offer_alert(rec: dict, photos: list[tuple[bytes, str, str]], relisted: bool = False) -> None:
+def send_rendered(render_fn, photos: list[tuple[bytes, str, str]]) -> None:
+    """Envoie un e-mail mis en forme ; render_fn(cids) renvoie (objet, texte, html)."""
     cids = [make_msgid(domain="veille.local")[1:-1] for _ in photos]
-    text_body, html_body = render(rec, cids, relisted)
-    msg = _base_message(subject(rec, relisted))
+    subj, text_body, html_body = render_fn(cids)
+    msg = _base_message(subj)
     msg.set_content(text_body)
     msg.add_alternative(html_body, subtype="html")
     html_part = msg.get_payload()[1]
@@ -255,6 +256,10 @@ def send_offer_alert(rec: dict, photos: list[tuple[bytes, str, str]], relisted: 
         html_part.add_related(data, maintype=maintype, subtype=subtype, cid=f"<{cid}>",
                               filename=f"photo.{subtype}")
     _send(msg)
+
+
+def send_offer_alert(rec: dict, photos: list[tuple[bytes, str, str]], relisted: bool = False) -> None:
+    send_rendered(lambda cids: (subject(rec, relisted), *render(rec, cids, relisted)), photos)
 
 
 def send_simple(subj: str, body: str, link: str | None = None) -> None:

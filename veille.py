@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Veille des offres de logement-actionlogement.fr
+Veille des offres de logement-actionlogement.fr et de inli.fr
 
-À chaque passage :
+À chaque passage, pour chaque site (le détail In'li est dans inli.py) :
   1. récupère toutes les offres publiées (API publique du site, toute la France par défaut) ;
   2. met à jour la base data/ : nouvelles offres, retraits, remises en ligne, modifications ;
   3. récupère les fiches détaillées (en priorité celles de la zone d'alerte) ;
@@ -12,7 +12,8 @@ Veille des offres de logement-actionlogement.fr
 Usage :
     python veille.py               # passage normal
     python veille.py --test-email  # envoie un exemple d'alerte avec une vraie annonce parisienne
-    python veille.py --export      # régénère seulement le fichier Excel
+    python veille.py --export      # régénère seulement les fichiers Excel
+    python veille.py --site inli   # un seul site (action-logement ou inli)
 """
 
 from __future__ import annotations
@@ -23,8 +24,9 @@ import time
 
 import config
 from al_api import ApiBlocked, ApiClient, ApiError, fetch_all_offers, fetch_detail, log
-from annonce import fmt, is_in_zone, parse_dt, photo_urls, pick, title
+from annonce import fmt, is_in_zone, photo_urls, pick, title
 from stockage import Store, clean, now_iso
+from suivi import bilan, detail_queue, handle_failure, pending_alerts, reconcile
 
 
 def zone_of_offer(offer: dict) -> bool:
@@ -54,125 +56,38 @@ def wants_alert(offer: dict) -> bool:
     return ALERT_MAX_RENT is None or rent is None or rent <= ALERT_MAX_RENT
 
 
-def fmt_dt(iso: str | None) -> str:
-    dt = parse_dt(iso)
-    return dt.strftime("%d/%m/%Y %H:%M") if dt else "—"
-
-
 # -----------------------------------------------------------------------------------------
 # Passage normal
 # -----------------------------------------------------------------------------------------
-
-def handle_failure(store: Store, reason: str) -> int:
-    """Échec de récupération : on prévient une seule fois après plusieurs échecs d'affilée."""
-    n = (store.state.get("passages_vides") or 0) + 1
-    store.set_state(passages_vides=n)
-    log(f"⚠️  Aucune offre récupérée ({reason}) — {n} passage(s) en échec d'affilée.")
-    code = 0
-    if n >= config.EMPTY_ALERT_AFTER and not store.state.get("alerte_vide_envoyee"):
-        if config.EMAIL_ENABLED:
-            import alertes
-            try:
-                alertes.send_simple(
-                    "⚠️ Veille Action Logement : plus aucune offre récupérée",
-                    f"Depuis {n} vérifications, le script ne récupère plus les offres.\n\nDernière erreur : {reason}\n\n"
-                    "Si l'erreur parle d'accès refusé, ajoutez la variable USE_BROWSER = true sur GitHub.",
-                    config.SITE_BASE + "/search")
-            except Exception as exc:
-                log(f"⚠️  E-mail d'avertissement non envoyé : {exc}")
-        store.set_state(alerte_vide_envoyee=True)
-        code = 1  # un seul échec visible côté GitHub, pas un toutes les 20 minutes
-    store.save()
-    return code
-
 
 def run_check() -> int:
     store = Store(config.DATA_DIR)
     client = ApiClient()
     exit_code = 0
     changed = False
+    site = "Action Logement"
     try:
         now = now_iso()
         try:
             crawl = fetch_all_offers(client, store.state.get("taille_page"))
         except (ApiError, ApiBlocked) as exc:
-            return handle_failure(store, str(exc))
-        log(f"{len(crawl.offers)} offres récupérées sur {crawl.total} annoncées "
+            return handle_failure(store, str(exc), site, config.SITE_BASE + "/search")
+        log(f"{site} : {len(crawl.offers)} offres récupérées sur {crawl.total} annoncées "
             f"({crawl.pages} page(s), mode {client.mode}).")
         for err in crawl.errors:
             log(f"⚠️  {err}")
         if not crawl.offers:
-            return handle_failure(store, "; ".join(crawl.errors) or "liste vide")
+            return handle_failure(store, "; ".join(crawl.errors) or "liste vide", site, config.SITE_BASE + "/search")
 
-        first_run = not store.state.get("initialise")
-        counts = {"new": 0, "new_zone": 0, "new_alert": 0, "removed": 0, "relisted": 0, "modified": 0}
-
-        # 1. offres présentes
-        for guid, offer in crawl.offers.items():
-            rec = store.records.get(guid)
-            in_zone = zone_of_offer(offer)
-            alert = wants_alert(offer)
-            if rec is None:
-                store.new_record(offer, now, initial=first_run, in_zone=alert)
-                counts["new"] += 1
-                counts["new_zone"] += in_zone
-                counts["new_alert"] += alert
-                if in_zone and not alert and not first_run:
-                    log(f"Nouvelle offre dans la zone mais au-dessus de {fmt(ALERT_MAX_RENT, 'money')} : "
-                        f"pas d'alerte ({title({'liste': offer})} — {fmt(offer_rent(offer), 'money')}).")
-                continue
-            if store.update_listing(rec, offer, now):
-                counts["modified"] += 1
-            if rec["statut"] == "retiree":
-                previous = rec.get("retrait_detecte")
-                rec.update(statut="en_ligne", absences=0, absente_depuis=None, retrait_detecte=None,
-                           remises_en_ligne=(rec.get("remises_en_ligne") or 0) + 1)
-                if rec.get("fiche"):
-                    rec["fiche_statut"] = "a_rafraichir"
-                if alert and config.ALERT_ON_RELISTING:
-                    rec["alerte"] = "a_envoyer_remise"
-                store.event(now, "Remise en ligne", rec, f"retirée le {fmt_dt(previous)}")
-                store.touch(guid)
-                counts["relisted"] += 1
-            elif rec.get("absences"):
-                rec.update(absences=0, absente_depuis=None)  # absence passagère : annulée
-                store.touch(guid)
-
-        # 2. offres disparues (seulement si la liste est complète, pour éviter les faux retraits)
-        if crawl.complete:
-            for rec in store.records.values():
-                if rec["statut"] != "en_ligne" or rec["guid"] in crawl.offers:
-                    continue
-                rec["absences"] = (rec.get("absences") or 0) + 1
-                if rec["absences"] == 1:
-                    rec["absente_depuis"] = now
-                    rec["derniere_presence"] = store.state.get("dernier_passage_complet") or rec["premiere_detection"]
-                if rec["absences"] >= config.REMOVAL_CONFIRM_RUNS:
-                    rec.update(statut="retiree", retrait_detecte=rec["absente_depuis"])
-                    if rec.get("alerte", "") and str(rec["alerte"]).startswith("a_envoyer"):
-                        rec["alerte"] = "annulee_retrait"
-                    store.event(rec["absente_depuis"], "Retrait", rec,
-                                f"dernière présence le {fmt_dt(rec['derniere_presence'])}")
-                    counts["removed"] += 1
-                store.touch(rec["guid"])
-            store.set_state(dernier_passage_complet=now)
-        else:
-            log(f"⚠️  Liste incomplète ({len(crawl.offers)}/{crawl.total}) : retraits non évalués ce passage-ci.")
-
-        store.set_state(dernier_passage=now, passages_vides=0, alerte_vide_envoyee=False, taille_page=crawl.size)
-        if first_run:
-            store.set_state(initialise=True, debut_suivi=now)
-            store.event(now, "Démarrage du suivi", None, f"{len(crawl.offers)} offres déjà en ligne enregistrées")
+        # 1-2. nouvelles offres, modifications, remises en ligne, retraits
+        counts = reconcile(store, crawl.offers, now, complete=crawl.complete, total=crawl.total,
+                           in_zone=zone_of_offer, wants_alert=wants_alert,
+                           describe=lambda o: title({"liste": o}), rent_of=offer_rent, max_rent=ALERT_MAX_RENT)
+        store.set_state(taille_page=crawl.size)
 
         # 3. fiches détaillées
         fresh: dict[str, dict] = {}
-        queue = [r for r in store.records.values() if r["statut"] == "en_ligne"
-                 and (r.get("fiche") is None or r.get("fiche_statut") == "a_rafraichir")
-                 and (r.get("fiche_essais") or 0) < 3]
-        queue.sort(key=lambda r: r.get("premiere_detection") or "", reverse=True)  # plus récentes d'abord…
-        queue.sort(key=lambda r: (not str(r.get("alerte") or "").startswith("a_envoyer"), not is_in_zone(r)))
-        must = sum(1 for r in queue if str(r.get("alerte") or "").startswith("a_envoyer"))
-        budget = max(config.MAX_DETAILS_PER_RUN, must)
+        queue, budget = detail_queue(store, is_in_zone, config.MAX_DETAILS_PER_RUN)
         ok = failures_in_a_row = 0
         for rec in queue[:budget]:
             time.sleep(config.REQUEST_DELAY)
@@ -201,9 +116,7 @@ def run_check() -> int:
         changed |= store.save()
 
         # 4. alertes
-        pending = sorted((r for r in store.records.values() if r["statut"] == "en_ligne"
-                          and str(r.get("alerte") or "").startswith("a_envoyer")),
-                         key=lambda r: r["premiere_detection"])
+        pending = pending_alerts(store)
         sent = 0
         if pending and not config.EMAIL_ENABLED:
             log(f"⚠️  {len(pending)} alerte(s) en attente mais l'e-mail n'est pas configuré (SMTP_HOST, EMAIL_TO).")
@@ -236,14 +149,7 @@ def run_check() -> int:
 
         # 5. bilan et export
         online = sum(1 for r in store.records.values() if r["statut"] == "en_ligne")
-        if first_run:
-            log(f"Premier passage : {counts['new']} offres enregistrées (dont {counts['new_zone']} dans la zone), "
-                "sans alerte. Les prochaines nouveautés de la zone déclencheront un e-mail.")
-        else:
-            log(f"Bilan : {counts['new']} nouvelle(s) (dont {counts['new_zone']} dans la zone, "
-                f"{counts['new_alert']} sous le plafond de loyer), "
-                f"{counts['removed']} retrait(s), {counts['relisted']} remise(s) en ligne, "
-                f"{counts['modified']} modification(s) · {sent} alerte(s) envoyée(s) · {online} offres en ligne.")
+        bilan(site, counts, sent, online, len(crawl.offers))
         if changed or not config.EXPORT_PATH.exists():
             import export_excel
             export_excel.build(store, config.EXPORT_PATH)
@@ -296,16 +202,36 @@ def run_export() -> int:
     return 0
 
 
+def _safe(label: str, fn) -> int:
+    """Lance un site ; une panne d'un site n'empêche pas l'autre de tourner."""
+    import traceback
+    try:
+        return fn()
+    except Exception:
+        log(f"❌ {label} : erreur inattendue")
+        traceback.print_exc()
+        return 1
+
+
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Veille des offres Action Logement")
-    parser.add_argument("--test-email", action="store_true", help="envoie un exemple d'alerte")
-    parser.add_argument("--export", action="store_true", help="régénère seulement le fichier Excel")
+    import inli
+    parser = argparse.ArgumentParser(description="Veille des offres Action Logement et In'li")
+    parser.add_argument("--test-email", action="store_true", help="envoie un exemple d'alerte par site")
+    parser.add_argument("--export", action="store_true", help="régénère seulement les fichiers Excel")
+    parser.add_argument("--site", choices=["tous", "action-logement", "inli"], default="tous")
     args = parser.parse_args()
     if args.test_email:
-        return run_test_email()
-    if args.export:
-        return run_export()
-    return run_check()
+        al, il = run_test_email, inli.run_test_email
+    elif args.export:
+        al, il = run_export, inli.run_export
+    else:
+        al, il = run_check, inli.run
+    codes = []
+    if args.site in ("tous", "action-logement"):
+        codes.append(_safe("Action Logement", al))
+    if args.site in ("tous", "inli") and inli.ENABLED:
+        codes.append(_safe("In'li", il))
+    return max(codes or [0])
 
 
 if __name__ == "__main__":

@@ -2,8 +2,10 @@
 
 from __future__ import annotations
 
+from dataclasses import dataclass, field
 from datetime import date, datetime
 from pathlib import Path
+from typing import Callable
 
 from openpyxl import Workbook
 from openpyxl.cell.cell import ILLEGAL_CHARACTERS_RE
@@ -16,6 +18,26 @@ from annonce import FIELDS, PARIS, extra_fields, is_in_zone, parse_date, parse_d
 from stockage import Store
 
 FONT = "Arial"
+
+
+@dataclass
+class Profile:
+    """Ce qui change d'un site à l'autre dans le classeur."""
+    title: str
+    fields: list
+    extra_fn: Callable[[dict], dict]
+    zone_fn: Callable[[dict], bool]
+    detail_url: Callable[[str], str]
+    notes: list = field(default_factory=list)       # lignes en fin d'onglet « À propos »
+
+
+def al_profile() -> Profile:
+    return Profile(
+        title="Suivi des offres — logement-actionlogement.fr",
+        fields=FIELDS, extra_fn=extra_fields, zone_fn=is_in_zone,
+        detail_url=lambda guid: config.DETAIL_URL.format(guid=guid),
+        notes=[("Zone d'alerte (codes INSEE)", ", ".join(config.ALERT_ZONES)),
+               ("Source", f"API publique du site ({config.API_BASE}), recherche : {config.SEARCH_BODY}")])
 SECTION_FILLS = {
     "Suivi": "7A0019", "Localisation": "9C1C2E", "Loyer et frais": "B3001B", "Logement": "8A3B12",
     "Énergie": "5E4B10", "Résidence": "2F4B5E", "Conditions": "3B3B6B", "Description": "4A4A4A",
@@ -75,22 +97,26 @@ def _header(ws, columns: list[tuple[str, str, int]]) -> None:
     ws.freeze_panes = "B2"
 
 
-def _offers_sheet(ws, records: list[dict], extras: list[str]) -> None:
-    columns = [(f.label, f.section, f.width) for f in FIELDS] + [(f"Autre · {p}", "Autres champs", 18) for p in extras]
+def _offers_sheet(ws, records: list[dict], extras: list[str], profile: Profile) -> None:
+    fields = profile.fields
+    columns = [(f.label, f.section, f.width) for f in fields] + [(f"Autre · {p}", "Autres champs", 18) for p in extras]
     _header(ws, columns)
-    col = {f.label: i for i, f in enumerate(FIELDS, start=1)}
-    c_pub = get_column_letter(col["Publiée le (site)"])
+    col = {f.label: i for i, f in enumerate(fields, start=1)}
     c_det = get_column_letter(col["Mise en ligne détectée le"])
     c_ret = get_column_letter(col["Retrait détecté le"])
+    c_pub = get_column_letter(col["Publiée le (site)"]) if "Publiée le (site)" in col else None
     link_font = Font(name=FONT, size=10, color="0563C1", underline="single")
 
     for r, rec in enumerate(records, start=2):
         ws.row_dimensions[r].height = 15  # lignes compactes malgré les descriptions sur plusieurs lignes
-        for c, f in enumerate(FIELDS, start=1):
+        for c, f in enumerate(fields, start=1):
             cell = ws.cell(row=r, column=c)
             if f.kind == "formula":  # durée en ligne : depuis la publication (ou la détection) jusqu'au retrait ou à aujourd'hui
-                cell.value = (f'=IF(AND({c_pub}{r}="",{c_det}{r}=""),"",'
-                              f'INT(IF({c_ret}{r}="",NOW(),{c_ret}{r})-IF({c_pub}{r}="",{c_det}{r},{c_pub}{r})))')
+                if c_pub:
+                    cell.value = (f'=IF(AND({c_pub}{r}="",{c_det}{r}=""),"",'
+                                  f'INT(IF({c_ret}{r}="",NOW(),{c_ret}{r})-IF({c_pub}{r}="",{c_det}{r},{c_pub}{r})))')
+                else:
+                    cell.value = f'=IF({c_det}{r}="","",INT(IF({c_ret}{r}="",NOW(),{c_ret}{r})-{c_det}{r}))'
                 cell.number_format = "0"
                 continue
             raw = f.get(rec)
@@ -103,14 +129,14 @@ def _offers_sheet(ws, records: list[dict], extras: list[str]) -> None:
             if f.kind in FMT and cell.value is not None:
                 cell.number_format = FMT[f.kind]
         if extras:
-            ex = extra_fields(rec)
-            for j, path in enumerate(extras, start=len(FIELDS) + 1):
+            ex = profile.extra_fn(rec)
+            for j, path in enumerate(extras, start=len(fields) + 1):
                 if path in ex:
                     ws.cell(row=r, column=j, value=_value(ex[path], "text"))
     ws.auto_filter.ref = f"A1:{get_column_letter(len(columns))}{max(2, len(records) + 1)}"
 
 
-def _history_sheet(ws, events: list[dict]) -> None:
+def _history_sheet(ws, events: list[dict], profile: Profile) -> None:
     columns = [("Date et heure", "Suivi", 17), ("Événement", "Suivi", 15), ("Ville", "Localisation", 26),
                ("Code postal", "Localisation", 10), ("Typologie", "Logement", 9), ("Loyer", "Loyer et frais", 11),
                ("Détails", "Description", 70), ("Référence", "Références", 11), ("Lien", "Références", 12)]
@@ -125,16 +151,16 @@ def _history_sheet(ws, events: list[dict]) -> None:
             ws.cell(row=r, column=c, value=_text(ev.get(key, "")) or None)
         if ev.get("guid"):
             cell = ws.cell(row=r, column=9, value="Voir")
-            cell.hyperlink = config.DETAIL_URL.format(guid=ev["guid"])
+            cell.hyperlink = profile.detail_url(ev["guid"])
             cell.font = link_font
     ws.auto_filter.ref = f"A1:I{max(2, len(events) + 1)}"
 
 
-def _about_sheet(ws, store: Store, n_offers: int, n_zone: int, n_history: int) -> None:
+def _about_sheet(ws, store: Store, n_offers: int, n_zone: int, n_history: int, profile: Profile) -> None:
     ws.column_dimensions["A"].width = 38
     ws.column_dimensions["B"].width = 90
     bold = Font(name=FONT, bold=True, size=10)
-    title = ws.cell(row=1, column=1, value="Suivi des offres — logement-actionlogement.fr")
+    title = ws.cell(row=1, column=1, value=profile.title)
     title.font = Font(name=FONT, bold=True, size=14)
     generated = datetime.now(PARIS).replace(tzinfo=None, microsecond=0)
     debut = parse_dt(store.state.get("debut_suivi"))
@@ -150,7 +176,6 @@ def _about_sheet(ws, store: Store, n_offers: int, n_zone: int, n_history: int) -
         ("Événements dans l'historique", f"=COUNTA(Historique!A2:A{n_history + 1})", "0"),
         (None, None, None),
         ("Comment lire les dates", None, None),
-        ("Publiée le (site)", "Date de publication affichée par le site (au jour près).", None),
         ("Mise en ligne détectée le", "Première vérification où l'offre est apparue. Précision : l'intervalle entre deux "
                                       "vérifications (20 min sur GitHub, plus si GitHub est chargé).", None),
         ("Déjà en ligne au démarrage du suivi", "Oui = l'offre existait avant le premier passage : sa date de détection "
@@ -162,13 +187,14 @@ def _about_sheet(ws, store: Store, n_offers: int, n_zone: int, n_history: int) -
                                    "ou jusqu'à aujourd'hui si l'offre est encore en ligne.", None),
         ("Remises en ligne", "Nombre de fois où une offre retirée est réapparue.", None),
         (None, None, None),
-        ("Zone d'alerte (codes INSEE)", ", ".join(config.ALERT_ZONES), None),
         ("Colonnes « Autre · … »", "Champs bruts renvoyés par le site qui n'ont pas de colonne dédiée : rien n'est perdu.",
          None),
-        ("Source", f"API publique du site ({config.API_BASE}), recherche : {config.SEARCH_BODY}", None),
         ("Données de référence", "Dossier data/ (un fichier JSON par offre + historique.csv). Ce classeur est "
                                  "régénéré à partir de ces fichiers et peut être supprimé sans perte.", None),
     ]
+    if any(f.label == "Publiée le (site)" for f in profile.fields):
+        rows.insert(10, ("Publiée le (site)", "Date de publication affichée par le site (au jour près).", None))
+    rows += [(label, value, None) for label, value in profile.notes]
     for r, (label, value, number_format) in enumerate(rows, start=3):
         if label is None:
             continue
@@ -183,11 +209,12 @@ def _about_sheet(ws, store: Store, n_offers: int, n_zone: int, n_history: int) -
             a.font = Font(name=FONT, bold=True, size=11)
 
 
-def build(store: Store, path: Path) -> Path:
+def build(store: Store, path: Path, profile: Profile | None = None) -> Path:
+    profile = profile or al_profile()
     records = sorted(store.records.values(), key=_sort_key, reverse=True)
-    zone = [r for r in records if is_in_zone(r)]
+    zone = [r for r in records if profile.zone_fn(r)]
     events = store.read_history()
-    extras = sorted({p for rec in records for p in extra_fields(rec)})
+    extras = sorted({p for rec in records for p in profile.extra_fn(rec)})
 
     wb = Workbook()
     # police par défaut du classeur
@@ -196,11 +223,11 @@ def build(store: Store, path: Path) -> Path:
 
     ws = wb.active
     ws.title = "Offres"
-    _offers_sheet(ws, records, extras)
-    _offers_sheet(wb.create_sheet("Zone d'alerte"), zone, extras)
-    _history_sheet(wb.create_sheet("Historique"), events)
-    _about_sheet(wb.create_sheet("À propos"), store, len(records), len(zone), len(events))
-    ws.cell(row=1, column=[f.label for f in FIELDS].index("Durée en ligne (jours)") + 1).comment = Comment(
+    _offers_sheet(ws, records, extras, profile)
+    _offers_sheet(wb.create_sheet("Zone d'alerte"), zone, extras, profile)
+    _history_sheet(wb.create_sheet("Historique"), events, profile)
+    _about_sheet(wb.create_sheet("À propos"), store, len(records), len(zone), len(events), profile)
+    ws.cell(row=1, column=[f.label for f in profile.fields].index("Durée en ligne (jours)") + 1).comment = Comment(
         "Calculé à l'ouverture : de la publication (ou de la détection) jusqu'au retrait ou à aujourd'hui.", "Veille")
 
     wb.calculation.fullCalcOnLoad = True
