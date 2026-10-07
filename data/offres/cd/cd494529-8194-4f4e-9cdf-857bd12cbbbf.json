@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:17:18+02:00",
  "liste": {
   "id": 43424,
   "guid": "cd494529-8194-4f4e-9cdf-857bd12cbbbf",
@@ -94,5 +94,162 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 43424,
+  "guid": "cd494529-8194-4f4e-9cdf-857bd12cbbbf",
+  "reference": "43424",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/90/908f6c14-1f87-4692-99b2-4d6640b393b4/large/936dee5e-2c51-438a-b318-8b57efa24c44",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/90/908f6c14-1f87-4692-99b2-4d6640b393b4/large/ab96819a-b9d1-486e-a2df-d318820bae73",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 52466,
+   "guid": "908f6c14-1f87-4692-99b2-4d6640b393b4",
+   "reference": "52466",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 86.43,
+   "municipality": {
+    "id": 24847,
+    "postcode": "63100",
+    "code": "63113",
+    "name": "Clermont-Ferrand"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 2,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 4522,
+   "guid": "b166504e-183d-4b80-83ed-e078391c1c92",
+   "reference": "4522",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2024,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-06-30",
+  "endDateOfPublication": "2026-11-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "À CLERMONT-FERRAND, Montferrand, à proximité du site Cataroux et du Stade Marcel Michelin, dans la Résidence Les Fabriks de Mai livrée en 2024, proche des commerces et services, du tram et de nombreuses lignes de bus.\n\nÀ louer appartement comprenant : une entrée avec placard, un séjour de 19m² donnant sur un BALCON de 10m², une cuisine fermée de 6m², un cellier, trois chambres de 9m²,11m² et 15m², une salle de bains avec BAIGNOIRE de 6m², un WC indépendant. \n\n- Chauffage COLLECTIF urbain (compris dans les charges)\n- Eau froide et eau chaude comprise dans les charges (provision) \n- Deux GARAGES (inclus dans le prix)\n\nLOGEMENT DISPONIBLE DE SUITE.\n\nNB: Pas de frais d’agence. Possibilité de financer le dépôt de garantie avec l’AVANCE LOCA-PASS (toutes les infos sur notre site www.actionlogement.fr). La date limite de candidature n'est pas contractuelle, elle peut être repoussée au besoin par nos services. \n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 854.56,
+  "rentChargeAmount": 241.72,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 854.56,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

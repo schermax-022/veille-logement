@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:17:18+02:00",
  "liste": {
   "id": 32456,
   "guid": "37614cbb-2c53-48ca-b165-36b3ba4b8a6b",
@@ -94,5 +94,196 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 32456,
+  "guid": "37614cbb-2c53-48ca-b165-36b3ba4b8a6b",
+  "reference": "32456",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7a/7ac8f62f-f5f2-4661-804a-6d50450f7076/large/6773425b-4fe6-4022-a50b-1e6cad1bf13f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7a/7ac8f62f-f5f2-4661-804a-6d50450f7076/large/617065af-be64-42f4-b210-ef924cfc7dfa",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7a/7ac8f62f-f5f2-4661-804a-6d50450f7076/large/cccbfd9f-f0fe-46d8-8b4d-759a2c07974b",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7a/7ac8f62f-f5f2-4661-804a-6d50450f7076/large/451aef8b-b0a3-4a9a-92a5-1886e61827a7",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7a/7ac8f62f-f5f2-4661-804a-6d50450f7076/large/fa955510-a468-4058-83d1-55507339b772",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 43163,
+   "guid": "7ac8f62f-f5f2-4661-804a-6d50450f7076",
+   "reference": "43163",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 22453,
+    "postcode": "59800",
+    "code": "59350",
+    "name": "Lille"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 6380,
+   "guid": "dc883004-5397-4b7c-8a9e-ed106d44d297",
+   "reference": "6380",
+   "livingRules": "- La résidence est équipée d’un système de vidéosurveillance 24h/24.\n- Il est interdit de confier sa carte magnétique à un tiers.\n- Pour des raisons de sécurité, il est interdit de se réunir à plus de 4 personnes dans un studio \ndouble/twin et seuls 2 occupants peuvent y dormir.\n- La présence d’animaux est strictement interdite\n- Les appareils dangereux (gaz, résistances, multiprises non homologuées) sont interdits.\n- Il est interdit de recharger dans les chambres les trottinettes électriques ou vélos électrique",
+   "type": {
+    "id": 3,
+    "ordering": 7,
+    "code": "RHV",
+    "label": "Résidence hôtelière à vocation sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "RES",
+     "label": "Services de restauration",
+     "isIncluded": false
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-05-15",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-05-15",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Réservée au moins de 30 ans alternant ou formation pour une personne seule.\n\nLa résidence Montempô Lille Gares, située au 260 rue de la Vinaigrerie à Lille, vous accueille pour vos courts, moyens ou longs séjours lors de vos déplacements professionnels.\nIdéalement située au pied du métro Madeleine Caulier (Ligne 1), la résidence offre un accès direct aux gares Lille Flandres et Lille Europe ainsi qu’au centre-ville de Lille. Les gares sont accessibles à pied en 15 à 20 minutes, et une navette relie facilement l’aéroport à Lille Centre. Le quartier d’Euralille, le Vieux-Lille et le Grand Palais sont à proximité.\nChaque studio pour 1 ou 2 personnes comprend une kitchenette tout équipée (deux chaises, batterie de cuisine complète, un réfrigérateur, une plaque de cuisson, un micro-ondes et de la vaisselle), un espace bureau avec Wifi gratuit, une salle de bains privée et une TV écran plat.\n\nLa réception de la résidence est ouverte en permanence et le changement du linge et un nettoyage complet sont effectués toutes les deux semaines.\nDes services hôteliers à la carte (payants) sont proposés comme un petit déjeuner avec un buffet ou à emporter, une laverie avec lave-linge, sèche-linge, une table et fer à repasser accessible\n\nRésidence en construction, disponible en juin 2026\n\n\n\n",
+  "paymentType": {
+   "id": 1,
+   "ordering": 2,
+   "code": "JNR",
+   "label": "Journalier"
+  },
+  "housingFeeBaseBound": 28.44,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": null,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

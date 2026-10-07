@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:17:18+02:00",
  "liste": {
   "id": 48075,
   "guid": "629b13b9-138d-47fa-9430-5671422af24f",
@@ -94,5 +94,202 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 48075,
+  "guid": "629b13b9-138d-47fa-9430-5671422af24f",
+  "reference": "48075",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f904e2d-c947-4f8d-941d-2eb8efe7d889/large/6b9ffec4-89d1-4745-89da-d6fc8e99e016",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f904e2d-c947-4f8d-941d-2eb8efe7d889/large/1530232d-0bb5-43b6-bdba-fe7e0da5d79a",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f904e2d-c947-4f8d-941d-2eb8efe7d889/large/0f1ac12e-6c1d-4c32-a7ca-d8e026519d26",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f904e2d-c947-4f8d-941d-2eb8efe7d889/large/4a02dfdc-0eae-4e4b-b3a5-0e9dbcaa8631",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f904e2d-c947-4f8d-941d-2eb8efe7d889/large/8dadc6e7-e954-43b0-9aef-b8db4650ab0d",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f904e2d-c947-4f8d-941d-2eb8efe7d889/large/b6e11fbf-c09c-49e8-90e3-95f9f47f3f63",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f904e2d-c947-4f8d-941d-2eb8efe7d889/large/ac15c54b-b7c2-41eb-a02b-cb710c2a8981",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f904e2d-c947-4f8d-941d-2eb8efe7d889/large/f5d3b0a6-9b72-4df2-b870-74f2439947c3",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f904e2d-c947-4f8d-941d-2eb8efe7d889/large/038ee755-9b11-4749-866c-e2b496d8d645",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56200,
+   "guid": "5f904e2d-c947-4f8d-941d-2eb8efe7d889",
+   "reference": "56200",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 51.93,
+   "municipality": {
+    "id": 12629,
+    "postcode": "33270",
+    "code": "33167",
+    "name": "Floirac"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 7028,
+   "guid": "30884518-a279-449f-b7f9-5829e2690a79",
+   "reference": "7028",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-02-15",
+  "endDateOfPublication": "2027-09-01",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Dans résidence neuve au sein d'un nouveau quartier à Floirac offrant un cadre privilégié, arboré, proche commerces de proximité, bus (lignes H1, 28 et 16) et accès rapide au Pont Simone Veil,      appartement T2 neuf de  51.93 m ², au 1er étage avec ascenseur ,, séjour - cuisine ouverte aménagée et semi-équipée, 1 chambre avec placard, salle d'eau, balcon de 10m2Chauffage et eau chaude inclus dans les charges.Pas de frais d'agence.Plafond de ressources LLI.Réservé aux salariés du privé.PAS DE PLACE DE PARKING.Livraison le 8 Octobre 2026",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 690.06,
+  "rentChargeAmount": 67.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 690.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

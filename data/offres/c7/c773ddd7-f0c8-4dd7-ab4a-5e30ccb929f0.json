@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:17:18+02:00",
  "liste": {
   "id": 42889,
   "guid": "c773ddd7-f0c8-4dd7-ab4a-5e30ccb929f0",
@@ -94,5 +94,176 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 42889,
+  "guid": "c773ddd7-f0c8-4dd7-ab4a-5e30ccb929f0",
+  "reference": "42889",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7e553bb7-226a-4afe-b64e-07b75fbbb129/large/14e89991-0dc5-4da1-bf2b-746def650e5b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7e553bb7-226a-4afe-b64e-07b75fbbb129/large/03e8a0b7-edb2-4b57-b934-4b990385ae00",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7e553bb7-226a-4afe-b64e-07b75fbbb129/large/b8af5108-549d-4eed-aaa3-70efac6637e1",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7e553bb7-226a-4afe-b64e-07b75fbbb129/large/248b828c-ec85-4e01-8366-32b74465f49a",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7e553bb7-226a-4afe-b64e-07b75fbbb129/large/c923bfe0-0332-49b5-947d-59de37db10c4",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7e553bb7-226a-4afe-b64e-07b75fbbb129/large/58006656-7dc6-4f84-9699-8ecb7803d0a8",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 52002,
+   "guid": "7e553bb7-226a-4afe-b64e-07b75fbbb129",
+   "reference": "52002",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 35.0,
+   "municipality": {
+    "id": 28963,
+    "postcode": "72300",
+    "code": "72264",
+    "name": "Sablé-sur-Sarthe"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7434,
+   "guid": "9e6f8e7f-0c4f-494e-acd3-2bdf4f30f7ab",
+   "reference": "7434",
+   "livingRules": "",
+   "type": {
+    "id": 7,
+    "ordering": 5,
+    "code": "COL",
+    "label": "Co-location meublée",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "CLI",
+     "label": "Co-living"
+    }
+   ],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-06-29",
+  "endDateOfPublication": "2027-02-06",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Venez découvrir ces studios privatifs au sein d’un Co Living nouvelle génération dans une maison entièrement repensée, avec de beaux espaces communs destinés à favoriser une vie conviviale et agréable. \n\nChaque locataire bénéficie d’un véritable espace de vie individuel tout en profitant d’équipements partagés de qualité. Les studios, aménagés avec soin, offrent un niveau de confort rare en colocation : coin nuit, espace salon, bureau adapté au télétravail et salle d’eau privative moderne. Les volumes lumineux et bien agencés permettent de se sentir comme dans un véritable appartement indépendant.\nLa maison propose également des espaces communs pensés pour le bien‑être des occupants : un grand salon chaleureux, une cuisine entièrement équipée et fonctionnelle ainsi qu’une salle de sport.\nSituée en bord de Sarthe, la propriété bénéficie d’un environnement calme et verdoyant particulièrement recherché, tout en restant proche des commodités et du centre-ville de Sablé-sur-Sarthe.\nCe Co Living s’adresse idéalement à des jeunes actifs, professionnels en mobilité ou télétravailleurs à la recherche d’un cadre de vie confortable et convivial.\nUne opportunité rare sur le secteur, alliant espace, qualité et cadre privilégié.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 417.0,
+  "rentChargeAmount": 145.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 417.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 271.05,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

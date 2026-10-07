@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:17:18+02:00",
  "liste": {
   "id": 33076,
   "guid": "7a59385d-c176-4e96-a808-2c3687c27029",
@@ -94,5 +94,188 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 33076,
+  "guid": "7a59385d-c176-4e96-a808-2c3687c27029",
+  "reference": "33076",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b8/b8b0b072-a211-4000-9a3d-2369c3fa0a1a/large/e6a716a9-0967-4c58-a695-664cae081c88",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b8/b8b0b072-a211-4000-9a3d-2369c3fa0a1a/large/b2c252ab-d683-43ae-a68b-851bf716bcf8",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 43718,
+   "guid": "b8b0b072-a211-4000-9a3d-2369c3fa0a1a",
+   "reference": "43718",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 107.24,
+   "municipality": {
+    "id": 34975,
+    "postcode": "92700",
+    "code": "92025",
+    "name": "Colombes"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 10,
+    "ordering": 10,
+    "code": "7",
+    "label": "7"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": {
+    "id": 1,
+    "ordering": 1,
+    "code": "D",
+    "label": "Duplex"
+   },
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    },
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 6456,
+   "guid": "b64126f6-17be-4733-b2f1-739447d32112",
+   "reference": "6456",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-03-26",
+  "endDateOfPublication": "2026-10-16",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Dans la commune de Colombes (Allée Paul Eluard), à proximité des commerces et des transports en commun, appartement de 5 pièces d'une superficie de 107,24m² au 7ème étage.\nChauffage collectif gaz et ascenseur. La gare la plus proche est celle de : Colombes (Transilien J).\n\nL'appartement comprend : une entrée avec placard, un séjour simple, une cuisine séparée équipée, une salle d'eau, une salle de bains, deux wc séparés, un palier, une buanderie, quatre chambres avec placard, un dressing\n\nDisponibilité prévisionnelle 28 février 2026. \n\nCe logement intermédiaire est un partenariat avec une agence immobilière, mandatée pour réaliser la visite, l'état des lieux, la signature du bail et l'entrée dans les lieux.\nAucun frais d'agence ne vous sera demandé.\n\nPour accéder à ce logement, à la demande du bailleur, la composition familiale à respecter est :\n\nT5 :\n1 adulte et 5 enfants dont 4 de moins de 6 ans \n1 couple et 5 enfants dont 4 de moins de 6 ans\n1 adulte et 4 enfants dont 2 de moins de 6 ans\n1 couple et 4 enfants dont 2 de moins de 6 ans\n1 adulte et 3 enfants\n1 couple et 3 enfants\n1 adulte et 2 enfants\n1 couple et 2 enfants\n1 adulte et 1 enfant\n1 couple et 1enfant \n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1620.07,
+  "rentChargeAmount": 240.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1620.07,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

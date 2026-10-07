@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:17:18+02:00",
  "liste": {
   "id": 38118,
   "guid": "37a1cb35-cb70-49d3-9e17-d3e2114e48d3",
@@ -94,5 +94,208 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 38118,
+  "guid": "37a1cb35-cb70-49d3-9e17-d3e2114e48d3",
+  "reference": "38118",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2fa16b52-d0d1-4d6a-8536-22beca9a9615/large/d33ba648-9d97-42f2-aaf8-6dc92c1fa988",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2fa16b52-d0d1-4d6a-8536-22beca9a9615/large/b9afe9e3-ddfa-4b11-aa1a-1ef21dcdc6ac",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2fa16b52-d0d1-4d6a-8536-22beca9a9615/large/c1ab14bf-1fb1-4d14-80bf-4cb21cc436a1",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2fa16b52-d0d1-4d6a-8536-22beca9a9615/large/1df94872-d6cb-4959-8e64-19986d100901",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2fa16b52-d0d1-4d6a-8536-22beca9a9615/large/163b4923-ce65-48ba-942b-af03bc71849b",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2fa16b52-d0d1-4d6a-8536-22beca9a9615/large/bb21e374-a5fa-42f0-8615-968c91ed7041",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2fa16b52-d0d1-4d6a-8536-22beca9a9615/large/f48c6829-9087-47cc-87b1-13ea8e9ebcdf",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2fa16b52-d0d1-4d6a-8536-22beca9a9615/large/ebb21a2f-3488-4289-8d78-f6d81dfe311c",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2fa16b52-d0d1-4d6a-8536-22beca9a9615/large/b55d18a9-d6cd-4177-b21d-b6089679a9aa",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2fa16b52-d0d1-4d6a-8536-22beca9a9615/large/10058980-ae7d-4ff6-8e4f-7a1bcdfa5825",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 47949,
+   "guid": "2fa16b52-d0d1-4d6a-8536-22beca9a9615",
+   "reference": "47949",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 103.61,
+   "municipality": {
+    "id": 34974,
+    "postcode": "92110",
+    "code": "92024",
+    "name": "Clichy"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 4
+  },
+  "residency": {
+   "id": 6095,
+   "guid": "c36cf165-eab5-4fd7-aab2-4fa0d8e9886f",
+   "reference": "6095",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-04-02",
+  "endDateOfPublication": "2027-04-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Acceptation sur plan uniquement (PAS DE VISITE) T5 de 103.61. m²  au 2ème étage avec ascenseur comprenant  une entrée, 4 chambres de 12, 11.43, 9.83 et 9.16 dont deux disposent de rangements, une salle de bain et des toilettes séparées., un séjour avec cuisine ouverte et équipée de 38.93m² donnant sur un patio et un balcon,  une salle d'eau et des toilettes séparées.  Le chauffage est collectif. Une place de parking en sous-sol complète ce bien.NB : photos des logements non contractuelles, en illustration des prestations types.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1922.04,
+  "rentChargeAmount": 394.76,
+  "rentParkingAmount": 77.43,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1987.04,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

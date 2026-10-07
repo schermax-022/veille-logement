@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:17:18+02:00",
  "liste": {
   "id": 2015,
   "guid": "315404ff-cc96-4027-b028-ea9aad206404",
@@ -89,5 +89,222 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 2015,
+  "guid": "315404ff-cc96-4027-b028-ea9aad206404",
+  "reference": "2015",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/3228d9d5-18c0-4763-8d4d-9791aee76b5e/large/c3ca7513-e0f7-4da6-91fc-e325d81b7a5c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/3228d9d5-18c0-4763-8d4d-9791aee76b5e/large/4b3aceff-6ac8-42f4-b81b-4c749666506c",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/3228d9d5-18c0-4763-8d4d-9791aee76b5e/large/a8772418-1053-4396-8ca0-038bb6734227",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/3228d9d5-18c0-4763-8d4d-9791aee76b5e/large/3da2aaa1-8685-4b05-9002-dd302f229bc8",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/3228d9d5-18c0-4763-8d4d-9791aee76b5e/large/fef10f16-4c3f-45b5-ae88-df0cd4f8b4ab",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/3228d9d5-18c0-4763-8d4d-9791aee76b5e/large/7f432fd4-33c2-4822-a406-439aa8cd73a9",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/3228d9d5-18c0-4763-8d4d-9791aee76b5e/large/11ef41b6-7ccd-4433-87c8-d50c91b6154c",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/3228d9d5-18c0-4763-8d4d-9791aee76b5e/large/e19b527b-8793-480c-a40b-ee5c1fe8a73e",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/3228d9d5-18c0-4763-8d4d-9791aee76b5e/large/d324e2ff-6173-4019-80aa-f27e9351528d",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/3228d9d5-18c0-4763-8d4d-9791aee76b5e/large/c424585b-2f60-4be7-aa51-66bd4fc11dc8",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16744,
+   "guid": "3228d9d5-18c0-4763-8d4d-9791aee76b5e",
+   "reference": "16744",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 25.0,
+   "municipality": {
+    "id": 15540,
+    "postcode": "40220",
+    "code": "40312",
+    "name": "Tarnos"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "NON",
+     "label": "Pas de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1444,
+   "guid": "6da05a3c-d4af-4c19-8201-127d6dddf79b",
+   "reference": "1444",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2024-12-30",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Située à Tarnos, avenue du 1er mai, la résidence Habitat Jeunes Sud Aquitaine est accessible aux jeunes en séjours continus ou fractionnés. Elle propose 55 studios de 25 à 28 m² dont 3 logements adaptés aux personnes à mobilité réduite. Proche du centre-ville de Bayonne (7km) elle offre de nombreux gages de qualité de vie : commerces et services publics de proximité, environnement naturel proche avec les plages et la forêt landaise. Plusieurs lignes de bus desservent le quartier 7j/7, dont une qui rallie la gare de Bayonne en 20 min. Chaque logement dispose d'une kitchenette, Salle d'eau,  Coin nuit,  Bureau,  Connexion internet et TV\nDe nombreux espaces collectifs et services sont proposés au sein de la Résidence : laverie, salle multimédia, cuisine et jardin partagés, épicerie solidaire, prêt de vélos, connexion wifi gratuite\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 435.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

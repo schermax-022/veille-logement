@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:17:18+02:00",
  "liste": {
   "id": 40913,
   "guid": "c7a09d98-f1ee-4b0a-9f26-2e5aaada12f1",
@@ -94,5 +94,211 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 40913,
+  "guid": "c7a09d98-f1ee-4b0a-9f26-2e5aaada12f1",
+  "reference": "40913",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc760cae-d9f5-4d16-9b07-cdf3426e482e/large/9113f5dc-1033-4746-8569-818d6dba9ab2",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc760cae-d9f5-4d16-9b07-cdf3426e482e/large/8a449597-8c9e-43a7-aecd-ad1d39ed0ae4",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc760cae-d9f5-4d16-9b07-cdf3426e482e/large/d34e3807-2698-490f-9fcc-4098c27ec1b6",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc760cae-d9f5-4d16-9b07-cdf3426e482e/large/63916390-e682-4f38-a22b-caff03fdc72c",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc760cae-d9f5-4d16-9b07-cdf3426e482e/large/fbac7209-c6d4-47f5-8b12-824c9291fc95",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc760cae-d9f5-4d16-9b07-cdf3426e482e/large/c13da21a-3606-49cc-8d18-2a029b4daebe",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc760cae-d9f5-4d16-9b07-cdf3426e482e/large/032e0dba-d8b1-4191-bb4d-dd90278a9447",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc760cae-d9f5-4d16-9b07-cdf3426e482e/large/76cd0729-2231-429d-8c31-6977c5dec88e",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc760cae-d9f5-4d16-9b07-cdf3426e482e/large/45743cbe-fb9a-40ab-bf4d-390de4d892eb",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 50306,
+   "guid": "fc760cae-d9f5-4d16-9b07-cdf3426e482e",
+   "reference": "50306",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 88.9,
+   "municipality": {
+    "id": 20239,
+    "postcode": "54200",
+    "code": "54528",
+    "name": "Toul"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": {
+    "id": 4,
+    "ordering": 4,
+    "code": "Q",
+    "label": "Quadruplex"
+   },
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 7248,
+   "guid": "575a95f5-08cc-4180-adcd-4da4ab76d210",
+   "reference": "7248",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-08-06",
+  "endDateOfPublication": "2026-11-21",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "EN PLEIN COEUR DE VILLE !\nTOUL, rue du Général FOY, à proximité des transports en commun (bus et train), commerces et tout autres commodités, découvrez dans ce Bel immeuble de ville sur 3 étages : \n\nAppartement atypique de type T4  avec beaucoup de charme en quadruplex, entièrement rénové dans le cadre du programme Action Cœur de Ville. \nAu rez-de-chaussée : vous trouverez un salon séjour avec une belle cheminée décorative (condamnée) et cuisine équipée\nau 1er étage : une chambre avec une belle cheminée décorative (condamnée), une buanderie, et un W.C,\nau 2ème étage : une 2ème chambre avec, une salle de bain avec douche, un meuble vasque et W.C\net au 3ème étage : une 3ème chambre avec terrasse.\n\nVous bénéficierez d'une CAVE en complément.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 627.5,
+  "rentChargeAmount": 20.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 627.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

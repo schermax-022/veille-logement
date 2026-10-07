@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:17:18+02:00",
  "liste": {
   "id": 36243,
   "guid": "7a891e9a-26c8-4fed-a98e-fcb155decb37",
@@ -94,5 +94,198 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 36243,
+  "guid": "7a891e9a-26c8-4fed-a98e-fcb155decb37",
+  "reference": "36243",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f043d53-7d3d-4297-8483-43e35be3a3c5/large/7f2a0697-a1f3-43df-b7dd-2ac019929ae9",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f043d53-7d3d-4297-8483-43e35be3a3c5/large/78260d9f-9e08-4d19-bb4f-1d81f72b02f3",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f043d53-7d3d-4297-8483-43e35be3a3c5/large/6ae0b1c4-563d-4c2c-ab8c-a8313f42cc08",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f043d53-7d3d-4297-8483-43e35be3a3c5/large/744e648c-916e-454b-9a41-ed65d8cf89ec",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f043d53-7d3d-4297-8483-43e35be3a3c5/large/c747884c-dcf1-495c-a48a-c901502434f0",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f043d53-7d3d-4297-8483-43e35be3a3c5/large/56c88889-e04a-40c3-9633-553150eaa4a0",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f043d53-7d3d-4297-8483-43e35be3a3c5/large/9cef9060-54b1-472d-869e-cb386525ea9d",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 46347,
+   "guid": "5f043d53-7d3d-4297-8483-43e35be3a3c5",
+   "reference": "46347",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 71.0,
+   "municipality": {
+    "id": 30129,
+    "postcode": "76650",
+    "code": "76497",
+    "name": "Petit-Couronne"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    },
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 6797,
+   "guid": "15094116-a0b0-4d5c-b24f-9716bf7f5b81",
+   "reference": "6797",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-06-30",
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-06-30",
+  "endDateOfPublication": "2026-10-07",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Idéalement située au cœur de Petit‑Couronne, la résidence bénéficie d’un emplacement stratégique, à proximité immédiate des commerces, écoles, du conservatoire et d’un accès direct à l’A13.\nLes appartements, lumineux et confortables, disposent d’un balcon, d’une terrasse ou d’un jardin, ainsi que d’une cuisine aménagée, d’une salle d’eau équipée, de volets roulants électriques et d’un chauffage individuel électrique.\nLa résidence offre également de nombreux atouts : ascenseur, place de stationnement pour chaque logement, parking sécurisé, locaux vélos et préparation à la fibre optique.\nParfaitement connectée, elle est desservie par un réseau complet de transports en commun (bus, métro), facilitant les déplacements vers Rouen. Paris est quant à elle accessible en 1h30 en voiture.\n\nNous vous proposons un appartement T3 de 71 m², situé au 2ème étage avec ascenseur, bénéficiant d’un agréable balcon, au 68 Sente POMMERET.\nCe logement se compose d’une cuisine ouverte sur un vaste séjour lumineux de plus de 28 m², offrant un espace de vie convivial, ainsi que de 2 chambres.\nVous y trouverez également une salle d’eau moderne, équipée d’une douche et d’un WC indépendant.\n\nLivraison prévue pour juin 2026.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 728.37,
+  "rentChargeAmount": 90.78,
+  "rentParkingAmount": 30.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 728.37,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

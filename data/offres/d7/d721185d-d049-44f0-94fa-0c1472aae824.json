@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:17:18+02:00",
  "liste": {
   "id": 30295,
   "guid": "d721185d-d049-44f0-94fa-0c1472aae824",
@@ -94,5 +94,237 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 30295,
+  "guid": "d721185d-d049-44f0-94fa-0c1472aae824",
+  "reference": "30295",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/af351227-fbff-4c3c-80c0-e519122e889d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/35dd6bc3-7e29-4955-83b2-fcbee3766257",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/6140f413-0721-41bd-abe1-a1eaa8797afa",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/5f4196a8-d045-4964-aa5f-15763304b3a6",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/8d99d995-fc53-4d39-bc9a-de59637a5179",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/01e21dc8-ef2f-4621-8e26-aeffea22e363",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/e792445a-0d5c-4e33-8da2-ac91fcdb7599",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/769fe5cd-1f76-406e-949f-eeb796832b06",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/be7b7ddc-c916-49ce-a02c-c5f72c9c9b50",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/32072b01-1c30-45ea-9d9d-76d3024f73cc",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/23b33b59-fce9-4dd8-81c9-d543749440dc",
+    "urlContentType": "image/jpeg",
+    "ordering": 10,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c0be5e36-3b01-437a-9313-89bb81575e31/large/bcc6d545-ab93-41ee-89bb-032af1d38b57",
+    "urlContentType": "image/jpeg",
+    "ordering": 11,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 41327,
+   "guid": "c0be5e36-3b01-437a-9313-89bb81575e31",
+   "reference": "41327",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 79.0,
+   "municipality": {
+    "id": 15319,
+    "postcode": "40100",
+    "code": "40088",
+    "name": "Dax"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    },
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "CEL",
+     "label": "Cellier"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 6188,
+   "guid": "bda6b2bf-0c78-47ee-ac5e-b71dc7df7a4c",
+   "reference": "6188",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "VISALE"
+   ],
+   "deliveredAt": null,
+   "constructionYear": 1970,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-02-01",
+  "endDateOfPublication": "2026-10-11",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence se situe Avenue Francis Planté à 900 m du centre-ville de Dax, à proximité des commerces et services (transports en commun, hypermarché, supermarché, établissements scolaires et centre aquatique...).\nL’ensemble immobilier comprend 1 bâtiment de 2 étages avec parking en sous-sol.\n\nCe bien est présenté dans le cadre du programme Louer pour l'Emploi\nNous vous proposons un appartement meublé et équipé comprenant une entrée avec placard, cuisine ( électroménager et vaisselles), séjour avec TV, canapé et tables basses gigognes, 3 chambres (literies neuves), salle d'eau, WC sépares, cellier avec lave linge, cave et terrasse couverte avec 3 fauteuils.\n\nPrise en charge des honoraires par ACTION LOGEMENT à hauteur de 500€\nGarantie VISALE obligatoire : https://www.visale.fr/visale-pour-les-locataires/avantages/\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 840.0,
+  "rentChargeAmount": 50.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1680.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 870.0,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }
