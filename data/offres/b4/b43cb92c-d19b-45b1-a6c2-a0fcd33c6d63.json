@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T18:14:49+02:00",
  "liste": {
   "id": 49005,
   "guid": "b43cb92c-d19b-45b1-a6c2-a0fcd33c6d63",
@@ -94,5 +94,201 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 49005,
+  "guid": "b43cb92c-d19b-45b1-a6c2-a0fcd33c6d63",
+  "reference": "49005",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ecff3ed3-24af-4674-8d1b-d38d7d130660/large/980d3d27-4f1c-46c4-9e6a-f127e9d8dff7",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ecff3ed3-24af-4674-8d1b-d38d7d130660/large/596fd20b-baf7-4110-b5f5-22915d2acab8",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ecff3ed3-24af-4674-8d1b-d38d7d130660/large/fef0c12b-225f-49be-a535-a9a8d457f5ba",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ecff3ed3-24af-4674-8d1b-d38d7d130660/large/280b96b5-a26f-4ac0-9deb-b8214c447de6",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ecff3ed3-24af-4674-8d1b-d38d7d130660/large/d670c162-d2f8-4ab5-840b-bfc8a544c0bd",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ecff3ed3-24af-4674-8d1b-d38d7d130660/large/bee824ff-b99e-4887-9fc0-6bf171a65756",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ecff3ed3-24af-4674-8d1b-d38d7d130660/large/e55a4cc6-661d-4647-9775-84a9307752d7",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ecff3ed3-24af-4674-8d1b-d38d7d130660/large/941985ef-d0a7-470e-a9fe-47d514f1dea1",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ecff3ed3-24af-4674-8d1b-d38d7d130660/large/64e498d6-b250-46b0-ab99-88f941e95211",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ecff3ed3-24af-4674-8d1b-d38d7d130660/large/493811b5-ad7a-4313-b262-9b21eca0652d",
+    "urlContentType": "image/png",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56937,
+   "guid": "ecff3ed3-24af-4674-8d1b-d38d7d130660",
+   "reference": "56937",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.43,
+   "municipality": {
+    "id": 26651,
+    "postcode": "67400",
+    "code": "67218",
+    "name": "Illkirch-Graffenstaden"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 3383,
+   "guid": "393cfd28-a203-4e02-a9d1-8dbe96e75d4d",
+   "reference": "3383",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-09-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "A LOUER – Sans frais d’agence ni honoraires - ILLKIRCH proximité tram Lixenbuhl - F2 de 46 m² au dernier étage avec ascenseur - Entrée - Espace séjour cuisine ouverte (non équipée) - Accès terrasse - Chambre de 13 m² - SDB attenante avec douche - WC séparé. Parking en sous-sol inclus. Chauffage et eau chaude collectif gaz. Photos logement similaire.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 659.0,
+  "rentChargeAmount": 110.0,
+  "rentParkingAmount": 54.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 713.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

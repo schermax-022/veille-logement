@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T18:14:49+02:00",
  "liste": {
   "id": 46686,
   "guid": "65fa5594-0d9c-4758-993c-80d005cd7556",
@@ -94,5 +94,177 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 46686,
+  "guid": "65fa5594-0d9c-4758-993c-80d005cd7556",
+  "reference": "46686",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/69/69fdeac8-0362-47df-a235-e791ced8cba9/large/95577fe8-fd2e-4bfe-8f67-c16f099d62f1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/69/69fdeac8-0362-47df-a235-e791ced8cba9/large/d02cba9b-2b0f-4611-ba4e-5b2c431f7a48",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/69/69fdeac8-0362-47df-a235-e791ced8cba9/large/b4db6b9b-550a-44c0-9b71-cf034a2f0073",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 55075,
+   "guid": "69fdeac8-0362-47df-a235-e791ced8cba9",
+   "reference": "55075",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 72.77,
+   "municipality": {
+    "id": 16849,
+    "postcode": "45000",
+    "code": "45234",
+    "name": "Orléans"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": {
+    "id": 1,
+    "ordering": 1,
+    "code": "D",
+    "label": "Duplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    },
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 7850,
+   "guid": "8adaa42c-6ada-4965-8ed5-875dbc2bb201",
+   "reference": "7850",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-11-16",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-16",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence de 28 appartements conçue pour allier confort et praticité, \nsituée boulevard Marie Stuart 45000 ORLEANS\n\nChaque logement dispose d'une cuisine aménagée et semi-équipée.\nLa résidence offre des prestations de qualité avec ascenseur, local vélos, parking souterrain et chauffage individuel au gaz. \nDes toitures végétalisées participent à un cadre de vie agréable et durable.\nLes cuisines sont équipées d’une plaque à induction, d’un four et d’une hotte.\n\nA proximité des transports, commerces et services : \nTram B - arrêt Droits de l’Homme : 1 minute à pied\nGare d’Orléans : 20 minutes à pied ou 6 minutes en tramway\nCommerces de proximité (boulangerie, épicerie, pharmacie, tabac...) : 5 minutes à pied \nCentre Commercial Place d’Arc et centre ville d’Orléans : 20 minutes à pied\nMaison de santé : 5 minutes à pied\nEcole Marie Stuart (maternelle & primaire) : 5 minutes à pied\n\nAppartement T3 en duplex (rez de chaussée et 1er étage)\nd'une superficie de 72,77 m² \navec jardin et terrasse\n\nau rez de chaussée : \nCuisine ouverte sur Séjour : 30,43 m²\nSalle d'eau / WC : 5,65 m²\nCellier : 1,08 m²\nJardin privatif : 135,70 m²\n\nà l'étage : \nChambre 1 : 11,43 m²\nChambre 2 : 11,60 m² avec placard intégré\nSalle de bains / WC : 6,56 m²\n\nPossibilité de louer une place de parking en sous sol : 40 € par mois",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 741.9,
+  "rentChargeAmount": 80.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": 25.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

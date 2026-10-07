@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T18:14:49+02:00",
  "liste": {
   "id": 6464,
   "guid": "e14c9537-e62b-4f81-bde0-c265e1f82baa",
@@ -89,5 +89,190 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 6464,
+  "guid": "e14c9537-e62b-4f81-bde0-c265e1f82baa",
+  "reference": "6464",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/82/827c6623-df7c-4ed9-bf4e-b8c7dd720118/large/afffe1b9-e8b3-41e8-a1a2-bf9d83c69a9b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/82/827c6623-df7c-4ed9-bf4e-b8c7dd720118/large/1b51b628-a0f5-4284-b929-877daadaf9e5",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/82/827c6623-df7c-4ed9-bf4e-b8c7dd720118/large/ceb7aedb-f974-43f7-9d4e-ecced76ded2d",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/82/827c6623-df7c-4ed9-bf4e-b8c7dd720118/large/de9b1abb-b641-45ce-886a-6ecf539ccd54",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/82/827c6623-df7c-4ed9-bf4e-b8c7dd720118/large/e1bfae7c-e71b-4d30-bb7d-9c34a3c1ceb8",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/82/827c6623-df7c-4ed9-bf4e-b8c7dd720118/large/ef9da32a-5ed6-4596-9560-714f7463e349",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/82/827c6623-df7c-4ed9-bf4e-b8c7dd720118/large/13048c97-d2cb-4db8-9f4a-cfa363fb00e5",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 20089,
+   "guid": "827c6623-df7c-4ed9-bf4e-b8c7dd720118",
+   "reference": "20089",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 92.0,
+   "municipality": {
+    "id": 11963,
+    "postcode": "31500",
+    "code": "31555",
+    "name": "Toulouse"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": null,
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2705,
+   "guid": "e03204d6-7c69-47f7-8193-35fd491e79fa",
+   "reference": "2705",
+   "livingRules": "",
+   "type": {
+    "id": 11,
+    "ordering": 8,
+    "code": "RM",
+    "label": "Résidence mobilité",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2024-11-01",
+   "constructionYear": 2024,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-03-03",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "La résidence « Cyméa» est située au cœur d’un quartier convivial et pavillonnaire; lieu de vie paisible et confortable, entouré d’un écrin de nature. \nCette résidence sécurisée de standing offre 12 appartements de type 4 et 5 avec de très belles terrasses. \nCes logements sont meublés et équipés. \nConçus pour accueillir par exemple des salariés et leurs familles arrivant sur la région Toulousaine pour une mission de courte à moyenne durée ou pour faciliter les démarches dans une recherche d’un logement pérenne.  \nLogements tout confort avec :\n- Cuisine équipée\n- Volets roulants électriques\n- Dressings aménagés\n- Internet de qualité, prises RJ45 dans chaque pièce à vivre et dans les chambres\n- Logement connecté et intelligent : programmation et pilotage de tous les équipements \nconnectés de votre logement depuis votre smartphone.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1485.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

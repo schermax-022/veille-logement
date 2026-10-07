@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T18:14:49+02:00",
  "liste": {
   "id": 30348,
   "guid": "a00e6781-e23d-4f1d-948a-947201f1b7ec",
@@ -94,5 +94,168 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 30348,
+  "guid": "a00e6781-e23d-4f1d-948a-947201f1b7ec",
+  "reference": "30348",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/26/268ff4e4-52f6-4efd-9ed1-15563e2cdc75/large/8d810116-4198-40fc-9ab1-c0a0d8d0517f",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/26/268ff4e4-52f6-4efd-9ed1-15563e2cdc75/large/c6abefa8-d38e-44ed-9e58-93396947d43e",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/26/268ff4e4-52f6-4efd-9ed1-15563e2cdc75/large/a01dfb7e-b47e-4a6e-975c-290f2f6a5ea1",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 41368,
+   "guid": "268ff4e4-52f6-4efd-9ed1-15563e2cdc75",
+   "reference": "41368",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 83.0,
+   "municipality": {
+    "id": 27596,
+    "postcode": "69800",
+    "code": "69290",
+    "name": "Saint-Priest"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 2,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 4
+  },
+  "residency": {
+   "id": 6144,
+   "guid": "d4d2226a-8ba6-40dd-9c27-e93c869010ce",
+   "reference": "6144",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-04-01",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-04-01",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence neuve TERRE DE JADE située rue de l’Egalité – Saint-Priest\n\nA proximité des centres commerciaux de Saint-Priest et de la ZAC du Champ du Pont. \nLes établissements scolaires sont à proximité, accessible de la résidence en 10min à pied.\n\nAccès immédiat au périphérique, idéal pour rejoindre Lyon rapidement.\nLes transports en commun sont à deux pas : Tram T2, lignes de bus C25, 93, 76, 62, 50.\nAccès autoroutes A43 et A46 en moins de 10min.\n\n\nAppartement au 1er étage comprenant une entrée, une cuisine équipée et meublée ouverte sur un séjour et donnant sur un balcon, 3 chambres dont une avec dressing et salle d'eau, une salle de bains et un WC séparé. (plan non contractuel) .\n\nLe logement est disponible à partir du 01/04/2026 (sous réserve de la fin des travaux). \n\nLe loyer comprend les charges générales, deux places de stationnements en sous-sol.  \nLe chauffage est individuel au gaz tout comme la production d’eau chaude et d’eau froide. \n\nMerci de situer l’environnement avant un éventuel positionnement. \n\nLa date limite de dépôt des candidatures n'est pas contractuelle. \n\nPour votre sécurité nous vous rappelons qu’il est formellement interdit de rentrer sur les chantiers.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 850.0,
+  "rentChargeAmount": 125.0,
+  "rentParkingAmount": 90.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 940.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

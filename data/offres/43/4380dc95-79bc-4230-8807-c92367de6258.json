@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T18:14:49+02:00",
  "liste": {
   "id": 42840,
   "guid": "4380dc95-79bc-4230-8807-c92367de6258",
@@ -94,5 +94,224 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 42840,
+  "guid": "4380dc95-79bc-4230-8807-c92367de6258",
+  "reference": "42840",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/8e627f04-f60c-4e55-ab77-1d6e47726dc0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/fc0f0f3f-4aee-49d3-a1c6-63934241e5d2",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/2439c977-2a3f-445e-b866-f695690f861f",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/63c4ea6a-f036-4ff9-a4f4-7d2a47739f47",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/0df0501b-49aa-451f-ada9-af950520005b",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/8e1e480f-618d-4287-ba9e-d3183bb2fd3f",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/fe87a457-3be9-48ca-80e2-f3d8af582a1e",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/70afb2fa-9e2e-44a9-a0d2-c3b0e0bf0fb0",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/be809a4b-ea15-4a6c-b452-ecd8ae289d6e",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/a08b86aa-1604-48e1-95be-75e4ce02ad29",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/67c2b8aa-f060-4cf0-95ab-85612aba4856",
+    "urlContentType": "image/jpeg",
+    "ordering": 10,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4d/4d7df271-3d6b-443b-9497-8ba749862be9/large/71419c49-fc06-4e79-b4a3-61e146513369",
+    "urlContentType": "image/jpeg",
+    "ordering": 11,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 51993,
+   "guid": "4d7df271-3d6b-443b-9497-8ba749862be9",
+   "reference": "51993",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 84.0,
+   "municipality": {
+    "id": 16522,
+    "postcode": "44300",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 7431,
+   "guid": "6fe9bf03-217e-42b0-a2ec-dd0f50b2deed",
+   "reference": "7431",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "VISALE"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-01",
+  "endDateOfPublication": "2026-10-07",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé au cœur du quartier recherché de l’Eraudière, au sein de la résidence récente ALVÉA - ALCIMA , livrée en 2020,  implantée dans un environnement calme et verdoyant, la résidence bénéficie d’une conception contemporaine au sein du programme des Marsauderies, reconnu pour sa qualité architecturale et ses nombreux services.\n\nSuperbe appartement lumineux et parfaitement agencé, offrant un cadre de vie agréable et confortable. Vous serez immédiatement séduit par sa spacieuse pièce de vie, baignée de lumière, ouverte sur une cuisine aménagée, idéale pour recevoir et partager des moments conviviaux. L’espace nuit propose trois belles chambres toutes dotées de placards, parfaites pour une famille ou un espace télétravail. Une salle de bains moderne avec douche ainsi que des WC séparés, viennent compléter ce bien. Côté extérieur, vous profiterez d’une agréable terrasse, idéale pour vos moments de détente. Les prestations sont complétées par un cellier privatif sur le palier (rare et pratique), un garage sécurisé en sous-sol et un local à vélos dans les parties communes.\nUn bien alliant confort, fonctionnalité et qualité de vie, à découvrir sans tarder !\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 969.0,
+  "rentChargeAmount": 210.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 969.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 599.67,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

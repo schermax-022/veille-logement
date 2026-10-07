@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T18:14:49+02:00",
  "liste": {
   "id": 49873,
   "guid": "e121485e-9f77-468f-ad33-f0a5fddf2d56",
@@ -89,5 +89,175 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 49873,
+  "guid": "e121485e-9f77-468f-ad33-f0a5fddf2d56",
+  "reference": "49873",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f0/f0f0928c-21c4-49cd-a833-c0f6ed47a981/large/1b2491a4-1498-4957-a1e9-94b37fd2d806",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f0/f0f0928c-21c4-49cd-a833-c0f6ed47a981/large/aabfaf1b-8735-42a8-832c-e27f28d4aab2",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f0/f0f0928c-21c4-49cd-a833-c0f6ed47a981/large/46385771-d307-4612-899e-c58169f31965",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f0/f0f0928c-21c4-49cd-a833-c0f6ed47a981/large/7de69e00-7213-47fa-b135-8c6dec22bdfb",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f0/f0f0928c-21c4-49cd-a833-c0f6ed47a981/large/81bf3093-ff8c-468b-bc23-b95df0007e8e",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f0/f0f0928c-21c4-49cd-a833-c0f6ed47a981/large/476423e2-ca57-4710-a701-84cabdc69c16",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57633,
+   "guid": "f0f0928c-21c4-49cd-a833-c0f6ed47a981",
+   "reference": "57633",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.0,
+   "municipality": {
+    "id": 16849,
+    "postcode": "45000",
+    "code": "45234",
+    "name": "Orléans"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8020,
+   "guid": "03ffebd7-7498-4376-b691-8dc19be36759",
+   "reference": "8020",
+   "livingRules": "",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-10-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-01",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence NEUVE pour les jeunes actifs ou étudiants en alternance de 18 à 30 ans. - \nLa résidence est composée  de 29 logements individuels, un local vélos, une laverie, un jardin partagé. \nDe plus tous les résident(e)s auront accès à l’ensemble des services de l’association dispensés au 29, rue du Colombier, adresse de la résidence sociale Colombier, située à 569 m de distance : restauration, animations collectives et activités de loisirs. \nLa résidence propose également un accès à Internet en Wi-Fi ou en filaire, un local avec des prises électriques sécurisées permettant la recharge électrique des deux roues en toute sécurité.\n\n\nAppartement T2 meublé, lit  une place, table, chaises, bureau, placard-penderie,  Kitchenette avec plaques de cuisson, frigo, meuble cuisine, \nconvention APL, toutes charges incluses\nRésidence qui sera livrée en Octobre 2026, proche toutes commodités et transports.\nToutes charges incluses dont chauffage - Frais d'inscription et cotisation pour 24€\nPossibilité de bénéficier des services de la résidence du 29 rue du Colombier\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 605.15,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 621.15,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }
