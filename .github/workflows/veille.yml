@@ -3,6 +3,7 @@ name: Veille annonces Action Logement
 on:
   schedule:
     # Toutes les 30 minutes (heure UTC). GitHub peut retarder de quelques minutes.
+    # Dépôt public : vous pouvez passer à "*/20 * * * *".
     - cron: "*/30 * * * *"
   workflow_dispatch:
     inputs:
@@ -45,6 +46,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          # toujours partir de la toute dernière version de la base (et non de celle du moment du déclenchement)
+          ref: ${{ github.event.repository.default_branch }}
 
       - uses: actions/setup-python@v5
         with:
@@ -84,8 +88,18 @@ jobs:
               msg="Veille : passage sans changement"
             fi
             git commit -q -m "$msg"
-            git pull -q --rebase --autostash
-            git push -q
+            # si un autre passage a enregistré entre-temps, on garde la version la plus récente (la nôtre)
+            for essai in 1 2 3; do
+              if git pull -q --rebase -X theirs && git push -q; then
+                break
+              fi
+              git rebase --abort 2>/dev/null || true
+              if [ "$essai" = 3 ]; then
+                echo "::error::Impossible d'enregistrer la base après 3 essais"
+                exit 1
+              fi
+              sleep 10
+            done
           fi
 
       - name: Publier le fichier Excel
