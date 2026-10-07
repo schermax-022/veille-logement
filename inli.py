@@ -544,7 +544,8 @@ def render(rec: dict, cids: list[str], relisted: bool = False) -> tuple[str, str
 
     rent = rent_cc(rec)
     city = city_label(rec)
-    bits = [f"{rooms(rec)} pièces" if rooms(rec) else None, fmt(area(rec), "area"),
+    n = rooms(rec)
+    bits = [f"{n} pièce{'s' if isinstance(n, int) and n > 1 else ''}" if n else None, fmt(area(rec), "area"),
             f"{fmt(rent, 'money')}/mois cc" if rent else None]
     prefix = "🔁 In'li · de nouveau en ligne" if relisted else "🏠 In'li · nouvelle annonce"
     subj = f"{prefix} · {city} · " + " · ".join(b for b in bits if b)
@@ -659,7 +660,7 @@ def photo_urls(rec: dict) -> list[str]:
 def send_alert(client: HtmlClient, rec: dict, relisted: bool = False) -> None:
     import alertes
     photos = alertes.download_photos(client, photo_urls(rec))
-    alertes.send_rendered(lambda cids: render(rec, cids, relisted), photos)
+    alertes.send_rendered(lambda cids: render(rec, cids, relisted), photos, sender_name="Veille In'li")
 
 
 # -----------------------------------------------------------------------------------------
@@ -763,7 +764,7 @@ def run_test_email() -> int:
         _, _, offers = parse_list_page(client.get(BASE + LIST_PATH + "paris_d:75/"))
         if not offers:
             alertes.send_simple("Test — Veille In'li", "Les e-mails fonctionnent 👍 (aucune annonce In'li à Paris "
-                                "pour illustrer l'alerte).", BASE + LIST_PATH)
+                                "pour illustrer l'alerte).", BASE + LIST_PATH, sender_name="Veille In'li")
             return 0
         offer = next(iter(offers.values()))
         data, _ = fetch_detail(client, offer["url"])

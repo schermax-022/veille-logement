@@ -30,7 +30,7 @@ def handle_failure(store: Store, reason: str, site: str, site_url: str) -> int:
                     f"Depuis {n} vérifications, le script ne récupère plus les offres de {site}.\n\n"
                     f"Dernière erreur : {reason}\n\n"
                     "Si l'erreur parle d'accès refusé ou de page vide, ajoutez la variable USE_BROWSER = true sur GitHub.",
-                    site_url)
+                    site_url, sender_name=f"Veille {site}")
             except Exception as exc:
                 log(f"⚠️  E-mail d'avertissement non envoyé : {exc}")
         store.set_state(alerte_vide_envoyee=True)

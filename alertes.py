@@ -233,22 +233,23 @@ def _send(msg: EmailMessage) -> None:
         s.send_message(msg, to_addrs=config.EMAIL_TO)
 
 
-def _base_message(subj: str) -> EmailMessage:
+def _base_message(subj: str, sender_name: str = "Veille Action Logement") -> EmailMessage:
     sender = config.EMAIL_FROM
     msg = EmailMessage()
     msg["Subject"] = subj
-    msg["From"] = formataddr(("Veille Action Logement", sender)) if "<" not in sender else sender
+    msg["From"] = formataddr((sender_name, sender)) if "<" not in sender else sender
     msg["To"] = ", ".join(config.EMAIL_TO)
     msg["Date"] = formatdate(localtime=True)
     msg["Message-ID"] = make_msgid(domain=(sender.rsplit("@", 1)[-1].strip("> ") or "veille.local"))
     return msg
 
 
-def send_rendered(render_fn, photos: list[tuple[bytes, str, str]]) -> None:
+def send_rendered(render_fn, photos: list[tuple[bytes, str, str]],
+                  sender_name: str = "Veille Action Logement") -> None:
     """Envoie un e-mail mis en forme ; render_fn(cids) renvoie (objet, texte, html)."""
     cids = [make_msgid(domain="veille.local")[1:-1] for _ in photos]
     subj, text_body, html_body = render_fn(cids)
-    msg = _base_message(subj)
+    msg = _base_message(subj, sender_name)
     msg.set_content(text_body)
     msg.add_alternative(html_body, subtype="html")
     html_part = msg.get_payload()[1]
@@ -262,8 +263,8 @@ def send_offer_alert(rec: dict, photos: list[tuple[bytes, str, str]], relisted: 
     send_rendered(lambda cids: (subject(rec, relisted), *render(rec, cids, relisted)), photos)
 
 
-def send_simple(subj: str, body: str, link: str | None = None) -> None:
-    msg = _base_message(subj)
+def send_simple(subj: str, body: str, link: str | None = None, sender_name: str = "Veille Action Logement") -> None:
+    msg = _base_message(subj, sender_name)
     msg.set_content(body + (f"\n\n{link}" if link else ""))
     msg.add_alternative(
         f'<!doctype html><html lang="fr"><body style="font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,'
