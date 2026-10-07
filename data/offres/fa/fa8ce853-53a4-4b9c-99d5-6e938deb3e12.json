@@ -1,0 +1,98 @@
+{
+ "guid": "fa8ce853-53a4-4b9c-99d5-6e938deb3e12",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 51015,
+  "guid": "fa8ce853-53a4-4b9c-99d5-6e938deb3e12",
+  "reference": "51015",
+  "residency": {
+   "id": 673,
+   "guid": "4c62a131-9cbb-41d2-8b95-ff2eea805f73",
+   "reference": "673",
+   "name": "NANTES FONDERIES RS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 44997,
+   "guid": "8efca971-29a1-48c1-927a-39d71c1739a9",
+   "reference": "44997",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 34.0,
+   "municipality": {
+    "id": 16521,
+    "postcode": "44200",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 592.56,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-02",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8efca971-29a1-48c1-927a-39d71c1739a9/medium/e4ba4cc5-cc21-4f06-a243-a97f749a2935",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence se situe au sein du quartier Fonderie. Le jardin des Fonderies et la coulée verte s'ouvrent sur des espaces verts. Ce site jouit d'une implantation urbaine stratégique, à proximité des transports.\nLes résidents bénéficient d'un accompagnement sociale qui s'appuie sur des dispositifs de droit commun, des conventions partenariales, des associations de quartier et du personnel de proximité.\nAppartement meublé et équipé disponible le 31 Octobre 2026",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

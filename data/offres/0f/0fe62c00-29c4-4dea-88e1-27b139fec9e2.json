@@ -1,0 +1,98 @@
+{
+ "guid": "0fe62c00-29c4-4dea-88e1-27b139fec9e2",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 36543,
+  "guid": "0fe62c00-29c4-4dea-88e1-27b139fec9e2",
+  "reference": "36543",
+  "residency": {
+   "id": 6837,
+   "guid": "7618c1cc-009f-4d09-a006-76c4a8c4503f",
+   "reference": "6837",
+   "name": "ATRIUM LOURDES",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 46626,
+   "guid": "7f63e134-b0a2-4d0f-9e29-574631bea0e8",
+   "reference": "46626",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 26029,
+    "postcode": "65100",
+    "code": "65286",
+    "name": "Lourdes"
+   },
+   "description": "Logement confortable et meublé composé d'une pièce à vivre, d'une kitchenette et d'une salle de bain."
+  },
+  "availableAt": "2026-04-07",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 400.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-07",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7f/7f63e134-b0a2-4d0f-9e29-574631bea0e8/medium/12b320f7-6512-49a6-b6e3-cb7832158083",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence Habitat Jeunes ouverte en mars 2026 située au centre ville de Lourdes proche des Halles.\nDestinée à un public de 16 à 30 ans exerçant une activité professionnelle.\nLogement confortable et meublé, il est composé d'une pièce à vivre, d'une kitchenette et d'une salle de bain.\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

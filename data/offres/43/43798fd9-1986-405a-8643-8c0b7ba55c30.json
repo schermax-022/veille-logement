@@ -1,0 +1,93 @@
+{
+ "guid": "43798fd9-1986-405a-8643-8c0b7ba55c30",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 51152,
+  "guid": "43798fd9-1986-405a-8643-8c0b7ba55c30",
+  "reference": "51152",
+  "residency": {
+   "id": 2181,
+   "guid": "e310b75d-f695-4f63-a903-4a7dd4441301",
+   "reference": "2181",
+   "name": "RESIDENCE HABITAT JEUNES \"LOIRE NATURE\"",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58722,
+   "guid": "5517990e-9a64-43c8-a187-f1a655e5f17b",
+   "reference": "58722",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 40.0,
+   "municipality": {
+    "id": 14053,
+    "postcode": "37130",
+    "code": "37123",
+    "name": "Langeais"
+   },
+   "description": "T1 meublé de 40 m² \nkitchenette avec plaques électriques et frigo, \ntable et chaisees, clic clac double "
+  },
+  "availableAt": "2026-10-05",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 513.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-05",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/55/5517990e-9a64-43c8-a187-f1a655e5f17b/medium/af645b02-af69-4f6c-b2fa-ffbe6ab2a858",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "T1 meublé de 40 m² \nkitchenette avec plaques électriques et frigo, \ntable et chaisees, clic clac double \n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

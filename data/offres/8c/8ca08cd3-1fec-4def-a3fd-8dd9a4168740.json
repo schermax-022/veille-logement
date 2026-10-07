@@ -1,0 +1,98 @@
+{
+ "guid": "8ca08cd3-1fec-4def-a3fd-8dd9a4168740",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 51166,
+  "guid": "8ca08cd3-1fec-4def-a3fd-8dd9a4168740",
+  "reference": "51166",
+  "residency": {
+   "id": 389,
+   "guid": "0582d30d-5064-4ef9-b951-77be1a6aef5b",
+   "reference": "389",
+   "name": "DIJON FONTAINE D'OUCHE",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58734,
+   "guid": "2b96a6d8-56ef-4403-8fe8-c98f3751f5c9",
+   "reference": "58734",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 28.82,
+   "municipality": {
+    "id": 6895,
+    "postcode": "21000",
+    "code": "21231",
+    "name": "Dijon"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-30",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 620.51,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-07",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2b/2b96a6d8-56ef-4403-8fe8-c98f3751f5c9/medium/16054f32-1024-4e07-8e1d-4d05bd606fc1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "04 avenue du lac Résidence intégralement réhabilitée, proche tous commerces et transports en commun (ligne de bus 3). Les logements individuels meublés (lit, table chevet, table + chaise , meuble TV– kitchenette équipée plaques électriques+ frigo) se trouvent dans à proximité de toutes les commodités. Des commerces de quartier sont facilement accessibles à pied. De nombreux services sont mis à disposition des résidents : laverie automatique, lingerie, salle multi usage\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,98 @@
+{
+ "guid": "db3de65e-d797-47d6-8027-e3f243601a0b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 51323,
+  "guid": "db3de65e-d797-47d6-8027-e3f243601a0b",
+  "reference": "51323",
+  "residency": {
+   "id": 349,
+   "guid": "193f70a2-8315-4004-a9eb-82489b5f7cef",
+   "reference": "349",
+   "name": "CHAMPIGNY GAITE",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58823,
+   "guid": "d09d2b0a-cb30-4397-a1cb-e9df5fc9439f",
+   "reference": "58823",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 14.74,
+   "municipality": {
+    "id": 35049,
+    "postcode": "94500",
+    "code": "94017",
+    "name": "Champigny-sur-Marne"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-13",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 468.91,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-07",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d0/d09d2b0a-cb30-4397-a1cb-e9df5fc9439f/medium/9417dfe3-01a2-44f2-a1fc-fa11f89831ef",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Ce logement est proche de toutes commodités (Commerces de proximité, supermarchés et services accessible à pied, restaurants, pharmacies et équipements du quotidien à quelques minutes).\n\nAccès rapide aux transports en commun facilitant les déplacements vers Paris et les environs.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

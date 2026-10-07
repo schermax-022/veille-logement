@@ -1,0 +1,93 @@
+{
+ "guid": "1ef1def8-70a8-430d-9ed1-1f6ac51ae6df",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 48619,
+  "guid": "1ef1def8-70a8-430d-9ed1-1f6ac51ae6df",
+  "reference": "48619",
+  "residency": {
+   "id": 2365,
+   "guid": "4d74bc59-f984-4f56-a3f0-deebf15ce325",
+   "reference": "2365",
+   "name": "SAINT-RÉMY",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 16890,
+   "guid": "1f2e192a-e410-406d-8ccf-48d4ac4abb24",
+   "reference": "16890",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 35032,
+    "postcode": "93200",
+    "code": "93066",
+    "name": "Saint-Denis"
+   },
+   "description": "Le logement meublé et éligible à l'APL est équipé :\n\n- d'une kitchenette,\n- d'un lit,\n- d'une douche,\n- d'un lavabo,\n- de toilettes.\n"
+  },
+  "availableAt": "2026-09-12",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 641.36,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-07",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1f/1f2e192a-e410-406d-8ccf-48d4ac4abb24/medium/c452a02f-4550-4cbe-be5a-a99fd33ef4be",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette Résidence se trouve à proximité d'un supermarché, des services de La Poste, d'un centre Hospitalier et de plusieurs restaurants.\n\nDe nombreux arrêts de bus ainsi que le Tramway au pied de la résidence vous permettront de rallier le réseaux de transport francilien.\n\n\nLa date limite de dépôt de candidature n'est pas contractuelle.\n\nLe logement meublé et éligible à l'APL est équipé :\n\n- d'une kitchenette,\n- d'un lit,\n- d'une douche,\n- d'un lavabo,\n- de toilettes.\n\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

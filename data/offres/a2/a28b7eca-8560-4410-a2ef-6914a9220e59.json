@@ -1,0 +1,98 @@
+{
+ "guid": "a28b7eca-8560-4410-a2ef-6914a9220e59",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 45574,
+  "guid": "a28b7eca-8560-4410-a2ef-6914a9220e59",
+  "reference": "45574",
+  "residency": {
+   "id": 3224,
+   "guid": "d5009b94-6a62-4f88-b03c-d97d02b7e50d",
+   "reference": "3224",
+   "name": "RENNES - 19 MARS 1962",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 23396,
+   "guid": "fcf4e559-f05c-49cc-960e-32d0f9f692e0",
+   "reference": "23396",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 80.66,
+   "municipality": {
+    "id": 13576,
+    "postcode": "35000",
+    "code": "35238",
+    "name": "Rennes"
+   },
+   "description": "Un appartement de type 3 comprenant : une entrée avec placard,une cuisine séparée, un séjour simple, deux dégagements dont un avec placard, deux chambres dont une avec placard, une salle de bains, une buanderie, un wc séparé, une terrasse, une cave sur le palier."
+  },
+  "availableAt": "2026-08-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 995.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-08-06",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fcf4e559-f05c-49cc-960e-32d0f9f692e0/medium/b17d461e-6dc4-49d8-b3b8-059c63ffed18",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A Rennes, rue du 19 mars 1962, à proximité de la station de métro « les Gayeulles » (ligne B), nous vous proposons un appartement comprenant : une entrée avec placard, une cuisine séparée, un séjour, deux dégagements dont un avec placard, deux chambres dont une avec placard, un WC séparé, une salle de bain, une buanderie.\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

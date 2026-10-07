@@ -1,0 +1,93 @@
+{
+ "guid": "8b2c6b79-924a-4a31-8dd9-e2a72e328a65",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 4353,
+  "guid": "8b2c6b79-924a-4a31-8dd9-e2a72e328a65",
+  "reference": "4353",
+  "residency": {
+   "id": 2200,
+   "guid": "53b7fcf5-5da3-45e2-8e7d-820392e42e91",
+   "reference": "2200",
+   "name": "RUE DE LA GARENNE - FJT",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18602,
+   "guid": "a729e3ab-a4ca-4c54-8894-d307905ee46b",
+   "reference": "18602",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 17770,
+    "postcode": "49600",
+    "code": "49023",
+    "name": "Beaupréau-en-Mauges"
+   },
+   "description": "Studio meublé de 24m², équipé d'une kitchenette. Pour personne seule ou couple"
+  },
+  "availableAt": "2024-11-22",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 488.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a7/a729e3ab-a4ca-4c54-8894-d307905ee46b/medium/878cd81b-a565-42fb-98a2-c25e9e9efc16",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A BEAUPREAU,  cette résidence est composée de 10 logements: 8 studios, 2 type 1. Equipement collectif: salle d'animation collective, laverie, garage deux-roues, jardin.\nLogement conventionné ouvrant droit à l'APL\n\nStudio meublé de 24m², équipé d'une kitchenette. Pour personne seule ou couple\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

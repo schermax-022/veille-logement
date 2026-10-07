@@ -1,0 +1,93 @@
+{
+ "guid": "00c6d2be-1016-455e-82f0-5f8b684f9fe1",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 6154,
+  "guid": "00c6d2be-1016-455e-82f0-5f8b684f9fe1",
+  "reference": "6154",
+  "residency": {
+   "id": 2095,
+   "guid": "2d81ea70-2c30-49b6-b189-ca358ed80631",
+   "reference": "2095",
+   "name": "INGRE DUNANT RS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 19884,
+   "guid": "46dd639b-c9a6-4714-8ac6-b62bb6db2101",
+   "reference": "19884",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 16788,
+    "postcode": "45140",
+    "code": "45169",
+    "name": "Ingré"
+   },
+   "description": ""
+  },
+  "availableAt": "2025-02-17",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 503.11,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/46dd639b-c9a6-4714-8ac6-b62bb6db2101/medium/8e7d9f92-a62f-4d28-8b1d-b6af504883fb",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence sociale située à Ingré, proche du tramway, des axes routiers et des commerces de proximité.\nCette résidence est composée de 160 logements meublés (chambre et T1) dans un environnement calme, avec douche et wc. \nLa présence d'une équipe permet d'être accompagné, et répondre aux questions des résidents\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

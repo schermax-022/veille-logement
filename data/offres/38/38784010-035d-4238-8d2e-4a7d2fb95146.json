@@ -1,0 +1,98 @@
+{
+ "guid": "38784010-035d-4238-8d2e-4a7d2fb95146",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 49960,
+  "guid": "38784010-035d-4238-8d2e-4a7d2fb95146",
+  "reference": "49960",
+  "residency": {
+   "id": 8169,
+   "guid": "8a30ebaa-b450-433f-a3c8-f5b70c763630",
+   "reference": "8169",
+   "name": "TOULOUSE - JEAN MOULIN",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57715,
+   "guid": "489468b2-ae5a-4276-82a9-724e27f60564",
+   "reference": "57715",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 107.65,
+   "municipality": {
+    "id": 11962,
+    "postcode": "31400",
+    "code": "31555",
+    "name": "Toulouse"
+   },
+   "description": "Un appartement duplex de type 4 comprenant : niveau bas : une entrée, un dégagement, un séjour cuisine équipée, une salle d'eau, un wc séparé, une buanderie, une chambre avec placard, un balcon. Niveau haut : un dégagement, une salle de bains, deux chambres (une avec placard et une avec dressing)."
+  },
+  "availableAt": "2026-12-09",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1412.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-05",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/48/489468b2-ae5a-4276-82a9-724e27f60564/medium/6f8d98ab-9ce8-427a-ab68-653d550baaa9",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Dans un programme neuf, situé, dans le quartier Empalot à Toulouse, ce logement bénéficie d’un emplacement stratégique à proximité du centre-ville, des transports en commun et des nombreux services du quotidien.\n\nUn appartement duplex de type 4 comprenant : niveau bas : une entrée, un dégagement, un séjour cuisine équipée, une salle d'eau, un wc séparé, une buanderie, une chambre avec placard, un balcon. Niveau haut : un dégagement, une salle de bains, deux chambres (une avec placard et une avec dressing).",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,98 @@
+{
+ "guid": "476f4168-4dd1-4331-a12f-55c9669c887d",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 14945,
+  "guid": "476f4168-4dd1-4331-a12f-55c9669c887d",
+  "reference": "14945",
+  "residency": {
+   "id": 3819,
+   "guid": "0dc14fd5-ac95-4ebf-bd7b-67c5af0b970f",
+   "reference": "3819",
+   "name": "MAHIEU",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 27924,
+   "guid": "d158f8b3-f3e9-4bc8-af3f-c86ebfabd2e1",
+   "reference": "27924",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 1089,
+    "postcode": "02200",
+    "code": "02722",
+    "name": "Soissons"
+   },
+   "description": ""
+  },
+  "availableAt": "2025-07-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 511.8,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2025-10-30",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d1/d158f8b3-f3e9-4bc8-af3f-c86ebfabd2e1/medium/201a94fb-430c-4dfc-b666-00f4edfe22e5",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La Résidence Mahieu est située en cœur de ville proche des transports en commun et commerces.\n\nElle propose  des studios meublés et équipés tout confort. \n\nElle ouvre droit à l’APL.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

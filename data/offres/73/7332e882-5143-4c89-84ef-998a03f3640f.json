@@ -1,0 +1,98 @@
+{
+ "guid": "7332e882-5143-4c89-84ef-998a03f3640f",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50288,
+  "guid": "7332e882-5143-4c89-84ef-998a03f3640f",
+  "reference": "50288",
+  "residency": {
+   "id": 8217,
+   "guid": "c2355672-75d5-4f64-b741-5833ab91ed50",
+   "reference": "8217",
+   "name": "RUE GUYNEMER",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58015,
+   "guid": "c623e7cc-5af6-4a58-ba5f-979cf6454b3e",
+   "reference": "58015",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 66.0,
+   "municipality": {
+    "id": 22739,
+    "postcode": "59139",
+    "code": "59648",
+    "name": "Wattignies"
+   },
+   "description": "Logement au 2ème étage.\n\nSalle de bain avec baignoire.\n\nBalcon, cellier, garage."
+  },
+  "availableAt": "2026-10-29",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 823.39,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-28",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c623e7cc-5af6-4a58-ba5f-979cf6454b3e/medium/1ad2e6b0-837d-44f0-939b-c7e9fe3ecf06",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Venez découvrir ce joli bien situé au cœur de Wattignies, dans une résidence sécurisée.\n\nLa résidence se situe à quelques pas de la rue principale, ce qui vous apportera calme et sérénité.\n\nA proximité de toutes les commodités (commerces, transports en commun, école…)\n\nLogement au 2ème étage.\n\nSalle de bain avec baignoire.\n\nBalcon, cellier, garage.\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

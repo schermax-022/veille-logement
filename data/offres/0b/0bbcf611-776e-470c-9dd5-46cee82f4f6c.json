@@ -1,0 +1,93 @@
+{
+ "guid": "0bbcf611-776e-470c-9dd5-46cee82f4f6c",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 1428,
+  "guid": "0bbcf611-776e-470c-9dd5-46cee82f4f6c",
+  "reference": "1428",
+  "residency": {
+   "id": 1233,
+   "guid": "ca752617-bb30-4052-9f7b-449802929ef9",
+   "reference": "1233",
+   "name": "RESIDENCE TRIADES",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 16249,
+   "guid": "62a559cd-41f8-44ea-81ca-d44a5b49c830",
+   "reference": "16249",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 11963,
+    "postcode": "31500",
+    "code": "31555",
+    "name": "Toulouse"
+   },
+   "description": "L'appartement est composé d'un d'un séjour avec coin cuisine totalement équipé et d'une salle de bain privative (douche, WC, lavabo). L'appartement est meublé : lit, bureau, table, chaise, et placards de rangement."
+  },
+  "availableAt": "2024-07-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 570.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-03-18",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a559cd-41f8-44ea-81ca-d44a5b49c830/medium/139e074a-da9a-4166-9f3a-bdc19145438c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence se situe au centre ville de Toulouse, à proximité immédiate de la gare Matabiau, du métro ligne A et des lignes de bus (ligne 14 et 22). De plus, la résidence offre des prestations premium incluses dans le loyer. \n\nL'appartement est composé d'un séjour avec coin cuisine totalement équipé et d'une salle de bain privative (douche, WC, lavabo). L'appartement est meublé : lit, bureau, table, chaise, et placards de rangement.\n\nSous réserve de disponibilité. \n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

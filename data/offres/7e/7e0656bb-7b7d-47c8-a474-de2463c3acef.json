@@ -1,0 +1,93 @@
+{
+ "guid": "7e0656bb-7b7d-47c8-a474-de2463c3acef",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 40529,
+  "guid": "7e0656bb-7b7d-47c8-a474-de2463c3acef",
+  "reference": "40529",
+  "residency": {
+   "id": 4718,
+   "guid": "0b20f7d2-2cde-4cc8-a3dc-537670aca03f",
+   "reference": "4718",
+   "name": "GUINARD",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 50000,
+   "guid": "325a77ad-9b0d-4d8e-82e1-c81ae80c889c",
+   "reference": "50000",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 16042,
+    "postcode": "42100",
+    "code": "42218",
+    "name": "Saint-Étienne"
+   },
+   "description": "T1 BIS de 30 m², il dispose d'une cuisine équipé, une salle de bain, un WC ainsi qu'une pièce à vivre.\nRedevance de 566.27 € charges comprises ( chauffage, eau chaude et froide et l'électricité)."
+  },
+  "availableAt": "2026-04-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 600.69,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-01",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/325a77ad-9b0d-4d8e-82e1-c81ae80c889c/medium/2abea6ba-c2dd-45f7-8dc9-32afcd0d9f25",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence GUINARD situé vers le secteur Cours Fauriel.\nC'est une résidence très calme avec des espaces vert. Elle possède également un ascenseur, une laverie.\nL'accès à la résidence est sécurisé par badge.\nIdéalement située, proche des commerces et commodités urbaines.\nLa commune est desservie par le réseau de bus STAS, avec des lignes quotidiennes et régulières.\n\nT1 BIS de 30 m², il dispose d'une cuisine équipé, une salle de bain, un WC ainsi qu'une pièce à vivre.\nLoyer de 566.27 € charges comprises ( chauffage, eau chaude, eau froide et l'électricité).\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

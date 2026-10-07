@@ -1,0 +1,98 @@
+{
+ "guid": "338050e9-f545-4c71-9d28-8e78525a61b7",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 51088,
+  "guid": "338050e9-f545-4c71-9d28-8e78525a61b7",
+  "reference": "51088",
+  "residency": {
+   "id": 878,
+   "guid": "cf61d405-cfc5-40c5-b885-ad3b8626e5ec",
+   "reference": "878",
+   "name": "THIONVILLE",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58675,
+   "guid": "bbc96704-2445-43cb-a7c7-48ffba2313b2",
+   "reference": "58675",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 28.06,
+   "municipality": {
+    "id": 21706,
+    "postcode": "57100",
+    "code": "57672",
+    "name": "Thionville"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-20",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 550.25,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-06",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bb/bbc96704-2445-43cb-a7c7-48ffba2313b2/medium/cfdf9fdc-0fb8-4e50-86b2-4129f069d9be",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Située à Thionville, à deux pas de la gare, à proximité des commerces et des services du centre ville, venez découvrir la résidence \"PORTE DE SARRELOUIS\" comptant 200 logements de type 1. \nChaque appartement est équipé d'une kitchenette, d'une salle de douche avec WC et d'une literie.\nAppartement T1' meublé situé au 1er étage, d'une superficie de 28.06 m².",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

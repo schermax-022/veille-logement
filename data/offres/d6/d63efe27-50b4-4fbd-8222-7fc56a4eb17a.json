@@ -1,0 +1,98 @@
+{
+ "guid": "d63efe27-50b4-4fbd-8222-7fc56a4eb17a",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 44547,
+  "guid": "d63efe27-50b4-4fbd-8222-7fc56a4eb17a",
+  "reference": "44547",
+  "residency": {
+   "id": 7652,
+   "guid": "39bdc06e-4390-4217-958f-ebdd624564aa",
+   "reference": "7652",
+   "name": "MARQUIS DE DION",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 53380,
+   "guid": "cb945208-d30e-46a6-8b4d-4efb5a533a64",
+   "reference": "53380",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 16521,
+    "postcode": "44200",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "description": "Logement T1 bis Neuf de 30 m² disponible le 14 décembre 2026.\n"
+  },
+  "availableAt": "2026-11-30",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 601.72,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-07-21",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb945208-d30e-46a6-8b4d-4efb5a533a64/medium/a68bb969-4b36-4d1d-8dcc-d96d752f7c3a",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La Résidence Sociale Marquis de Dion est située dans le secteur Nantes Sud, à proximité des quartiers Saint-Jacques, Pirmil et Sèvres. Elle bénéficie d'un emplacement privilégié, proche des transports en commun (tramway et bus), facilitant les déplacements vers le centre-ville et l'ensemble de l'agglomération nantaise. Les commerces, services de proximité et équipements du quotidien sont facilement accessibles. La résidence offre également un cadre de vie calme et agréable, propice à l'autonomie et à l'insertion des résidents.\n\nLogement T1 bis Neuf de 30 m² disponible le 14 décembre 2026.\n\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

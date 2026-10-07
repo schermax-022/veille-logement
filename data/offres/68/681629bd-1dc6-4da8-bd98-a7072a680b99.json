@@ -1,0 +1,98 @@
+{
+ "guid": "681629bd-1dc6-4da8-bd98-a7072a680b99",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 48245,
+  "guid": "681629bd-1dc6-4da8-bd98-a7072a680b99",
+  "reference": "48245",
+  "residency": {
+   "id": 8007,
+   "guid": "fdf5b2cc-dfa3-49a2-8de9-6d846111eac9",
+   "reference": "8007",
+   "name": "DREUX - MURGER BARDIN",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 56334,
+   "guid": "8ed32821-924b-4b13-966c-e14080e9bc02",
+   "reference": "56334",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 83.35,
+   "municipality": {
+    "id": 10149,
+    "postcode": "28100",
+    "code": "28134",
+    "name": "Dreux"
+   },
+   "description": "Une maison de type 3 comprenant au rdc : entrée, cuisine séparée, buanderie, séjour, dégagement avec placard, wc séparé, garage intégré, 2 terrasses, jardin ; à l'étage : palier, 2 chambres avec placard, salle de bain avec wc, loggia, terrasse."
+  },
+  "availableAt": "2026-12-03",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 853.38,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8ed32821-924b-4b13-966c-e14080e9bc02/medium/829e3fda-8279-4edd-be03-bdffc002e658",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Maison type 3 située rue Murger à Dreux.\n\nElle est composée ainsi :\nAu rdc : entrée, cuisine séparée, buanderie, séjour, dégagement avec placard, wc séparé, garage intégré, 2 terrasses, jardin \nA l'étage : palier, 2 chambres avec placard, salle de bain avec wc, loggia, terrasse. ",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

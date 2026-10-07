@@ -1,0 +1,93 @@
+{
+ "guid": "b9e771da-303d-43ed-b7b0-6e7306c2a915",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 14726,
+  "guid": "b9e771da-303d-43ed-b7b0-6e7306c2a915",
+  "reference": "14726",
+  "residency": {
+   "id": 2348,
+   "guid": "c6ea6994-b843-4d32-8fde-e430c50eb21c",
+   "reference": "2348",
+   "name": "RIOBE",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 27818,
+   "guid": "b1358896-602f-4a1c-8e39-a5acc2e40d39",
+   "reference": "27818",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 31.0,
+   "municipality": {
+    "id": 16849,
+    "postcode": "45000",
+    "code": "45234",
+    "name": "Orléans"
+   },
+   "description": "Appartement T1 Bis meublé, lit deux personnes, table, chaises, étagère, plaques de cuisson, frigo, meubles cuisine, convention APL, toutes charges incluses\nBus : arrêts les plus proches à la Gare d’Orléans, à 5 minutes\nTramway : arrêt « République », à 2 minutes"
+  },
+  "availableAt": "2025-09-16",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 534.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-21",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b1/b1358896-602f-4a1c-8e39-a5acc2e40d39/medium/0a02049e-4c5b-4fae-89c8-d8793a9c745a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Bus : arrêts les plus proches à la Gare d’Orléans, à 5 minutes\nTramway : arrêt « République », à 2 minutes\nT1 meublés (lit, placard-penderie, bureau, chaise, commode, frigo), convention APL\nT1 et T1’ meublés (lit 1 ou 2 personnes, table, chaises, commode, cuisine équipée), convention APL\naccès sécurisé interphonie \n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

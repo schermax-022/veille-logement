@@ -1,0 +1,98 @@
+{
+ "guid": "9d642f3b-acbf-4821-b72c-70874e49a3fe",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 51107,
+  "guid": "9d642f3b-acbf-4821-b72c-70874e49a3fe",
+  "reference": "51107",
+  "residency": {
+   "id": 2222,
+   "guid": "b36e9d27-fa50-4b0e-a594-65d962ffca7c",
+   "reference": "2222",
+   "name": "CAUDEBEC LES ELBEUF",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 39205,
+   "guid": "c8b9a257-721a-4d5f-bd37-87b6636c13b2",
+   "reference": "39205",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 22.09,
+   "municipality": {
+    "id": 29808,
+    "postcode": "76320",
+    "code": "76165",
+    "name": "Caudebec-lès-Elbeuf"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 521.07,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-05",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c8b9a257-721a-4d5f-bd37-87b6636c13b2/medium/70505849-a6ed-427c-bfb0-528e8c70a9a2",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Appartement de type 1 entièrement meublé.\nKitchenette équipée (frigidaire, plaque de cuisson, micro-ondes), lit, table, chaises.\n\n\nSous réserve d'éventuels travaux de remise en état, le logement sera disponible à compter du 31/10/2026. ",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

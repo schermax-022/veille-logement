@@ -1,0 +1,93 @@
+{
+ "guid": "a41d4db9-d520-461a-8117-a3e36daf393b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 49576,
+  "guid": "a41d4db9-d520-461a-8117-a3e36daf393b",
+  "reference": "49576",
+  "residency": {
+   "id": 8112,
+   "guid": "aead8faf-be02-467d-8af4-b3153ed4d65c",
+   "reference": "8112",
+   "name": "MANHES",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57382,
+   "guid": "dd1711a5-92f8-4204-8ab4-3d75444ecb22",
+   "reference": "57382",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 34919,
+    "postcode": "91700",
+    "code": "91549",
+    "name": "Sainte-Geneviève-des-Bois"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-12-01",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 672.25,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-18",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd1711a5-92f8-4204-8ab4-3d75444ecb22/medium/a4359b09-4929-41bd-a143-70c413d91d9a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Entourée d'espaces verts, cette résidence neuve est située à proximité des commerces et des transports.\nBus proche de la résidence pour rejoindre le RER C Gare de STE GENEVIEVE DES BOIS\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

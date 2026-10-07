@@ -1,0 +1,98 @@
+{
+ "guid": "1df990c2-22e7-4472-975e-d88b52c6ef39",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50694,
+  "guid": "1df990c2-22e7-4472-975e-d88b52c6ef39",
+  "reference": "50694",
+  "residency": {
+   "id": 8262,
+   "guid": "ce350bf0-c801-4737-9808-cc859c434861",
+   "reference": "8262",
+   "name": "ACV IMPASSE MONTCALM - RODEZ",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58359,
+   "guid": "52fee4b8-4e28-4d75-9390-053dfefe2cb5",
+   "reference": "58359",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 60.05,
+   "municipality": {
+    "id": 4228,
+    "postcode": "12000",
+    "code": "12202",
+    "name": "Rodez"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-05",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 566.44,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-30",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/52/52fee4b8-4e28-4d75-9390-053dfefe2cb5/medium/eefb8966-963b-4df3-919e-567d4e8c4701",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence a fait l’objet d’une rénovation complète en 2026 dans le cadre du programme Action Cœur de Ville. Située Impasse de Montcalm, en plein centre-ville de Rodez, elle bénéficie d’un emplacement à proximité des commodités.\n\nRodez, préfecture de l’Aveyron, dispose d’un réseau de transports dont une gare, d’un hôpital, d’établissements scolaires, des équipements sportifs, culturels et des commerces.\n",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

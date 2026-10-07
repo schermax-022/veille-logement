@@ -1,0 +1,93 @@
+{
+ "guid": "1b7f1c4b-9ac1-48fc-bf4a-e9a6047605bc",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 1260,
+  "guid": "1b7f1c4b-9ac1-48fc-bf4a-e9a6047605bc",
+  "reference": "1260",
+  "residency": {
+   "id": 2241,
+   "guid": "e09eed41-67ab-4326-9d98-f35f94087cb8",
+   "reference": "2241",
+   "name": "HENRI VINCENOT",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 16111,
+   "guid": "4f819e21-4e74-4185-ac96-900bc2fa0456",
+   "reference": "16111",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 25.0,
+   "municipality": {
+    "id": 6895,
+    "postcode": "21000",
+    "code": "21231",
+    "name": "Dijon"
+   },
+   "description": "T1 meublé d'une surface de 25 m2 comprenant une kitchenette (réfrigérateur, four micro onde, plaque de cuisson), un lit simple avec tiroir, une table, un bureau ainsi qu'une douche à l'italienne."
+  },
+  "availableAt": "2026-12-31",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 610.7,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-08-27",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4f/4f819e21-4e74-4185-ac96-900bc2fa0456/medium/989b726a-60e8-4b41-ae08-a131aae952d3",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Au coeur du quartier de la Cité de la Gastronomie, au sein d'une résidence récente idéalement située proche des commerces et des transports, T1 meublé d'une surface de 25 m2 comprenant une kitchenette (réfrigérateur, four micro onde, plaque de cuisson), un lit simple avec tiroir, une table, un bureau ainsi qu'une douche à l'italienne.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

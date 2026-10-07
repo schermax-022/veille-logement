@@ -1,0 +1,254 @@
+{
+ "guid": "00519876-c0fd-48df-801d-f00497468032",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T18:07:27+02:00",
+ "liste": {
+  "id": 43068,
+  "guid": "00519876-c0fd-48df-801d-f00497468032",
+  "reference": "43068",
+  "residency": {
+   "id": 3565,
+   "guid": "1fd6003e-08b2-46dc-a55f-d9130fb3fd41",
+   "reference": "3565",
+   "name": "ASNIERES SUR SEINE 15",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 52185,
+   "guid": "bde0348e-5368-41f6-bc58-e1decd2eccb2",
+   "reference": "52185",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 49.0,
+   "municipality": {
+    "id": 34965,
+    "postcode": "92600",
+    "code": "92004",
+    "name": "Asnières-sur-Seine"
+   },
+   "description": "Exclusivité à Asnières-sur-Seine, appartement T2 de 49 m² au 8e étage avec ascenseur.  Sans frais d'agence.  L'appartement comprend une pièce à vivre une chambre ainsi qu'une cuisine fermée.  Le chauffage est collectif.  Commerces à proximité. Station de métro ligne 13 (Asnières - Gennevilliers Les Courtilles) à environ 9 minutes à pied. Grands axes routiers proches. Présence d'une gardienne."
+  },
+  "availableAt": "2026-10-07",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 999.11,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-30",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bd/bde0348e-5368-41f6-bc58-e1decd2eccb2/medium/cd7434dd-2676-45ee-aa8d-08532c01b248",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité à Asnières-sur-Seine, appartement T1 de 49 m² au 8e étage.  Sans frais d'agence.  L'appartement comprend une pièce à vivre ainsi qu'une cuisine.   Présence d'un(e) régisseur(se). Chauffage collectif. Pas d'ascenseur.  Commerces à proximité. Station de métro ligne 13 (Asnières - Gennevilliers Les Courtilles) à environ 9 minutes à pied. Grands axes routiers proches.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 43068,
+  "guid": "00519876-c0fd-48df-801d-f00497468032",
+  "reference": "43068",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bd/bde0348e-5368-41f6-bc58-e1decd2eccb2/large/8f970288-dd28-465c-9431-c509a252018b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bd/bde0348e-5368-41f6-bc58-e1decd2eccb2/large/de2c2291-efc6-49f2-8e3b-2b105cf770df",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 52185,
+   "guid": "bde0348e-5368-41f6-bc58-e1decd2eccb2",
+   "reference": "52185",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 49.0,
+   "municipality": {
+    "id": 34965,
+    "postcode": "92600",
+    "code": "92004",
+    "name": "Asnières-sur-Seine"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 11,
+    "ordering": 11,
+    "code": "8",
+    "label": "8"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 3565,
+   "guid": "1fd6003e-08b2-46dc-a55f-d9130fb3fd41",
+   "reference": "3565",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-06-29",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité à Asnières-sur-Seine, appartement T1 de 49 m² au 8e étage.  Sans frais d'agence.  L'appartement comprend une pièce à vivre ainsi qu'une cuisine.   Présence d'un(e) régisseur(se). Chauffage collectif. Pas d'ascenseur.  Commerces à proximité. Station de métro ligne 13 (Asnières - Gennevilliers Les Courtilles) à environ 9 minutes à pied. Grands axes routiers proches.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 784.0,
+  "rentChargeAmount": 215.11,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 784.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

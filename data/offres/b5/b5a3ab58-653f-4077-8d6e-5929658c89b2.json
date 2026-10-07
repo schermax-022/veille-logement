@@ -1,0 +1,93 @@
+{
+ "guid": "b5a3ab58-653f-4077-8d6e-5929658c89b2",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 1120,
+  "guid": "b5a3ab58-653f-4077-8d6e-5929658c89b2",
+  "reference": "1120",
+  "residency": {
+   "id": 392,
+   "guid": "23ffd5e0-5ba6-426f-889a-f4a9bd1ae5ef",
+   "reference": "392",
+   "name": "DIJON MALADIERE RS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 15977,
+   "guid": "acb6389a-bffd-4c73-943d-7c8abfcb71b9",
+   "reference": "15977",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 6895,
+    "postcode": "21000",
+    "code": "21231",
+    "name": "Dijon"
+   },
+   "description": "Les logements individuels meublés (lit, table chevet, table + chaise , meuble TV– kitchenette équipée plaques électriques+ frigo) se trouvent à proximité de toutes les commodités. Des "
+  },
+  "availableAt": "2024-06-18",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 580.97,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-08-27",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ac/acb6389a-bffd-4c73-943d-7c8abfcb71b9/medium/e0a4843d-b247-4c5e-9bc5-bcd14e1084c0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence « Maladière » bénéficie d’un emplacement idéal située dans un quartier paisible de Dijon proche de la Toison d’Or et facilement accessible par TRAM\n\nLes logements individuels meublés (lit, table chevet, table + chaise , meuble TV– kitchenette équipée plaques électriques+ frigo) se trouvent à proximité de toutes les commodités. Des \n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,98 @@
+{
+ "guid": "74cb907f-2cc9-4acb-9134-3dc5234f0232",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 21381,
+  "guid": "74cb907f-2cc9-4acb-9134-3dc5234f0232",
+  "reference": "21381",
+  "residency": {
+   "id": 1225,
+   "guid": "a1cae6ac-10c8-4bc3-bbd0-ed24624dd1bd",
+   "reference": "1225",
+   "name": "RESIDENCE JEAN MACE",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 33719,
+   "guid": "4a031533-5eea-45bd-9bfd-7140eaf492ad",
+   "reference": "33719",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 25.0,
+   "municipality": {
+    "id": 3676,
+    "postcode": "11400",
+    "code": "11076",
+    "name": "Castelnaudary"
+   },
+   "description": "Résidence destiné au jeunes actifs de moins de 30 ans. \nProche des services, d'une petite superette,  des équipements sportifs tel que piscine municipal, skatepark, stade municipal et des transports.\nCette résidence propose des espaces collectifs : billards, muscu, cardio-training, cuisine collective, un espace détente, un espace multimédia, une laverie, et des cours intérieurs. \nLes logements sont entièrement meublés, équipés de kitchenettes\n"
+  },
+  "availableAt": "2025-09-26",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 436.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-17",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4a/4a031533-5eea-45bd-9bfd-7140eaf492ad/medium/c517563a-1023-477e-8b02-fa7edcc56abb",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Logements entièrement meublés\nÉquipés de kitchenettes\nEspaces collectifs : billards, muscu, cardio-training, cuisines collectives…\ndes animations : des sorties, des activités au sein de la résidence\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

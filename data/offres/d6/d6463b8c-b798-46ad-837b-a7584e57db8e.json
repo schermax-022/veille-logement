@@ -1,0 +1,93 @@
+{
+ "guid": "d6463b8c-b798-46ad-837b-a7584e57db8e",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 1202,
+  "guid": "d6463b8c-b798-46ad-837b-a7584e57db8e",
+  "reference": "1202",
+  "residency": {
+   "id": 2256,
+   "guid": "20d380c0-ec4a-449a-bb32-e77f4a3a9862",
+   "reference": "2256",
+   "name": "BELLE SAISON",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 16061,
+   "guid": "f85be2ff-e882-44e8-980e-b9dfa63f5601",
+   "reference": "16061",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 16419,
+    "postcode": "43200",
+    "code": "43268",
+    "name": "Yssingeaux"
+   },
+   "description": ""
+  },
+  "availableAt": "2025-01-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 355.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-03-10",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f8/f85be2ff-e882-44e8-980e-b9dfa63f5601/medium/7030639f-d5de-4089-8821-d4e3695ccc3e",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Située dans le campus des Aubépines, en centre ville dans un parc arboré, proche des commerces, et de l'école supérieur de la Pâtisserie.\nLogements tout équipés et meublés : sanitaire, kitchenette, sèche serviette soufflant dans la salle de bains.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

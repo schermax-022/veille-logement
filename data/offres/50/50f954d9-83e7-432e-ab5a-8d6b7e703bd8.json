@@ -1,0 +1,98 @@
+{
+ "guid": "50f954d9-83e7-432e-ab5a-8d6b7e703bd8",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50759,
+  "guid": "50f954d9-83e7-432e-ab5a-8d6b7e703bd8",
+  "reference": "50759",
+  "residency": {
+   "id": 2975,
+   "guid": "ef0bf93f-58e1-497f-9f11-89fc1a69ec55",
+   "reference": "2975",
+   "name": "VERSAILLES CHAMP L",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58397,
+   "guid": "e613a722-ce29-4432-b4d3-cba79180697e",
+   "reference": "58397",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 11,
+    "ordering": 10,
+    "code": "T6",
+    "label": "T6",
+    "commercialLabel": "T6"
+   },
+   "area": 105.0,
+   "municipality": {
+    "id": 31131,
+    "postcode": "78000",
+    "code": "78646",
+    "name": "Versailles"
+   },
+   "description": "TRANSPORTS :\nGare de Versailles Chantier / Paris Montparnasse 13mn\r\nAutres Gares : Versailles rive gauche (RER C), Versailles rive droite (la Défense 25 min), Montreuil, Porchefontaine\r\nService de bus interurbains\r\nA 25mn de Paris par l'autoroute A13\r\nECOLES :\nMaternelles et primaires à proximité\r\nCollèges : 8 (dont 3 privés)\r\nLycées : 9 (dont 4 privés et 1 professionnel)\r\nEnseignement supérieur : 5 écoles supérieures spécialisées (architecture, paysage, cosmétologie, sciences et technique)\r\nCOMMERCES :\nTous commerces de proximité, 2 supermarchés\r\nMarché des Halles (du mar. au dim.)\r\nMarché Notre-dame (mar., sam. de 7H00 à 19H30 et dim. matin)\r\nMarché Saint-Louis (jeu., sam.)\r\nMarché Porchefontaine (mer., sam. matin)\r\nMarché Jussieu (sam. matin)\r\nSERVICES DIVERS :\nCliniques, tous services médicaux\r\nAssociations culturelles et sportives\r\nCentre aquatique, 3 stades\r\nConservatoire, théâtre, bibliothèque, 2 musées\r\nParc du Château de Versailles et forêts"
+  },
+  "availableAt": "2026-10-28",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1691.73,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "startDateOfPublication": "2026-10-01",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e613a722-ce29-4432-b4d3-cba79180697e/medium/26bc6721-f3f8-4718-bf84-86bb14a4730a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Dans la commune de Versailles (Rue Champ Lagarde) à proximité des commerces et des transports en commun. \nLa gare la plus proche est celle de Montreuil Ligne L.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,93 @@
+{
+ "guid": "41d1ac1c-6e0c-46e8-901f-8e42f45e7f62",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 1196,
+  "guid": "41d1ac1c-6e0c-46e8-901f-8e42f45e7f62",
+  "reference": "1196",
+  "residency": {
+   "id": 2254,
+   "guid": "40d0ea9d-8fcc-4c7d-8a3c-2aeb02c756d1",
+   "reference": "2254",
+   "name": "PASSERELLE",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 16053,
+   "guid": "ed79ecf0-12dc-409d-be58-f44503b738dd",
+   "reference": "16053",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 24910,
+    "postcode": "63500",
+    "code": "63178",
+    "name": "Issoire"
+   },
+   "description": ""
+  },
+  "availableAt": "2025-01-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 433.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-03-10",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ed/ed79ecf0-12dc-409d-be58-f44503b738dd/medium/f6dd803c-4e2c-4d61-befd-5b07bdee4ef5",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "- Résidence située à Issoire, au sud de Clermont-Ferrand, à proximité de l'A75.\n- Logements équipés de mobilier : kitchenette avec réfrigérateur et plaques électriques, lit, coin repas, bureau. \n- Nombreux équipements à proximité de l'hébergement : gare SNCF, centre aqualudique, Maison des Jeunes, complexe sportif, salle de spectacles, ainsi qu'une zone commerciale importante.\n- Possibilité de louer : 2 nuits minimum (sans déjeuner) ; 1 semaine (soit 7 nuits) ; à la quinzaine ou au mois\n- Accès au salon informatique, vélo électrique, laverie, location KIT vaisselle linge ou entretien. Ces prestations demandent un petit coût supplémentaire \n- Séjours invités : gratuit la 1ere nuit / Payant à partir de la 2e nuit \n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

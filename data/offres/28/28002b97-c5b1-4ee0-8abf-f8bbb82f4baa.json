@@ -1,0 +1,93 @@
+{
+ "guid": "28002b97-c5b1-4ee0-8abf-f8bbb82f4baa",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 51259,
+  "guid": "28002b97-c5b1-4ee0-8abf-f8bbb82f4baa",
+  "reference": "51259",
+  "residency": {
+   "id": 2077,
+   "guid": "04ce0421-5eb8-458d-ba01-fff0362e86fb",
+   "reference": "2077",
+   "name": "LA RESIDENCE - CCI 28",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18017,
+   "guid": "ca199de4-bdee-43f1-b185-e8fa380028ca",
+   "reference": "18017",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 19.0,
+   "municipality": {
+    "id": 10108,
+    "postcode": "28000",
+    "code": "28085",
+    "name": "Chartres"
+   },
+   "description": "Studio meublé au rez de chaussée, 18 M²"
+  },
+  "availableAt": "2026-11-03",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 404.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-06",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ca/ca199de4-bdee-43f1-b185-e8fa380028ca/medium/f272dcaf-b77b-41eb-a2c6-d5faaa2087a9",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Le complexe est situé sur le site de la CCI d'Eure-et-Loir et de son Campus à 10mn du centre-ville en bus ou 20mn en vélo.\nLe bâtiment est construit sur 3 niveaux avec ascenseurs et comprend 3 logements adaptés aux normes PMR.\n\nStudio meublé au rez de chaussée, 18 M²\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,293 @@
+{
+ "guid": "196aad0b-f0cd-4afb-9475-21a0a4b1a737",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T18:07:27+02:00",
+ "liste": {
+  "id": 25484,
+  "guid": "196aad0b-f0cd-4afb-9475-21a0a4b1a737",
+  "reference": "25484",
+  "residency": {
+   "id": 5674,
+   "guid": "23dd7a54-6414-404b-a86a-9b672807f1ed",
+   "reference": "5674",
+   "name": "FJT PIERRE SEMARD",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 37211,
+   "guid": "38a40e0e-19a8-417b-ba21-5e14749a7abb",
+   "reference": "37211",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.0,
+   "municipality": {
+    "id": 5282,
+    "postcode": "16000",
+    "code": "16015",
+    "name": "Angoulême"
+   },
+   "description": "T1 de 18 à 23 m2 de 456 € à 491 €\n- Douche\n- WC\n- Réfrigérateur\n- Lit\n- Bureau\n- Chaise\n- Kitchenette"
+  },
+  "availableAt": "2026-02-15",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 480.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-21",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/38/38a40e0e-19a8-417b-ba21-5e14749a7abb/medium/185992fc-8753-477e-857c-37c623b660dd",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Située à côté de la gare, proche du centre ville, cette résidence offre 82 logements meublés et équipés.\nUn environnement idéal pour démarrer sa vie professionnelle et rencontrer d’autres jeunes.\nRéservée principalement aux personnes de moins de 30 ans qui exercent une activité professionnelle (en CDD, CDI, intérim, etc)\n\n\nT1 de 18 à 23 m2 de 456 € à 491 €\n- Douche\n- WC\n- Réfrigérateur\n- Lit\n- Bureau\n- Chaise\n- Kitchenette\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 25484,
+  "guid": "196aad0b-f0cd-4afb-9475-21a0a4b1a737",
+  "reference": "25484",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/38/38a40e0e-19a8-417b-ba21-5e14749a7abb/large/812c5b39-e522-4545-ac03-9d31047c1d0a",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/38/38a40e0e-19a8-417b-ba21-5e14749a7abb/large/8b9db57c-e1ab-48af-9fbc-d465276057b8",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/38/38a40e0e-19a8-417b-ba21-5e14749a7abb/large/d018d7eb-5f5f-4fdd-ab29-4a3bf9dccf3e",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 37211,
+   "guid": "38a40e0e-19a8-417b-ba21-5e14749a7abb",
+   "reference": "37211",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.0,
+   "municipality": {
+    "id": 5282,
+    "postcode": "16000",
+    "code": "16015",
+    "name": "Angoulême"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 5674,
+   "guid": "23dd7a54-6414-404b-a86a-9b672807f1ed",
+   "reference": "5674",
+   "livingRules": "Les avantages de la résidence Pierre Semard :\n- Des redevances toutes charges comprises (eau, électricité, chauffage) et exonérées de taxe d'habitation\n- Tous les logements sont conventionnés à l'Aide au logement \"APL Foyer\" (aide majorée et active dès le 1er mois)\n- Logements sécurisés\n- Nombreux lieux de loisirs et de détente\n\nLes services disponibles :\n- Logements adaptés aux personnes à mobilité réduite\n- Laverie : machines à laver et à sécher\n- Salle télévision\n- Bibliothèque\n- Internet sur toute la résidence\n- Salle informatique équipée\n- Parking et garage deux roues\n- Aide aux démarches",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 12,
+     "ordering": 13,
+     "code": "INF",
+     "label": "Salle informatique",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": "2026-02-15",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-02-15",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Située à côté de la gare, proche du centre ville, cette résidence offre 82 logements meublés et équipés.\nUn environnement idéal pour démarrer sa vie professionnelle et rencontrer d’autres jeunes.\nRéservée principalement aux personnes de moins de 30 ans qui exercent une activité professionnelle (en CDD, CDI, intérim, etc)\n\n\nT1 de 18 à 23 m2 de 456 € à 491 €\n- Douche\n- WC\n- Réfrigérateur\n- Lit\n- Bureau\n- Chaise\n- Kitchenette\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 480.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

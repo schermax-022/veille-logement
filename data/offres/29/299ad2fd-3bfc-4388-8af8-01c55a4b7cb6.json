@@ -1,0 +1,93 @@
+{
+ "guid": "299ad2fd-3bfc-4388-8af8-01c55a4b7cb6",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 51118,
+  "guid": "299ad2fd-3bfc-4388-8af8-01c55a4b7cb6",
+  "reference": "51118",
+  "residency": {
+   "id": 2316,
+   "guid": "bc24b977-29a3-49be-99ec-0e71466cf1fc",
+   "reference": "2316",
+   "name": "RESIDENCE JEUNE",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58697,
+   "guid": "1687c15e-e3ea-430e-838f-3049674a9590",
+   "reference": "58697",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.56,
+   "municipality": {
+    "id": 34885,
+    "postcode": "91420",
+    "code": "91432",
+    "name": "Morangis"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-06",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 570.17,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-05",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/1687c15e-e3ea-430e-838f-3049674a9590/medium/00818bac-95b4-4bcb-bbd8-383b9236fed0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Agréable résidence dédiée à des jeunes actifs et localisée près du centre-ville.\nElle bénéficie de la proximité de plusieurs moyens de transport (bus, RER D et C).\nParis se situe à 50 min environ en transports en commun.\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

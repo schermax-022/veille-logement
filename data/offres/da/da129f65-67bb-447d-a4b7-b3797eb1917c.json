@@ -1,0 +1,98 @@
+{
+ "guid": "da129f65-67bb-447d-a4b7-b3797eb1917c",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50487,
+  "guid": "da129f65-67bb-447d-a4b7-b3797eb1917c",
+  "reference": "50487",
+  "residency": {
+   "id": 293,
+   "guid": "d360129b-298a-4de3-8640-dcd2b8f149e5",
+   "reference": "293",
+   "name": "BORDEAUX DANEY RS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 49376,
+   "guid": "ba354674-bc45-4e1d-a5f7-cb9b44b3274f",
+   "reference": "49376",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 22.05,
+   "municipality": {
+    "id": 12528,
+    "postcode": "33300",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 554.71,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ba/ba354674-bc45-4e1d-a5f7-cb9b44b3274f/medium/5bc2fb28-5fc3-476c-98e3-4e387dba3145",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence se situe rue Pierre Latécoère, à proximité des commerces et services : transports en commun (lignes 9, H1,TRAM C et E) supermarchés, hôpital, établissements scolaires secondaires, écoles supérieures...à 15 min en transport de Bordeaux centre.\n\nNous vous proposons un appartement meublé composé d'une pièce de vie, salle d'eau avec WC. ",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

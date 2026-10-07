@@ -1,0 +1,98 @@
+{
+ "guid": "14d2b4ce-5c45-47c1-9a8c-7aac21b09525",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50887,
+  "guid": "14d2b4ce-5c45-47c1-9a8c-7aac21b09525",
+  "reference": "50887",
+  "residency": {
+   "id": 1671,
+   "guid": "ed0f67bc-26d1-4331-876a-3c8f78e0bab2",
+   "reference": "1671",
+   "name": "GRENOBLE BEAUVERT RS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58505,
+   "guid": "c4f43c07-2d64-42f7-9bad-5523a342da07",
+   "reference": "58505",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.3,
+   "municipality": {
+    "id": 14372,
+    "postcode": "38100",
+    "code": "38185",
+    "name": "Grenoble"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-09",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 439.39,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-02",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c4/c4f43c07-2d64-42f7-9bad-5523a342da07/medium/58979ec3-419b-4ba7-a0d8-51b4a51788a1",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence BEAUVERT, située dans le secteur sud de Grenoble à proximité du centre commercial Grand'Place. \n\nLa redevance inclut l’ensemble des charges (chauffage, électricité, eaux, taxe ordures ménagères et entretien parties communes). \n\nCe logement dispose en individuel d’une cuisine, d’une salle de bain et d’une toilette. \n\nTransports en commun : Bus lignes C3 – C6 – 12 et 16 / Tram ligne A / Gare SNCF Accès A480 à 5 minutes.\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

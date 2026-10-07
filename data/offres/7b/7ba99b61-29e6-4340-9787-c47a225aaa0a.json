@@ -1,0 +1,98 @@
+{
+ "guid": "7ba99b61-29e6-4340-9787-c47a225aaa0a",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 29321,
+  "guid": "7ba99b61-29e6-4340-9787-c47a225aaa0a",
+  "reference": "29321",
+  "residency": {
+   "id": 6102,
+   "guid": "e701317c-7b0a-4048-ae85-99f512ce07b2",
+   "reference": "6102",
+   "name": "RESIDENCE EPICEAS",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 40500,
+   "guid": "7e52cbef-1c59-474d-b9b9-aa3e25d25b36",
+   "reference": "40500",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 4228,
+    "postcode": "12000",
+    "code": "12202",
+    "name": "Rodez"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-06-15",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 255.31,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-01-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7e52cbef-1c59-474d-b9b9-aa3e25d25b36/medium/6c3e9cf2-b898-44c8-bffa-909a56dddab1",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence neuve Les Épicéas, dont la livraison est prévue en juin 2026, est idéalement située à Rodez.\nElle se trouve à cinq minutes à pied de l’université et de l’IUT, à 20 mètres d’un arrêt de bus (lignes C, D et F) et à 10 mn à pied de la gare SNCF.\nDestinée aux jeunes actifs de moins de 30 ans exclusivement, elle propose des logements de type 1 de 24 m² avec kitchenette et salle de bain, entièrement meublés avec lit, table, chaises et le nécessaire de cuisine.\nSelon les disponibilités, il est possible de louer un garage pour 36 €/mois ou une place de parking pour 28 €/mois.\nPas de frais de dossier - Eau et chauffage compris dans le prix.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

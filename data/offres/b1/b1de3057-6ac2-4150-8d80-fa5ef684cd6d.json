@@ -1,0 +1,93 @@
+{
+ "guid": "b1de3057-6ac2-4150-8d80-fa5ef684cd6d",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 43243,
+  "guid": "b1de3057-6ac2-4150-8d80-fa5ef684cd6d",
+  "reference": "43243",
+  "residency": {
+   "id": 2106,
+   "guid": "91cfe628-4873-41db-8716-ccaa5275e144",
+   "reference": "2106",
+   "name": "RESIDENCE SOCIALE ORLEANS BECQUEREL",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 52324,
+   "guid": "a9dd3945-5833-497a-8fb9-af56d8f9b4a7",
+   "reference": "52324",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 15.0,
+   "municipality": {
+    "id": 16849,
+    "postcode": "45000",
+    "code": "45234",
+    "name": "Orléans"
+   },
+   "description": "studio meublé de 15 m² avec kitchenette avec plaques électriques et frigo,  lit simple, chaise et table.\n\nRésidence dans le quartier calme et recherché des Blossières à Orléans.\nTransports en commun (bus et accès rapide au tram), commerces de proximité, écoles et parcs accessibles en quelques minutes à pied."
+  },
+  "availableAt": "2026-07-02",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 435.21,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-07-02",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a9/a9dd3945-5833-497a-8fb9-af56d8f9b4a7/medium/2a36ba54-e56b-4a51-b06a-c156225c65b7",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "studio meublé de 15 m²\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

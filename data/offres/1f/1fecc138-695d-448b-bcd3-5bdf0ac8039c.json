@@ -1,0 +1,93 @@
+{
+ "guid": "1fecc138-695d-448b-bcd3-5bdf0ac8039c",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 49297,
+  "guid": "1fecc138-695d-448b-bcd3-5bdf0ac8039c",
+  "reference": "49297",
+  "residency": {
+   "id": 8087,
+   "guid": "589731a8-be4a-4059-b428-66bb33a902b1",
+   "reference": "8087",
+   "name": "CORBEIL ESSONNES",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57167,
+   "guid": "636c86ef-9e0c-4f18-977d-57a24b3f50c7",
+   "reference": "57167",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 34818,
+    "postcode": "91100",
+    "code": "91174",
+    "name": "Corbeil-Essonnes"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-12-01",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 685.01,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-16",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/63/636c86ef-9e0c-4f18-977d-57a24b3f50c7/medium/51d9f77b-095e-4df4-8ff1-6fa3c000cd5e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence neuve est située à proximité des commerces et des transports\n\nRERD Gare CORBEIL ESSONNES à 8 minutes de marche\n\n",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

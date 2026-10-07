@@ -1,0 +1,98 @@
+{
+ "guid": "1d0e0694-efb1-4fed-9311-1f4f33b3b1eb",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 29934,
+  "guid": "1d0e0694-efb1-4fed-9311-1f4f33b3b1eb",
+  "reference": "29934",
+  "residency": {
+   "id": 1383,
+   "guid": "fe222f2c-9373-4a6f-adb3-8ab8bc4f8899",
+   "reference": "1383",
+   "name": "RESIDENCE PONT DE BOIS",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 41027,
+   "guid": "7e7f483e-83ec-4634-b9f9-5035cb90c7f1",
+   "reference": "41027",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 32.0,
+   "municipality": {
+    "id": 11443,
+    "postcode": "31320",
+    "code": "31035",
+    "name": "Auzeville-Tolosane"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-01-16",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 670.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-01-16",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7e7f483e-83ec-4634-b9f9-5035cb90c7f1/medium/9ab45831-39b1-4029-a1bf-b6da6deae34f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence est réservée pour les jeunes de moins de 30 ans. Elle se situe à proximité immédiate du campus de l’ENSAT à Auzeville-Tolosane. Près des transports et des commerces, elle offre des prestations premium incluses dans le loyer.\nLe logement est composé d’une pièce de vie avec un coin cuisine équipée, d’une salle de bain et d'une entrée avec placard. Bien aménagé et fonctionnel, il dispose également d’un bureau et d’un lit.\nSous réserve de disponibilité. \n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

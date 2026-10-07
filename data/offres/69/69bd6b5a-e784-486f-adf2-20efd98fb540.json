@@ -1,0 +1,93 @@
+{
+ "guid": "69bd6b5a-e784-486f-adf2-20efd98fb540",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50065,
+  "guid": "69bd6b5a-e784-486f-adf2-20efd98fb540",
+  "reference": "50065",
+  "residency": {
+   "id": 429,
+   "guid": "6445a591-f8e8-4891-b9e3-44796908e6fe",
+   "reference": "429",
+   "name": "FONTENAY SOUS BOIS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57506,
+   "guid": "7b7b1740-24ca-42cc-b9dc-39bb3d35735e",
+   "reference": "57506",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 35055,
+    "postcode": "94120",
+    "code": "94033",
+    "name": "Fontenay-sous-Bois"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-12-01",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 716.72,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-24",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7b/7b7b1740-24ca-42cc-b9dc-39bb3d35735e/medium/78f2c771-8a6e-44a1-8cea-b1bc9c76c5f1",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence neuve est située à proximité des commerces et des transports\nA 5 min en bus de la gare RER A VAL DE FONTENAY",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

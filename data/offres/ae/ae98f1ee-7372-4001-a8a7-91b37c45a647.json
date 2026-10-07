@@ -1,0 +1,98 @@
+{
+ "guid": "ae98f1ee-7372-4001-a8a7-91b37c45a647",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 12909,
+  "guid": "ae98f1ee-7372-4001-a8a7-91b37c45a647",
+  "reference": "12909",
+  "residency": {
+   "id": 6452,
+   "guid": "dccb7a85-c534-4732-a50e-a5bc49a97d88",
+   "reference": "6452",
+   "name": "LE BLANC-MESNIL - 8 MAI 1945",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 26164,
+   "guid": "e65ab687-e2aa-4527-b469-276dca1a2723",
+   "reference": "26164",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 77.6,
+   "municipality": {
+    "id": 35004,
+    "postcode": "93150",
+    "code": "93007",
+    "name": "Le Blanc-Mesnil"
+   },
+   "description": "Un appartement de type 4 comprenant : une entrée avec placard, un séjour simple, une cuisine ouverte, trois chambres ( dont une avec placard ), une salle de bains, une salle d'eau, deux wc séparés, un dégagement avec placard, un balcon."
+  },
+  "availableAt": "2025-05-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1432.6,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e65ab687-e2aa-4527-b469-276dca1a2723/medium/16118ca8-d657-4052-95ea-876b4d78cf44",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Un appartement de type 4 comprenant : une entrée avec placard, un séjour simple, une cuisine ouverte, trois chambres ( dont une avec placard ), une salle de bain, une salle d'eau, deux WC séparés, un dégagement avec placard, un balcon.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

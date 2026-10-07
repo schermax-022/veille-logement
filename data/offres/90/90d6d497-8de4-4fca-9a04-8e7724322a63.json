@@ -1,0 +1,98 @@
+{
+ "guid": "90d6d497-8de4-4fca-9a04-8e7724322a63",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 33252,
+  "guid": "90d6d497-8de4-4fca-9a04-8e7724322a63",
+  "reference": "33252",
+  "residency": {
+   "id": 3279,
+   "guid": "fdb9eac4-2889-455c-8980-3dc5b619f285",
+   "reference": "3279",
+   "name": "NANTES - IRLANDE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 43889,
+   "guid": "7184016c-60f9-40ce-a4de-675dcf2da041",
+   "reference": "43889",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 58.5,
+   "municipality": {
+    "id": 16519,
+    "postcode": "44000",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "description": "Un appartement de type 2 comprenant : une entrée avec placard, un séjour, une cuisine séparée, une chambre avec placard, une salle de bains avec baignoire et douche, un wc séparé, un dégagement, une véranda."
+  },
+  "availableAt": "2026-03-20",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 707.31,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/7184016c-60f9-40ce-a4de-675dcf2da041/medium/ae7a65db-5a67-4b08-9e4e-2a60c8bc7945",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence Irlande située à quelques minutes à pied du centre-ville, le quartier Malakoff bénéficie d’un emplacement privilégié à Nantes. À la croisée des quartiers Saint-Jacques et Île de Nantes, il offre un cadre de vie pratique, bien desservi. Proximité immédiate des lignes de tramway.\nUn appartement de type 2 de 58.50 m² comprenant : une entrée avec placard, un séjour, une cuisine séparée, une chambre avec placard, une salle de bains avec baignoire et douche, un wc séparé, un dégagement, une véranda. \nDisponible le 20 Mars 2026",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,93 @@
+{
+ "guid": "5af24534-e392-47d6-adf4-f1f17fb95f0b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 24254,
+  "guid": "5af24534-e392-47d6-adf4-f1f17fb95f0b",
+  "reference": "24254",
+  "residency": {
+   "id": 5552,
+   "guid": "220535d4-846d-4361-a5ce-70fd407e51af",
+   "reference": "5552",
+   "name": "RESIDENCE DE L'EST TOURANGEAU",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 36178,
+   "guid": "fd999f54-07ac-4429-9067-c304766950a1",
+   "reference": "36178",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 32.0,
+   "municipality": {
+    "id": 14085,
+    "postcode": "37270",
+    "code": "37156",
+    "name": "Montlouis-sur-Loire"
+   },
+   "description": "T1 bis de 32 m², meublé, \nKitchenette équipée avec plaques électriques et frigo, \ntable et chaises, \nlit simple \n\nrésidence récente. \n\nParking\nLocal 2 roues\nLaverie\nSalle collective"
+  },
+  "availableAt": "2025-10-30",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 569.07,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-06",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fd/fd999f54-07ac-4429-9067-c304766950a1/medium/c557b106-63f9-491b-ab88-9267e0f57fb8",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "T1 bis de 31 m², meublé, \nkitchenette équipée avec plaques électriques et frigo, \ntable et chaises, lit simple\n\nSalle collective, Laverie,  Local deux roues\n\nLocal 2 roues",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

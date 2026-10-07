@@ -1,0 +1,93 @@
+{
+ "guid": "a1eb5f0c-9d2a-4a60-a401-a7691c27bc65",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 4006,
+  "guid": "a1eb5f0c-9d2a-4a60-a401-a7691c27bc65",
+  "reference": "4006",
+  "residency": {
+   "id": 2199,
+   "guid": "0b7460d4-51d3-4291-a8c8-8f8584f90c01",
+   "reference": "2199",
+   "name": "BELEM",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18345,
+   "guid": "c48af954-3062-494f-bd4f-20533aefb8c2",
+   "reference": "18345",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 32.0,
+   "municipality": {
+    "id": 16520,
+    "postcode": "44100",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "description": "Logement meublé et équipé"
+  },
+  "availableAt": "2025-02-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 580.41,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2025-12-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c4/c48af954-3062-494f-bd4f-20533aefb8c2/medium/0546ebc5-1ac4-4598-bd5a-9913ddc39ab0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La Résidence offre un cadre de vie idéal pour les jeunes actifs en mobilité. Située en plein cœur de Nantes, quartier Graslin / Cours Cambronne, cette résidence est parfaite pour ceux qui cherchent un logement pratique et convivial. La résidence Belem propose des logements fonctionnels ainsi que des espaces communs entièrement refaits (salle d’animation, espace ateliers cuisine, patio …) \nPrésence de professionnels qui vous accompagnent dans vos démarches, vous orientent pour accéder à vos droits et peuvent vous guider dans votre projet.\nLogement meublé et équipé\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

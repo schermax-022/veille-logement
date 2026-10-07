@@ -1,0 +1,98 @@
+{
+ "guid": "d58590af-e632-4606-9d9f-242bae83dbe2",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 17694,
+  "guid": "d58590af-e632-4606-9d9f-242bae83dbe2",
+  "reference": "17694",
+  "residency": {
+   "id": 4783,
+   "guid": "b6689c26-0ea7-4575-8a7a-6598efba7854",
+   "reference": "4783",
+   "name": "COTE JARDIN",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 30601,
+   "guid": "0a47f663-d36b-49f7-9fee-d46114bb65bb",
+   "reference": "30601",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 16480,
+    "postcode": "44350",
+    "code": "44069",
+    "name": "Guérande"
+   },
+   "description": "Logement T1 de 24 m², meublé et équipé, ( Lit 1 personne, table, chaises, une kitchenette comprenant deux plaques de cuisson, un évier, un réfrigérateur, un micro-onde, placards de rangement vaisselle, une salle d'eau comprenant une douche, un meuble, un vasque, WC)  disponible à partir du 1er Septembre 2025"
+  },
+  "availableAt": "2025-09-01",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 525.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-18",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0a/0a47f663-d36b-49f7-9fee-d46114bb65bb/medium/6fe9fd44-c7a0-4ad0-a618-8ba7ef6eefcd",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence se situe au 2 Bis, rue Louis Eon et est à proximité d’un arrêt de bus et du centre-ville de Guérande.\nElle offre des lieux collectifs : cuisine collective, salle polyvalente, une salle informatique et d’une laverie.\nLogement T1 de 24 m², meublé et équipé, ( Lit 1 personne, table, chaises, une kitchenette comprenant deux plaques de cuisson, un évier, un réfrigérateur, un micro-onde, placards de rangement vaisselle, une salle d'eau comprenant une douche, un meuble, un vasque, WC)  disponible à partir du 1er Septembre 2025\n\n",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,98 @@
+{
+ "guid": "61cb0c77-d6d4-4bd7-9317-b4ce809fc3a4",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 7055,
+  "guid": "61cb0c77-d6d4-4bd7-9317-b4ce809fc3a4",
+  "reference": "7055",
+  "residency": {
+   "id": 2743,
+   "guid": "158c4f9d-7c70-479f-9c3f-19b92e5774ac",
+   "reference": "2743",
+   "name": "LE CAP",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 20597,
+   "guid": "2d490a51-dc9d-467d-83c1-048b16ab30ae",
+   "reference": "20597",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.0,
+   "municipality": {
+    "id": 33170,
+    "postcode": "85340",
+    "code": "85194",
+    "name": "Les Sables-d'Olonne"
+   },
+   "description": "Logement meublé Neuf de T2 de 46 m² comprenant une cuisine et pièce de vie aménagées, une salle d’eau et un WC individuel, une chambre disponible en septembre 2025 (sous réserve de livraison)"
+  },
+  "availableAt": "2025-09-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 578.16,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-03-25",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2d/2d490a51-dc9d-467d-83c1-048b16ab30ae/medium/abb3b635-64e2-4aa1-bb98-87812c9d0209",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La Résidence Le Cap est située aux Sables-d'Olonne, à deux pas de la mer.\nElle propose des logements moderne, confortables, meublés et équipés allant de 28 à 69 m2, idéalement conçu pour répondre aux besoin des jeunes actifs.\nLa résidence comporte également des espaces communs : une laverie, un garage pour 2 roues et un parking privé sécurisé.\nLes charges (eau, électricité, chauffage) sont incluses dans le montant du loyer.\n\nLogement meublé Neuf de T2 de 46 m² comprenant une cuisine et pièce de vie aménagées, une salle d’eau et un WC individuel, une chambre disponible en septembre 2025 (sous réserve de livraison)\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

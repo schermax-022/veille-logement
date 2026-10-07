@@ -1,0 +1,268 @@
+{
+ "guid": "53eb22c2-e861-4cfe-b8f4-4cb6605307a8",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T18:07:27+02:00",
+ "liste": {
+  "id": 49073,
+  "guid": "53eb22c2-e861-4cfe-b8f4-4cb6605307a8",
+  "reference": "49073",
+  "residency": {
+   "id": 8070,
+   "guid": "90f9449b-c392-4a9e-bf30-a6d0ad886da6",
+   "reference": "8070",
+   "name": "DOMAINE DU VAL D'AVRE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 56993,
+   "guid": "c95ffa35-ff70-44d0-a8ed-3ee892711563",
+   "reference": "56993",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 92.0,
+   "municipality": {
+    "id": 31430,
+    "postcode": "80090",
+    "code": "80021",
+    "name": "Amiens"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-13",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1328.54,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-14",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c9/c95ffa35-ff70-44d0-a8ed-3ee892711563/medium/f0d0671d-52a6-4669-95ef-8dd1213a4971",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé à Amiens, rue de Cagny à proximité des commerces, d'un parc et d'un lycée.\n\nNous vous proposons un appartement comprenant une entrée, un séjour-cuisine, trois chambres, un dressing, une salle de bain (baignoire), un WC séparé, un cellier, une terrasse.\n\nPossibilité en sus d'un emplacement de parking pour 22 €/mois.\n\nEn cas d'instruction, un conseiller prendra contact avec vous afin de vous indiquer l'éligibilité de votre dossier. \n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 49073,
+  "guid": "53eb22c2-e861-4cfe-b8f4-4cb6605307a8",
+  "reference": "49073",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c9/c95ffa35-ff70-44d0-a8ed-3ee892711563/large/0706095f-b9eb-43aa-b594-47979cdafbb1",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c9/c95ffa35-ff70-44d0-a8ed-3ee892711563/large/4412b6a2-568c-40e9-9d6f-b02b31a51144",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c9/c95ffa35-ff70-44d0-a8ed-3ee892711563/large/67fd22f5-2186-4abc-ada2-37d3baa3784d",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56993,
+   "guid": "c95ffa35-ff70-44d0-a8ed-3ee892711563",
+   "reference": "56993",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 92.0,
+   "municipality": {
+    "id": 31430,
+    "postcode": "80090",
+    "code": "80021",
+    "name": "Amiens"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "CEL",
+     "label": "Cellier"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 8070,
+   "guid": "90f9449b-c392-4a9e-bf30-a6d0ad886da6",
+   "reference": "8070",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-10-13",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-13",
+  "endDateOfPublication": "2026-10-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Situé à Amiens, rue de Cagny à proximité des commerces, d'un parc et d'un lycée.\n\nNous vous proposons un appartement comprenant une entrée, un séjour-cuisine, trois chambres, un dressing, une salle de bain (baignoire), un WC séparé, un cellier, une terrasse.\n\nPossibilité en sus d'un emplacement de parking pour 22 €/mois.\n\nEn cas d'instruction, un conseiller prendra contact avec vous afin de vous indiquer l'éligibilité de votre dossier. \n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1139.86,
+  "rentChargeAmount": 188.68,
+  "rentParkingAmount": 22.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1139.86,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

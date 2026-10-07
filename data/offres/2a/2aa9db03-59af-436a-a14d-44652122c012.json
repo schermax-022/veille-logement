@@ -1,0 +1,93 @@
+{
+ "guid": "2aa9db03-59af-436a-a14d-44652122c012",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 4309,
+  "guid": "2aa9db03-59af-436a-a14d-44652122c012",
+  "reference": "4309",
+  "residency": {
+   "id": 2187,
+   "guid": "344e3dde-5f72-4600-895a-1535b65b1897",
+   "reference": "2187",
+   "name": "RESIDENCE PIERRE DE COUBERTIN",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18573,
+   "guid": "02d54f31-acfd-441d-a63a-043597ae987f",
+   "reference": "18573",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 19595,
+    "postcode": "53000",
+    "code": "53130",
+    "name": "Laval"
+   },
+   "description": "Logement meublé disponible"
+  },
+  "availableAt": "2024-11-21",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 501.11,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/02/02d54f31-acfd-441d-a63a-043597ae987f/medium/ba822639-db76-4ee3-88b5-b1894422fec8",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence Pierre de Coubertin est située au cœur du quartier des Pommeraies au nord-est du centre-ville de Laval, à proximité de la gare et de de nombreux équipements sportifs : le stade Francis-le-Basser et le gymnase Jules-Renard. Proximité des commerces, transports et campus universitaire. Logements confortables et équipés du studio au T2.\n\n\n\nLogement meublé disponible\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

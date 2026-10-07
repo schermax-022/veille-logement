@@ -1,0 +1,98 @@
+{
+ "guid": "c60e96dc-6b64-4546-8c15-1bb5668b07a4",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 27639,
+  "guid": "c60e96dc-6b64-4546-8c15-1bb5668b07a4",
+  "reference": "27639",
+  "residency": {
+   "id": 5943,
+   "guid": "b4ab3d28-5a97-44e8-9f69-d593b576a6cb",
+   "reference": "5943",
+   "name": "RHJ CONCORDE",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 39074,
+   "guid": "5916309f-364c-4cf0-a469-de4d2378d49a",
+   "reference": "39074",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 11477,
+    "postcode": "31700",
+    "code": "31069",
+    "name": "Blagnac"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-01-04",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 482.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-07",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/5916309f-364c-4cf0-a469-de4d2378d49a/medium/98f8afd7-e754-465e-9774-eacd0fbbdfd3",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La Résidence Habitat Jeunes Le Concorde est une résidence neuve, située à Blagnac (ZAC Andromède).\nDestinée aux 16-29 ans (apprentis, salariés, stagiaires) elle est située proche du tram (stations Aéroconstellation et Andromède-Lycée), de la ligne de bus 70 et à proximité de la zone commerciale Grand Noble.\nDes services sont proposés : laverie et espaces collectifs\n\nAppartement T1 équipé d’un lit, d’une table avec chaises, de rangements intégrés, d’une kitchenette fonctionnelle ainsi que d’une salle de bain avec rangements.\n\n\n ",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

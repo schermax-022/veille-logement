@@ -1,0 +1,93 @@
+{
+ "guid": "04674427-7eb5-4b18-98d4-8d1707b8b8f3",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 4028,
+  "guid": "04674427-7eb5-4b18-98d4-8d1707b8b8f3",
+  "reference": "4028",
+  "residency": {
+   "id": 2061,
+   "guid": "56f30a13-e53a-486b-846f-d4397124584a",
+   "reference": "2061",
+   "name": "FJT LA MAISONNEUVE",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18363,
+   "guid": "1b9bb36a-c105-418c-9e69-c635718b792d",
+   "reference": "18363",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 25.0,
+   "municipality": {
+    "id": 16480,
+    "postcode": "44350",
+    "code": "44069",
+    "name": "Guérande"
+   },
+   "description": "Logement meublé"
+  },
+  "availableAt": "2025-01-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 507.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1b/1b9bb36a-c105-418c-9e69-c635718b792d/medium/deb7de17-552f-4938-b53b-f98dd03104b8",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence est idéalement située à 15 min à pied du centre ville de Guérande.\nUn arrêt de bus est localisé à proximité de la résidence\ndes espaces collectifs sont proposés (cafétéria, buanderie, salle de sport, salle d’animation, salle multimédia)\n\nLogement meublé\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

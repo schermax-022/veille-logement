@@ -1,0 +1,93 @@
+{
+ "guid": "7787e92f-af59-4db7-9a96-4a851b592950",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 1136,
+  "guid": "7787e92f-af59-4db7-9a96-4a851b592950",
+  "reference": "1136",
+  "residency": {
+   "id": 1824,
+   "guid": "6ce48594-35d7-4926-be9d-0d75a2dbff46",
+   "reference": "1824",
+   "name": "RESIDENCE DU GALOP",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 15993,
+   "guid": "0fd7ba0a-47f2-4910-9ccc-d71981dda2bf",
+   "reference": "15993",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 22899,
+    "postcode": "60500",
+    "code": "60141",
+    "name": "Chantilly"
+   },
+   "description": "Buanderie et sèche linge gratuit"
+  },
+  "availableAt": "2024-08-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 629.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-05-22",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0f/0fd7ba0a-47f2-4910-9ccc-d71981dda2bf/medium/cab6bc52-8f48-4216-986c-1a37ba8fd03c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence est situé 1 rue d'Alençon à Chantilly, accessible en 25 minutes de la gare du Nord (Paris). Proche du lycée professionnel Jean Rostand.\n\nAppartement meublé et équipé.\n\nPas de frais de dossier. Logement ouvrant le droit aux APL.\n\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

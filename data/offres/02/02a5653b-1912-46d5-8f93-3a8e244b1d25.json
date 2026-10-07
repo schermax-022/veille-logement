@@ -1,0 +1,98 @@
+{
+ "guid": "02a5653b-1912-46d5-8f93-3a8e244b1d25",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 26642,
+  "guid": "02a5653b-1912-46d5-8f93-3a8e244b1d25",
+  "reference": "26642",
+  "residency": {
+   "id": 5808,
+   "guid": "f1580e0c-b664-4d83-88e0-c5db740401a9",
+   "reference": "5808",
+   "name": "BALLON",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 38239,
+   "guid": "50e63dec-029c-459f-9153-554699d43d3c",
+   "reference": "38239",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 64.5,
+   "municipality": {
+    "id": 27182,
+    "postcode": "68100",
+    "code": "68224",
+    "name": "Mulhouse"
+   },
+   "description": "SANS FRAIS D'AGENCE NI HONORAIRES. Mulhouse centre ville rue du Ballon dans programme neuf norme règlementation thermique RE2020 seuil 2028. Logement disponible.      F3. Entrée avec placard, espace séjour / cuisine ouverte (non équipée), terrasse, 2 chambres, SDB avec baignoire, WC séparé. Chauffage et eau chaude collectif."
+  },
+  "availableAt": "2026-04-13",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 930.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2025-12-02",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50e63dec-029c-459f-9153-554699d43d3c/medium/9e1164c5-a03d-4a74-aa37-eb683bbaf9fc",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "F3. Entrée avec placard, espace séjour / cuisine ouverte (non équipée), terrasse, 2 chambres, SDB avec baignoire, WC séparé. Chauffage et eau chaude collectif.\nSANS FRAIS D'AGENCE NI HONORAIRES. Mulhouse centre ville rue du Ballon dans programme neuf norme règlementation thermique RE2020 seuil 2028. Disponible mars 2026.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

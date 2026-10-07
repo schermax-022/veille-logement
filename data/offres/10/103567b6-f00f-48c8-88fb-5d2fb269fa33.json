@@ -1,0 +1,98 @@
+{
+ "guid": "103567b6-f00f-48c8-88fb-5d2fb269fa33",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 49881,
+  "guid": "103567b6-f00f-48c8-88fb-5d2fb269fa33",
+  "reference": "49881",
+  "residency": {
+   "id": 8161,
+   "guid": "562713ff-05c5-454f-aa87-06f640bc66fb",
+   "reference": "8161",
+   "name": "2297",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57640,
+   "guid": "541b3bef-1512-4f41-9a82-37323ac446ab",
+   "reference": "57640",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 87.2,
+   "municipality": {
+    "id": 30830,
+    "postcode": "77470",
+    "code": "77475",
+    "name": "Trilport"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-09-28",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1170.06,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/54/541b3bef-1512-4f41-9a82-37323ac446ab/medium/69f44660-b5e4-4977-ac64-c0a706ed808a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Bénéficiez de commerces de proximité, un accès aux établissements scolaires, à la culture, à divers sports et loisirs. La ville est desservie également par les transports en commun ligne P et un réseau de bus.",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

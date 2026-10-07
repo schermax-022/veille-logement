@@ -1,0 +1,98 @@
+{
+ "guid": "456ad8c1-fd21-4f91-9de0-1c38113c6429",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 16793,
+  "guid": "456ad8c1-fd21-4f91-9de0-1c38113c6429",
+  "reference": "16793",
+  "residency": {
+   "id": 1271,
+   "guid": "37b4654e-6126-4409-9aa6-f35afd58c1b2",
+   "reference": "1271",
+   "name": "YELLOME LA ROCHE",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 29689,
+   "guid": "7aa7ff56-4a43-4c7a-a1fe-476f49aeda62",
+   "reference": "29689",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 26.49,
+   "municipality": {
+    "id": 6422,
+    "postcode": "19100",
+    "code": "19031",
+    "name": "Brive-la-Gaillarde"
+   },
+   "description": ""
+  },
+  "availableAt": "2025-09-03",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 445.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-01-07",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7a/7aa7ff56-4a43-4c7a-a1fe-476f49aeda62/medium/d07ea08c-05ad-4054-a031-1ac2f035984f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence LAROCHE est idéalement située en plein centre de la ZAC Brive-Laroche\n\nElle propose 20 logements meublés et équipés (kitchenette, mobilier, vaisselle) d'une superficie de 25 à 30 m² , les redevances sont d'environ 460 €\nLa redevance inclut l'ensemble des charges (chauffage, eau chaude + froide, électricité, accès laverie et wifi). Les démarches administratives sont simplifiées, pas d'ouverture ni de fermeture de compteurs, un préavis réduit à 8 jours.\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

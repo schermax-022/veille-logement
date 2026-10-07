@@ -1,0 +1,98 @@
+{
+ "guid": "06641d72-82ac-4c74-9d34-3393a81940de",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 48670,
+  "guid": "06641d72-82ac-4c74-9d34-3393a81940de",
+  "reference": "48670",
+  "residency": {
+   "id": 8039,
+   "guid": "bd5b7410-2317-4dd0-b8ce-eee0f8b74441",
+   "reference": "8039",
+   "name": "2380",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 56692,
+   "guid": "508658b4-84b8-4799-8d10-41a2f69a9b52",
+   "reference": "56692",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 62.57,
+   "municipality": {
+    "id": 30432,
+    "postcode": "77600",
+    "code": "77058",
+    "name": "Bussy-Saint-Georges"
+   },
+   "description": ""
+  },
+  "availableAt": "2027-01-31",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1085.26,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-06",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/508658b4-84b8-4799-8d10-41a2f69a9b52/medium/66fe8a70-f8fb-469a-a2fa-711b8808318f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Bénéficiez de commerces, restaurants et services de proximité, un accès aux établissements scolaires et à divers loisirs. La ville est desservie également par les transports en commun RER A à moins de 2 km de la résidence, un réseau de bus et un accès rapide à l'autoroute A4.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

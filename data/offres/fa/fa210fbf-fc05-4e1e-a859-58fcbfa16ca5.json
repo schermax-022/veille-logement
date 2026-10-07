@@ -1,0 +1,98 @@
+{
+ "guid": "fa210fbf-fc05-4e1e-a859-58fcbfa16ca5",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 43755,
+  "guid": "fa210fbf-fc05-4e1e-a859-58fcbfa16ca5",
+  "reference": "43755",
+  "residency": {
+   "id": 7579,
+   "guid": "cdc10cb6-e68c-42ea-b6ad-c3ee44a7b115",
+   "reference": "7579",
+   "name": "BLAISE PASCAL",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 52782,
+   "guid": "9ca075cc-8c21-4511-a8f3-ea3db25ae502",
+   "reference": "52782",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 30171,
+    "postcode": "76100",
+    "code": "76540",
+    "name": "Rouen"
+   },
+   "description": "Meublé comprenant toutes les charges dans le montant de la redevance (eau, électricité et chauffage)"
+  },
+  "availableAt": "2026-07-09",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 520.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-07-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9c/9ca075cc-8c21-4511-a8f3-ea3db25ae502/medium/a1a8a89c-7f34-4060-9673-4fd371d10d1e",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "•\tStudios et appartements T1/T2 meublés\n•\tLoyers modérés adaptés aux revenus\n•\tAccès prioritaire pour jeunes actifs, étudiants, personnes en insertion ou en situation de précarité\n•\tRésidence sécurisée avec accès contrôlé\n•\tEspaces communs conviviaux : salle polyvalente, buanderie, jardin partagé\n•\tAccompagnement social personnalisé selon les besoins\n\n\nMeublé comprenant toutes les charges dans le montant de la redevance (eau, électricité et chauffage)\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

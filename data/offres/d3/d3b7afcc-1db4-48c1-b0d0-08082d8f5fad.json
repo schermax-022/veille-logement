@@ -1,0 +1,98 @@
+{
+ "guid": "d3b7afcc-1db4-48c1-b0d0-08082d8f5fad",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50500,
+  "guid": "d3b7afcc-1db4-48c1-b0d0-08082d8f5fad",
+  "reference": "50500",
+  "residency": {
+   "id": 4675,
+   "guid": "1948c245-cee0-4363-bc1b-2bcb9f97d7c4",
+   "reference": "4675",
+   "name": "RESIDENCE STOSKOPF",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58182,
+   "guid": "9f50b6df-2796-46ca-ab77-db23e3a32b32",
+   "reference": "58182",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 72.67,
+   "municipality": {
+    "id": 26651,
+    "postcode": "67400",
+    "code": "67218",
+    "name": "Illkirch-Graffenstaden"
+   },
+   "description": "A LOUER SANS FRAIS D'AGENCE NI HONORAIRES. F3 de 72 m² au 3eme étage sans ascenseur situé rue Gabrielle Colette à Illkirch. Séjour - Cuisine séparée (non équipée) - 2 Chambres – SDB baignoire - WC - Balcon – Chauffage individuel gaz chaudière récente – cave. Logement avec mansardes."
+  },
+  "availableAt": "2026-10-07",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 804.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9f/9f50b6df-2796-46ca-ab77-db23e3a32b32/medium/81fa7219-7347-4dd9-ac4b-67ec88674333",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A LOUER SANS FRAIS D'AGENCE NI HONORAIRES. F3 de 72 m² au 3eme étage sans ascenseur situé rue Gabrielle Colette à Illkirch. Séjour - Cuisine séparée (non équipée) - 2 Chambres – SDB baignoire - WC - Balcon – Chauffage individuel gaz chaudière récente – cave. Logement avec mansardes.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

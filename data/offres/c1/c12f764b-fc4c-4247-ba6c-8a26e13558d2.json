@@ -1,0 +1,98 @@
+{
+ "guid": "c12f764b-fc4c-4247-ba6c-8a26e13558d2",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 45572,
+  "guid": "c12f764b-fc4c-4247-ba6c-8a26e13558d2",
+  "reference": "45572",
+  "residency": {
+   "id": 6433,
+   "guid": "48e08119-295b-4b5e-8b97-aa5cbc58ab91",
+   "reference": "6433",
+   "name": "CHARTRES - VICTOR GARAIX",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 43474,
+   "guid": "2f35117a-7617-4ee0-83b7-90ac69a94579",
+   "reference": "43474",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 103.5,
+   "municipality": {
+    "id": 10108,
+    "postcode": "28000",
+    "code": "28085",
+    "name": "Chartres"
+   },
+   "description": "Un logement de type T4 situé au troisième étage et composé de: séjour, cuisine, entrée, chambres x3, dressing, buanderie, salle de bain, salle d'eau, wc x2, circulation, balcons x2, et passerelle."
+  },
+  "availableAt": "2026-08-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1027.09,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-17",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2f35117a-7617-4ee0-83b7-90ac69a94579/medium/7fdf206b-c6fc-4309-87a6-3155848d6d25",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Logement type 4 situé avenue de Beaulieu à Chartres.\n\nCe bien se compose ainsi :\nSéjour, cuisine, entrée, trois chambres, dressing, buanderie, salle de bain, salle d'eau, deux wc, circulation, balcons x2, et passerelle. \n\nRéférence Action Logement 43474",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,245 @@
+{
+ "guid": "3831abfc-0cbf-4869-a294-3a03c522f146",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T18:07:27+02:00",
+ "liste": {
+  "id": 15573,
+  "guid": "3831abfc-0cbf-4869-a294-3a03c522f146",
+  "reference": "15573",
+  "residency": {
+   "id": 1442,
+   "guid": "1835797a-7047-44c4-a9c9-dd7a9db5a614",
+   "reference": "1442",
+   "name": "RÉSIDENCE YELLOME ST MARTIAL",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 28599,
+   "guid": "db57aa2e-b656-44a2-87e8-8b351f2114a9",
+   "reference": "28599",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 28.0,
+   "municipality": {
+    "id": 5282,
+    "postcode": "16000",
+    "code": "16015",
+    "name": "Angoulême"
+   },
+   "description": "Appartements T1, T1 bis et T2\nLoyer de 414 € à 510 €/mois\nde 28 à 61 m²\nAppartement avec kitchenette (mobilier, vaisselle, équipement ménager), entièrement équipés.\nAccès Wifi, Laverie\nLes loyers mensuels sont toutes charges comprises (chauffage, eau, électricité et wifi inclus). "
+  },
+  "availableAt": "2025-07-08",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 414.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-18",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/db/db57aa2e-b656-44a2-87e8-8b351f2114a9/medium/9211789a-4ee8-4210-be7f-ebb346e31ec8",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La Résidence Yellome St Martial propose 7 logements. \n\nEn centre-ville d’Angoulême, idéalement située à proximité de l’artère piétonne commerçante et de la vieille ville, des transports en commun et à 5 min de la gare, cette résidence sur 3 niveaux dispose de : \n- 7 appartements meublés du T1 au T2, avec kitchenette (mobilier, vaisselle, équipement ménager), entièrement équipés, d’une surface de 28 à 61 m². \n- Services associés : accès WIFI, lingerie. \n\nLoyer de 414 € à 510 €/mois \nLes loyers mensuels sont toutes charges comprises (chauffage, eau, électricité et wifi inclus) \nLes démarches administratives sont simplifiées, pas d'ouverture ni de fermeture de compteurs, préavis réduit à 8 jours ",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 15573,
+  "guid": "3831abfc-0cbf-4869-a294-3a03c522f146",
+  "reference": "15573",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/db/db57aa2e-b656-44a2-87e8-8b351f2114a9/large/03981974-1fce-4ccf-8d2c-0655fbfd452c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 28599,
+   "guid": "db57aa2e-b656-44a2-87e8-8b351f2114a9",
+   "reference": "28599",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 28.0,
+   "municipality": {
+    "id": 5282,
+    "postcode": "16000",
+    "code": "16015",
+    "name": "Angoulême"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "COR",
+    "label": "Collectif radiateur",
+    "commercialLabel": "Chauffage collectif radiateur compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "NON",
+     "label": "Pas de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1442,
+   "guid": "1835797a-7047-44c4-a9c9-dd7a9db5a614",
+   "reference": "1442",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-07-08",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La Résidence Yellome St Martial propose 7 logements. \n\nEn centre-ville d’Angoulême, idéalement située à proximité de l’artère piétonne commerçante et de la vieille ville, des transports en commun et à 5 min de la gare, cette résidence sur 3 niveaux dispose de : \n- 7 appartements meublés du T1 au T2, avec kitchenette (mobilier, vaisselle, équipement ménager), entièrement équipés, d’une surface de 28 à 61 m². \n- Services associés : accès WIFI, lingerie. \n\nLoyer de 414 € à 510 €/mois \nLes loyers mensuels sont toutes charges comprises (chauffage, eau, électricité et wifi inclus) \nLes démarches administratives sont simplifiées, pas d'ouverture ni de fermeture de compteurs, préavis réduit à 8 jours ",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 414.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

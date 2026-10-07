@@ -1,0 +1,93 @@
+{
+ "guid": "26009b23-f6b5-4063-aa34-29d711906e0d",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 1965,
+  "guid": "26009b23-f6b5-4063-aa34-29d711906e0d",
+  "reference": "1965",
+  "residency": {
+   "id": 47,
+   "guid": "5a6d9849-93a6-43ba-b1fb-c97e6c7540ad",
+   "reference": "47",
+   "name": "PERSÉE",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 16714,
+   "guid": "d6dcbab6-1fa8-487e-9afa-06ac3b31e357",
+   "reference": "16714",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 16522,
+    "postcode": "44300",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "description": "Logement entièrement équipé et meublé"
+  },
+  "availableAt": "2024-08-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 544.38,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2025-12-24",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d6/d6dcbab6-1fa8-487e-9afa-06ac3b31e357/medium/caf388aa-cba0-4bc0-9317-5818e523fa70",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence de Nantes bénéficie d’une très bonne desserte au niveau transports en communs ainsi qu’au niveau des axes routiers. Elle est desservie par Chronobus C6, l’Express E5 ainsi que par la ligne 75. Elle a un accès direct au périphérique et à l’autoroute A11. Elle est également située à 20min de la gare TGV.\nLa résidence est située dans la ZAC Chantrerie qui accueille principalement des entreprises hautes technologies et des établissements supérieurs de recherches.\n\nMobilier : kitchenette / lit / canapé (T2) / bureau / chaise / table / bibliothèque / placard,\n\nLogement entièrement équipé et meublé\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

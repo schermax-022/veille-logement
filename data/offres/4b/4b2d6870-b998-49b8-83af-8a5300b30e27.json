@@ -1,0 +1,93 @@
+{
+ "guid": "4b2d6870-b998-49b8-83af-8a5300b30e27",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 4498,
+  "guid": "4b2d6870-b998-49b8-83af-8a5300b30e27",
+  "reference": "4498",
+  "residency": {
+   "id": 2564,
+   "guid": "b8fe2cd0-4d1f-4bd6-984f-58fec7b24d62",
+   "reference": "2564",
+   "name": "VAL-DE THOUET",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18702,
+   "guid": "0c2d1127-79f1-46bf-8044-79792193cfd7",
+   "reference": "18702",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 17930,
+    "postcode": "49400",
+    "code": "49328",
+    "name": "Saumur"
+   },
+   "description": "Logement disponible"
+  },
+  "availableAt": "2024-11-29",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 472.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0c/0c2d1127-79f1-46bf-8044-79792193cfd7/medium/c3c15749-52f7-462b-b3f0-5d181cbad72f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette Résidence propose des studios équipés et meublés, du T1 Bis au T2, adaptés aux courts et longs séjours. Elle, un accompagnement dans l'ensemble de vos démarches administratives \nSituée à 5mn du cœur de Ville,  des arrêts de bus Agglo, de tous commerces\n\nLogement disponible\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

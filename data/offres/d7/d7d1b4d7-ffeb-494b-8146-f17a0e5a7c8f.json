@@ -1,0 +1,98 @@
+{
+ "guid": "d7d1b4d7-ffeb-494b-8146-f17a0e5a7c8f",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 15031,
+  "guid": "d7d1b4d7-ffeb-494b-8146-f17a0e5a7c8f",
+  "reference": "15031",
+  "residency": {
+   "id": 4289,
+   "guid": "3b51d277-2168-4a5a-a9ab-9122c11eb61e",
+   "reference": "4289",
+   "name": "ROSTAND",
+   "type": {
+    "id": 3,
+    "ordering": 7,
+    "code": "RHV",
+    "label": "Résidence hôtelière à vocation sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 28084,
+   "guid": "e979ada3-58f7-4df4-a6f1-417cd33995d3",
+   "reference": "28084",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 11960,
+    "postcode": "31200",
+    "code": "31555",
+    "name": "Toulouse"
+   },
+   "description": "La résidence propose des logements meublés avec kitchenette, salle de bain privative, disponibles à Toulouse Borderouge."
+  },
+  "availableAt": "2025-08-16",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 600.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-01-20",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e9/e979ada3-58f7-4df4-a6f1-417cd33995d3/medium/63d88bfd-8a61-4042-8886-4222086f9731",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "À seulement 500 m de la station de métro Borderouge (ligne B), avec un arrêt de bus au pied de la résidence, elle offre un accès rapide au centre-ville, aux commerces et à la rocade.\n\nLa résidence neuve, sécurisée et sous vidéosurveillance, dispose d’un accueil 24h/24, 7j/7, avec des services tels que : parking sécurisé, local à vélos, salle informatique, laverie en libre-service, Wi-Fi gratuit…\n\nLa résidence propose des logements meublés avec kitchenette et salle de bain privative.\n\nPossibilité de place de parking souterrain à 50 €/mois, (sous réserve de disponibilité).\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

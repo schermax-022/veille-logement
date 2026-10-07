@@ -1,0 +1,93 @@
+{
+ "guid": "13a2f4dc-0bea-4756-bb2a-b4b222cd33fb",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 51202,
+  "guid": "13a2f4dc-0bea-4756-bb2a-b4b222cd33fb",
+  "reference": "51202",
+  "residency": {
+   "id": 2472,
+   "guid": "3d47fb54-2443-4cba-99e5-1bbd3e5a3d05",
+   "reference": "2472",
+   "name": "JEUNES ACTIFS DE NOGENT SUR MARNE",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58756,
+   "guid": "d55953fe-a315-455f-91cb-689865694568",
+   "reference": "58756",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 35066,
+    "postcode": "94130",
+    "code": "94052",
+    "name": "Nogent-sur-Marne"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-19",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 624.24,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-06",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d5/d55953fe-a315-455f-91cb-689865694568/medium/8c03fd1b-fb2d-46a5-85c6-92f47c6da12c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Au calme, dans un quartier résidentiel entre le bois de Vincennes et les Bords de Marne, cette résidence de 48 logements se situe à proximité du centre ville et des transports (RER A et E).\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

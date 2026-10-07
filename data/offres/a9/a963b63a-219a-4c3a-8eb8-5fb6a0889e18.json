@@ -1,0 +1,93 @@
+{
+ "guid": "a963b63a-219a-4c3a-8eb8-5fb6a0889e18",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 5813,
+  "guid": "a963b63a-219a-4c3a-8eb8-5fb6a0889e18",
+  "reference": "5813",
+  "residency": {
+   "id": 69,
+   "guid": "92d0eafc-da60-461b-849d-a606087cafbe",
+   "reference": "69",
+   "name": "PÉGASE - RS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 19626,
+   "guid": "1dd5e27f-f55f-45ce-b904-e30a446b402c",
+   "reference": "19626",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 34.5,
+   "municipality": {
+    "id": 16520,
+    "postcode": "44100",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "description": "Logement meublé et équipé disponible"
+  },
+  "availableAt": "2025-02-04",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 535.5,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1d/1dd5e27f-f55f-45ce-b904-e30a446b402c/medium/1392a126-d994-4515-afee-6ed5431172a8",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Située à l’ouest de Nantes, la résidence est idéalement située à proximité du périphérique, des bus et du tramway (arrêts Croix Bonneau et Jamet). Le centre ville est accessible en 10 minutes en transports en commun. Possibilité d’une place de stationnement au sein de la résidence à 19,77 euros / mois.\n\nLogement meublé et équipé disponible\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,98 @@
+{
+ "guid": "dcd55e8e-fbb8-4def-9a23-697eb0087dbc",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 29466,
+  "guid": "dcd55e8e-fbb8-4def-9a23-697eb0087dbc",
+  "reference": "29466",
+  "residency": {
+   "id": 6108,
+   "guid": "ef16db77-57a2-4e39-bff0-a96401c1660a",
+   "reference": "6108",
+   "name": "RJT PONT ST MARTIN",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 40637,
+   "guid": "5dfcf953-fef8-4022-a79f-5abad767ec13",
+   "reference": "40637",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 16543,
+    "postcode": "44860",
+    "code": "44130",
+    "name": "Pont-Saint-Martin"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-03-02",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 459.96,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-01-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5d/5dfcf953-fef8-4022-a79f-5abad767ec13/medium/277402a7-79a2-4c33-a82f-a5c6f5ebd6c8",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Spécifiquement conçue pour les jeunes de 16 à 30 ans, la résidence comporte 22 logements meublés et équipés, allant du T1 au T2, ainsi que des espaces partagés, une laverie, et une salle commune pour favoriser l’échange et la convivialité. Implantée en plein cœur du bourg de la commune, à proximité de toutes commodités.\nLogement T1 de 20 m² disponible le 02/03/2026\n\n",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

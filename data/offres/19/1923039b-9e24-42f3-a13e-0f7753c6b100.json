@@ -1,0 +1,93 @@
+{
+ "guid": "1923039b-9e24-42f3-a13e-0f7753c6b100",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 44169,
+  "guid": "1923039b-9e24-42f3-a13e-0f7753c6b100",
+  "reference": "44169",
+  "residency": {
+   "id": 2600,
+   "guid": "9cc464f2-7008-4c73-8d7a-60c54f51a2a1",
+   "reference": "2600",
+   "name": "RS ADEF HABITAT VITRY MANOUCHIAN",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 50818,
+   "guid": "c5773eb8-57a4-4dc5-9cfa-64f9b77834ab",
+   "reference": "50818",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 26.73,
+   "municipality": {
+    "id": 35089,
+    "postcode": "94400",
+    "code": "94081",
+    "name": "Vitry-sur-Seine"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-01",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 611.92,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-30",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c5773eb8-57a4-4dc5-9cfa-64f9b77834ab/medium/601ec653-536c-4ef1-a761-661c9a22a2e4",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé dans le quartier des Ardoines à Vitry, la Résidence Manouchian est à 10 minutes de Paris grâce au RER C et à moins de 15 minutes à pied du centre-ville et de tous les commerces. Elle accueille des personnes seules, des couples et des familles monoparentales avec enfants de moins de 4 ans.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n\n",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

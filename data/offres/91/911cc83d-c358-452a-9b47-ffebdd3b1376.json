@@ -1,0 +1,93 @@
+{
+ "guid": "911cc83d-c358-452a-9b47-ffebdd3b1376",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 3404,
+  "guid": "911cc83d-c358-452a-9b47-ffebdd3b1376",
+  "reference": "3404",
+  "residency": {
+   "id": 2439,
+   "guid": "640775aa-3de5-4ac7-80a3-8da283b8ba4e",
+   "reference": "2439",
+   "name": "FOYER DES JEUNES TRAVAILLEURS - ESCALE ET HABITAT",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 17771,
+   "guid": "c398fa59-4bd5-4489-a8ce-e485a29834b7",
+   "reference": "17771",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 12.0,
+   "municipality": {
+    "id": 15577,
+    "postcode": "41000",
+    "code": "41018",
+    "name": "Blois"
+   },
+   "description": "Chambre de 12 m² au sein d'une résidence à Blois, salle tv, billard, ping pong, salle de restaurant, salle de sport, laverie, espace extérieur."
+  },
+  "availableAt": "2024-10-04",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 367.85,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c3/c398fa59-4bd5-4489-a8ce-e485a29834b7/medium/db4c477e-020a-4225-a213-175f3787679c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence étudiante de 18 à 30 ans, avec salle de restauration, salle informatique, wifi, salle de sport, billard, ping pong, cuisine à disposition, laverie.\n\nChambre de 12 m² au sein d'une résidence à Blois, salle tv, billard, ping pong, salle de restaurant, salle de sport, laverie, espace extérieur.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

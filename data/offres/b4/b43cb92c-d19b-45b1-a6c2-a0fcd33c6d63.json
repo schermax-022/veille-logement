@@ -1,0 +1,98 @@
+{
+ "guid": "b43cb92c-d19b-45b1-a6c2-a0fcd33c6d63",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 49005,
+  "guid": "b43cb92c-d19b-45b1-a6c2-a0fcd33c6d63",
+  "reference": "49005",
+  "residency": {
+   "id": 3383,
+   "guid": "393cfd28-a203-4e02-a9d1-8dbe96e75d4d",
+   "reference": "3383",
+   "name": "UNITHA",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 56937,
+   "guid": "ecff3ed3-24af-4674-8d1b-d38d7d130660",
+   "reference": "56937",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.43,
+   "municipality": {
+    "id": 26651,
+    "postcode": "67400",
+    "code": "67218",
+    "name": "Illkirch-Graffenstaden"
+   },
+   "description": "A LOUER – Sans frais d’agence ni honoraires - ILLKIRCH proximité tram Lixenbuhl - F2 de 46 m² au dernier étage avec ascenseur - Entrée - Espace séjour cuisine ouverte (non équipée) - Accès terrasse - Chambre de 13 m² - SDB attenante avec douche - WC séparé. Parking en sous-sol inclus. Chauffage et eau chaude collectif gaz. Photos logement similaire."
+  },
+  "availableAt": "2026-10-07",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 823.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-14",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ecff3ed3-24af-4674-8d1b-d38d7d130660/medium/ccfff892-b536-401c-b545-e8e7c935c039",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A LOUER – Sans frais d’agence ni honoraires - ILLKIRCH proximité tram Lixenbuhl - F2 de 46 m² au dernier étage avec ascenseur - Entrée - Espace séjour cuisine ouverte (non équipée) - Accès terrasse - Chambre de 13 m² - SDB attenante avec douche - WC séparé. Parking en sous-sol inclus. Chauffage et eau chaude collectif gaz. Photos logement similaire.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

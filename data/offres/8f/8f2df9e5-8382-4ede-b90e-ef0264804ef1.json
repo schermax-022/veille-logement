@@ -1,0 +1,93 @@
+{
+ "guid": "8f2df9e5-8382-4ede-b90e-ef0264804ef1",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 1079,
+  "guid": "8f2df9e5-8382-4ede-b90e-ef0264804ef1",
+  "reference": "1079",
+  "residency": {
+   "id": 1370,
+   "guid": "99ca03be-31ca-44a0-84bd-d47b2a10f68e",
+   "reference": "1370",
+   "name": "BALMA PIERRE GARRIGUES",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 15935,
+   "guid": "2bc2be11-d62c-48f6-9925-a371879322ab",
+   "reference": "15935",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.5,
+   "municipality": {
+    "id": 11452,
+    "postcode": "31130",
+    "code": "31044",
+    "name": "Balma"
+   },
+   "description": "Logement équipé d'une kitchenette, d'une salle d'eau, de lits, de chaises, d'une table et d'une armoire.\nLe linge de nuit est fourni."
+  },
+  "availableAt": "2026-10-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 548.75,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-25",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2b/2bc2be11-d62c-48f6-9925-a371879322ab/medium/e2e792e2-67ad-418f-80c8-dba7a88a9f1c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence sociale située au pied du métro Balma Gramont, disposant de studio meublés.\n\nLogement équipé d'une kitchenette, d'une salle d'eau, de deux petits lits, de chaises, d'une table et d'une armoire.\nLe linge de nuit est fourni.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

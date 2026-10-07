@@ -1,0 +1,98 @@
+{
+ "guid": "4ab794fe-0046-49fb-bd85-8d70a2ceaa00",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 44635,
+  "guid": "4ab794fe-0046-49fb-bd85-8d70a2ceaa00",
+  "reference": "44635",
+  "residency": {
+   "id": 7664,
+   "guid": "165940b3-98db-4116-a1f7-110c9278d56d",
+   "reference": "7664",
+   "name": "FOYER DES JEUNES TRAVAILLEURS DE COUTANCES",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 53450,
+   "guid": "52236385-88f4-4fa3-85a3-3578624d427b",
+   "reference": "53450",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 18073,
+    "postcode": "50200",
+    "code": "50147",
+    "name": "Coutances"
+   },
+   "description": "Studio entièrement meublé, kitchenette, douche et WC"
+  },
+  "availableAt": "2026-08-10",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 485.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-07-22",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/52/52236385-88f4-4fa3-85a3-3578624d427b/medium/52b8cc63-0852-401b-9c6a-48d1094dae4a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Le foyer des jeunes travailleurs (FJT) accueille en priorité des jeunes de 16 à 30 ans qui arrivent à Coutances pour un travail, une formation ou des études. \nIl dispose de 80 logements répartis en 58 chambres individuelles avec sanitaires (12m²) et 22 studios équipés de cuisinette (23m²). \nTous les logements sont équipés pour recevoir Internet.\n\nStudio entièrement meublé, kitchenette, douche et WC\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,98 @@
+{
+ "guid": "308cb1c9-4415-4179-a616-69a9e2e110b2",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 51037,
+  "guid": "308cb1c9-4415-4179-a616-69a9e2e110b2",
+  "reference": "51037",
+  "residency": {
+   "id": 1668,
+   "guid": "6cbb720b-72dd-430a-8231-800e278084bd",
+   "reference": "1668",
+   "name": "GRENOBLE LA CAPUCHE",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58618,
+   "guid": "5c2bcf23-ceae-4c0f-8a58-be5238750747",
+   "reference": "58618",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 14372,
+    "postcode": "38100",
+    "code": "38185",
+    "name": "Grenoble"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-10",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 437.59,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-05",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5c/5c2bcf23-ceae-4c0f-8a58-be5238750747/medium/5f9cff75-f8d7-465e-a1f0-d8a270f728dc",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La Résidence CAPUCHE est située dans le centre de Grenoble, à proximité de quartier de l’Aigle.  \nLes logements sont tous meublés et équipés et également accessibles aux personnes à mobilité réduite.  \nLa redevance inclut l'ensemble des charges (chauffage, électricité, eau, taxe ordonnances ménagères et entretien parties communes).  \n\nInfrastructures à proximités (écoles, commerces, boulangerie, etc.) et transports en commun accessibles : Bus lignes C3 -16 - 83 et Tram lignes C – E, nombreuses pistes cyclables et axes routiers faciles d'accès. \n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

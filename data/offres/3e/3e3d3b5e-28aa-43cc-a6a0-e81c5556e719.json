@@ -1,0 +1,93 @@
+{
+ "guid": "3e3d3b5e-28aa-43cc-a6a0-e81c5556e719",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 2903,
+  "guid": "3e3d3b5e-28aa-43cc-a6a0-e81c5556e719",
+  "reference": "2903",
+  "residency": {
+   "id": 1562,
+   "guid": "6c1136d6-61d2-4385-86b7-60e6f42b4dda",
+   "reference": "1562",
+   "name": "RÉTINA",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 13359,
+   "guid": "842e4ab4-733c-48e0-94c5-7cc104554521",
+   "reference": "13359",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 2483,
+    "postcode": "08000",
+    "code": "08105",
+    "name": "Charleville-Mézières"
+   },
+   "description": "Logement neuf à la décoration soignée avec kitchenette et salle d'eau privative.\n\nPossibilité de parking : loyer 10 € par mois"
+  },
+  "availableAt": "2024-09-06",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 530.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-02-02",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/842e4ab4-733c-48e0-94c5-7cc104554521/medium/b6d11b08-5fd9-477c-9c64-bc830123856b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence neuve pour étudiants, apprentis et jeunes actifs de moins de 30 ans idéalement située à quelques minutes à pieds du centre-ville. Accès immédiat aux transports en communs (bus de ville et gare à proximité).\nLa résidence vous propose un accompagnement administratif et social en complément de ses nombreux équipements dont une salle de coworking.\nAfin de faciliter votre quotidien, la résidence a mis en place une distribution de colis alimentaires, 2 fois par mois et pour tous les résidents.\nCertains logements sont adaptés aux personnes à mobilité réduite.\n\nLogement neuf à la décoration soignée avec kitchenette et salle d'eau privative.\n\nPossibilité de place de parking : loyer 10 € par mois\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

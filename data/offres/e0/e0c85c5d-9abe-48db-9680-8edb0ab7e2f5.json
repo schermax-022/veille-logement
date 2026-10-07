@@ -1,0 +1,93 @@
+{
+ "guid": "e0c85c5d-9abe-48db-9680-8edb0ab7e2f5",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 4030,
+  "guid": "e0c85c5d-9abe-48db-9680-8edb0ab7e2f5",
+  "reference": "4030",
+  "residency": {
+   "id": 2494,
+   "guid": "9aa5f515-6f96-4806-ab2d-d68f6539a358",
+   "reference": "2494",
+   "name": "RESIDENCE SAINT LYPHARD",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18365,
+   "guid": "8eeb9f7b-2d97-48b1-86b5-5cab96de5483",
+   "reference": "18365",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 16585,
+    "postcode": "44410",
+    "code": "44175",
+    "name": "Saint-Lyphard"
+   },
+   "description": "Logement meublé et équipé"
+  },
+  "availableAt": "2025-01-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 471.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8eeb9f7b-2d97-48b1-86b5-5cab96de5483/medium/dc5aec06-4b3f-4d61-8588-654954136879",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Vous êtes à la recherche d’un logement convivial et dynamique ? La résidence Presqu’île Habitat Jeunes est l’endroit idéal pour vous ! Située au cœur de Saint-Lyphard, notre résidence offre un cadre de vie agréable et sécurisé, spécialement conçu pour les jeunes actifs\n\nLogement meublé et équipé\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

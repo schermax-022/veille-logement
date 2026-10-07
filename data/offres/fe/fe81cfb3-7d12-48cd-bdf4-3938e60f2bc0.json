@@ -1,0 +1,93 @@
+{
+ "guid": "fe81cfb3-7d12-48cd-bdf4-3938e60f2bc0",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 42541,
+  "guid": "fe81cfb3-7d12-48cd-bdf4-3938e60f2bc0",
+  "reference": "42541",
+  "residency": {
+   "id": 7394,
+   "guid": "08e67c64-c62f-4d0d-ad5e-046c9c1167fb",
+   "reference": "7394",
+   "name": "SAINT LOUIS",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 51753,
+   "guid": "6289a43a-eae0-420b-bc45-54430a43b6e2",
+   "reference": "51753",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 13.0,
+   "municipality": {
+    "id": 24846,
+    "postcode": "63000",
+    "code": "63113",
+    "name": "Clermont-Ferrand"
+   },
+   "description": "A louer chambre mezzanine  sans cuisine\nComprenant : Lit avec oreiller, couette et draps ; Canapé ; Bureau et chaise ; Placard avec penderie"
+  },
+  "availableAt": "2026-06-23",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 545.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-24",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/6289a43a-eae0-420b-bc45-54430a43b6e2/medium/617fbb9d-0a3f-4961-a9bd-2347eae5e182",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence en centre ville, à proximité des commerces, de la ligne de tramway, de bus et point C.Vélo\nA 300 m de la résidence (dans la résidence St Jean) :\n- Parking, Animations collectives, Restauration (self et snacking), Service de bagagerie, Espace télé & détente, accompagnement personnalisé par les équipes du Corum Saint-Jean\n\nA louer chambre mezzanine  sans cuisine\nComprenant : Lit avec oreiller, couette et draps ; Canapé ; Bureau et chaise ; Placard avec penderie\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,98 @@
+{
+ "guid": "b18b4278-1824-4963-89bd-35d4755b1667",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50182,
+  "guid": "b18b4278-1824-4963-89bd-35d4755b1667",
+  "reference": "50182",
+  "residency": {
+   "id": 4063,
+   "guid": "2f3d7425-fd29-4f56-bbf8-2390cbfadc2e",
+   "reference": "4063",
+   "name": "NANTERRE 65 HOCHE       ",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57914,
+   "guid": "f7999cce-3678-4a0b-8ee2-7751e62f2c4d",
+   "reference": "57914",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 83.3,
+   "municipality": {
+    "id": 34988,
+    "postcode": "92000",
+    "code": "92050",
+    "name": "Nanterre"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-24",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1726.01,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-30",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f7999cce-3678-4a0b-8ee2-7751e62f2c4d/medium/03f3ec5f-206a-475f-886f-ce2155088312",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A Nanterre, dans cette ville dynamique desservie par plusieurs transports en commun (Transilien, RER et lignes de bus) et dotée de nombreux commerces et infrastructures (culturelles, sportives, scolaires).",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

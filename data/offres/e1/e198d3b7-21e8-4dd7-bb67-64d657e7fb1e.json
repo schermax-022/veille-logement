@@ -1,0 +1,98 @@
+{
+ "guid": "e198d3b7-21e8-4dd7-bb67-64d657e7fb1e",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50761,
+  "guid": "e198d3b7-21e8-4dd7-bb67-64d657e7fb1e",
+  "reference": "50761",
+  "residency": {
+   "id": 4968,
+   "guid": "ace48792-fc0b-46f6-a35d-fa8be5da3dc2",
+   "reference": "4968",
+   "name": "SAINT DENIS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58399,
+   "guid": "3bcb160a-f132-43f1-95fc-e62eed985b12",
+   "reference": "58399",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 91.0,
+   "municipality": {
+    "id": 35032,
+    "postcode": "93200",
+    "code": "93066",
+    "name": "Saint-Denis"
+   },
+   "description": "TRANSPORTS :\nGare de St Denis à 150m : RER D et transilien H\r\nTramway T1 et T8 à 300m\r\nMetro ligne 13 à 1.5 km\r\nAccès aux autoroutes A86 et A1\nECOLES :\nmaternelles : 30\r\nprimaires : 30\r\ncollèges : 8 publics + 2 privés\r\nlycées : 4 publics + 2 privés\r\nCOMMERCES :\nFranprix à 3 mn de la résidence\r\nMarché du centre ville à 1 km le mardi, vendredi et dimanche\r\nCarrefour à 1.3 km\nSERVICES DIVERS :\nCentre hospitalier de Saint Denis\r\nRelais d'assistantes maternelles : 2\r\nCrèches municipales : 12\r\nMédiathèques : 5\r\n1 conservatoire de musique et de danse\r\n1 piscine et 1 centre nautique\r\nNombreuses associations culturelles et sportives"
+  },
+  "availableAt": "2026-10-07",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1543.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 41.67,
+  "startDateOfPublication": "2026-10-01",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3bcb160a-f132-43f1-95fc-e62eed985b12/medium/1cc7900d-fefa-48e0-aa6f-3e4662a33aa1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Dans la commune de Saint Denis situé rue Rosa Parks, venez découvrir un appartement de 4 pièces, au 1er étage (avec ascenseur) d'une superficie de 91 m², le mode de chauffage est collectif urbain.\nVous bénéficierez de toutes les commodités à proximité des (commerces, infrastructures éducatives, scolaires & sportives), des transports en commun, RER D et Transilien H, métro ligne 13.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

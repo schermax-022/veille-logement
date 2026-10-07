@@ -1,0 +1,93 @@
+{
+ "guid": "113e7b36-936d-469c-96e6-6aa70bfc5f10",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 44122,
+  "guid": "113e7b36-936d-469c-96e6-6aa70bfc5f10",
+  "reference": "44122",
+  "residency": {
+   "id": 7576,
+   "guid": "3c5c2855-30de-487a-89ec-c26d698b2918",
+   "reference": "7576",
+   "name": "CLAUDE HAIGNERE",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 53047,
+   "guid": "8f8aa685-32b8-4d88-8fb5-22e6fd5681ce",
+   "reference": "53047",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 34898,
+    "postcode": "91120",
+    "code": "91477",
+    "name": "Palaiseau"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-08-31",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 532.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-28",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8f/8f8aa685-32b8-4d88-8fb5-22e6fd5681ce/medium/ea7a2df8-f7ff-4933-8a48-4e034f470a9e",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Située au coeur du campus de SACLAY, cette résidence neuve est à proximité des établissements d’enseignement supérieur. Elle offre un cadre de vie confortable et fonctionnel, pensé pour accompagner les étudiants au quotidien.\nBus :\nLignes 14, 91-06, 91-08, N63 – arrêt Ferme de la Vauve (4 min à pied)\n\nRER :\nLigne B – gare de Lozère (19 min à pied)\n\n",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

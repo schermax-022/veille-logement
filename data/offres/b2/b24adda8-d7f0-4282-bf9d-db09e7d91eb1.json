@@ -1,0 +1,98 @@
+{
+ "guid": "b24adda8-d7f0-4282-bf9d-db09e7d91eb1",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 48466,
+  "guid": "b24adda8-d7f0-4282-bf9d-db09e7d91eb1",
+  "reference": "48466",
+  "residency": {
+   "id": 6451,
+   "guid": "0ad6db29-73f9-402a-ad34-b168e953278b",
+   "reference": "6451",
+   "name": "SAINT-DENIS-DE-LA-REUNION - 2 G.FRANCOIS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 56528,
+   "guid": "9ec61db1-4bc0-4620-9c80-b784b0d95f19",
+   "reference": "56528",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 74.02,
+   "municipality": {
+    "id": 35382,
+    "postcode": "97400",
+    "code": "97411",
+    "name": "Saint-Denis"
+   },
+   "description": "Un appartement de type 3 comprenant : une entrée, un séjour cuisine équipée, deux chambres avec placard, un dégagement, une salle d'eau, un wc séparé, une varangue avec un espace sanitaire pour le lave linge et le sèche linge."
+  },
+  "availableAt": "2026-10-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 976.04,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-07",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9e/9ec61db1-4bc0-4620-9c80-b784b0d95f19/medium/124df68c-c90a-4625-bf8c-4d18b096a0e2",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A LOUER - Appartement T3  + Varangue d'une surface habitable de 74,02 m2\n- cuisine équipée\n- chambres avec placard\nAdresse : 2 RUE GEORGES FRANCOIS - Saint-Denis\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

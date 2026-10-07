@@ -1,0 +1,93 @@
+{
+ "guid": "e090fe08-12ab-49f3-b951-d3c38b36f346",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 5391,
+  "guid": "e090fe08-12ab-49f3-b951-d3c38b36f346",
+  "reference": "5391",
+  "residency": {
+   "id": 2071,
+   "guid": "60319eaa-2722-4384-ad09-077e2e151357",
+   "reference": "2071",
+   "name": "RJA LES CLOS",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 19334,
+   "guid": "b834a17d-2a29-4d3a-88bb-fd6a27bf3637",
+   "reference": "19334",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 10108,
+    "postcode": "28000",
+    "code": "28085",
+    "name": "Chartres"
+   },
+   "description": "T1 de 20 m² meublé\nfrais de dossier  de 10 euros "
+  },
+  "availableAt": "2025-01-16",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 456.9,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 10.0,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b8/b834a17d-2a29-4d3a-88bb-fd6a27bf3637/medium/9f5fd5c7-f76e-4655-9870-ff9a060c202e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence de 98 logements de 20 et 30 m2, équipés et meublés. \nA 30 minutes  à pieds du centre ville\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

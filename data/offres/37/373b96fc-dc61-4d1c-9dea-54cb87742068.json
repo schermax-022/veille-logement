@@ -1,0 +1,98 @@
+{
+ "guid": "373b96fc-dc61-4d1c-9dea-54cb87742068",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 7359,
+  "guid": "373b96fc-dc61-4d1c-9dea-54cb87742068",
+  "reference": "7359",
+  "residency": {
+   "id": 2174,
+   "guid": "608b1a3c-a2b2-44a9-9895-703193c6c16d",
+   "reference": "2174",
+   "name": "PLACE DU PUY HEAUME",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 20833,
+   "guid": "d8721428-805e-429f-844b-9fdbe51d6c6d",
+   "reference": "20833",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 17898,
+    "postcode": "49124",
+    "code": "49267",
+    "name": "Saint-Barthélemy-d'Anjou"
+   },
+   "description": "Logement NEUF meublé T1 disponible le 27 Mai 2025"
+  },
+  "availableAt": "2025-05-27",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 431.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8721428-805e-429f-844b-9fdbe51d6c6d/medium/d7ff1bd8-3f7f-494f-8f78-cbcc64eced32",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence NEUVE exclusivement réservée aux étudiants/alternants/apprentis de 99 logements de 19.5 m² à 44 m², proche commerces et transports\nLocaux communs (salle d’étude, cafétaria, laverie, etc.)\nStationnements payants au rez-de-chaussée.\nChaque logement est composé d’une kitchenette (2 plaques électriques, 1 réfrigérateur, 1 micro-onde) et d’une salle d’eau avec WC\nTous nos logements sont meublés\nLes charges comprennent l’eau, le chauffage, l’électricité et internet\nune terrasse collective\nLogement NEUF meublé T1 disponible le 27 Mai 2025\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

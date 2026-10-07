@@ -1,0 +1,98 @@
+{
+ "guid": "debe4970-a422-4fef-a9ee-c3e0483ba4a4",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 8012,
+  "guid": "debe4970-a422-4fef-a9ee-c3e0483ba4a4",
+  "reference": "8012",
+  "residency": {
+   "id": 2817,
+   "guid": "228b2084-3757-482e-8ad9-6305cc2f4df0",
+   "reference": "2817",
+   "name": "SPACIO",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 21550,
+   "guid": "ab5318b6-4e2d-42b0-a437-a337d3c0df0f",
+   "reference": "21550",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 11242,
+    "postcode": "30000",
+    "code": "30189",
+    "name": "Nîmes"
+   },
+   "description": "T1 de 19 à 21m2 ; Loyer entre 400€ et 444€/mois charges comprises;  eau, électricité et internet compris."
+  },
+  "availableAt": "2025-10-01",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 445.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-17",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ab/ab5318b6-4e2d-42b0-a437-a337d3c0df0f/medium/986290de-b909-47bb-bd35-e4965608f881",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence neuve située à Nîmes, Boulevard Sergent Triaire, composée de 125 logements.\nCette résidence dont la livraison est prévue au 1er Octobre 2025 est destinée à un public exclusivement étudiant. Idéalement située à proximité de la gare, des transports en commun, des commerces et des services.\nUne cour intérieure et des espaces verts rendent la résidence très agréable.\nLes logements sont spacieux et équipés confortablement.\nDe nombreux services et installations sont proposés :\nUn local Vélo, un parking souterrain (place sous réserve de disponibilité),\nLaverie, Espaces de convivialité : terrasse, salle de coworking et salle de sport.\n\nT1 de 19 à 21m2 ; Loyer entre 400€ et 444€/mois charges comprises;  eau, électricité et internet compris.\n\n ",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

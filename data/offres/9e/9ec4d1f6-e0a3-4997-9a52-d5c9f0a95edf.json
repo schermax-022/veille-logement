@@ -1,0 +1,93 @@
+{
+ "guid": "9ec4d1f6-e0a3-4997-9a52-d5c9f0a95edf",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 4492,
+  "guid": "9ec4d1f6-e0a3-4997-9a52-d5c9f0a95edf",
+  "reference": "4492",
+  "residency": {
+   "id": 2561,
+   "guid": "dbe5c36c-b729-456f-af66-cdb5a0b4a997",
+   "reference": "2561",
+   "name": "AGROPOLIS RS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18698,
+   "guid": "589a9a6c-d44e-408f-9d2a-a9fea887409f",
+   "reference": "18698",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 33165,
+    "postcode": "85000",
+    "code": "85191",
+    "name": "La Roche-sur-Yon"
+   },
+   "description": "Logement disponible"
+  },
+  "availableAt": "2024-11-29",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 364.71,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/58/589a9a6c-d44e-408f-9d2a-a9fea887409f/medium/80374419-69b6-43e6-bbd1-84ea22c30096",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence Agropolis est située à l'entrée de la Roche-sur-Yon. \nElle propose 80 logements meublés de 21 m2.\nLogements équipés : cuisine, pièce de vie aménagée, salle d’eau et WC individuel. La vaisselle est à prévoir.\nDe vastes parkings avec accès par carte magnétique, des liaisons bus assurées vers le centre ville de la Roche sur Yon. Commerces à proximité (centre commercial des Flâneries)\n\nLogement disponible\n\nParking compris dans le prix du loyer.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

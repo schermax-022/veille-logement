@@ -1,0 +1,98 @@
+{
+ "guid": "3d7368f8-0d92-41a0-a7eb-cd34dfdc8027",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 42917,
+  "guid": "3d7368f8-0d92-41a0-a7eb-cd34dfdc8027",
+  "reference": "42917",
+  "residency": {
+   "id": 7440,
+   "guid": "e9ad5d2d-41e6-49d2-a356-1c68b4958db4",
+   "reference": "7440",
+   "name": "CAMPUS GASQUET",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 52053,
+   "guid": "cc5f10b1-3d36-47e7-bc48-c38794539c35",
+   "reference": "52053",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 30.84,
+   "municipality": {
+    "id": 32833,
+    "postcode": "83100",
+    "code": "83137",
+    "name": "Toulon"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-07-30",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 699.13,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-30",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cc/cc5f10b1-3d36-47e7-bc48-c38794539c35/medium/c78270b4-e385-4109-a8d9-ba78548dc6f2",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé rue Massenet à Toulon, ce bien bénéficie d’un emplacement agréable au sein d’un secteur résidentiel, à proximité des commerces, des services et des établissements scolaires.\nToulon offre un cadre de vie dynamique entre mer et collines, avec un centre-ville animé, un port emblématique, de nombreuses infrastructures culturelles et sportives ainsi qu’un accès rapide aux plages.\nL’emplacement profite d’une bonne accessibilité grâce aux principaux axes routiers, notamment l’autoroute A50, facilitant les déplacements vers La Seyne-sur-Mer, Hyères et Marseille.\nLe secteur est bien desservi par les transports en commun du réseau Mistral, permettant de rejoindre facilement les différents quartiers de la ville et les pôles d’activité.\nUn emplacement recherché, alliant confort de vie, proximité des commodités et accessibilité.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

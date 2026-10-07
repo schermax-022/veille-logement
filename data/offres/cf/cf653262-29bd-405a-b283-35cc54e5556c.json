@@ -1,0 +1,98 @@
+{
+ "guid": "cf653262-29bd-405a-b283-35cc54e5556c",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 33141,
+  "guid": "cf653262-29bd-405a-b283-35cc54e5556c",
+  "reference": "33141",
+  "residency": {
+   "id": 4256,
+   "guid": "efd23f4e-bd3d-4eaa-8f2b-e85309f06c13",
+   "reference": "4256",
+   "name": "NANTES - JULIETTE ADAM",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 43783,
+   "guid": "a21b9fda-53b1-4500-8b72-6687a62c14fd",
+   "reference": "43783",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 71.34,
+   "municipality": {
+    "id": 16522,
+    "postcode": "44300",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "description": "Un appartement de type 3 comprenant : une entrée, un séjour cuisine équipée, deux chambres dont une avec placard, un cellier, un dégagement avec placard, une salle d'eau, un wc séparé, une terrasse."
+  },
+  "availableAt": "2026-01-22",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1008.04,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-15",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a2/a21b9fda-53b1-4500-8b72-6687a62c14fd/medium/695a3b88-421e-4007-b40b-5a4e5fb15ff6",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Dans résidence neuve Performance environnementale RT 2012, autour d'un cœur d'îlot végétalisé, quartier Pont du Cens, proche de toutes les commodités, écoles maternelle et élémentaire, ainsi que lycée à moins de 10 minutes à pied. Accès en transport en commun facilité : lignes de bus 86, 96, 59 et C2 du tram, à proximité immédiate du périphérique.",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

@@ -1,0 +1,93 @@
+{
+ "guid": "5b60a043-50d7-4385-9db7-e27d312a8ca0",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 4496,
+  "guid": "5b60a043-50d7-4385-9db7-e27d312a8ca0",
+  "reference": "4496",
+  "residency": {
+   "id": 2563,
+   "guid": "c8db2ebd-c46c-4da5-b772-e423e3bbf1fc",
+   "reference": "2563",
+   "name": "L'ODYSSEE",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18701,
+   "guid": "745879d2-0e00-45bc-b3ad-8262c78c62e2",
+   "reference": "18701",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 16526,
+    "postcode": "44170",
+    "code": "44113",
+    "name": "Nozay"
+   },
+   "description": "Logement disponible"
+  },
+  "availableAt": "2024-11-29",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 478.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/74/745879d2-0e00-45bc-b3ad-8262c78c62e2/medium/6ebec566-26c8-47cf-8a67-23cb8129fef8",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence l'Odyssée, composée de 26 logements meublés avec un espace cuisine équipée (plaques électriques, réfrigérateur) et une salle d’eau, dont 11 en colocation. Elle est située à proximité du centre ville de Nozay et proche des équipements sportifs.\nUne laverie, un jardin et des espaces communs sont à disposition\n\nLogement disponible\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

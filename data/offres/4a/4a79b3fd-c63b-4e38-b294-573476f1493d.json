@@ -1,0 +1,93 @@
+{
+ "guid": "4a79b3fd-c63b-4e38-b294-573476f1493d",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 5392,
+  "guid": "4a79b3fd-c63b-4e38-b294-573476f1493d",
+  "reference": "5392",
+  "residency": {
+   "id": 2139,
+   "guid": "7736dd64-999b-412c-9fdc-0d7dee565b59",
+   "reference": "2139",
+   "name": "FJT - RESIDENCE PASTEUR",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 19335,
+   "guid": "ad77de0f-5864-4cee-8db0-27e34b437f6b",
+   "reference": "19335",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.0,
+   "municipality": {
+    "id": 13735,
+    "postcode": "36400",
+    "code": "36046",
+    "name": "La Châtre"
+   },
+   "description": "Studio meublé de 18 m², dans résidence de meublés pour salariés entre 18 et 30 ans.\nsalle de sport, wifi, laverie, espaces collectifs."
+  },
+  "availableAt": "2025-01-16",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 352.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad77de0f-5864-4cee-8db0-27e34b437f6b/medium/ab0d6bb1-0e16-4c25-900a-4cec3c9d2dd3",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Le principal transport en commun est le bus qui va en direction de Châteauroux et inversement : en moyenne 3 liaisons par jour et également un service de transports à la demande.\n\nStudio meublé de 18 m², dans résidence de meublés pour salariés entre 18 et 30 ans.\nSalle de sport, wifi, laverie, espaces collectifs.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

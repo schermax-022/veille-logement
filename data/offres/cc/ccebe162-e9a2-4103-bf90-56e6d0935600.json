@@ -1,0 +1,93 @@
+{
+ "guid": "ccebe162-e9a2-4103-bf90-56e6d0935600",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 2287,
+  "guid": "ccebe162-e9a2-4103-bf90-56e6d0935600",
+  "reference": "2287",
+  "residency": {
+   "id": 2189,
+   "guid": "9cbb9ea7-f38a-4505-8a45-9c6ca0abdc69",
+   "reference": "2189",
+   "name": "RESIDENCE SAINT JEAN LE BLANC",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 16947,
+   "guid": "7059305c-ac57-430d-8ef3-a8d85fe4c5ac",
+   "reference": "16947",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 15.0,
+   "municipality": {
+    "id": 16900,
+    "postcode": "45650",
+    "code": "45286",
+    "name": "Saint-Jean-le-Blanc"
+   },
+   "description": "Appartement de 15 m² au sein d'une résidence de 220 logements, réservée uniquement aux hommes."
+  },
+  "availableAt": "2024-09-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 442.63,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-06-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/7059305c-ac57-430d-8ef3-a8d85fe4c5ac/medium/0a727bd7-0a81-414b-8475-0cb5a64c7c4e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence de 220 logements, type T1 et T1’ uniquement pour hommes isolés dont 40 places en Hébergement d’urgence\n\nAppartement de 15 m² au sein d'une résidence de 220 logements, réservée uniquement aux hommes.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

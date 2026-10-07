@@ -1,0 +1,98 @@
+{
+ "guid": "1523b0e8-520e-4f2c-a1b8-1621045e7159",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 39044,
+  "guid": "1523b0e8-520e-4f2c-a1b8-1621045e7159",
+  "reference": "39044",
+  "residency": {
+   "id": 7056,
+   "guid": "ab078313-d3ec-4832-bd0c-254a4666cf6c",
+   "reference": "7056",
+   "name": "RUE DE LA TOUR FRANCOISE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 48719,
+   "guid": "2cc1fa4e-402f-4c01-a683-d230488fdd8d",
+   "reference": "48719",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 85.9,
+   "municipality": {
+    "id": 24001,
+    "postcode": "62200",
+    "code": "62160",
+    "name": "Boulogne-sur-Mer"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-07-11",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 798.04,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 60.0,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-02",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2cc1fa4e-402f-4c01-a683-d230488fdd8d/medium/cb4c2d18-af10-47b0-879b-8a264405bf1b",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A Boulogne-sur-Mer, nous vous proposons une maison mitoyenne située RUE DE LA TOUR FRANCOISE.\nIl s'agit d'une maison entièrement rénovée comprenant un salon séjour,  une cuisine équipée, une salle de bain et 3 chambres.\nCe bien dispose également d'une cour extérieur.\nLe chauffage est de type individuel au gaz.\nLe logement est disponible à la location pour le début du mois de juillet.\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

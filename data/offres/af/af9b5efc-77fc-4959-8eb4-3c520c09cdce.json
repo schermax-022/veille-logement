@@ -1,0 +1,98 @@
+{
+ "guid": "af9b5efc-77fc-4959-8eb4-3c520c09cdce",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 41530,
+  "guid": "af9b5efc-77fc-4959-8eb4-3c520c09cdce",
+  "reference": "41530",
+  "residency": {
+   "id": 3088,
+   "guid": "cc2f6b6c-a0f6-4fbe-a4fb-e5869cf6cf25",
+   "reference": "3088",
+   "name": "CENON - CLEMENCEAU",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 50978,
+   "guid": "abc07f92-1af3-49be-b481-fcd6ed040675",
+   "reference": "50978",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 154.0,
+   "municipality": {
+    "id": 12581,
+    "postcode": "33150",
+    "code": "33119",
+    "name": "Cenon"
+   },
+   "description": "Un appartement de type 4 comprenant : une entrée, un séjour, une cuisine séparée, un cellier, un wc séparé, un dégagement, 2 chambres avec placard et salle d'eau, une chambre avec placard, salle de bains et wc séparé, une loggia et un jardin d'hiver."
+  },
+  "availableAt": "2026-07-09",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1202.27,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-08-24",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ab/abc07f92-1af3-49be-b481-fcd6ed040675/medium/d6ffb681-bce8-49c0-99c8-de342b1e764d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence se situe Avenue G.CLEMENCEAU à proximité des commerces et services : transports en commun (Tram A et bus), médecin, établissements scolaires... \nL'ensemble immobilier comprend 1 bâtiment de 5 étages avec ascenseur équipé d'un parking en sous-sol, local vélos et caves.\n\nNous vous proposons un appartement non meublé composé d'une entrée, cuisine non équipée ouverte sur séjour, cellier, loggia, WC séparés, 2 chambres avec placard et salle d'eau, 1 chambre avec placard et salle de bain et jardin d'hiver.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

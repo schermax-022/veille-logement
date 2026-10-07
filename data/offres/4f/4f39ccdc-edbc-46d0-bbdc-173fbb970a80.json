@@ -1,0 +1,93 @@
+{
+ "guid": "4f39ccdc-edbc-46d0-bbdc-173fbb970a80",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 4877,
+  "guid": "4f39ccdc-edbc-46d0-bbdc-173fbb970a80",
+  "reference": "4877",
+  "residency": {
+   "id": 2128,
+   "guid": "5666b74d-5ca2-4d7e-ac5d-a18a45ff655a",
+   "reference": "2128",
+   "name": "4 RUE MARTIN LUTHER KING",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18954,
+   "guid": "432e7547-fc98-44f3-b2f4-45b659577744",
+   "reference": "18954",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 15.0,
+   "municipality": {
+    "id": 16592,
+    "postcode": "44600",
+    "code": "44184",
+    "name": "Saint-Nazaire"
+   },
+   "description": "Logement T1 entièrement meublé et équipé (vaisselle compris)"
+  },
+  "availableAt": "2024-12-17",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 552.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-04-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/43/432e7547-fc98-44f3-b2f4-45b659577744/medium/445eba34-a709-4f9e-b05d-5e5127b4830d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence propose différents types de logements pour les jeunes de 16 à 30 ans en fonction de leur profil. 120 logements, dont 10 accessibles aux personnes à mobilité réduite, 8 pour couples et 6 colocations pour alternants et courts séjours. Les logements de 15 à 25 m² sont meublés/équipés et possèdent leur propre salle de bain\n\nLogement T1 entièrement meublé et équipé (vaisselle compris)\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

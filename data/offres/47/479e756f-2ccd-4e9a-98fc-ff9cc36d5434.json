@@ -1,0 +1,98 @@
+{
+ "guid": "479e756f-2ccd-4e9a-98fc-ff9cc36d5434",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 22708,
+  "guid": "479e756f-2ccd-4e9a-98fc-ff9cc36d5434",
+  "reference": "22708",
+  "residency": {
+   "id": 5381,
+   "guid": "a04263dd-61f0-402e-b5a2-89ffddf022f8",
+   "reference": "5381",
+   "name": "MESEMENA",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 34880,
+   "guid": "6e7bce87-7d11-44a2-b81a-3437d455da04",
+   "reference": "34880",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 28.0,
+   "municipality": {
+    "id": 16468,
+    "postcode": "44500",
+    "code": "44055",
+    "name": "La Baule-Escoublac"
+   },
+   "description": "Logement T1, meublé et équipé, disponible"
+  },
+  "availableAt": "2025-10-13",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 559.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6e/6e7bce87-7d11-44a2-b81a-3437d455da04/medium/13d9f47f-fae3-4cc2-bea3-2702cfc6bb02",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Située dans le quartier de Beslon, au calme, la résidence Mésémena est implantée dans un environnement mixte, proche de bâtiments artisanaux et commerciaux. Elle permet de faciliter l’accès à l’emploi jeunes et saisonniers à travers une offre qualitative et accessible avec des loyers abordables\nTransports en commun à proximité\n20 logements (dont 2 PMR) meublés et équipés, un local vélos, une laverie, une salle et une cuisine collectives. \n\nLogement T1 Bis, meublé et équipé, disponible\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

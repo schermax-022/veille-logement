@@ -1,0 +1,98 @@
+{
+ "guid": "35d772a8-abd1-45d6-bafa-1cb36f5d33b3",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50048,
+  "guid": "35d772a8-abd1-45d6-bafa-1cb36f5d33b3",
+  "reference": "50048",
+  "residency": {
+   "id": 1675,
+   "guid": "071f5af5-23fd-42fd-b3a1-4a2fa317556f",
+   "reference": "1675",
+   "name": "RESID'ACTIFS",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57794,
+   "guid": "43d46657-1669-4954-a6c3-46ed061bf7f6",
+   "reference": "57794",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 14356,
+    "postcode": "38600",
+    "code": "38169",
+    "name": "Fontaine"
+   },
+   "description": "Résidence RESID’ACTIF, située à proximité de la bibliothèque et de la mairie de Fontaine. Les logements sont tous meublés et équipés.\n\nLa redevance inclut l'ensemble des charges (chauffage, électricité, eau, taxe ordures ménagères et entretien parties communes).\n\nInfrastructures à proximité (écoles, commerces, boulangerie, etc.) et transports en communs accessibles : Bus lignes C6 – 19, Tram ligne A, Gare TER et Accès A480 à 5 minutes de la résidence.\n"
+  },
+  "availableAt": "2026-09-22",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 476.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-24",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/43/43d46657-1669-4954-a6c3-46ed061bf7f6/medium/2d218e2c-31c5-4656-9122-cd05f5dcba7e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence RESID’ACTIF, située à proximité de la bibliothèque et de la mairie de Fontaine. Les logements sont tous meublés et équipés. \n\nLa redevance inclut l'ensemble des charges (chauffage, électricité, eau, taxe ordures ménagères et entretien parties communes).​  \n\nInfrastructures à proximités (écoles, commerces, boulangerie, etc.) et transports en communs accessibles : Bus lignes C6 – 19, Tram ligne A, Gare TER et Accès A480 à 5 min de la résidence. \n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

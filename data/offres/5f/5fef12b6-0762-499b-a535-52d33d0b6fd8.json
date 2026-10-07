@@ -1,0 +1,98 @@
+{
+ "guid": "5fef12b6-0762-499b-a535-52d33d0b6fd8",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50857,
+  "guid": "5fef12b6-0762-499b-a535-52d33d0b6fd8",
+  "reference": "50857",
+  "residency": {
+   "id": 8285,
+   "guid": "ebd5e984-2c1f-4d8c-9329-882634591f46",
+   "reference": "8285",
+   "name": "JARRIERE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58477,
+   "guid": "12be1675-94a5-4c39-9705-0dcc64ef5bfb",
+   "reference": "58477",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 71.0,
+   "municipality": {
+    "id": 4992,
+    "postcode": "14410",
+    "code": "14726",
+    "name": "Valdallière"
+   },
+   "description": "Maison située au calme, elle se compose d'une cuisine aménagée, d'un séjour salon, de trois chambres.\nUne salle de douche et des toilettes.\nLe chauffage est une chaudière au fuel.\nVous disposerez d'un garage de 20 m2 et d'un jardin."
+  },
+  "availableAt": "2026-11-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 625.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-01",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/12/12be1675-94a5-4c39-9705-0dcc64ef5bfb/medium/fb9f1c3e-3e09-4385-aca0-3eec7826c28c",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Maison située 4 Rue de la Jarrière à VALDALLIERE.\nPetite commune au coeur du bocage normand entre Vire et Condé.\n\nMaison située au calme, elle se compose d'une cuisine aménagée, d'un séjour salon, de trois chambres.\nUne salle de douche et des toilettes.\nLe chauffage est une chaudière au fuel.\nVous disposerez d'un garage de 20 m2 et d'un jardin.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

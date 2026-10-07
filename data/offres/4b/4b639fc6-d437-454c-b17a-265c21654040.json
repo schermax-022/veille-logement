@@ -1,0 +1,93 @@
+{
+ "guid": "4b639fc6-d437-454c-b17a-265c21654040",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 3951,
+  "guid": "4b639fc6-d437-454c-b17a-265c21654040",
+  "reference": "3951",
+  "residency": {
+   "id": 1439,
+   "guid": "905b9bba-a716-431a-9e7e-7955a77b257f",
+   "reference": "1439",
+   "name": "RHJ MONTMORILLON",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18316,
+   "guid": "c335c2c7-92d0-43ac-a492-cc5d10a31cd7",
+   "reference": "18316",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 33418,
+    "postcode": "86500",
+    "code": "86165",
+    "name": "Montmorillon"
+   },
+   "description": "Chaque logement dispose d'une kitchenette avec un évier et plaque chauffante, réfrigérateur/petit congélateur, une table, des chaises, penderie. La vaisselle peut etre prêtée"
+  },
+  "availableAt": "2024-12-30",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 420.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2025-12-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c3/c335c2c7-92d0-43ac-a492-cc5d10a31cd7/medium/fffd28ad-ae48-4205-bb93-8bed012726cc",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Au cœur de Montmorillon, la nouvelle Résidence Habitat Jeunes du Pôle Logement de la MJC Claude Nougaro  propose 16 logements (dont 3 destinés à des couples). La redevance est comprise entre 420 € et 450 € par mois (possibilité de location a la nuitée ou semaine) . \n\nLa résidence s’adresse à toutes personnes de 16 à 30 ans (apprentissage, formation ou tout autre types de contrats professionnels ou d’insertion). \nCette résidence sécurisée avec interphone propose une laverie. Les résidents peuvent également disposer d'un barbecue dans le jardin\n\nChaque logement dispose d'une kitchenette avec un évier et plaque chauffante, réfrigérateur/petit congélateur, une table, des chaises, penderie. La vaisselle peut etre prêtée\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

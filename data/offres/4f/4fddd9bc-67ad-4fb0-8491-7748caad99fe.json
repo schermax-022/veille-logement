@@ -1,0 +1,98 @@
+{
+ "guid": "4fddd9bc-67ad-4fb0-8491-7748caad99fe",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 50037,
+  "guid": "4fddd9bc-67ad-4fb0-8491-7748caad99fe",
+  "reference": "50037",
+  "residency": {
+   "id": 7235,
+   "guid": "f868381e-af41-4191-a302-e3e346db7161",
+   "reference": "7235",
+   "name": "TALANT - ALLEE CELESTIN FREINET",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57782,
+   "guid": "459bf9a5-d3e7-4a13-8211-4d236195c107",
+   "reference": "57782",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 58.62,
+   "municipality": {
+    "id": 7274,
+    "postcode": "21240",
+    "code": "21617",
+    "name": "Talant"
+   },
+   "description": "Un appartement de type 2 comprenant : une entrée avec placard, un cuisine séparée, un séjour, 1 chambre avec placard une salle de bains, un wc séparé, une terrasse et un jardin."
+  },
+  "availableAt": "2026-12-19",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 726.52,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-09-28",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/45/459bf9a5-d3e7-4a13-8211-4d236195c107/medium/1999319e-f423-44f1-a469-967210479d3a",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A TALANT\n\nProche des commerces des transports en commun et des écoles, appartement de type 02 de 58 m² en rez de jardin d'une résidence récente.\nCe logement comprend une entrée avec placard, une cuisine séparée, un séjour de 20m², une chambre de 12m² avec placard, d'une salle de bain. Terrasse de 17 m² et jardin de 39 m²\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

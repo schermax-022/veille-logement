@@ -1,0 +1,98 @@
+{
+ "guid": "94fc89bc-8e95-4688-b940-0e17b309e76d",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 51339,
+  "guid": "94fc89bc-8e95-4688-b940-0e17b309e76d",
+  "reference": "51339",
+  "residency": {
+   "id": 394,
+   "guid": "a1237d43-0bdf-4a76-81b4-693aca222fd8",
+   "reference": "394",
+   "name": "DIJON TER. TOWN RJA",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58836,
+   "guid": "13773c95-b432-4998-be90-6244387fadbf",
+   "reference": "58836",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.7,
+   "municipality": {
+    "id": 6895,
+    "postcode": "21000",
+    "code": "21231",
+    "name": "Dijon"
+   },
+   "description": null
+  },
+  "availableAt": "2026-12-07",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 527.4,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-07",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/13/13773c95-b432-4998-be90-6244387fadbf/medium/a01832ca-ef69-4432-8d50-87dfc3c87d6a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A proximité de la Place du 30 Octobre, proche des transports et des commerces,  au sein d'une résidence récente studio meublé comprenant un lit, une table chevet, une table + chaise, une salle d'eau ainsi qu'une kitchenette équipée plaques électriques et un frigo. Lave linge à disposition. La résidence est destinée à accueillir prioritairement des jeunes actifs âgés de 18 à 35 ans et débutant leur vie professionnelle.",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

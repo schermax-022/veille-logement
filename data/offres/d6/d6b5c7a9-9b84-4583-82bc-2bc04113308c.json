@@ -1,0 +1,98 @@
+{
+ "guid": "d6b5c7a9-9b84-4583-82bc-2bc04113308c",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 42168,
+  "guid": "d6b5c7a9-9b84-4583-82bc-2bc04113308c",
+  "reference": "42168",
+  "residency": {
+   "id": 1942,
+   "guid": "2bad081d-16c8-40fd-a1ce-dfc6deb25152",
+   "reference": "1942",
+   "name": "RESIDENCE PANNEVERT",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 51463,
+   "guid": "13248b67-78af-44f0-91be-7bafba04a87b",
+   "reference": "51463",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 30170,
+    "postcode": "76000",
+    "code": "76540",
+    "name": "Rouen"
+   },
+   "description": "Studio lumineux situés au coeur de ROUEN et offrant habitat meublé, confort et qualité de vie."
+  },
+  "availableAt": "2026-07-04",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 481.99,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-07-22",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/13/13248b67-78af-44f0-91be-7bafba04a87b/medium/76118e2b-0f96-4a3f-9faf-9526253e976c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence est destinée aux jeunes actifs de moins de 30 ans et offre une location à la carte pour 24 mois maximum.\nLa formule est tout inclus. \nIdéalement située proche des commerces et des transports en communs\n\nStudio lumineux situés au coeur de ROUEN et offrant habitat meublé, confort et qualité de vie.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}

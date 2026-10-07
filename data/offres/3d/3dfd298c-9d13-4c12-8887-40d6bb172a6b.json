@@ -1,0 +1,98 @@
+{
+ "guid": "3dfd298c-9d13-4c12-8887-40d6bb172a6b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-07T18:07:27+02:00",
+ "deja_en_ligne_au_demarrage": true,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": null,
+ "fiche_recuperee_le": null,
+ "liste": {
+  "id": 4027,
+  "guid": "3dfd298c-9d13-4c12-8887-40d6bb172a6b",
+  "reference": "4027",
+  "residency": {
+   "id": 2053,
+   "guid": "175dc384-c50b-431e-8740-7baf4ad61aa0",
+   "reference": "2053",
+   "name": "FJT LA TORRE",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 18362,
+   "guid": "98f3bb64-d272-4075-9d12-bd8c93651341",
+   "reference": "18362",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.7,
+   "municipality": {
+    "id": 16468,
+    "postcode": "44500",
+    "code": "44055",
+    "name": "La Baule-Escoublac"
+   },
+   "description": "Logement meublé"
+  },
+  "availableAt": "2025-01-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 504.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2025-12-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/98f3bb64-d272-4075-9d12-bd8c93651341/medium/f4ae8557-e3a4-4521-bf8c-41a95edd8b65",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Idéalement située à 5 min à pieds du centre-ville de La Baule, la résidence est à proximité de commerces et services.\nDes espaces collectifs (cafétéria, buanderie, salle de sport, salle d’animation, salle multimédia).\n\nLogement T1 de 20.70 m², meublé et équipé, disponible\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": null
+}
