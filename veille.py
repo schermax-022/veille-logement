@@ -173,10 +173,20 @@ def run_check() -> int:
         queue.sort(key=lambda r: (not str(r.get("alerte") or "").startswith("a_envoyer"), not is_in_zone(r)))
         must = sum(1 for r in queue if str(r.get("alerte") or "").startswith("a_envoyer"))
         budget = max(config.MAX_DETAILS_PER_RUN, must)
-        ok = 0
+        ok = failures_in_a_row = 0
         for rec in queue[:budget]:
             time.sleep(config.REQUEST_DELAY)
-            data, status = fetch_detail(client, rec["guid"])
+            try:
+                data, status = fetch_detail(client, rec["guid"])
+            except ApiBlocked as exc:
+                log(f"⚠️  Lecture des fiches interrompue : {exc}")
+                break
+            except Exception as exc:  # une fiche illisible ne doit pas arrêter le passage
+                data, status = None, f"erreur : {exc}"
+            failures_in_a_row = 0 if data else failures_in_a_row + 1
+            if failures_in_a_row >= 5:
+                log("⚠️  Le site répond mal : lecture des fiches reportée au prochain passage.")
+                break
             if data:
                 fresh[rec["guid"]] = data
                 rec.update(fiche=clean(data), fiche_statut="ok", fiche_recuperee_le=now, fiche_essais=0)
@@ -185,8 +195,8 @@ def run_check() -> int:
                 rec.update(fiche_statut=status, fiche_essais=(rec.get("fiche_essais") or 0) + 1)
             store.touch(rec["guid"])
         if queue:
-            log(f"Fiches détaillées : {ok}/{min(len(queue), budget)} récupérées, "
-                f"{max(0, len(queue) - budget)} en attente pour les prochains passages.")
+            log(f"Fiches détaillées : {ok} récupérée(s), "
+                f"{len(queue) - ok} en attente pour les prochains passages.")
 
         changed |= store.save()
 
@@ -202,7 +212,10 @@ def run_check() -> int:
             for rec in pending[: config.MAX_ALERTS_PER_RUN]:
                 raw = fresh.get(rec["guid"])
                 if raw is None:  # les liens des photos expirent : on relit la fiche pour en avoir des frais
-                    raw, _ = fetch_detail(client, rec["guid"])
+                    try:
+                        raw, _ = fetch_detail(client, rec["guid"])
+                    except Exception:
+                        raw = None
                     if raw:
                         rec.update(fiche=clean(raw), fiche_statut="ok", fiche_recuperee_le=now)
                 urls = photo_urls({"fiche": raw, "liste": crawl.offers.get(rec["guid"])})

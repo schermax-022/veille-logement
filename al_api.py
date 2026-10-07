@@ -111,11 +111,12 @@ class ApiClient:
                 pass
 
     # -- appels ----------------------------------------------------------------------
-    def request_json(self, method: str, path: str, body: dict | None = None, params: dict | None = None) -> dict:
+    def request_json(self, method: str, path: str, body: dict | None = None, params: dict | None = None,
+                     attempts: int = 5) -> dict:
         url = API_BASE + path + ("?" + urllib.parse.urlencode(params) if params else "")
         payload = json.dumps(body, ensure_ascii=False) if body is not None else None
-        last = "?"
-        for attempt in range(5):
+        last, last_status = "?", None
+        for attempt in range(attempts):
             if attempt:
                 time.sleep(min(30, 2 ** attempt))
             self.calls += 1
@@ -131,18 +132,18 @@ class ApiClient:
             is_json = text.lstrip()[:1] in ("{", "[")
             if status == 200 and is_json:
                 return json.loads(text)
-            if not is_json and status in (200, 401, 403, 503):  # page HTML de protection anti-robots
-                last = f"HTTP {status} (accès refusé ou page de protection)"
+            if not is_json and status in (401, 403):  # page HTML de protection anti-robots
+                last, last_status = f"HTTP {status} (accès refusé)", status
                 if self.mode == "direct":
                     log(f"⚠️  L'API refuse les requêtes directes ({last}) : bascule sur le navigateur.")
                     self._start_browser()
                     continue
                 raise ApiBlocked(f"L'API refuse l'accès même via le navigateur : {last}", status)
-            if status == 429 or status >= 500:
-                last = f"HTTP {status}"
+            if status == 429 or status >= 500 or not is_json:  # erreur passagère du site : on réessaie
+                last, last_status = f"HTTP {status}" + ("" if is_json else " (page d'erreur)"), status
                 continue
             raise ApiError(f"HTTP {status} sur {path} : {text[:300]}", status)
-        raise ApiError(f"Échec après plusieurs essais sur {path} : {last}")
+        raise ApiError(f"Échec après {attempts} essais sur {path} : {last}", last_status)
 
     def get_bytes(self, url: str, max_bytes: int = 6_000_000) -> tuple[bytes, str]:
         """Télécharge une photo (les liens des photos expirent au bout de quelques heures)."""
@@ -222,7 +223,7 @@ def fetch_all_offers(client: ApiClient, size: int | None = None) -> Crawl:
 
 def fetch_detail(client: ApiClient, guid: str) -> tuple[dict | None, str]:
     try:
-        resp = client.request_json("POST", DETAILS, {"offerGuid": guid})
+        resp = client.request_json("POST", DETAILS, {"offerGuid": guid}, attempts=3)
     except ApiBlocked:
         raise
     except ApiError as exc:
