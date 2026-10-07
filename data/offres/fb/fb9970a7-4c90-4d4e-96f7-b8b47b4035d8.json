@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:47:43+02:00",
  "liste": {
   "id": 49356,
   "guid": "fb9970a7-4c90-4d4e-96f7-b8b47b4035d8",
@@ -94,5 +94,177 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 49356,
+  "guid": "fb9970a7-4c90-4d4e-96f7-b8b47b4035d8",
+  "reference": "49356",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/97/975a8ab3-21bf-4bdb-b26b-3c8184beb2bc/large/69b26070-19f9-420e-b59a-78fac8c1866d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/97/975a8ab3-21bf-4bdb-b26b-3c8184beb2bc/large/9cd0ebb4-216f-42ce-9f0b-4af65f1a013b",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/97/975a8ab3-21bf-4bdb-b26b-3c8184beb2bc/large/7a0a2616-18a9-4757-b820-db5363d279ea",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/97/975a8ab3-21bf-4bdb-b26b-3c8184beb2bc/large/2cb5fbe1-936e-4778-b572-5933d51c1989",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57208,
+   "guid": "975a8ab3-21bf-4bdb-b26b-3c8184beb2bc",
+   "reference": "57208",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 6895,
+    "postcode": "21000",
+    "code": "21231",
+    "name": "Dijon"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8092,
+   "guid": "c94b2aad-a297-45b1-8cc2-d6484cae82ad",
+   "reference": "8092",
+   "livingRules": "Respect des locaux, respect mutuel entre l’équipe et les résidents, respect entre les résidents, accueil des visiteurs de 8h à 23h, hébergements de visiteurs pour la nuit sur demande, accès au bâtiment par code délivré à chaque résident à son arrivée, comportement correct exigé, port ou détention d’objets illicites interdit au sein de l’établissement.",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "CLI",
+     "label": "Co-living"
+    }
+   ],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-31",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Le Foyer des Jeunes Travailleurs Urbanalis propose des logements adaptés aux jeunes de 16 à 25 ans qui débutent dans la vie professionnelle. À 15min du centre-ville de Dijon, les 237 logements, tous meublés et équipés, offrent un cadre pratique avec salle d'eau individuelle, cuisine collective, wifi, laverie et espaces communs. Les résidents profitent d'un lieu où rencontres et bien-être se conjuguent au quotidien. Jardin, salle de musculation, cuisine collective et animations animent la vie sur place. L'équipe socio-éducative accompagne les jeunes tout au long de leur séjour dans leur projet personnalisé pour faciliter leur autonomie.\n\nStudio de 24m2 comportent un lit, un bureau, des étagères placards et penderie. Ils se composent également de kitchenette, salles d’eau individuels avec douche, lavabo et WC. Un kit ménage avec balai, balai brosse, pelle et balayette, seau et serpillère est fourni dans le logement.\n \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 484.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": 42.0,
+  "securityDepositAmount": 200.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 25,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

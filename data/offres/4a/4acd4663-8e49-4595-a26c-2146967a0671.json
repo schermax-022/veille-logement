@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:47:43+02:00",
  "liste": {
   "id": 50686,
   "guid": "4acd4663-8e49-4595-a26c-2146967a0671",
@@ -94,5 +94,216 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50686,
+  "guid": "4acd4663-8e49-4595-a26c-2146967a0671",
+  "reference": "50686",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c7f1b2d8-6984-462f-9322-4714d74be5bf/large/bd2d275e-3901-4992-8070-937cc2391582",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c7f1b2d8-6984-462f-9322-4714d74be5bf/large/8083c75a-90b1-4ce9-a767-6bba69fbe1a4",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c7f1b2d8-6984-462f-9322-4714d74be5bf/large/e51d325d-aeb6-42e3-821c-126ed7c48a7c",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c7f1b2d8-6984-462f-9322-4714d74be5bf/large/937fbb98-ec25-4776-a90a-3d6ec46cc891",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c7f1b2d8-6984-462f-9322-4714d74be5bf/large/311d1b2d-8791-43ae-8285-53ea9ab4e581",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c7f1b2d8-6984-462f-9322-4714d74be5bf/large/645cf7ed-2e72-4bfc-9351-da4a2e960694",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c7f1b2d8-6984-462f-9322-4714d74be5bf/large/7cb326d8-26b9-40c6-a7e8-944059a0991e",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c7f1b2d8-6984-462f-9322-4714d74be5bf/large/e44d9736-31fb-4ddd-bc6b-e6019952adca",
+    "urlContentType": "image/png",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c7f1b2d8-6984-462f-9322-4714d74be5bf/large/a491ba1e-2c2a-4075-9397-cb6bd708aab6",
+    "urlContentType": "image/png",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c7f1b2d8-6984-462f-9322-4714d74be5bf/large/5f092d9f-2545-4665-803a-69df8d14f272",
+    "urlContentType": "image/png",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c7f1b2d8-6984-462f-9322-4714d74be5bf/large/b48c1245-9be9-43c8-8d34-3338c79c88f6",
+    "urlContentType": "image/png",
+    "ordering": 10,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58351,
+   "guid": "c7f1b2d8-6984-462f-9322-4714d74be5bf",
+   "reference": "58351",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 111.5,
+   "municipality": {
+    "id": 16996,
+    "postcode": "46000",
+    "code": "46042",
+    "name": "Cahors"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": {
+    "id": 2,
+    "ordering": 2,
+    "code": "T",
+    "label": "Triplex"
+   },
+   "lodgingAnnexTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "CEL",
+     "label": "Cellier"
+    }
+   ],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 8259,
+   "guid": "fd72d819-55ea-4847-8e83-06e3faf4ff8d",
+   "reference": "8259",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-15",
+  "endDateOfPublication": "2026-10-28",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Cette résidence a fait l’objet d’une rénovation complète en 2026 dans le cadre du programme Action Cœur de Ville. Située Rue des Badernes, en plein centre-ville de Cahors, elle bénéficie d’un emplacement à proximité des commodités.\n\nCahors, préfecture du Lot, offre un large choix de commerces, établissements scolaires, équipements culturels et professionnels de santé. La ville est desservie par une gare et un réseau de bus comprenant des lignes régulières, des navettes et des services à la demande, facilitant les déplacements au sein de l’agglomération.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 828.14,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 828.14,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

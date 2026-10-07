@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:47:43+02:00",
  "liste": {
   "id": 42727,
   "guid": "521a475d-8807-442c-b27d-ffb8650feeeb",
@@ -94,5 +94,206 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 42727,
+  "guid": "521a475d-8807-442c-b27d-ffb8650feeeb",
+  "reference": "42727",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/21/217412cd-3341-47fc-94bf-ea828f817279/large/33957343-5860-4b4b-9a81-d3a30776fb96",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/21/217412cd-3341-47fc-94bf-ea828f817279/large/4eab5da0-7081-4f49-a91e-49da3c752721",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/21/217412cd-3341-47fc-94bf-ea828f817279/large/8957c042-5cc5-4270-852a-eb2ec52032df",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/21/217412cd-3341-47fc-94bf-ea828f817279/large/126d81c3-5c2f-4858-a54d-153ea6f257e1",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/21/217412cd-3341-47fc-94bf-ea828f817279/large/529560ab-47ef-46bf-96d9-d7065504794d",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/21/217412cd-3341-47fc-94bf-ea828f817279/large/0b975dd6-52bf-4304-bc33-6f4e7c0d9083",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/21/217412cd-3341-47fc-94bf-ea828f817279/large/a7a3f928-0676-4648-882d-1e7a55bf9dff",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/21/217412cd-3341-47fc-94bf-ea828f817279/large/677e28e0-118c-4af9-aec3-df89160034a7",
+    "urlContentType": "image/png",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 51902,
+   "guid": "217412cd-3341-47fc-94bf-ea828f817279",
+   "reference": "51902",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 47.2,
+   "municipality": {
+    "id": 12541,
+    "postcode": "33520",
+    "code": "33075",
+    "name": "Bruges"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "COR",
+    "label": "Collectif radiateur",
+    "commercialLabel": "Chauffage collectif radiateur compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 5974,
+   "guid": "9f3f1c90-af1a-4f85-b550-881ce64afb89",
+   "reference": "5974",
+   "livingRules": "Les animaux ne sont pas admis.\n\nUn règlement intérieur est à respecter au sein de la résidence.",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-06-24",
+  "endDateOfPublication": "2026-10-16",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence sociale MARYSE BASTIE, Bruges.\n\nRue Maryse Bastié, Bruges (33520).\n\nLa résidence est idéalement située, à proximité de l'arrêt Gare de Bruges de la ligne C du Tram direction Carle Vernet (accessible en moins de 10 minutes à pied depuis la résidence) permettant de relier Bordeaux Place des Quinconces en moins de 30 minutes.\n\nPar ailleurs la ville de Bruges est desservie par le réseau TBM et de nombreuses lignes de bus tout comme la gare SNCF et les trains TER reliant Bordeaux aux différentes villes du Médoc.\n\nA Bruges, vous trouverez différents clubs omnisports, le centre de voile de Bordeaux-Lac, un centre de remise en forme, un espace culturel où sont organisés de nombreux événements et spectacles.\n\nAu sein de la résidence, ce logement de type 2 d'une superficie de 47.20 m² est confortablement meublé et équipé : meuble kitchenette avec évier, cadre de lit, sommier et matelas pour un lit double, canapé, bureau, chaise et salle de bain privative.\n\nLe loyer est basé sur le principe d'une redevance forfaitaire associée aux charges (dont eau collective et forfait électricité et chauffage) et services.\n\nPAS DE FRAIS D'AGENCE - PAS DE FRAIS DE DOSSIER.\n\nLogement ouvrant le droit aux APL.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 546.75,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 538.27,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

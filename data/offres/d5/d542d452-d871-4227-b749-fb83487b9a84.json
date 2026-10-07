@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:47:43+02:00",
  "liste": {
   "id": 28936,
   "guid": "d542d452-d871-4227-b749-fb83487b9a84",
@@ -94,5 +94,226 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 28936,
+  "guid": "d542d452-d871-4227-b749-fb83487b9a84",
+  "reference": "28936",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/b97865bd-c88a-4cae-bad0-0863247bc898",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/a30c58dc-2dd3-4d3e-b146-1068cb2333fe",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/0c4bc145-6b35-4143-b438-98aef9c04a8f",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/ed5cc5b0-ac80-432f-8c72-a9a9eee972c8",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/d44d9e8f-c5b6-44c9-9228-51c78a1ac39c",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/fdd1286c-e4c6-40f6-8c76-02cb51ba8cec",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/bc11066b-adad-45ca-9786-d2182053973d",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/7368f146-48ff-4b4c-8cf8-54a717088e86",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/2efd0a1f-c559-4d0b-843d-f4f905765d52",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/e15bbe71-0c9c-41a1-b7da-208e675cd12e",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/15b56bbf-0d65-440f-aea3-6cdf81aeeda1",
+    "urlContentType": "image/jpeg",
+    "ordering": 10,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/070150dd-72c0-4930-9082-41c320d86481",
+    "urlContentType": "image/jpeg",
+    "ordering": 11,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad12683e-cd8e-4178-96f2-26e9afd15acc/large/32e744b8-cfa1-46e9-b628-087cd788f618",
+    "urlContentType": "image/png",
+    "ordering": 12,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 40184,
+   "guid": "ad12683e-cd8e-4178-96f2-26e9afd15acc",
+   "reference": "40184",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 49.04,
+   "municipality": {
+    "id": 30918,
+    "postcode": "78380",
+    "code": "78092",
+    "name": "Bougival"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 3616,
+   "guid": "9196155c-0142-470b-966b-8bebd8bfe2bc",
+   "reference": "3616",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-01-06",
+  "endDateOfPublication": "2027-01-04",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "EXCLUSIVITÉ - PROCHE DE PARIS\n\nSans frais d'agence, direct bailleur In'li.\n\nÀ louer : à quelques minutes de la station Chatou-Croissy du RER A (15 min de Paris), nous vous proposons cet appartement de 2 pièces plein sud de 49,04 m² à BOUGIVAL (78380).\n\nIl se situe au premier étage d'un petit immeuble neuf de trois étages avec ascenseur. Il compte une pièce à vivre, une chambre et une cuisine indépendante. \n\nUn local vélos est disponible dans le bâtiment. Un balcon (7 m²) l'agrémente, un gain de confort et d'espace bienvenu.\n\nIl est mis en location avec une place de parking.\n Proche de toutes commodités. ",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1018.48,
+  "rentChargeAmount": 108.63,
+  "rentParkingAmount": 39.91,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1048.48,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

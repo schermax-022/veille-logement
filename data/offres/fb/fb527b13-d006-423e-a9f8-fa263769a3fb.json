@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:47:43+02:00",
  "liste": {
   "id": 47376,
   "guid": "fb527b13-d006-423e-a9f8-fa263769a3fb",
@@ -94,5 +94,202 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 47376,
+  "guid": "fb527b13-d006-423e-a9f8-fa263769a3fb",
+  "reference": "47376",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/68a18a29-6453-4a0e-9164-258bcc81a035/large/a592b6e2-b908-4177-a131-3f86b1fc905c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/68a18a29-6453-4a0e-9164-258bcc81a035/large/ac66b791-bd12-4009-918f-26072e8b6413",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/68a18a29-6453-4a0e-9164-258bcc81a035/large/e8551ee1-3756-445f-8c1f-9579f5820c73",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/68a18a29-6453-4a0e-9164-258bcc81a035/large/cd5e355f-7604-4fdf-a7f2-de71bd3f3ffa",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/68a18a29-6453-4a0e-9164-258bcc81a035/large/52ee23bc-5886-4c76-adfa-7cbb84e55282",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/68a18a29-6453-4a0e-9164-258bcc81a035/large/003715e0-6c73-492a-ac3e-202093a686af",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/68a18a29-6453-4a0e-9164-258bcc81a035/large/685b895b-9045-40ce-b39a-71bb1fe9ca85",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/68a18a29-6453-4a0e-9164-258bcc81a035/large/80347e1e-bebc-4b9a-9f3f-91721c561aae",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/68/68a18a29-6453-4a0e-9164-258bcc81a035/large/0ffb1335-9a3c-499b-aff2-190c8992cf7c",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 55670,
+   "guid": "68a18a29-6453-4a0e-9164-258bcc81a035",
+   "reference": "55670",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 80.4,
+   "municipality": {
+    "id": 35010,
+    "postcode": "93120",
+    "code": "93027",
+    "name": "La Courneuve"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 9,
+    "ordering": 9,
+    "code": "6",
+    "label": "6"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 7938,
+   "guid": "0f95e6e8-28d9-47b5-a3e4-d003107bba64",
+   "reference": "7938",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-10",
+  "endDateOfPublication": "2027-08-23",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Appartement T4 de 80,40 m² situé au 6ème étage qui se compose d'une entrée et d'un séjour avec cuisine ouverte non équipée de 28,75 m² donnant accès sur un balcon de 22,05 m² exposé Sud-Ouest.  Vous trouverez une première chambre de 13,28 m² donnant accès à une salle d'eau, une deuxième chambre de 12,11 m² et une troisième de 10,03 m².  Une place de stationnement complète cette offre. NB : photos des logements non contractuelles, en illustration des prestations types.Réservation sur plan uniquement (sans visites).",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1131.6,
+  "rentChargeAmount": 344.37,
+  "rentParkingAmount": 50.52,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1182.12,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

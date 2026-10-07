@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:47:43+02:00",
  "liste": {
   "id": 51405,
   "guid": "e0097bc9-cf7d-4c6d-a329-e8f417417778",
@@ -94,5 +94,196 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51405,
+  "guid": "e0097bc9-cf7d-4c6d-a329-e8f417417778",
+  "reference": "51405",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7edb1385-fd65-468f-8a9d-7a560240f130/large/103362e5-95b4-40de-a857-5c7d50faf283",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7edb1385-fd65-468f-8a9d-7a560240f130/large/b12ac3fc-2c78-4977-af2a-c7d35917638b",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7edb1385-fd65-468f-8a9d-7a560240f130/large/3de410d5-b5cd-47f3-a74d-ded21a0b7684",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7edb1385-fd65-468f-8a9d-7a560240f130/large/7c5cc319-d9ba-424d-af44-07cd02f8e7a6",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7edb1385-fd65-468f-8a9d-7a560240f130/large/4a27a9b2-888e-49c1-a479-741dd18dedeb",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7edb1385-fd65-468f-8a9d-7a560240f130/large/1fe267b0-2e3a-4ae7-934d-32df0d48d8a8",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7edb1385-fd65-468f-8a9d-7a560240f130/large/0aa551a8-dc40-4445-b23a-660be83b35ca",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7edb1385-fd65-468f-8a9d-7a560240f130/large/9a093387-6183-44b1-9a97-42c22bdd2182",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58893,
+   "guid": "7edb1385-fd65-468f-8a9d-7a560240f130",
+   "reference": "58893",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 60.46,
+   "municipality": {
+    "id": 35013,
+    "postcode": "93800",
+    "code": "93031",
+    "name": "Épinay-sur-Seine"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 8140,
+   "guid": "cd379b4e-8059-4fd1-b652-826a4577bec1",
+   "reference": "8140",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-15",
+  "endDateOfPublication": "2027-10-06",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Sans frais de dossier. Résidence neuve, livraison prévue mi-décembre 2026, située au 10 rue Henri Dunant à Epinay sur Seine, proche des transports (lignes de bus, Tram T8 \"Les Béatus\" à 2 minutes à pied qui vous emmène en 4 arrêts au T8 \"Epinay sur Seine Gare\" / RER C, puis vers Paris en 30 minutes, réseau routier N14), des équipements, services et commerces (supermarché, établissements scolaires et médicaux, salles de sport…). A louer,      Résidence neuve. Livraison DECEMBRE 2026. Acceptation sur plan (PAS DE VISITE) T3 traversant de 60.46m² au 2ème étage avec ascenseur comprenant une entrée avec rangements, un séjour avec cuisine ouverte et aménagée de 22m² donnant sur un balcon exposé Sud / Ouest, 2 chambres de 12.72 et 9.30 m² disposant de rangements, une salle de bain et des toilettes séparées. Le chauffage est collectif. Une place de parking complète ce bien.NB : photos des logements non contractuelles, en illustration des prestations types.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 921.1,
+  "rentChargeAmount": 230.35,
+  "rentParkingAmount": 49.93,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 966.1,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }
