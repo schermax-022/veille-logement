@@ -31,6 +31,29 @@ def zone_of_offer(offer: dict) -> bool:
     return config.in_alert_zone(((offer.get("lodging") or {}).get("municipality") or {}).get("code"))
 
 
+# Plafond de loyer pour les alertes, en €/mois : c'est le loyer affiché par le site (montant total
+# mensuel, celui que filtre l'option « loyer max » du site). Réglable avec la variable ALERT_MAX_RENT ;
+# « 0 » = pas de plafond. Une offre sans loyer indiqué déclenche quand même l'alerte, par prudence.
+_max_rent = config.env("ALERT_MAX_RENT", "1100").replace(",", ".").replace("€", "").strip()
+ALERT_MAX_RENT = float(_max_rent) if _max_rent not in ("", "0") else None
+
+
+def offer_rent(offer: dict) -> float | None:
+    for key in ("totalRentAmountBaseBound", "housingFeeBaseBound", "totalRentAmountMax"):
+        value = offer.get(key)
+        if isinstance(value, (int, float)) and value > 0:
+            return float(value)
+    return None
+
+
+def wants_alert(offer: dict) -> bool:
+    """Alerte = dans une ville suivie ET loyer sous le plafond."""
+    if not zone_of_offer(offer):
+        return False
+    rent = offer_rent(offer)
+    return ALERT_MAX_RENT is None or rent is None or rent <= ALERT_MAX_RENT
+
+
 def fmt_dt(iso: str | None) -> str:
     dt = parse_dt(iso)
     return dt.strftime("%d/%m/%Y %H:%M") if dt else "—"
@@ -82,16 +105,21 @@ def run_check() -> int:
             return handle_failure(store, "; ".join(crawl.errors) or "liste vide")
 
         first_run = not store.state.get("initialise")
-        counts = {"new": 0, "new_zone": 0, "removed": 0, "relisted": 0, "modified": 0}
+        counts = {"new": 0, "new_zone": 0, "new_alert": 0, "removed": 0, "relisted": 0, "modified": 0}
 
         # 1. offres présentes
         for guid, offer in crawl.offers.items():
             rec = store.records.get(guid)
             in_zone = zone_of_offer(offer)
+            alert = wants_alert(offer)
             if rec is None:
-                store.new_record(offer, now, initial=first_run, in_zone=in_zone)
+                store.new_record(offer, now, initial=first_run, in_zone=alert)
                 counts["new"] += 1
                 counts["new_zone"] += in_zone
+                counts["new_alert"] += alert
+                if in_zone and not alert and not first_run:
+                    log(f"Nouvelle offre dans la zone mais au-dessus de {fmt(ALERT_MAX_RENT, 'money')} : "
+                        f"pas d'alerte ({title({'liste': offer})} — {fmt(offer_rent(offer), 'money')}).")
                 continue
             if store.update_listing(rec, offer, now):
                 counts["modified"] += 1
@@ -101,7 +129,7 @@ def run_check() -> int:
                            remises_en_ligne=(rec.get("remises_en_ligne") or 0) + 1)
                 if rec.get("fiche"):
                     rec["fiche_statut"] = "a_rafraichir"
-                if in_zone and config.ALERT_ON_RELISTING:
+                if alert and config.ALERT_ON_RELISTING:
                     rec["alerte"] = "a_envoyer_remise"
                 store.event(now, "Remise en ligne", rec, f"retirée le {fmt_dt(previous)}")
                 store.touch(guid)
@@ -189,7 +217,8 @@ def run_check() -> int:
                 rec.update(alerte="envoyee", alerte_envoyee_le=now_iso())
                 store.touch(rec["guid"])
                 sent += 1
-                log(f"✉️  Alerte envoyée : {title(rec)} — {fmt(pick(rec, 'totalRentAmountBaseBound'), 'money')}")
+                log(f"✉️  Alerte envoyée : {title(rec)} — "
+                    f"{fmt(pick(rec, 'totalRentAmountBaseBound'), 'money') or 'loyer non indiqué'}")
             changed |= store.save()
 
         # 5. bilan et export
@@ -198,7 +227,8 @@ def run_check() -> int:
             log(f"Premier passage : {counts['new']} offres enregistrées (dont {counts['new_zone']} dans la zone), "
                 "sans alerte. Les prochaines nouveautés de la zone déclencheront un e-mail.")
         else:
-            log(f"Bilan : {counts['new']} nouvelle(s) (dont {counts['new_zone']} dans la zone), "
+            log(f"Bilan : {counts['new']} nouvelle(s) (dont {counts['new_zone']} dans la zone, "
+                f"{counts['new_alert']} sous le plafond de loyer), "
                 f"{counts['removed']} retrait(s), {counts['relisted']} remise(s) en ligne, "
                 f"{counts['modified']} modification(s) · {sent} alerte(s) envoyée(s) · {online} offres en ligne.")
         if changed or not config.EXPORT_PATH.exists():
