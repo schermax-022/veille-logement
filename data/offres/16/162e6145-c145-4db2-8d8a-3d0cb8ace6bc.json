@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 7536,
   "guid": "162e6145-c145-4db2-8d8a-3d0cb8ace6bc",
@@ -89,5 +89,223 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 7536,
+  "guid": "162e6145-c145-4db2-8d8a-3d0cb8ace6bc",
+  "reference": "7536",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/98e0b01e-71de-4709-8ab3-52f2c1bbd7fc/large/ee787325-9570-4b80-b265-7e3151a6ba2c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/98e0b01e-71de-4709-8ab3-52f2c1bbd7fc/large/f7b640f8-51d5-4329-8c1b-bb49818a5d33",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/98e0b01e-71de-4709-8ab3-52f2c1bbd7fc/large/cc3c85a4-2e2d-4c6e-895d-dceb6407644f",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/98e0b01e-71de-4709-8ab3-52f2c1bbd7fc/large/c150c606-f547-404c-8972-68bbf93651cc",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/98e0b01e-71de-4709-8ab3-52f2c1bbd7fc/large/b968fa52-152a-403e-acdb-98ee000e8b1b",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/98e0b01e-71de-4709-8ab3-52f2c1bbd7fc/large/f5b5345f-f2d4-4aef-bf73-a2e7e6ef9387",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/98e0b01e-71de-4709-8ab3-52f2c1bbd7fc/large/bd9bbd1d-8b9a-479e-8161-13a819b0f39f",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/98e0b01e-71de-4709-8ab3-52f2c1bbd7fc/large/d90e3fbb-7e57-4ebf-be2b-f5fa5aaa1649",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/98e0b01e-71de-4709-8ab3-52f2c1bbd7fc/large/d5d9978b-5ee3-479d-b652-61cbd0400d5c",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 20958,
+   "guid": "98e0b01e-71de-4709-8ab3-52f2c1bbd7fc",
+   "reference": "20958",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 25.0,
+   "municipality": {
+    "id": 19994,
+    "postcode": "54140",
+    "code": "54274",
+    "name": "Jarville-la-Malgrange"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2758,
+   "guid": "60f1413a-0d93-45b7-acb5-dff176c60c75",
+   "reference": "2758",
+   "livingRules": "Pour le bien être de chacun et la vie en communauté, les résidents sont tenus de respecter des règles de vie en collectivité ainsi que des règles relatives à la propreté des lieux. ",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 3,
+     "ordering": 4,
+     "code": "LIG",
+     "label": "Service de lingerie (location de draps et serviettes)",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-04-14",
+  "endDateOfPublication": "2027-04-10",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A proximité des transports en commun (ligne de bus 2), des commerces et des services à 300 mètres et à 20 minutes de la gare de Nancy, la résidence Jean-Stauffer à JARVILLE propose un ensemble de logements meublés, studios T1 et T1bis ainsi que des chambres en collocation. \nDans cette jolie résidence arborée et sécurisée, bénéficiez de nombreux services dont un accompagnement social, participez à des activités et profitez des espaces extérieurs dont un grand jardin. \n\nLogement T1 de 25 m² meublé comprenant une kitchenette (plaques de cuisson, frigo, évier, meuble de rangement, table, chaise), chambre (lit avec matelas, bureau, TV, chaise, penderie, meuble de rangements), salle d'eau (douche, WC, lavabo, miroir). \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 480.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

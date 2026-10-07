@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 49703,
   "guid": "6bb6a11a-f156-4c83-8c81-c4943a45cf33",
@@ -94,5 +94,154 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 49703,
+  "guid": "6bb6a11a-f156-4c83-8c81-c4943a45cf33",
+  "reference": "49703",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/89/892e449b-016d-4d10-86bb-c7294632630b/large/f7e86f68-79ae-4e8a-b867-a506c26ef742",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57490,
+   "guid": "892e449b-016d-4d10-86bb-c7294632630b",
+   "reference": "57490",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 71.94,
+   "municipality": {
+    "id": 4464,
+    "postcode": "13009",
+    "code": "13209",
+    "name": "Marseille 9e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 8142,
+   "guid": "29929985-ffda-4635-99d1-9d1f33b67053",
+   "reference": "8142",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-04",
+  "endDateOfPublication": "2026-10-28",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Situé boulevard du Redon dans le 9ᵉ arrondissement de Marseille, ce logement bénéficie d’un environnement agréable au sein d’un secteur recherché du sud de la ville.\n\nLe quartier offre un accès à différents commerces, services, établissements scolaires et équipements de proximité, tout en profitant d’un environnement verdoyant et résidentiel à proximité des massifs et espaces naturels.\n\nLe secteur est desservi par les transports en commun, facilitant les déplacements vers le centre-ville et les différents quartiers de Marseille.\n\nLa proximité des principaux axes routiers permet également de rejoindre les autres secteurs de Marseille ainsi que les communes environnantes.\n\nUn secteur associant proximité des commodités et accessibilité aux principaux pôles de Marseille.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 932.57,
+  "rentChargeAmount": 120.37,
+  "rentParkingAmount": 85.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1012.57,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

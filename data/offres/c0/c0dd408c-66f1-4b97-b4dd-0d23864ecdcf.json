@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 21578,
   "guid": "c0dd408c-66f1-4b97-b4dd-0d23864ecdcf",
@@ -94,5 +94,174 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 21578,
+  "guid": "c0dd408c-66f1-4b97-b4dd-0d23864ecdcf",
+  "reference": "21578",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/17/173815cf-0f7c-41de-9f19-fae90b3543ca/large/293b367e-632d-4dd3-aff4-c76a7d1d35c9",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/17/173815cf-0f7c-41de-9f19-fae90b3543ca/large/10e7e9b1-5e02-4937-a203-c1815fb48620",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/17/173815cf-0f7c-41de-9f19-fae90b3543ca/large/362473d0-6d9f-4c3f-9767-197d8de94952",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 33884,
+   "guid": "173815cf-0f7c-41de-9f19-fae90b3543ca",
+   "reference": "33884",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 24654,
+    "postcode": "62520",
+    "code": "62826",
+    "name": "Le Touquet-Paris-Plage"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 4038,
+   "guid": "93cf687f-e0f4-4ca6-9616-b46fc33f2304",
+   "reference": "4038",
+   "livingRules": "",
+   "type": {
+    "id": 9,
+    "ordering": 3,
+    "code": "RAA",
+    "label": "Résidence Alternants/Apprentis",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "SPO",
+     "label": "Salle de sport",
+     "isIncluded": true
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "PHYSICAL",
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-09-30",
+  "endDateOfPublication": "2026-12-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Située boulevard de la Canche à le Touquet-Paris-Plage.\n\nLa date maximale de séjour est au 31/08/2026. \n\nLa résidence comprend 92 studios meublés et équipés répartis sur deux étages sans ascenseur, ainsi que 19 places de parking privées non incluses dans le loyer. Chaque logement est conçu pour une installation immédiate et un confort optimal. Ils disposent d'un lit double 140x200 cm avec matelas, d'un bureau avec chaise, d'une table à manger avec chaise, d'une cuisine équipée avec plaques de cuisson, réfrigérateur, micro-ondes et vaisselle. Chaque studio possède également une salle d’eau privative, des rangements intégrés et une télévision.\n\nLes services inclus dans le loyer sont nombreux : un petit-déjeuner quotidien, un responsable de site sur place, une salle de sport extérieure, des terrasses communes pour se détendre ou étudier, une laverie automatique et des espaces extérieurs aménagés.\n\nLes commodités du quartier sont également un atout majeur. Un arrêt de bus à proximité permet de rejoindre facilement le centre-ville ou les établissements supérieurs. Les commerces de proximité incluent une boulangerie, un supermarché et une pharmacie. La plage du Touquet est accessible en 10 minutes en vélo. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 580.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

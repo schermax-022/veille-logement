@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 49121,
   "guid": "f2e9fb1d-346c-459c-82bb-a10ebd39e840",
@@ -94,5 +94,188 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 49121,
+  "guid": "f2e9fb1d-346c-459c-82bb-a10ebd39e840",
+  "reference": "49121",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/aa/aa16f17c-ad85-45f3-bc1f-523d6cc520d8/large/e2d93293-5000-40af-9edf-0fde4dd8896a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/aa/aa16f17c-ad85-45f3-bc1f-523d6cc520d8/large/42f979b3-3930-4106-9128-f9f2ef3148d5",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/aa/aa16f17c-ad85-45f3-bc1f-523d6cc520d8/large/ad2b99f9-c68f-4118-938b-76bb070704e8",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/aa/aa16f17c-ad85-45f3-bc1f-523d6cc520d8/large/cb5c1216-33c5-48fd-98f8-713d59d78990",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/aa/aa16f17c-ad85-45f3-bc1f-523d6cc520d8/large/c528c5bc-c8d8-4bc1-bb6c-55bb6d7c590c",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/aa/aa16f17c-ad85-45f3-bc1f-523d6cc520d8/large/060c7660-325e-4cc0-81a3-bd30f57f049a",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57026,
+   "guid": "aa16f17c-ad85-45f3-bc1f-523d6cc520d8",
+   "reference": "57026",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 84.4,
+   "municipality": {
+    "id": 12529,
+    "postcode": "33800",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 8072,
+   "guid": "2d499cd1-58f2-4186-9480-1d89759d210f",
+   "reference": "8072",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "NONE"
+   ],
+   "deliveredAt": "2026-11-05",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-05",
+  "endDateOfPublication": "2026-11-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "La résidence QUAI 9 se situe rue Jean-Jacques Boscq à proximité des commerces et services : transports en communs (lignes 1, 54 ARENA) établissements scolaires,pharmacies, cabinet médicaux , à 5min vous trouverez le parc \"JARDIN DE L'ARS\" ainsi que la gare Saint-Jean à 5min en voiture.\n\nNous vous proposons un appartement composé d'une entrée, cuisine ouverte sur séjour donnant sur une terrasse de 11m², \n 3 chambres, salle de bains avec WC séparés, une buanderie et un dégagement.\n\nPhotos non contractuelles.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 965.88,
+  "rentChargeAmount": 212.9,
+  "rentParkingAmount": 50.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 965.88,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

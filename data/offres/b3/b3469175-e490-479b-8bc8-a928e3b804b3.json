@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 51035,
   "guid": "b3469175-e490-479b-8bc8-a928e3b804b3",
@@ -94,5 +94,169 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51035,
+  "guid": "b3469175-e490-479b-8bc8-a928e3b804b3",
+  "reference": "51035",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8f/8fa5c7a1-fd0d-47bc-9319-cfebb98bc53e/large/49f5851a-92d4-4853-ae71-4cb3ce5095d6",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8f/8fa5c7a1-fd0d-47bc-9319-cfebb98bc53e/large/01b93214-fec5-40c4-9708-a3937c26f99f",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8f/8fa5c7a1-fd0d-47bc-9319-cfebb98bc53e/large/dbbf9bd0-e0ea-43e1-85e6-9ca197f28b01",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 34307,
+   "guid": "8fa5c7a1-fd0d-47bc-9319-cfebb98bc53e",
+   "reference": "34307",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 84.42,
+   "municipality": {
+    "id": 15513,
+    "postcode": "40230",
+    "code": "40284",
+    "name": "Saint-Vincent-de-Tyrosse"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 2,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    },
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 3194,
+   "guid": "8a7d464f-1714-4b5c-bd46-668dddeb4e9b",
+   "reference": "3194",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2025-09-01",
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-08",
+  "endDateOfPublication": "2026-10-10",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence est située rue de la Gabarre, dans un cadre de vie agréable et verdoyant proche de toutes commodités et commerces. \n\nNous vous proposons cette maison duplex non meublée, composée d’une entrée avec placard, salle d'eau avec WC, cuisine ouverte sur séjour donnant sur terrasse et jardin ; à l'étage vous trouverez 3 chambres avec placard, salle de bain avec WC. Un garage complète ce bien.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 932.14,
+  "rentChargeAmount": 54.07,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 932.14,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 43170,
   "guid": "da38e542-25dd-4744-8c42-20633f788d91",
@@ -94,5 +94,221 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 43170,
+  "guid": "da38e542-25dd-4744-8c42-20633f788d91",
+  "reference": "43170",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd020c2e-796e-4ec2-b15d-293ad04218ba/large/0e0f113a-3764-419e-ac14-8822619551d0",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd020c2e-796e-4ec2-b15d-293ad04218ba/large/f6b7edc7-8dc1-4092-9c76-2e9dd46916be",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd020c2e-796e-4ec2-b15d-293ad04218ba/large/b08dd267-cd94-4437-afe6-a6078066c762",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd020c2e-796e-4ec2-b15d-293ad04218ba/large/4df6c705-6ff2-4f3e-a7e8-a6ee17b2b736",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd020c2e-796e-4ec2-b15d-293ad04218ba/large/ebbd3ae7-90b6-427b-a901-5f8ea9b2bb18",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd020c2e-796e-4ec2-b15d-293ad04218ba/large/37575363-07ab-4f7b-a2a9-b3acbf32ee03",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd020c2e-796e-4ec2-b15d-293ad04218ba/large/56eee017-ffb6-4567-b96a-67796ad608e0",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd020c2e-796e-4ec2-b15d-293ad04218ba/large/61c4d61d-21cf-4255-8eee-e3d3487a6391",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd020c2e-796e-4ec2-b15d-293ad04218ba/large/97b9efe5-5498-42a5-8306-e4ea11770b0e",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd020c2e-796e-4ec2-b15d-293ad04218ba/large/3ee873e8-5c2b-49a5-9617-f312dda3a9e7",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dd/dd020c2e-796e-4ec2-b15d-293ad04218ba/large/45860768-9fff-43e4-9465-f21ed28df2e4",
+    "urlContentType": "image/jpeg",
+    "ordering": 10,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 52259,
+   "guid": "dd020c2e-796e-4ec2-b15d-293ad04218ba",
+   "reference": "52259",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 90.0,
+   "municipality": {
+    "id": 1504,
+    "postcode": "03200",
+    "code": "03310",
+    "name": "Vichy"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": {
+    "id": 1,
+    "ordering": 1,
+    "code": "D",
+    "label": "Duplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 6084,
+   "guid": "0693c714-58e4-4d68-9e1a-be0a326eadc3",
+   "reference": "6084",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-02-02",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-01",
+  "endDateOfPublication": "2026-10-24",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "À VICHY, 5 Rue de La Porte de France, Résidence Le Vert Galant, dans l'ancienne maison de retraite, entièrement refait à neuf, en plein cœur du centre-ville, proche des commerces / services (supermarché, pharmacie, boulangerie, médecins…) et des établissements scolaires.\n\nAu premier niveau, il se compose d’une entrée,  un couloir desservant 2 chambres, une première salle de bains avec baignoire et douche,  un WC séparé. Partie jour, une cuisine ouverte sur un séjour (cuisine équipée d'une hotte et d'une plaque à induction). 3 balcons donnant sur le séjour. Orientation OUEST/NORD/EST.\n\nUn escalier menant au 2ème niveau, donnant sur un dégagement desservant une 2ème salle d'eau avec douche et une 3ème chambre.\n\nPossibilité de louer une place de parking à proximité pour les résidents (environ 9 € par mois).",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 810.0,
+  "rentChargeAmount": 109.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 810.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 999.0,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

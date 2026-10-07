@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 44174,
   "guid": "df64d215-9e0e-4dd1-9505-d44adfcc5725",
@@ -94,5 +94,179 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 44174,
+  "guid": "df64d215-9e0e-4dd1-9505-d44adfcc5725",
+  "reference": "44174",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b8/b8938c5c-3356-46be-b56b-ccdd073c0c5a/large/933d967d-b189-4bed-bfd4-b10674942273",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b8/b8938c5c-3356-46be-b56b-ccdd073c0c5a/large/c7abb7cb-cc51-41db-b859-5907cfad9578",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b8/b8938c5c-3356-46be-b56b-ccdd073c0c5a/large/8ef2f986-862d-4c05-978e-e36cccbaae06",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b8/b8938c5c-3356-46be-b56b-ccdd073c0c5a/large/58ef3b23-0fc3-4e91-9988-b343d01af252",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 53077,
+   "guid": "b8938c5c-3356-46be-b56b-ccdd073c0c5a",
+   "reference": "53077",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 75.8,
+   "municipality": {
+    "id": 24846,
+    "postcode": "63000",
+    "code": "63113",
+    "name": "Clermont-Ferrand"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 7621,
+   "guid": "6a3df909-0f7c-4f59-9e84-7726c29b6547",
+   "reference": "7621",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-16",
+  "endDateOfPublication": "2026-11-01",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "À CLERMONT-FERRAND, Boulevard Lavoisier, Quartier Fontgiève, Résidence NEUVE \"Opus\",  à proximité du centre-ville, des commerces, services, écoles et de la ligne de bus C.\n\nÀ louer appartement NEUF comprenant : une entrée avec placard, un séjour - cuisine de 32m² (avec emplacement lave-linge et lave-vaisselle) donnant sur un BALCON de 8m², deux chambres de 9m² et 12m², une salle de bains de 5m² avec BAIGNOIRE, un WC indépendant.\n\n- Chauffage COLLECTIF PAC eau air (compris dans les charges)\n- Eau comprise dans les charges \n- Place de stationnement (comprise dans le prix)\n\nDISPONIBLE DE SUITE. \n\nNB: Pas de frais d’agence. Possibilité de financer le dépôt de garantie avec l’AVANCE LOCA-PASS (toutes les infos sur notre site www.actionlogement.fr). La date limite de candidature n'est pas contractuelle, elle peut être repoussée au besoin par nos services. \n\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 710.92,
+  "rentChargeAmount": 199.08,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 710.92,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

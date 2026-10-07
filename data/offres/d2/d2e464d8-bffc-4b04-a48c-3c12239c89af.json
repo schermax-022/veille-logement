@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 50508,
   "guid": "d2e464d8-bffc-4b04-a48c-3c12239c89af",
@@ -94,5 +94,161 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50508,
+  "guid": "d2e464d8-bffc-4b04-a48c-3c12239c89af",
+  "reference": "50508",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2a/2aa56374-63b0-470a-81ac-d2b36c279943/large/a1f84436-8c57-4c22-9605-a77e07134004",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2a/2aa56374-63b0-470a-81ac-d2b36c279943/large/d208b72d-07e8-4b5f-9b1b-78fd15ed8182",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2a/2aa56374-63b0-470a-81ac-d2b36c279943/large/619d0af5-0b8e-48f1-9b98-4ed5fdbb8f66",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58188,
+   "guid": "2aa56374-63b0-470a-81ac-d2b36c279943",
+   "reference": "58188",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 64.68,
+   "municipality": {
+    "id": 27611,
+    "postcode": "69005",
+    "code": "69385",
+    "name": "Lyon 5e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 5422,
+   "guid": "4ed46653-a59a-4c31-a037-6067d7c1c628",
+   "reference": "5422",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-29",
+  "endDateOfPublication": "2026-10-27",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence MAURICE BELLEMAIN située sur LYON 5 – RUE MAURICE BELLEMAIN. \nSecteur Champvert vers le Parc de la Chapelle et le Parc de la Garde. \nA proximité des commerces, parc, bureau de Poste, lycée, collège, hôpital, centre commercial. \nTransports en commun : Bus 45 et 55\n\nAppartement type 3 situé au 1 er étage \nIl comprenant une cuisine ouverte sur un  séjour donnant sur une loggia ,  2 chambres, salle d’eau avec WC .\nChauffage collectif au gaz. \nCharges incluses : charges générales d'immeuble ainsi que la production d'eau chaude. \nSans frais d'agence. \n\nMerci de situer l’environnement avant un éventuel positionnement. \nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 900.04,
+  "rentChargeAmount": 147.06,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 915.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

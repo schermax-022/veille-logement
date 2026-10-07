@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 51358,
   "guid": "8bc14c85-0901-47e2-82e0-4a975683766d",
@@ -94,5 +94,162 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51358,
+  "guid": "8bc14c85-0901-47e2-82e0-4a975683766d",
+  "reference": "51358",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8d/8d3e8cb2-8073-4336-87a9-08cdedbbc571/large/5fa8c80a-82d6-48c3-9fac-a14e7c44fdf1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58849,
+   "guid": "8d3e8cb2-8073-4336-87a9-08cdedbbc571",
+   "reference": "58849",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 76.0,
+   "municipality": {
+    "id": 35089,
+    "postcode": "94400",
+    "code": "94081",
+    "name": "Vitry-sur-Seine"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "energyPerformanceCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 3398,
+   "guid": "5b8720c4-df5c-4b61-be33-c2c7bc4cfcfc",
+   "reference": "3398",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-10-06",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 4 pièces de 76 m² à Vitry sur Seine avec balcon.  Le bien dispose d'un séjour, d'une cuisine indépendante, de trois chambres ainsi que d'une salle de bains. Un WC séparé complète ce logement.  L'immeuble comprend la présence d'un gardien. Ce logement se situe au 4e étage.  Un balcon est présent. Le chauffage est collectif au gaz.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 950.0,
+  "rentChargeAmount": 243.75,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 950.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

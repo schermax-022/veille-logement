@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 33582,
   "guid": "a484ec84-fda2-4544-937b-0e13cb0036ab",
@@ -94,5 +94,171 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 33582,
+  "guid": "a484ec84-fda2-4544-937b-0e13cb0036ab",
+  "reference": "33582",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/45/45b5a557-0c8a-4ade-b3a8-92bc529c4bdf/large/477e7f08-0b3f-47e1-8212-a5e5804b4c40",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 26117,
+   "guid": "45b5a557-0c8a-4ade-b3a8-92bc529c4bdf",
+   "reference": "26117",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 61.05,
+   "municipality": {
+    "id": 34963,
+    "postcode": "91940",
+    "code": "91692",
+    "name": "Les Ulis"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3929,
+   "guid": "94953d57-a9db-4af6-8cd2-ee01ee6ef75f",
+   "reference": "3929",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2016,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-01-24",
+  "endDateOfPublication": "2026-10-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Aux Ulis (Rue Du Morvan), à proximité des commerces et des transports en commun, appartement de 2 pièces d'une superficie de 61m² situé au 5ème étage.\n\nChauffage collectif urbain. La gare la plus proche est celle de Bures-sur-Yvette (RER B) en plus des transports interurbains.\n\nUn appartement comprenant :  entrée, séjour, cuisine, buanderie, chambre, wc, salle de bain, et terrasse. \n\nDisponibilité prévisionnelle Mars 2026.\n\nCe logement intermédiaire est un partenariat avec une agence immobilière, mandatée pour réaliser la visite, l'état des lieux, la signature du bail et l'entrée dans les lieux.\n\nAucuns frais d'agence ne vous sera demandé.\nPour accéder à ce logement, à la demande du bailleur, la composition familiale à respecter est :\n\nT2 :\n1 couple\n1 adulte\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 808.78,
+  "rentChargeAmount": 111.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 808.78,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

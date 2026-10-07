@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 51366,
   "guid": "df07c024-7fee-4b4b-99ae-70698cba4866",
@@ -94,5 +94,234 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51366,
+  "guid": "df07c024-7fee-4b4b-99ae-70698cba4866",
+  "reference": "51366",
+  "offerNumber": 3,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/d401eb34-d4f0-4f95-ae76-cc137c668ac0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/4e30050a-26e5-4955-92c3-ba3f228b34ba",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/0b66ca69-cdf4-4de4-829f-a5befaa63aa0",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/227273c8-ff27-440f-9fd6-f543c5802bf5",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/81be9483-73a2-4556-8397-12428dcacffc",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/a634900e-3370-4e6c-9fbe-e80dd7c8ad39",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/bdcda06f-31a7-4b1e-bbc1-f955f920b188",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/d89b49dc-bf66-4971-bfe7-3e19d4ff2b98",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/f4adfe0b-9a2b-40e2-b4aa-50c64dfef564",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/15a16f59-2abe-4510-85ca-838371ca442c",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/e2492615-3b08-40f1-a9ef-4b2fc502bfec",
+    "urlContentType": "image/jpeg",
+    "ordering": 10,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/1d1b8883-4a3e-44a4-b2a1-bec507a0aa7b",
+    "urlContentType": "image/jpeg",
+    "ordering": 11,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f0fac45-178d-4caa-a920-dfbb97690a34/large/68503fcd-180a-4812-8eef-99fe570c8e47",
+    "urlContentType": "image/jpeg",
+    "ordering": 12,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 27219,
+   "guid": "3f0fac45-178d-4caa-a920-dfbb97690a34",
+   "reference": "27219",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 42.1,
+   "municipality": {
+    "id": 34975,
+    "postcode": "92700",
+    "code": "92025",
+    "name": "Colombes"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 3611,
+   "guid": "74298b35-fe32-4bed-bc16-1397ed7ad8ec",
+   "reference": "3611",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-10-06",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 2 pièces de 42.1 m² à Colombes avec balcon.  Le logement comprend un salon, une cuisine ouverte, une chambre et une salle d'eau avec WC.  Présence d'un gardien et d'un ascenseur dans l'immeuble situé au 5e étage.  Balcon, local à vélos, chauffage collectif au gaz, une place de parking, gardien.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 957.17,
+  "rentChargeAmount": 131.34,
+  "rentParkingAmount": 126.38,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1077.15,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

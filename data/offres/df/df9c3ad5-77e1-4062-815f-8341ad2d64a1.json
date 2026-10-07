@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 50993,
   "guid": "df9c3ad5-77e1-4062-815f-8341ad2d64a1",
@@ -94,5 +94,163 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50993,
+  "guid": "df9c3ad5-77e1-4062-815f-8341ad2d64a1",
+  "reference": "50993",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a4/a4334f19-ed38-4f31-93b8-e518ffbe80a4/large/58e2a3b3-288b-4fc9-8e8e-a8d875a7625c",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a4/a4334f19-ed38-4f31-93b8-e518ffbe80a4/large/2e4015d7-7012-4107-bd72-91efe3ec0309",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58578,
+   "guid": "a4334f19-ed38-4f31-93b8-e518ffbe80a4",
+   "reference": "58578",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 82.29,
+   "municipality": {
+    "id": 34960,
+    "postcode": "91170",
+    "code": "91687",
+    "name": "Viry-Châtillon"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 4446,
+   "guid": "d6c3abad-e4c6-44b6-a9f9-e5a04b8a86f0",
+   "reference": "4446",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2016,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-29",
+  "endDateOfPublication": "2026-11-03",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A VIRY-CHÂTILLON (Avenue de Bretagne), nous vous y proposons un appartement type T3, d’une superficie de 82,29 m² au 5ème étage avec ascenseur.\n\nUn logement composé de: entrée, cuisine, buanderie, séjour, 2 chambres, circulation, salle de bain, wc, dressing, et balcon.\n\nChauffage collectif gaz\nDisponibilité prévisionnelle 29/10/2026\nLe bien est géré par une agence immobilière locale qui réalisera l'étude du dossier, la visite, la signature de bail et l'entrée dans les lieux. \nAucuns frais d'agence ne vous sera demandé\n  \nPour accéder à ce logement, à la demande du bailleur, la composition familiale à respecter est :\n\n1 adulte et 2 enfants\n1 couple et 2 enfants\n1 adulte et 1 enfant\n1 couple et 1 enfant\n1 couple sans enfant\n1 adulte sans enfant",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1038.54,
+  "rentChargeAmount": 206.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1038.54,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

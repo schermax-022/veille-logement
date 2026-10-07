@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 45742,
   "guid": "c0321af5-90c8-4cc9-9436-ee1e14b0ab27",
@@ -94,5 +94,154 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 45742,
+  "guid": "c0321af5-90c8-4cc9-9436-ee1e14b0ab27",
+  "reference": "45742",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c010c409-d8b0-4d1a-a3b9-1356216130b6/large/f916cdc6-83ee-4c2c-bb26-5177e1bd4ba9",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c010c409-d8b0-4d1a-a3b9-1356216130b6/large/67e7dcaa-34d3-4c95-b795-a086d2fcfc29",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c010c409-d8b0-4d1a-a3b9-1356216130b6/large/f1583b67-dc8c-4bd6-8216-5408309778ec",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 54328,
+   "guid": "c010c409-d8b0-4d1a-a3b9-1356216130b6",
+   "reference": "54328",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 32.25,
+   "municipality": {
+    "id": 13577,
+    "postcode": "35200",
+    "code": "35238",
+    "name": "Rennes"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1681,
+   "guid": "7e8b1d85-f194-4418-8eea-9efaa9bba485",
+   "reference": "1681",
+   "livingRules": "",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-13",
+  "endDateOfPublication": "2026-10-09",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Dans la résidence Aunis, située rue de Prague à Rennes, nous vous proposons un studio meublé de 32,25m².\nIl comprend une pièce de vie avec cuisine, une salle d’eau privative avec toilettes et un balcon.\n\nSituée au sud de la ville, à deux pas du métro Le Blosne (ligne A), vous pourrez rejoindre le centre-ville en 15 minutes et les centres commerciaux de Rennes en 20 minutes.\n\nPostulez ! Action Logement vous contactera pour faire le point sur votre demande.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 552.72,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 552.72,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 43163,
   "guid": "f9dc27c1-7048-4dd2-bf5c-f0b874522519",
@@ -94,5 +94,191 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 43163,
+  "guid": "f9dc27c1-7048-4dd2-bf5c-f0b874522519",
+  "reference": "43163",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c88c8c04-c64d-482c-ad7c-bc416ea92a25/large/b0ce6915-029b-428b-bfab-b9dbf5ec6dd8",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c88c8c04-c64d-482c-ad7c-bc416ea92a25/large/79751e47-1787-4e9a-8c00-be7a5146b235",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c88c8c04-c64d-482c-ad7c-bc416ea92a25/large/4be6be5a-38f2-4e9d-af92-35a8b8cb3b50",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c88c8c04-c64d-482c-ad7c-bc416ea92a25/large/efb3ba7c-4b83-43f1-b965-07ddfacfed8d",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c88c8c04-c64d-482c-ad7c-bc416ea92a25/large/fc6a1a32-1a03-42fc-933a-649d3e5720b8",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c88c8c04-c64d-482c-ad7c-bc416ea92a25/large/a0d5f355-51b8-43da-8fc6-9366e24e597a",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c88c8c04-c64d-482c-ad7c-bc416ea92a25/large/5dc8ec9f-c718-4f22-a31a-ea6fba71ea73",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c88c8c04-c64d-482c-ad7c-bc416ea92a25/large/62d99afd-b03c-49be-b41e-6960ebfbfd8d",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 52257,
+   "guid": "c88c8c04-c64d-482c-ad7c-bc416ea92a25",
+   "reference": "52257",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 89.0,
+   "municipality": {
+    "id": 1504,
+    "postcode": "03200",
+    "code": "03310",
+    "name": "Vichy"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 6084,
+   "guid": "0693c714-58e4-4d68-9e1a-be0a326eadc3",
+   "reference": "6084",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-02-02",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-01",
+  "endDateOfPublication": "2026-10-24",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "À VICHY, 5 Rue de La Porte de France, Résidence Le Vert Galant, dans l'ancienne maison de retraite, entièrement refait à neuf, en plein cœur du centre-ville, proche des commerces / services (supermarché, pharmacie, boulangerie, médecins…) et des établissements scolaires.\n\nIl se compose d’une entrée,  un couloir desservant 3 chambres dont une avec une salle de bains privative (baignoire), une deuxième salle d'eau avec douche et emplacement lave-linge, un WC séparé. Partie jour, une cuisine ouverte sur un séjour (cuisine équipée d'une hotte et d'une plaque à induction),  Orientation OUEST/NORD/EST.\n\nPossibilité de louer une place de parking à proximité pour les résidents (environ 9 € par mois).",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 803.7,
+  "rentChargeAmount": 102.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 803.7,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 991.23,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

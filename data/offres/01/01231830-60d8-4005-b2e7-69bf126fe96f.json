@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 46350,
   "guid": "01231830-60d8-4005-b2e7-69bf126fe96f",
@@ -94,5 +94,204 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 46350,
+  "guid": "01231830-60d8-4005-b2e7-69bf126fe96f",
+  "reference": "46350",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c9/c988e1d9-921e-4a98-927d-420a8e1f344a/large/fb1cc653-576f-4f18-b84d-893269d09988",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c9/c988e1d9-921e-4a98-927d-420a8e1f344a/large/395fb0da-b6fa-425f-97ce-ef1f6d2fbf19",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c9/c988e1d9-921e-4a98-927d-420a8e1f344a/large/7ddad8aa-4b16-43db-8d0b-e1ee60e6acaa",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c9/c988e1d9-921e-4a98-927d-420a8e1f344a/large/185d07a9-a197-4af3-a99c-658854914ef3",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 54842,
+   "guid": "c988e1d9-921e-4a98-927d-420a8e1f344a",
+   "reference": "54842",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 80.26,
+   "municipality": {
+    "id": 11962,
+    "postcode": "31400",
+    "code": "31555",
+    "name": "Toulouse"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "CEL",
+     "label": "Cellier"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    },
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 7818,
+   "guid": "e49662f6-39a8-44c4-bc71-d2b8e4285fb2",
+   "reference": "7818",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": "2027-01-15",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-15",
+  "endDateOfPublication": "2026-11-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Résidence sécurisée idéalement située au sud-est de Toulouse, Rue Myriam Mirzakani - Rue de Nouadhibou, au cœur du quartier en plein essor du Faubourg Malepère.\n\nIntégré à la ZAC Malepère, entre les routes de Revel et de Labège, ce nouveau quartier bénéficie d’un emplacement stratégique, à seulement une vingtaine de minutes du centre-ville toulousain.\nCe secteur en développement mêle espaces naturels (dont le parc de la Marcaissonne) et aménagements urbains, avec la création de logements, commerces, équipements publics et espaces verts. Le quartier bénéficie d’une situation stratégique, proche des pôles d’emploi de Labège, Balma et Montaudran, de l’université de Rangueil, ainsi que de plusieurs centres commerciaux (Saint-Orens, Labège) et commerces de proximité. \n\nLe Faubourg Malepère profite d’une proximité immédiate avec les principaux bassins d’emploi de Labège, Balma et Montaudran, ainsi qu’avec l’université de Rangueil. Les habitants bénéficient également d’un accès rapide aux centres commerciaux de Saint-Orens et Labège ainsi qu’à de nombreux commerces et services de proximité.\n\nCôté mobilité, le quartier est desservi par le périphérique (sorties 18 et 19), des lignes de bus, des pistes cyclables, et accueillera prochainement la 3ème ligne de métro.\n\nD’ici 2030, le quartier comprendra divers équipements : crèches, groupes scolaires, gymnase, bibliothèque, salle polyvalente et espace dédié aux seniors.\n\nLes charges prévisionnelles comprennent l’électricité des parties communes, la consommation d’eau privative et des espaces communs, la taxe d’enlèvement des ordures ménagères, l’entretien des espaces verts communs, les dépenses de personnel récupérables, l’entretien des différents équipements de la résidence (VMC, antenne TV, ascenseurs, etc.), ainsi que le nettoyage des abords et des parties communes. \n\nLes logements bénéficient des prestations suivantes : des menuiseries en PVC avec double vitrage, de sols carrelés dans les salles de bains, salles d’eau et WC, ainsi que d’un revêtement de sol stratifié dans les autres pièces. Les chambres, le séjour et la cuisine sont équipés de volets roulants électriques. Des placards aménagés optimisent les espaces de rangement. Le chauffage et la production d’eau chaude sont assurés collectivement par un réseau de chaleur urbain alimenté depuis les dalles. La cuisine est équipée de meubles hauts et bas, d’une plaque de cuisson vitrocéramique et d’une hotte aspirante.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 842.63,
+  "rentChargeAmount": 100.33,
+  "rentParkingAmount": 50.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 842.63,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

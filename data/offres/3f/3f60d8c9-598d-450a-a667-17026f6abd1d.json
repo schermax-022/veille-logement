@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 40881,
   "guid": "3f60d8c9-598d-450a-a667-17026f6abd1d",
@@ -94,5 +94,200 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 40881,
+  "guid": "3f60d8c9-598d-450a-a667-17026f6abd1d",
+  "reference": "40881",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/91/91f5a04d-fde2-48a6-a4db-36d4ebccc478/large/0fb584e9-0491-4049-9a37-69dd50d6bb9f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/91/91f5a04d-fde2-48a6-a4db-36d4ebccc478/large/348e41b3-f03c-4bef-8cc2-7d8d1673e0e8",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/91/91f5a04d-fde2-48a6-a4db-36d4ebccc478/large/655585ce-eb8c-413d-8d36-20b8fdf18807",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/91/91f5a04d-fde2-48a6-a4db-36d4ebccc478/large/1a47f46f-f4df-46f2-a48a-4997ec4e209f",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/91/91f5a04d-fde2-48a6-a4db-36d4ebccc478/large/3ace6826-78b0-4ee4-a53d-dc4ccc4b6ed1",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 50284,
+   "guid": "91f5a04d-fde2-48a6-a4db-36d4ebccc478",
+   "reference": "50284",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 13.0,
+   "municipality": {
+    "id": 25300,
+    "postcode": "64100",
+    "code": "64102",
+    "name": "Bayonne"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 44,
+    "ordering": 104,
+    "code": "M1",
+    "label": "-1"
+   },
+   "kitchenType": "COLLECTIVE",
+   "toiletType": "COLLECTIVE",
+   "bathroomType": "COLLECTIVE",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 7247,
+   "guid": "76196b8f-33cc-4b71-a97f-9bd740013052",
+   "reference": "7247",
+   "livingRules": "",
+   "type": {
+    "id": 7,
+    "ordering": 5,
+    "code": "COL",
+    "label": "Co-location meublée",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CLO",
+     "label": "Colocation"
+    }
+   ],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": "2026-05-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-05-01",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Idéalement située , cette résidence bénéficie d’un emplacement privilégié. À seulement quelques minutes du centre ville de Bayonne, elle profite d’un cadre résidentiel calme tout en restant proche des commodités, des commerces et des plages.\n\nAppartement T3 situé , idéal pour une colocation, composé de 2 chambres individuelles autour d’espaces communs fonctionnels et bien équipés.\nL’appartement propose une cuisine ouverte entièrement équipée (plaques, four, hotte, micro-ondes, réfrigérateur, vaisselle et ustensiles), un séjour convivial, ainsi qu’une salle d’eau avec WC. Un lave-linge et étendoir complètent les équipements.\nChambre 1 – 13 m² : aménagée avec un lit 90x190, une table de chevet avec liseuse, bureau et chaise, multiprise, armoire de rangement et porte-manteau.\nUn logement confortable et prêt à vivre, idéalement agencé pour partager un cadre de vie agréable.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 360.0,
+  "rentChargeAmount": 110.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 360.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 200.0,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": null,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

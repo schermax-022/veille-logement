@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 27671,
   "guid": "d25167e2-b68b-46d1-824e-0aaa128479c7",
@@ -94,5 +94,198 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 27671,
+  "guid": "d25167e2-b68b-46d1-824e-0aaa128479c7",
+  "reference": "27671",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe7d57ca-da55-4e63-8a05-6b15be388777/large/8382892c-0b7f-4fac-a575-6afc80099713",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe7d57ca-da55-4e63-8a05-6b15be388777/large/e03c6ab4-ca82-4b6f-8632-294bc293bfe5",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe7d57ca-da55-4e63-8a05-6b15be388777/large/8154eb6e-656f-4770-9173-077a9399794e",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe7d57ca-da55-4e63-8a05-6b15be388777/large/a351b504-9ff9-42d8-9178-944ba82b1a48",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe7d57ca-da55-4e63-8a05-6b15be388777/large/965c1f36-fce5-4ec0-9080-778420ff5e4f",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe7d57ca-da55-4e63-8a05-6b15be388777/large/0edeb82a-4578-4c47-8855-ac81efe7ff45",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe7d57ca-da55-4e63-8a05-6b15be388777/large/25acf5bb-2a1e-4add-98a6-5fb9848b1e12",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fe7d57ca-da55-4e63-8a05-6b15be388777/large/b074a1ef-9c59-4e8d-b6fe-a27175c87a40",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 38920,
+   "guid": "fe7d57ca-da55-4e63-8a05-6b15be388777",
+   "reference": "38920",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 63.0,
+   "municipality": {
+    "id": 4670,
+    "postcode": "14123",
+    "code": "14271",
+    "name": "Fleury-sur-Orne"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 5924,
+   "guid": "cc9d773d-2a30-4a48-ab03-fae209f57dc7",
+   "reference": "5924",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-02-02",
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-06",
+  "endDateOfPublication": "2026-10-14",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "LES BALCONS FLEURY.\nVotre futur logement au 40 route d’Harcourt, Fleury-sur-Orne, aux portes de Caen, disponible 2ème trimestre 2026.\nSituée dans l’Écoquartier Les Hauts de l’Orne, cette résidence neuve allie nature, confort et accessibilité.\nProfitez d’un cadre de vie verdoyant et paisible, avec des appartements modernes à ossature bois, prolongés par balcon ou terrasse.\nIdéalement desservie par le tramway T3 (Caen centre en moins de 10 min), à 8 min de la gare, 10 min du centre-ville et 20 min de l’aéroport Carpiquet.\nÉcoles et services à proximité immédiate pour simplifier votre quotidien.\nUn logement neuf, performant, à loyer maîtrisé, pensé pour votre confort et votre qualité de vie.\n\nNous vous proposons un appartement T3 de 63 m² situé au 2ème étage avec ascenseur, avec balcon.\nCuisine ouverte, aménagée.\nPossibilité de location d'une deuxième place de stationnement selon disponibilité au prix de 35 €/ mois.\n\nLivraison prévue pour début juillet 2026.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 684.13,
+  "rentChargeAmount": 145.33,
+  "rentParkingAmount": 35.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 684.13,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

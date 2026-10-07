@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
  "liste": {
   "id": 7263,
   "guid": "6bc9a981-5387-423e-bd40-daff12f8c164",
@@ -94,5 +94,208 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 7263,
+  "guid": "6bc9a981-5387-423e-bd40-daff12f8c164",
+  "reference": "7263",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ea9d838-4cbf-4ce4-836b-ac3e99eb14c8/large/97858071-17ba-4eec-8e9f-824174cd08b7",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ea9d838-4cbf-4ce4-836b-ac3e99eb14c8/large/2d8d04ff-273e-4086-8f67-86b452f533bd",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ea9d838-4cbf-4ce4-836b-ac3e99eb14c8/large/a23341d6-5088-4a66-9b02-33b1b995ebb1",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ea9d838-4cbf-4ce4-836b-ac3e99eb14c8/large/ca051d30-3b0c-4fb8-b31f-f8549bd20a57",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ea9d838-4cbf-4ce4-836b-ac3e99eb14c8/large/7280e8e3-1659-4404-b36a-36f50a8783c3",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ea9d838-4cbf-4ce4-836b-ac3e99eb14c8/large/70dbbf47-7c67-448f-952e-8b49594d879e",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 20754,
+   "guid": "0ea9d838-4cbf-4ce4-836b-ac3e99eb14c8",
+   "reference": "20754",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.66,
+   "municipality": {
+    "id": 16520,
+    "postcode": "44100",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "COR",
+    "label": "Collectif radiateur",
+    "commercialLabel": "Chauffage collectif radiateur compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2201,
+   "guid": "b27a42f9-fbf9-4054-aa1b-6bac3457c482",
+   "reference": "2201",
+   "livingRules": "Les animaux ne sont pas acceptés",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "PHYSICAL",
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": "2019-07-25",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-04-02",
+  "endDateOfPublication": "2027-04-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence possède 39 logements meublés équipés d’une kitchenette, d’une salle d’eau, d’un mobilier sur mesure très fonctionnel. L’immeuble est situé à Nantes à proximité des transports en communs qui permettent un accès au centre-ville : commerces, services administratifs, équipements culturels… Elle s’anime au sein des espaces de convivialité spécifiquement dédiés à la rencontre et à l’échange au rythme des soirées régulièrement proposées\n\nPossibilité place de parking pour 25 € par mois.\nLogement meublé T1 de 20.66 m² disponible\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 531.31,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": 52.0,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }
