@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 47278,
   "guid": "a86ad233-ab11-4725-a2a6-64536a27f02f",
@@ -94,5 +94,192 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 47278,
+  "guid": "a86ad233-ab11-4725-a2a6-64536a27f02f",
+  "reference": "47278",
+  "offerNumber": 3,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcee6f2b-7d72-4293-ab56-beef18cd6829/large/4f126bc3-ebee-4517-9d7d-637c0eaf254d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcee6f2b-7d72-4293-ab56-beef18cd6829/large/6116626e-09a0-48bb-8baa-87db4c1062ad",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcee6f2b-7d72-4293-ab56-beef18cd6829/large/9dc2bbca-f4b9-422c-b627-ccecf03bc4f1",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcee6f2b-7d72-4293-ab56-beef18cd6829/large/718cadd9-c45c-4036-a503-a4b9f4120a5a",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcee6f2b-7d72-4293-ab56-beef18cd6829/large/6128c030-2fc0-410e-9f93-2971953d4822",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcee6f2b-7d72-4293-ab56-beef18cd6829/large/2dd1130d-803d-4c3b-8450-a0849962db93",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 26413,
+   "guid": "bcee6f2b-7d72-4293-ab56-beef18cd6829",
+   "reference": "26413",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 32712,
+    "postcode": "83230",
+    "code": "83019",
+    "name": "Bormes-les-Mimosas"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2763,
+   "guid": "b75d24ea-9a48-4c55-8ddb-7b13d81cb634",
+   "reference": "2763",
+   "livingRules": "Animaux non admis",
+   "type": {
+    "id": 13,
+    "ordering": 11,
+    "code": "RTS",
+    "label": "Résidence travailleurs saisonniers",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2025-06-02",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-06",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé chemin du Train des Pignes à Bormes-les-Mimosas, ce logement bénéficie d’un environnement calme et verdoyant, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\n-  Logement meublé et cuisine aménagée et équipée\n-\tClimatisation\n-\tAccès laverie collective (conso inclue dans les charges)\n-\tAccès internet en WIFI (compris dans les charges)\n-\tPlace de parking non nominative\n-\tEau chaude et eau froide (compris dans les charges)\n\nImportant : le logement devra être absolument libéré au plus tard le 30/04/2027 pour la saison\n\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 362.23,
+  "rentChargeAmount": 105.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

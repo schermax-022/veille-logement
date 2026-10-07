@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 50648,
   "guid": "6cee3ed8-cbff-45a5-af48-211f8fb7c0b8",
@@ -94,5 +94,203 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50648,
+  "guid": "6cee3ed8-cbff-45a5-af48-211f8fb7c0b8",
+  "reference": "50648",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f1/f127d9ee-ac06-4579-a073-0afc38eccfa6/large/76ac56b4-f119-41c5-a450-82bcc3d6d1ef",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f1/f127d9ee-ac06-4579-a073-0afc38eccfa6/large/a9522705-100f-4767-a750-f81dccc130b0",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f1/f127d9ee-ac06-4579-a073-0afc38eccfa6/large/7e496027-57ac-4c59-b195-6490055a3a28",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f1/f127d9ee-ac06-4579-a073-0afc38eccfa6/large/a52046a3-2654-48c4-beb3-54f283b6922c",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f1/f127d9ee-ac06-4579-a073-0afc38eccfa6/large/d52fca87-3688-4636-8b93-edc1c4fce8ab",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f1/f127d9ee-ac06-4579-a073-0afc38eccfa6/large/7b46a736-ae9a-4684-be6c-dd70f50d493b",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f1/f127d9ee-ac06-4579-a073-0afc38eccfa6/large/c94f014e-45b7-4ad6-8797-e63aa1a77243",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f1/f127d9ee-ac06-4579-a073-0afc38eccfa6/large/bdacd439-d6bd-4765-b479-b6adc999919f",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f1/f127d9ee-ac06-4579-a073-0afc38eccfa6/large/6db49656-87ff-49e2-8e2e-6b83a3518f53",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f1/f127d9ee-ac06-4579-a073-0afc38eccfa6/large/7a508b7b-0d01-49fe-ba2d-c90af113c37d",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58317,
+   "guid": "f127d9ee-ac06-4579-a073-0afc38eccfa6",
+   "reference": "58317",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 67.95,
+   "municipality": {
+    "id": 35023,
+    "postcode": "93160",
+    "code": "93051",
+    "name": "Noisy-le-Grand"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 8257,
+   "guid": "578a29b9-243f-4662-98de-086aa6a966e5",
+   "reference": "8257",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-15",
+  "endDateOfPublication": "2027-09-28",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Sans frais de dossier. Résidence neuve (livraison prévue fin novembre 2026), au 7 avenue Montaigne à Noisy le Grand, située proche des transports (RER A Noisy le Grand Mont d'Est à 3 minutes à pied, lignes de bus, réseau routier), des commerces, services et équipements (supermarché, pharmacie, hôpital, écoles, poste, commerces dans un rayon de 10 minutes à pied). A louer,      F3 de 67,95 m² au 6ème étage. Il vous propose une entrée avec rangement, une pièce à vivre de 27,90 m² (cuisine semi-ouverte et séjour) donnant sur un balcon de 4.60 m² exposée Sud, 2 chambres avec placard (10,10 et 11,40 m²), une salle de bain et des WC séparés. Chauffage collectif inclus dans les charges. Loué avec un parking extérieur. Photos non contractuelles, en illustration des prestations types. Acceptation sur plan uniquement, sans visites.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 981.12,
+  "rentChargeAmount": 258.9,
+  "rentParkingAmount": 53.15,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1026.12,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

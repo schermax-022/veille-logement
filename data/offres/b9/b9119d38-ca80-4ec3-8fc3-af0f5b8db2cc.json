@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 29203,
   "guid": "b9119d38-ca80-4ec3-8fc3-af0f5b8db2cc",
@@ -94,5 +94,200 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 29203,
+  "guid": "b9119d38-ca80-4ec3-8fc3-af0f5b8db2cc",
+  "reference": "29203",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/76/76e43246-296e-4ae9-8e85-dfa9bccf6b0c/large/50cba44e-ab20-4272-bebb-85d2220a3ffa",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/76/76e43246-296e-4ae9-8e85-dfa9bccf6b0c/large/f706407f-438e-4e32-bf75-1e776a2951bf",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/76/76e43246-296e-4ae9-8e85-dfa9bccf6b0c/large/39787223-5e8b-4ed8-800b-d0d03d714898",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/76/76e43246-296e-4ae9-8e85-dfa9bccf6b0c/large/60ae3ee7-2903-45e6-bdda-cac8551e135e",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 40405,
+   "guid": "76e43246-296e-4ae9-8e85-dfa9bccf6b0c",
+   "reference": "40405",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.0,
+   "municipality": {
+    "id": 33165,
+    "postcode": "85000",
+    "code": "85191",
+    "name": "La Roche-sur-Yon"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 2552,
+   "guid": "0fc2eafa-4930-4ccc-b23b-534ddfa7838a",
+   "reference": "2552",
+   "livingRules": "Pas d'animaux, pas de colocation",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": false
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "PHYSICAL",
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": "2023-09-02",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-01-08",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence est située à proximité immédiate du Pôle universitaire yonnais, de l’IFPS et de plusieurs centres de formation. Une grande surface commerciale et le Centre Hospitalier Départemental se trouvent également dans un rayon de moins de 1 km et un arrêt de bus se situe en face de la résidence.\nLes logements fonctionnels et confortables sont réservés aux jeunes de 18 à 29 ans,  en études, stage ou alternance post-bac\n\nLa résidence La Courtaisière est située à proximité immédiate du Pôle universitaire yonnais, de l’IFPS et de plusieurs centres de formation. Une grande surface commerciale et le Centre Hospitalier Départemental se trouvent également dans un rayon de moins de 1 km et un arrêt de bus se situe en face de la résidence.\nLes logements fonctionnels et confortables sont réservés aux jeunes de 18 à 29 ans,  en études, stage ou alternance post-bac\n\nStudio meublé de 18 m² avec salle d'eau privative et wc; bureau, lit, placards et réfrigérateur.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 313.0,
+  "rentChargeAmount": 140.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 313.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

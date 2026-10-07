@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 2857,
   "guid": "e9e1860d-e3ec-456d-84fe-c024e9e41071",
@@ -89,5 +89,194 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 2857,
+  "guid": "e9e1860d-e3ec-456d-84fe-c024e9e41071",
+  "reference": "2857",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1b/1b4d8a22-94c2-4bea-9cda-456876d92219/large/98384d07-c2e4-4441-8ad4-669d7713437e",
+    "urlContentType": "application/octet-stream",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1b/1b4d8a22-94c2-4bea-9cda-456876d92219/large/cc90e2cf-c290-435f-8d64-941d8ce1ab50",
+    "urlContentType": "application/octet-stream",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1b/1b4d8a22-94c2-4bea-9cda-456876d92219/large/205c938d-3125-41dd-b49b-d85406488931",
+    "urlContentType": "application/octet-stream",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1b/1b4d8a22-94c2-4bea-9cda-456876d92219/large/d6250689-5ace-44fd-b4d4-1950e075c0a4",
+    "urlContentType": "application/octet-stream",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 17393,
+   "guid": "1b4d8a22-94c2-4bea-9cda-456876d92219",
+   "reference": "17393",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 16592,
+    "postcode": "44600",
+    "code": "44184",
+    "name": "Saint-Nazaire"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "COR",
+    "label": "Collectif radiateur",
+    "commercialLabel": "Chauffage collectif radiateur compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "NON",
+     "label": "Pas de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8,
+   "guid": "3dab5fbe-6a24-4d5c-ae37-4799ae9d2024",
+   "reference": "8",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 14,
+     "ordering": 15,
+     "code": "MAT",
+     "label": "Prêt de matériel (informatique, vélo…)",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "PHYSICAL",
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2024-09-04",
+  "endDateOfPublication": "2027-04-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Les logements de la résidence offrent une superficie de 19 m² à 40 m². La décoration est sobre et conjugue praticité et élégance. Choisi avec soin, le mobilier est multifonction et les rangements faits sur mesure pour optimiser votre espace à vivre. Vaisselle, draps, électroménager sont fournis. La redevance comprend la location de votre logement ainsi que toutes les charges et les fluides (eau, électricité, chauffage, etc.) Entre le centre-ville et le port, la résidence est située dans le quartier Ville Port. C’est un quartier en plein renouveau depuis le début des années 2000. Il dispose de toutes les commodités nécessaires pour votre quotidien et vos loisirs dont un cinéma, un centre commercial et plusieurs musées. La résidence est à quelques pas d’un arrêt de bus et à 5 minutes à pied de la gare SNCF.\n\nLes logements de la résidence offrent une superficie de 19 m² à 40 m². La décoration est sobre et conjugue praticité et élégance. Choisi avec soin, le mobilier est multifonction et les rangements faits sur mesure pour optimiser votre espace à vivre. Vaisselle, draps, électroménager sont fournis. La redevance comprend la location de votre logement ainsi que toutes les charges et les fluides (eau, électricité, chauffage, etc.) Entre le centre-ville et le port, la résidence est située dans le quartier Ville Port. C’est un quartier en plein renouveau depuis le début des années 2000. Il dispose de toutes les commodités nécessaires pour votre quotidien et vos loisirs dont un cinéma, un centre commercial et plusieurs musées. La résidence est à quelques pas d’un arrêt de bus et à 5 minutes à pied de la gare SNCF.\n\nLogement  entièrement équipé et meublé.\nLoyer à partir de 395.33€ suivant la surface\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 462.58,
+  "rentChargeAmount": 46.41,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

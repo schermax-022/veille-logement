@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 37881,
   "guid": "44edac60-cae5-4913-b437-ebfb92c9a9d3",
@@ -94,5 +94,156 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 37881,
+  "guid": "44edac60-cae5-4913-b437-ebfb92c9a9d3",
+  "reference": "37881",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/67297470-7a19-40c0-b4eb-0bc92a053825/large/a860ccc0-0fbf-4c12-b4eb-0c0ad434bcf6",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/67297470-7a19-40c0-b4eb-0bc92a053825/large/5efd5d83-3324-4b66-b71c-bf97b6fb572b",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/67297470-7a19-40c0-b4eb-0bc92a053825/large/0600f665-e6fb-4d7d-94fa-c7c8ebd9478a",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 47767,
+   "guid": "67297470-7a19-40c0-b4eb-0bc92a053825",
+   "reference": "47767",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 63.81,
+   "municipality": {
+    "id": 29582,
+    "postcode": "74700",
+    "code": "74256",
+    "name": "Sallanches"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 6930,
+   "guid": "9587b8fa-2341-4502-8b91-c5ec6bb29d7f",
+   "reference": "6930",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-28",
+  "endDateOfPublication": "2026-10-27",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Programme neuf / Résidence Montfort / Sallanches\n \nVenez découvrir Sallanches, une ville Située dans la vallée de l’Arve, offrant un cadre de vie agréable entre ville et montagne.\f\nLa résidence est située proche du centre-ville et de toutes les commodités du quotidien, la gare est accessible en 5 minutes en voiture.\n\nUn emplacement idéal pour profiter d’un environnement naturel tout en restant proche des services.\n \n\nAppartement de type 3 de 63,81 m², situé au 2ème étage d’un immeuble sécurisé avec ascenseur, rue du Général Jacques de Montfort, 74700 Sallanches.\n\nCe logement dispose de deux balcons :  Balcon n°1 / 14,76 m² et Balcon n°2 / 9,90 m².\n(possibilité de louer un garage en supplément).\n\nEau chaude : individuelle, par chaudière à gaz de ville.\nEau froide : facturée aux locataires dans un premier temps, en attendant la pose des compteurs individuels.\nMode de chauffage : individuel, par chaudière à gaz de ville.\n\nDate de livraison : 28/10/2026 (date prévisionnelle).\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 797.0,
+  "rentChargeAmount": 136.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 797.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

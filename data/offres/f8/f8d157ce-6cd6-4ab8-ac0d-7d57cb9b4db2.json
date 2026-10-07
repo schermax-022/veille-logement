@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 47985,
   "guid": "f8d157ce-6cd6-4ab8-ac0d-7d57cb9b4db2",
@@ -94,5 +94,220 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 47985,
+  "guid": "f8d157ce-6cd6-4ab8-ac0d-7d57cb9b4db2",
+  "reference": "47985",
+  "offerNumber": 3,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2c22a8f2-9814-48ef-9d09-9cc6730d5e1b/large/eeae088c-0df6-4e94-a92b-8bd400bc599d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2c22a8f2-9814-48ef-9d09-9cc6730d5e1b/large/06c5485c-3972-4c90-8b1b-346ceffb0d3c",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2c22a8f2-9814-48ef-9d09-9cc6730d5e1b/large/8aaa2949-ac97-4958-9c4f-80dddf2dc209",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2c22a8f2-9814-48ef-9d09-9cc6730d5e1b/large/2812280a-41d9-4c17-926b-4279cc8e29c0",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2c22a8f2-9814-48ef-9d09-9cc6730d5e1b/large/5f23de78-0f35-4d4f-ac67-ed0c8164ac8d",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 23967,
+   "guid": "2c22a8f2-9814-48ef-9d09-9cc6730d5e1b",
+   "reference": "23967",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.6,
+   "municipality": {
+    "id": 12776,
+    "postcode": "33600",
+    "code": "33318",
+    "name": "Pessac"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "NON",
+     "label": "Pas de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1254,
+   "guid": "3df5b113-804b-4b75-a72a-33df1315e2ab",
+   "reference": "1254",
+   "livingRules": "Un règlement intérieur permet d'assurer les meilleures conditions de vie personnelle et collective et de garantir le bon fonctionnement de la résidence.\n\nLes animaux ne sont pas admis.",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 19,
+     "ordering": 20,
+     "code": "SOC",
+     "label": "Référent social",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-30",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "\nRésidence sociale jeunes actifs CITE DES METIERS  à Pessac.\n\nAvenue de Canéjan, Pessac (33600).\n\nLa résidence Cité des Métiers est située à proximité immédiate de la ligne B du Tramway (accessible en 2 minutes à pied) qui pourra vous mener de Pessac centre ou Alouette à la Place des Quinconces en passant par le quartier des Chartrons, La Cité du Vin et jusqu'aux Berges de la Garonne à Bordeaux.\n\nLes commerces de proximité (boulangerie, pharmacie...) se situent à moins de 20 minutes à pied de cette résidence livrée en 2017, tout comme la zone commerciale de Mérignac Soleil et ses nombreux magasins dont un hypermarché (24 mn en transports en commun).\n\nCe logement de type 1' est équipé d'un lit simple (1 personne), d'un bureau, d'une chaise, d'une kitchenette (frigo, plaques de cuisson) et d'une salle de bain privative.\n\nQue vous soyez étudiant(e) avec un emploi, alternant(e), en CDD, CDI, ou intérimaire ce logement est  idéal pour vous.\n\nPAS DE FRAIS D'AGENCE - PAS DE FRAIS DE DOSSIER.\n\n Logement ouvrant le droit aux APL.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 515.69,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

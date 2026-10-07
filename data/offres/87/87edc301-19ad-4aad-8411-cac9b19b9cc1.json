@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 5893,
   "guid": "87edc301-19ad-4aad-8411-cac9b19b9cc1",
@@ -89,5 +89,247 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 5893,
+  "guid": "87edc301-19ad-4aad-8411-cac9b19b9cc1",
+  "reference": "5893",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/b47e88cc-d8b7-4a8d-9c74-015f564de800",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/ae8846f8-21b0-4f4b-9798-2e4aaacafd38",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/e791fd45-dd70-4f52-a031-dab5e16f4ff9",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/4bb07651-9b35-4004-89fd-6e508a8d9001",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/d02b0480-d02a-4844-a695-06daf21b69f0",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/dd0901ce-c6c4-4ca9-ba82-5fff97064c03",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/2a28a789-ba90-4e32-bcec-352b5fb49cf8",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/95b67dc3-252d-4e6c-9bd1-dae176805d68",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/683ab64b-140c-4252-b4f4-00a2ab5b2fa0",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/ab4d1dd1-8305-41f1-8da4-2f1423695352",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/1796234d-ae41-4367-8665-78f37b26f1d9",
+    "urlContentType": "image/png",
+    "ordering": 10,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb3c949c-79ef-4058-a81c-19f77caff5b7/large/5f092304-d95a-4a61-a072-a7e2420ca3d6",
+    "urlContentType": "image/jpeg",
+    "ordering": 11,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 19682,
+   "guid": "fb3c949c-79ef-4058-a81c-19f77caff5b7",
+   "reference": "19682",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 15.0,
+   "municipality": {
+    "id": 20888,
+    "postcode": "56560",
+    "code": "56081",
+    "name": "Guiscriff"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2645,
+   "guid": "a1217b46-0fac-4d03-b46d-05e83e4f5327",
+   "reference": "2645",
+   "livingRules": "",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-02-06",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Dans cette résidence située Place de la mairie à Guiscriff, nous vous proposons des logements de type T1 et T1bis allant de 15 à 31m². Le loyer est compris entre 366 € et 534€ / mois. \nLa redevance comprend le loyer et toutes les charges.\n\nLes logements sont équipés d’une kitchenette, une salle de bain et des WC individuels.\n\nLa résidence possède une salle de détente, une laverie, un local à vélo sécurisé ainsi qu’une salle de vidéo projection et l’accès au Wifi. Le forfait des services et animations s’élèvent à 7€ / mois.\n\nPostulez ! Action Logement vous contactera pour faire le point sur votre demande.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 366.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 50305,
   "guid": "1084e1be-229e-4016-82aa-c04bf7ccdcdd",
@@ -94,5 +94,187 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50305,
+  "guid": "1084e1be-229e-4016-82aa-c04bf7ccdcdd",
+  "reference": "50305",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/61/618895bf-c087-4a2f-9473-7d9ffa2af1be/large/1b7c1aa9-30d4-4934-b63f-5df5e21bfe31",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/61/618895bf-c087-4a2f-9473-7d9ffa2af1be/large/aa8539da-53f0-4528-bb49-e607c84d54e0",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/61/618895bf-c087-4a2f-9473-7d9ffa2af1be/large/8d95eed2-ba79-4c8c-857c-f589da5cc526",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/61/618895bf-c087-4a2f-9473-7d9ffa2af1be/large/70320f50-29b6-4ebb-855a-49ee05af33a9",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/61/618895bf-c087-4a2f-9473-7d9ffa2af1be/large/a7a718d5-831e-48f4-a2b9-5bc6743393d9",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/61/618895bf-c087-4a2f-9473-7d9ffa2af1be/large/18eebc78-8804-4d44-b058-91c4c84c65de",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58028,
+   "guid": "618895bf-c087-4a2f-9473-7d9ffa2af1be",
+   "reference": "58028",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 31.9,
+   "municipality": {
+    "id": 32858,
+    "postcode": "84000",
+    "code": "84007",
+    "name": "Avignon"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8233,
+   "guid": "bc15b5b0-3cb0-400d-8818-1ad83615e8f4",
+   "reference": "8233",
+   "livingRules": "",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-28",
+  "endDateOfPublication": "2026-12-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Situé rue René Cassin à Avignon, ce logement bénéficie d’un environnement urbain pratique, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nLe secteur offre un cadre de vie fonctionnel, avec différents commerces, services et équipements accessibles à proximité. Sa situation permet également de rejoindre facilement le centre-ville d’Avignon ainsi que les principaux pôles d’activités de l’agglomération.\n\nLes transports en commun facilitent les déplacements vers le centre-ville, la gare d’Avignon, les différents quartiers de la commune ainsi que les communes voisines.\n\nLa proximité des principaux axes routiers permet de rejoindre facilement Le Pontet, Vedène, Carpentras, Cavaillon et les différents secteurs du Vaucluse.\n\nCe logement offre ainsi un cadre de vie pratique, alliant proximité des services, mobilité et accessibilité au cœur du Vaucluse.\n\nLes photos présentées dans cette annonce sont non contractuelles et peuvent correspondre à un logement témoin. Elles sont proposées à titre illustratif et ne représentent pas nécessairement le logement disponible.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 584.8,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

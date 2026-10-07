@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 47129,
   "guid": "49f00519-4812-47fd-9c06-8276ea507724",
@@ -94,5 +94,183 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 47129,
+  "guid": "49f00519-4812-47fd-9c06-8276ea507724",
+  "reference": "47129",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1d/1dd1392a-ba14-4907-8468-d975b3e70c22/large/0c6fa5d2-8fb5-4118-b400-f4f8fe0e0948",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1d/1dd1392a-ba14-4907-8468-d975b3e70c22/large/f76941fd-16bf-4716-84c6-aa41df2d53a9",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1d/1dd1392a-ba14-4907-8468-d975b3e70c22/large/806120b9-6e5d-4fd6-9a12-9540499807ed",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 55479,
+   "guid": "1dd1392a-ba14-4907-8468-d975b3e70c22",
+   "reference": "55479",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 66.54,
+   "municipality": {
+    "id": 29474,
+    "postcode": "74240",
+    "code": "74133",
+    "name": "Gaillard"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 1,
+    "ordering": 1,
+    "code": "RDC",
+    "label": "Rez-de-chaussée"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 7914,
+   "guid": "a0eb4a17-afb9-497c-987e-217d7cbf91cd",
+   "reference": "7914",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-11-30",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-30",
+  "endDateOfPublication": "2026-10-28",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "PROGRAMME NEUF – Résidence L’Elliance – 24 rue Marcel Mieusset, 74240 Gaillard\n\nLa résidence L’Elliance bénéficie d’un emplacement idéal à Gaillard, dans un environnement résidentiel agréable et à proximité des commodités du quotidien.\n\nLes résidents profitent de commerces, d’un supermarché, de services et d’établissements scolaires à proximité. La résidence est également bien desservie par les transports en commun, avec des lignes de bus et le tramway facilement accessibles, permettant de rejoindre rapidement Annemasse et les communes voisines.\n\nUn emplacement privilégié pour profiter d’un cadre de vie pratique, calme et bien desservi, avec l’ensemble des commodités essentielles accessibles facilement au quotidien.\n\nAppartement de Type 3 de 66.54 m² au RDC d’un immeuble sécurisé avec ascenseur.\n\nCe logement dispose d’une cuisine équipée et meublée (hotte + plaque), d'une terrasse de 11.86 m², ainsi que d'une place de parking dans un box en sous-sol.  \n\nChauffage individuel gaz.\n\n\nDisponible le 30/11/2026\nIMPORTANT : il s’agit d’un programme neuf et la date de livraison est prévisionnelle. \n\nIl est obligatoire de s’inscrire sur la plateforme In’li après validation de votre candidature auprès de nos services.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 975.0,
+  "rentChargeAmount": 127.0,
+  "rentParkingAmount": 60.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1090.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

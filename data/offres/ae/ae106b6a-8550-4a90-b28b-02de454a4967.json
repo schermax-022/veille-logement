@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 44364,
   "guid": "ae106b6a-8550-4a90-b28b-02de454a4967",
@@ -94,5 +94,183 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 44364,
+  "guid": "ae106b6a-8550-4a90-b28b-02de454a4967",
+  "reference": "44364",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1d/1d64d696-21b1-4d01-aef7-d219a37d9ffd/large/e0befc82-1ad6-4cc4-b4be-a50f61692d1b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1d/1d64d696-21b1-4d01-aef7-d219a37d9ffd/large/70e93231-7fdf-45f4-a096-29791ae888bf",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1d/1d64d696-21b1-4d01-aef7-d219a37d9ffd/large/ac8a6bd4-5417-4470-bf65-ba68afeb7c2a",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 53234,
+   "guid": "1d64d696-21b1-4d01-aef7-d219a37d9ffd",
+   "reference": "53234",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 49.0,
+   "municipality": {
+    "id": 24847,
+    "postcode": "63100",
+    "code": "63113",
+    "name": "Clermont-Ferrand"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 7636,
+   "guid": "ba2064db-d6d1-4d20-b489-96fd57d90687",
+   "reference": "7636",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2027-01-12",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-12",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "ATTENTION REPORT DE LIVRAISON DU 08/10/26 AU 12/01/27 (Sous réserve de l'achèvement des travaux)\n\nA CLERMONT FERRAND, Rue Chateaubriand, la résidence neuve \" Nouvel Angle\", composée de 2 bâtiments, offre un cadre de vie agréable, à proximité des commerces, des services et des écoles. Elle bénéficie d'un emplacement stratégique facilitant vos déplacements grâce à sa proximité pour les axes autoroutiers et la ligne de bus n°4.\n\nCet appartement au 5ème étage se compose : \n- d'une entrée avec placard\n- d'une pièce de vie de 30,7 m² avec cuisine ouverte \n- d'un balcon de 4,8 m² exposé nord \n- d'une chambre \n- d'une salle d'eau avec douche et sèche serviettes \n- d'un wc indépendant\n\nVolets roulants électriques.\n Le logement est équipé de 2 arrivées d'eau : une dans la cuisine pour le lave-vaisselle, une dans la salle d'eau pour le lave linge. \n\nExposition Nord. \n\nUne place de stationnement complète ce bien. \n\nACCEPTATION UNIQUEMENT SUR PLAN, aucune visite possible (Résidence en cours de construction). \n\nNB : Action logement propose de financer sous forme de prêt à taux O% le versement de votre dépôt de garantie (caution), renseignement sur https://www.actionlogement.fr/l-avance-loca-pass \n\nCe logement vous intéresse et vous ne parvenez pas à candidater ? Merci d'envoyer à locatif63.als@actionlogement.fr\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 570.08,
+  "rentChargeAmount": 54.56,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 570.08,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

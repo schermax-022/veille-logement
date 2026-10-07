@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 50038,
   "guid": "b975a910-5502-4b62-a679-c9753644db52",
@@ -94,5 +94,222 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50038,
+  "guid": "b975a910-5502-4b62-a679-c9753644db52",
+  "reference": "50038",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/d1b0d5c8-aa5e-41b2-b71c-5b0b88ba8da6",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/a4a9a0f1-b3a5-4ac0-97f0-703b657faca2",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/4635b80a-657f-4a44-a559-34671d38c094",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/d8a14206-a703-480e-9885-b6ca059e2761",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/0b0bc196-2f53-49fa-854e-69d1eee07ac9",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/2f0e0b1c-2e43-421d-afd1-230175aea0a6",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/54861777-7fe0-4c66-a4e4-49229fe80882",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/f00ea3a9-be96-4bd7-867f-534e7599f6f5",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/20934030-8f5d-4281-9964-8b49cdf8f473",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/0e3633d0-4d12-4cd6-9252-37a68a2c3506",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/f086722c-907f-4678-a253-d64d33d262fd",
+    "urlContentType": "image/jpeg",
+    "ordering": 10,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cb/cb058d40-1ad7-40a4-bb34-0600daff58de/large/5541eecc-7f6e-4c7f-bf68-ae1eebd3735e",
+    "urlContentType": "image/jpeg",
+    "ordering": 11,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57783,
+   "guid": "cb058d40-1ad7-40a4-bb34-0600daff58de",
+   "reference": "57783",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 99.81,
+   "municipality": {
+    "id": 12502,
+    "postcode": "33130",
+    "code": "33039",
+    "name": "Bègles"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3109,
+   "guid": "f92b20f5-203d-4322-bfd2-d46b2473f006",
+   "reference": "3109",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2020,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-22",
+  "endDateOfPublication": "2026-12-24",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence se situe rue Robert Schuman, dans le quartier des Terres neuves, à proximité des services (établissements scolaires, cabinets médicaux...) des transports en commun (Tram B et lignes de bus).\nL'ensemble immobilier comprend 1 bâtiment semi-enterré comportant 5 étages avec ascenseur, visiophone, digicode, parkings en sous-sol et au rez-de-chaussée.\n\nNous vous proposons un appartement non meublé, composé d'une entrée avec placard, un séjour simple, une cuisine séparée équipée, une buanderie, deux wc séparés, une salle de bains, une salle d'eau, trois chambres (une avec dressing et deux avec placard), un dégagement avec placard, une terrasse.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1198.68,
+  "rentChargeAmount": 210.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1198.68,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

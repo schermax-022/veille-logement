@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 48981,
   "guid": "109528b0-edc5-483f-b1b7-390461f7adaa",
@@ -94,5 +94,179 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 48981,
+  "guid": "109528b0-edc5-483f-b1b7-390461f7adaa",
+  "reference": "48981",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/3411cb47-df4e-4ecc-8fda-95a92ca3cc8f/large/f980c6b0-e2b8-4d2f-a654-f62e58717e98",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/3411cb47-df4e-4ecc-8fda-95a92ca3cc8f/large/938bcc5f-ba0a-454b-9177-48c632f0568c",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/3411cb47-df4e-4ecc-8fda-95a92ca3cc8f/large/2b7e0632-8c6d-4ea0-bd36-d988a36e5ce9",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/3411cb47-df4e-4ecc-8fda-95a92ca3cc8f/large/db816fd5-27f1-4106-b651-2ef2dd080c9b",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/3411cb47-df4e-4ecc-8fda-95a92ca3cc8f/large/08ec637a-6738-42fa-b29d-d7d50a2cb5a8",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/3411cb47-df4e-4ecc-8fda-95a92ca3cc8f/large/de66cae9-333c-4e48-a03a-3fa0bf50c200",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56919,
+   "guid": "3411cb47-df4e-4ecc-8fda-95a92ca3cc8f",
+   "reference": "56919",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 17.0,
+   "municipality": {
+    "id": 12808,
+    "postcode": "33190",
+    "code": "33352",
+    "name": "La Réole"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8064,
+   "guid": "a924cdab-b1f4-44a4-ae86-8cbd55d1fe5b",
+   "reference": "8064",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "VISALE"
+   ],
+   "deliveredAt": "2026-10-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-01",
+  "endDateOfPublication": "2026-10-10",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Ce bien est présenté dans le cadre du programme Louer pour l'Emploi. \n\nLa résidence se situe rue Duprat à proximité des commerces et services : pharmacies, médecins, centre hospitalier,  supérette, boulangerie, gare TER.\n\nGarantie VISALE obligatoire : https://www.visale.fr/visale-pour-les-locataires/avantages/\n\nNous vous proposons un studio au 1er étage (entrée indépendante par le garage, escalier en colimaçon), composé d'une pièce de vie, salle de bain.\nLe stationnement dans la rue est possible. \nLe bien est meublé avec un clic-clac, télévision, micro-ondes, cafetière, bouilloire, 1 réfrigérateur top, table, 2 chaises, vaisselle, rangement. \n\nDans le buanderie (espace partagé au rez-de-chaussée) il y a lave-linge et sèche-linge.\n\nLes charges (eau froide, internet) sont comprises.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 295.0,
+  "rentChargeAmount": 95.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 295.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

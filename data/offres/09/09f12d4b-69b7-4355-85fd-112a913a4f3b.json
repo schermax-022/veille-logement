@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 35242,
   "guid": "09f12d4b-69b7-4355-85fd-112a913a4f3b",
@@ -94,5 +94,187 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 35242,
+  "guid": "09f12d4b-69b7-4355-85fd-112a913a4f3b",
+  "reference": "35242",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3e3c61f4-bce6-4cc3-8333-2c1c11b96d55/large/d2264103-7094-451a-aa9e-2b168d91520d",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3e3c61f4-bce6-4cc3-8333-2c1c11b96d55/large/d9727ca9-e2d6-4886-a24f-61ef110e2723",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3e3c61f4-bce6-4cc3-8333-2c1c11b96d55/large/fdb5a1d9-6f83-4afa-9833-91cf653a90fd",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 45545,
+   "guid": "3e3c61f4-bce6-4cc3-8333-2c1c11b96d55",
+   "reference": "45545",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 13.0,
+   "municipality": {
+    "id": 5946,
+    "postcode": "17650",
+    "code": "17323",
+    "name": "Saint-Denis-d'Oléron"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 6671,
+   "guid": "9abb560c-cd91-4e00-88ea-4f97cda2de78",
+   "reference": "6671",
+   "livingRules": "La durée de location est déterminée par le contrat de travail saisonnier.\n\n",
+   "type": {
+    "id": 13,
+    "ordering": 11,
+    "code": "RTS",
+    "label": "Résidence travailleurs saisonniers",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-05-10",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-05-10",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Située à la pointe nord de l’île d’Oléron, au cœur de la Charente-Maritime, la résidence saisonnière de la commune de Saint-Denis-d’Oléron vous accueille dans un environnement dynamique et authentique, à l’image de son cadre de vie exceptionnel.\nLa résidence est dédiée aux travailleurs saisonniers à la recherche d’un logement temporaire, confortable et accessible.\nNichée à proximité de la plage de Soubregeon et à deux pas du phare de Chassiron, elle bénéficie d’un emplacement privilégié, proche des marchés animés, du minigolf et des terrains de tennis. Elle offre également un accès facile aux plages de sable, aux paysages marins du Pertuis d’Antioche, aux nombreuses pistes cyclables et aux espaces naturels environnants.\nLa redevance mensuelle comprend l’ensemble des charges, notamment l’eau et l’électricité.\nLa résidence se compose de chambres d’environ 13 m². Chaque logement est meublé et entièrement équipé (mobilier, vaisselle et électroménager).\nPlusieurs services sont également proposés pour faciliter le quotidien des résidents : place de stationnement, local à vélos etc..\n\n\nCette chambre de 13 m² dispose d’une cuisine équipée comprenant une plaque à induction, un réfrigérateur, un évier, une hotte, un micro-ondes et une cafetière. La vaisselle ainsi que les ustensiles sont également fournis.\n\nL’espace nuit est aménagé avec un lit de 90 cm, une table à manger, deux chaises et des rangements. Un climatiseur réversible est également présent pour votre confort. Du matériel de ménage est mis à disposition.\n\nLa redevance inclut l’eau et l’électricité. Vous bénéficierez également des services de la résidence, tels qu’une place de parking et un local à vélos.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 400.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 400.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

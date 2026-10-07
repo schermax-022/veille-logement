@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 38375,
   "guid": "a1a3ceef-05ec-48c4-bfde-c04ea665ec29",
@@ -94,5 +94,171 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 38375,
+  "guid": "a1a3ceef-05ec-48c4-bfde-c04ea665ec29",
+  "reference": "38375",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8b/8b6495b2-1ac1-409d-be02-0fa06f5a5b38/large/e736e050-66e9-4026-87ca-8fe2a3133f43",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8b/8b6495b2-1ac1-409d-be02-0fa06f5a5b38/large/1c7038a2-e519-4258-a760-5028d1343bc6",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8b/8b6495b2-1ac1-409d-be02-0fa06f5a5b38/large/d5a8fd1c-9a84-43a7-ab6d-aaebb9ca1b48",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8b/8b6495b2-1ac1-409d-be02-0fa06f5a5b38/large/16c42022-d563-4843-82a2-466f2f3b309a",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8b/8b6495b2-1ac1-409d-be02-0fa06f5a5b38/large/0fd2a414-2509-431e-9378-21c5a9c829e4",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 48171,
+   "guid": "8b6495b2-1ac1-409d-be02-0fa06f5a5b38",
+   "reference": "48171",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 65.92,
+   "municipality": {
+    "id": 10149,
+    "postcode": "28100",
+    "code": "28134",
+    "name": "Dreux"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 6963,
+   "guid": "c1c5fd60-d9f4-420d-88fd-5c6e7ea687ba",
+   "reference": "6963",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-02-01",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Appartement NEUF type 3 de 65.92 m² au 2e étage d'une résidence avec ascenseur située AVENUE DES FENOTS à DREUX -28100.\nLoyer hors charges : 649.46 € - Acompte de charges : 63.72 €. \nChauffage individuel au gaz. Local à vélos.\n\nAppartement composé d'une entrée, pièce à vivre avec cuisine ouverte et équipée d'une plaque de cuisson, 2 chambres, salle d'eau et WC. Balcon de 5 m². 1 Place de stationnement nominative.  \nProche des écoles, commerces et transports en commun.\nLivraison des logements estimée fin octobre 2026. \n\nLa date limite de candidature n'est pas contractuelle. \nLes photos correspondent à l'appartement témoin.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 649.46,
+  "rentChargeAmount": 66.72,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 649.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

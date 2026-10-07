@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
  "liste": {
   "id": 22916,
   "guid": "6c4d5886-b816-4de3-89be-a5ce6d92065b",
@@ -89,5 +89,152 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 22916,
+  "guid": "6c4d5886-b816-4de3-89be-a5ce6d92065b",
+  "reference": "22916",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6baed35-9394-402c-9203-98105e7ec97c/large/d767cc0f-e456-46df-9dda-9c9e54d7ac1f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 35027,
+   "guid": "e6baed35-9394-402c-9203-98105e7ec97c",
+   "reference": "35027",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 9.0,
+   "municipality": {
+    "id": 21023,
+    "postcode": "56660",
+    "code": "56222",
+    "name": "Saint-Jean-Brévelay"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "COLLECTIVE",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 5400,
+   "guid": "048a86cc-bf9b-420c-b9fc-026e8e6a3b3c",
+   "reference": "5400",
+   "livingRules": "",
+   "type": {
+    "id": 4,
+    "ordering": 13,
+    "code": "AUT",
+    "label": "Autres résidences",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-10-15",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Nous vous proposons de louer une chambre à Saint-Jean Brevelay et de vivre l'expérience enrichissante de l'hébergement temporaire chez l'habitant. \n\nA votre disposition, cuisine, salle de bain et autres équipements présent dans le logement. \nLocal vélo et parking\nL’hébergement temporaire chez l’habitant est une solution de logement clé en main, rapide et flexible. \nOffre pour les -30 ans.\n\n* avril à octobre = 15 euros la nuitée ou 250 euros par mois\n\n* novembre à mars = 17 euros la nuitée ou 270 euros par mois\n\n* durée d’hébergement de 8 mois maximum sur une année civile\n\nLes hébergements proposés par le dispositif HTH ne constituent pas une adresse principale.\n\nPhoto non contractuelle \n\nPostulez ! Action Logement prendra contact avec vous pour faire le point sur votre demande\n\n",
+  "paymentType": {
+   "id": 1,
+   "ordering": 2,
+   "code": "JNR",
+   "label": "Journalier"
+  },
+  "housingFeeBaseBound": 15.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 90.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }
