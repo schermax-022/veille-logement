@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
  "liste": {
   "id": 44277,
   "guid": "08009dea-e6bb-4623-91bd-c0bc1c06d01f",
@@ -94,5 +94,220 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 44277,
+  "guid": "08009dea-e6bb-4623-91bd-c0bc1c06d01f",
+  "reference": "44277",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/dbfb190a-4e53-49b8-a5ee-e468ea4fc8df",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/b8f68220-07ec-4bcf-b423-e16b2ccb6075",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/ff53c6b8-fc02-4924-85c2-1fb01e5c8f48",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/f3192b2e-9b27-4afc-aabf-4cfbcbbcefe4",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/c2801ffd-2f0f-4c90-b264-dfd72f8912af",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/140d002e-ede0-4e8e-be37-c23ab169aaf6",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/f977cde6-1737-4c27-8f88-f053063f611a",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/413902d8-f74c-4dbf-b52c-0ccfb60aff48",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/be1bd8e7-cde7-49cf-9446-9955d6810612",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/1ea16cc1-ac30-4072-be06-c06cb2e20682",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/e53e1279-b637-4960-90a9-0017e96c7269",
+    "urlContentType": "image/png",
+    "ordering": 10,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62a3de66-850e-4794-be0b-83c157be2fce/large/84d21c02-f4de-43ee-942b-42bf835c1138",
+    "urlContentType": "image/png",
+    "ordering": 11,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 53158,
+   "guid": "62a3de66-850e-4794-be0b-83c157be2fce",
+   "reference": "53158",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 80.1,
+   "municipality": {
+    "id": 25635,
+    "postcode": "64000",
+    "code": "64445",
+    "name": "Pau"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": {
+    "id": 1,
+    "ordering": 1,
+    "code": "D",
+    "label": "Duplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3984,
+   "guid": "637d3a90-29c4-4ae1-8b2b-df1c0db7ed89",
+   "reference": "3984",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": "2024-06-01"
+  },
+  "availableAt": "2026-10-10",
+  "endDateOfPublication": "2026-10-11",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence est située 29 Bld Recteur Jean Sarrailh, en centre-ville, où vous trouverez à proximité des services et commerces : pharmacie, supermarché, ligne de bus...\nElle est sécurisée par contrôle d’accès et vidéophone.\n\nCe bien est présenté dans le cadre du programme Action Cœur de Ville.\n\nNous vous proposons un appartement duplex non meublé composé au rez-de-chaussée d'une entrée avec placard, cuisine équipée ouverte sur séjour, salle d'eau, WC séparés, 1 chambre; à l'étage, 1 chambre avec dressing, salle d'eau, WC séparés. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 736.76,
+  "rentChargeAmount": 145.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 736.76,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 889.1,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

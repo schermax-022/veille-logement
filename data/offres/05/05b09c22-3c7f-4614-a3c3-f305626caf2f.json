@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
  "liste": {
   "id": 50089,
   "guid": "05b09c22-3c7f-4614-a3c3-f305626caf2f",
@@ -94,5 +94,206 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50089,
+  "guid": "05b09c22-3c7f-4614-a3c3-f305626caf2f",
+  "reference": "50089",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/70358c81-96a7-414f-8fb1-1e05383dd47b/large/e5f458b8-41a8-4397-b919-9a57d1731eeb",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/70358c81-96a7-414f-8fb1-1e05383dd47b/large/f40fa65d-8e88-4b02-982d-c2557f2d7231",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/70358c81-96a7-414f-8fb1-1e05383dd47b/large/2aa8be62-7cba-4fc4-acb5-a989f4c02d3f",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/70358c81-96a7-414f-8fb1-1e05383dd47b/large/ae0dac9c-dc77-4996-8fa1-ed55874188d4",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/70358c81-96a7-414f-8fb1-1e05383dd47b/large/2b8366ad-7a34-4695-b189-5cf2d49a2730",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/70358c81-96a7-414f-8fb1-1e05383dd47b/large/e978de95-280a-4dc4-9505-8457df69d4bd",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/70358c81-96a7-414f-8fb1-1e05383dd47b/large/f544b880-7e45-422c-8ef4-55b45fab382e",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/70358c81-96a7-414f-8fb1-1e05383dd47b/large/ec15258e-b655-4d77-bca2-8ba1fecd9bf1",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57824,
+   "guid": "70358c81-96a7-414f-8fb1-1e05383dd47b",
+   "reference": "57824",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 47.0,
+   "municipality": {
+    "id": 227,
+    "postcode": "01120",
+    "code": "01262",
+    "name": "Montluel"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    },
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 8193,
+   "guid": "e8368f23-9b88-420f-8f70-81601e841c2f",
+   "reference": "8193",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "VISALE"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-24",
+  "endDateOfPublication": "2026-10-23",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "À louer T2 meublé de 47 m², situé au 290 chemin de la Maladière à Montluel, dans une résidence récente, calme et sécurisée.\n\nLe logement comprend : une chambre, une salle de bains avec baignoire, un WC, une pièce de vie avec cuisine équipée ouverte.\n\nDISPONIBLE IMMÉDIATEMENT\n\n🏡 LES POINTS FORTS\n\n* Rez-de-jardin\n* Jardin privatif d’environ 30 m²\n* Garage privatif\n* Résidence récente et sécurisée\n\n🍳 CUISINE ENTIÈREMENT ÉQUIPÉE\n\n* Plaques à induction\n* Four\n* Réfrigérateur\n* Lave-vaisselle\n* Lave-linge\n\n🛋️ LOGEMENT MEUBLÉ\nLe logement est loué entièrement meublé et prêt à vivre.\n\n📍 EMPLACEMENT\nSitué à Montluel, à proximité des commerces, services et écoles, avec un accès rapide à la gare et aux axes routiers A42/A432.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 770.0,
+  "rentChargeAmount": 80.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1540.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

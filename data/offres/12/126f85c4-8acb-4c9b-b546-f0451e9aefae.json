@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
  "liste": {
   "id": 28419,
   "guid": "126f85c4-8acb-4c9b-b546-f0451e9aefae",
@@ -94,5 +94,231 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 28419,
+  "guid": "126f85c4-8acb-4c9b-b546-f0451e9aefae",
+  "reference": "28419",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e4/e47ad489-8d99-40dc-bfe6-aa930df17509/large/88cf10b1-0380-4385-978e-fd0247c1084f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e4/e47ad489-8d99-40dc-bfe6-aa930df17509/large/2804d49f-8ce7-4b10-94a0-a1a545562bf3",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e4/e47ad489-8d99-40dc-bfe6-aa930df17509/large/48283019-a722-4bff-80cf-42780c7b247e",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e4/e47ad489-8d99-40dc-bfe6-aa930df17509/large/58e1001a-a809-453f-9036-3395115cbb8c",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e4/e47ad489-8d99-40dc-bfe6-aa930df17509/large/10b09300-10f3-4203-ba64-05e1818739b2",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e4/e47ad489-8d99-40dc-bfe6-aa930df17509/large/5432520a-cf69-4b57-a6b4-fbfe0bdefffc",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e4/e47ad489-8d99-40dc-bfe6-aa930df17509/large/eb3eebea-2a23-45a5-a008-ed06a58ff490",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 39715,
+   "guid": "e47ad489-8d99-40dc-bfe6-aa930df17509",
+   "reference": "39715",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 25.0,
+   "municipality": {
+    "id": 31176,
+    "postcode": "79300",
+    "code": "79049",
+    "name": "Bressuire"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 5272,
+   "guid": "a5be65e6-06e1-4eb7-92dc-fa033736afe0",
+   "reference": "5272",
+   "livingRules": "Contrat d'une durée d'un mois, et renouvelable automatiquement chaque mois, à la demande du résident. Il est valable jusqu'à un an, avec possibilité de prolongation selon le projet du résident.",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": "2025-11-03",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-12-23",
+  "endDateOfPublication": "2026-12-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Bressuire est située au cœur du bocage poitevin, au nord-ouest du département des Deux-Sèvres.\nDotées d'équipements culturels et sportifs de qualité, avec un réseau associatif dynamique, Bressuire et ses communes associées offrent un cadre de vie attrayant, dans une ville à taille humaine, qui conjugue des espaces citadins et ruraux.\n\nPASS'HAJ Bressuire est une résidence de haute qualité située en centre ville comprenant 24 studios T1' meublés, neufs et lumineux.\n\nLa résidence dispose d'espaces collectifs (salon TV, salle de détente, patios extérieurs aménagés). Un accès WIFI gratuit est disponible dans les communs. Les services proposés comprennent : une  laverie, un local deux roues sécurisé, un parking. L'accès à la résidence se fait de manière sécurisée grâce à un badge\n\nStudio T1' neuf, lumineux, situé dans une résidence de haute qualité en centre ville.  \nL'appartement est équipé d'une cuisine, de rangements intégrés, d'une salle de bain. Meublé avec goût, il comprend un lit (120), une table et chaises, un fauteuil, une table basse et un meuble TV.\nLa résidence dispose d'espaces collectifs (salon TV, salle de détente, patios extérieurs aménagés). Un accès WIFI gratuit est disponible dans les communs. Les services proposés comprennent : une  laverie, un local deux roues sécurisé, un parking. L'accès à la résidence se fait de manière sécurisée grâce à un badge.\n\nLa redevance de loyer comprend l'ensemble des charges locatives (Eau, électricité, chauffage, nettoyage des communs, ordures ménagères). Chaque logement est équipé pour être raccordé à la fibre. Il appartient aux résidents de souscrire à un abonnement. Une équipe de professionnels est présente pour vous accueillir et vous accompagner tout au long de votre séjour. Des sorties, des animations et des tarifs préférentiels pour des activités sont régulièrement proposés.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 486.64,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 486.64,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

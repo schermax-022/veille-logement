@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
  "liste": {
   "id": 5723,
   "guid": "14dd4ce5-c249-42b0-9dfd-d3d0eb5189a1",
@@ -89,5 +89,164 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 5723,
+  "guid": "14dd4ce5-c249-42b0-9dfd-d3d0eb5189a1",
+  "reference": "5723",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f4/f4928492-a87b-4f61-80c6-8bdb25447b1c/large/03f6acdf-b202-4c78-9bb8-1fcfe86e229d",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f4/f4928492-a87b-4f61-80c6-8bdb25447b1c/large/aff820e6-6583-4f56-8424-1b2e86945192",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f4/f4928492-a87b-4f61-80c6-8bdb25447b1c/large/85df3106-2c08-4753-ad35-f81f9737f8cd",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f4/f4928492-a87b-4f61-80c6-8bdb25447b1c/large/b0433c60-a95c-4eff-a2c7-3e5a6c9f2ed7",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 19568,
+   "guid": "f4928492-a87b-4f61-80c6-8bdb25447b1c",
+   "reference": "19568",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 11.0,
+   "municipality": {
+    "id": 30375,
+    "postcode": "76190",
+    "code": "76758",
+    "name": "Yvetot"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": "COLLECTIVE",
+   "toiletType": "COLLECTIVE",
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2630,
+   "guid": "da4afa7c-727a-43c6-96cb-70453c61a87d",
+   "reference": "2630",
+   "livingRules": "Soumis à plafond de ressources.\nLocation souhaitée pour une durée minimum de 6 mois.\nEn intégrant cette colocation, il ne faut pas être occupant de deux logements du parc social.\n",
+   "type": {
+    "id": 7,
+    "ordering": 5,
+    "code": "COL",
+    "label": "Co-location meublée",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CLO",
+     "label": "Colocation"
+    }
+   ],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-01-31",
+  "endDateOfPublication": "2026-12-14",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "VOTRE COLOCATION CLE EN MAIN :\nTOUT COMPRIS : eau, électricité, chauffage, assurance habitation, internet haut débit.\nTOUTE EQUIPEE : lave-linge, literie, vaisselle.\nPrès des transports en commun et commerces.\nSans frais d'agence et sans engagement de durée.\n\nPlafond de ressources\nLocation souhaitée pour une durée minimum de 6 mois\nEn intégrant cette colocation, il ne faut pas être occupant de deux logements du parc social\n\nAppartement avec espace privatif (chambre) et espace partagé (salle à manger, cuisine, salle de bain, sanitaires). L'appartement fait 75,27 m². Il y a 3 chambres.\nAppartement intégralement meublé\nLe loyer comprend toutes les charges (chauffage, électricité, eau, accès internet haut débit, assurance habitation).\nLa chambre est disponible à la location\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 222.63,
+  "rentChargeAmount": 90.5,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

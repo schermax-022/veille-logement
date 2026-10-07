@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
  "liste": {
   "id": 48585,
   "guid": "14123070-97fd-4dc4-8cb2-cde4096f3fc1",
@@ -94,5 +94,208 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 48585,
+  "guid": "14123070-97fd-4dc4-8cb2-cde4096f3fc1",
+  "reference": "48585",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dcf5f296-bac3-40fc-8fbb-fbe5706e532b/large/a5dbfb98-7b73-427e-911f-82cdeefaf559",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dcf5f296-bac3-40fc-8fbb-fbe5706e532b/large/073f72b6-07a6-46a7-b701-12ab30a004a8",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dcf5f296-bac3-40fc-8fbb-fbe5706e532b/large/be7b5b96-d881-4a36-96cd-b1921f489203",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dcf5f296-bac3-40fc-8fbb-fbe5706e532b/large/b60a62ea-9979-4157-be85-674184dd66b5",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dcf5f296-bac3-40fc-8fbb-fbe5706e532b/large/407dd2cb-544b-481d-a430-d2507f62d1a8",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dcf5f296-bac3-40fc-8fbb-fbe5706e532b/large/6dcb8c52-72d2-40e0-aa47-2bccda66e66e",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dcf5f296-bac3-40fc-8fbb-fbe5706e532b/large/4a2ada88-ddd3-42b1-a8b7-6869bfbee0bd",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dcf5f296-bac3-40fc-8fbb-fbe5706e532b/large/7716e1d2-4eae-46bf-a245-23992f1fb1c6",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dcf5f296-bac3-40fc-8fbb-fbe5706e532b/large/c3c55974-60dd-49d9-a60d-efc2f0133f82",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dcf5f296-bac3-40fc-8fbb-fbe5706e532b/large/a187bad1-6759-4330-9e38-1b223f642f52",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 41340,
+   "guid": "dcf5f296-bac3-40fc-8fbb-fbe5706e532b",
+   "reference": "41340",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 107.02,
+   "municipality": {
+    "id": 34974,
+    "postcode": "92110",
+    "code": "92024",
+    "name": "Clichy"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 4
+  },
+  "residency": {
+   "id": 6095,
+   "guid": "c36cf165-eab5-4fd7-aab2-4fa0d8e9886f",
+   "reference": "6095",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-04-02",
+  "endDateOfPublication": "2027-09-06",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Immeuble neuf. Cristal Clichy est une résidence innovante avec 175 m² d'espaces communs partagés : salle de sport, espace de convivialité, salle de télétravail, salle de jeux. Des Services pour faciliter votre vie : Assurance Multirisque habitation, casiers connectés pour recevoir ses colis à la maison, tout est inclus dans le loyer.\nLes cuisines sont entièrement meublées et équipées, luminaires ainsi que tringles à rideaux déjà posées dans l'appartement.\nEn option, nous pouvons vous proposer un logement entièrement meublé  (location au mois, tarifs selon la typologie du logement).\nTrès bien situé  au pied de l'immeuble la station Saint Ouen : Métro lignes 13 & 14 ainsi que le RER C à 300m.      A louer, appartement 5 pièces de 107,02 m² situé au 2ème étage comprenant un séjour avec cuisine ouverte équipée de 39,47 m² donnant sur deux balcons de 10,41 m² et 4,80 m², une chambre de 10,51 m² avec salle d'eau, 3 chambres de 10,15 m², 9,70 m² et 12,72 m², une salle de bains de 6,25 m² et 2 WC séparés. Loué avec un emplacement de parking.  Découvrez le logement via notre visite virtuelle. Réservation sur plan uniquement. Colocation possible.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1979.24,
+  "rentChargeAmount": 407.75,
+  "rentParkingAmount": 77.84,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 2044.24,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

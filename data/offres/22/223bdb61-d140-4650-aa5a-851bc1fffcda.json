@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
  "liste": {
   "id": 48766,
   "guid": "223bdb61-d140-4650-aa5a-851bc1fffcda",
@@ -94,5 +94,207 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 48766,
+  "guid": "223bdb61-d140-4650-aa5a-851bc1fffcda",
+  "reference": "48766",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e2/e2fa10c5-97f7-44a7-b75e-bbef9b57dc30/large/884768f4-8db2-4dcf-be78-81db7066f844",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e2/e2fa10c5-97f7-44a7-b75e-bbef9b57dc30/large/afc32d65-e0ca-40ba-9513-26ecafb95bcd",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e2/e2fa10c5-97f7-44a7-b75e-bbef9b57dc30/large/5f118e2a-f16e-43e6-928f-cf50948cc469",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e2/e2fa10c5-97f7-44a7-b75e-bbef9b57dc30/large/5ed18872-5b63-4883-bc38-7cbf369c3623",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e2/e2fa10c5-97f7-44a7-b75e-bbef9b57dc30/large/76fd4ab1-0d72-4a43-83f4-07ad8489a6f3",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56775,
+   "guid": "e2fa10c5-97f7-44a7-b75e-bbef9b57dc30",
+   "reference": "56775",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 33.57,
+   "municipality": {
+    "id": 4512,
+    "postcode": "14400",
+    "code": "14047",
+    "name": "Bayeux"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": {
+    "id": 1,
+    "ordering": 1,
+    "code": "RDC",
+    "label": "Rez-de-chaussée"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8044,
+   "guid": "fe166ab1-4e33-4a45-9f12-32bdf1762c25",
+   "reference": "8044",
+   "livingRules": "",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-01",
+  "endDateOfPublication": "2026-10-24",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "NOUVELLE RESIDENCE POUR LES JEUNES A BAYEUX, 2 Rue D'aprigny.\n\nLa résidence se compose de deux bâtiments  (bâtiment A ouverture en janvier 2027 et bâtiment B ouverture en Février 2027), dans l’ancien hôpital Dunand.\n\n Pensée comme un tremplin vers l’autonomie, cette résidence offrira un cadre moderne, convivial et sécurisé à des jeunes de 16 à 30 ans en parcours d’insertion, en formation en emploi ou en situation d’alternance.\n\nStudios meublés, loyers accessibles, espaces partagés, connexion internet, proximité des transports, des commerces et des lieux de formation.\n\nUn logement mais aussi un accompagnement si vous en avez besoin, pour vous aider à avancer dans vos projets (emploi, formation, mobilité…).\n\n78 logements meublés et équipés neufs (de 16 à 37 m²), conçus pour offrir confort, autonomie et accès aux aides au logement (APL).\n\n2 logements en colocation (T4 et T5), spécialement pensés pour les jeunes saisonniers.\n\nLa résidence intègrera de nouveaux services pour faciliter la vie quotidienne : cafétéria, laverie, garage à vélos, wifi, salle d’animation, terrasses, etc.\n\n\nComposé d’un lit double, un bureau, une table et des chaises, une kitchenette avec frigo, plaque électrique ou induction, placard de rangement, salle de bain avec douche et sanitaire.\n\nCharges : 26,50 euros : comprend la connexion WIFI accès espace commun (laverie, baby-foot, billard, animations). Possibilité APL dès le 1er mois.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 540.12,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 540.12,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

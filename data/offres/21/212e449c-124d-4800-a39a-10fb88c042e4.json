@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
  "liste": {
   "id": 36119,
   "guid": "212e449c-124d-4800-a39a-10fb88c042e4",
@@ -89,5 +89,154 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 36119,
+  "guid": "212e449c-124d-4800-a39a-10fb88c042e4",
+  "reference": "36119",
+  "offerNumber": 4,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0f/0fae0fe5-9267-444c-ae4e-53e6fbb04c24/large/0916ffbe-3288-480b-b74d-fbcc3ff8affc",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16330,
+   "guid": "0fae0fe5-9267-444c-ae4e-53e6fbb04c24",
+   "reference": "16330",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 28.0,
+   "municipality": {
+    "id": 1815,
+    "postcode": "05290",
+    "code": "05110",
+    "name": "Puy-Saint-Vincent"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 1,
+    "ordering": 1,
+    "code": "RDC",
+    "label": "Rez-de-chaussée"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1991,
+   "guid": "219f6c57-19aa-4ebf-b7b3-dd7c8fdd5a4f",
+   "reference": "1991",
+   "livingRules": "",
+   "type": {
+    "id": 13,
+    "ordering": 11,
+    "code": "RTS",
+    "label": "Résidence travailleurs saisonniers",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "NONE"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-01",
+  "endDateOfPublication": "2027-03-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé à La Tartarasse, 05290 Puy-Saint-Vincent, ce logement bénéficie d’un environnement montagnard agréable, à proximité des commerces, des services et des commodités nécessaires au quotidien.\nLe secteur offre un cadre de vie paisible au cœur des Hautes-Alpes, avec un environnement naturel composé de reliefs, de forêts et de paysages alpins. Les différents services et équipements de la commune restent facilement accessibles.\nLes transports en commun permettent de rejoindre Puy-Saint-Vincent, L’Argentière-la-Bessée et les communes voisines, selon les dessertes disponibles.\nLa proximité des principaux axes routiers, notamment les routes départementales du secteur, facilite les déplacements vers Briançon, Embrun, Guillestre et les différentes communes de la vallée.\nCe logement offre ainsi un cadre de vie agréable, alliant tranquillité, environnement naturel et accessibilité au cœur des Hautes-Alpes.\n\nT2 meublé au RDC avec 2 chambres (lit simple dans chacune), et un balcon.\nCouette légère ou couverture fournie (absence linge de lit).\nChauffage collectif bois.\nStationnement possible.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 499.11,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 499.11,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
  "liste": {
   "id": 51234,
   "guid": "227d3adc-978f-481d-8f7b-3d10d59bc7c6",
@@ -94,5 +94,167 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51234,
+  "guid": "227d3adc-978f-481d-8f7b-3d10d59bc7c6",
+  "reference": "51234",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0f/0f4b3833-2c8d-4c72-a8c3-94d0c00d3eab/large/0c649549-bbf1-481d-91da-7ddc1817857f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0f/0f4b3833-2c8d-4c72-a8c3-94d0c00d3eab/large/f7ed529f-a229-4d38-b9ea-4bcb73e4a652",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0f/0f4b3833-2c8d-4c72-a8c3-94d0c00d3eab/large/6f3a4392-db15-4772-864e-b917f6885f1f",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0f/0f4b3833-2c8d-4c72-a8c3-94d0c00d3eab/large/c2d53a8d-5c60-4d0d-8a3f-b52ca7f6ffd6",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 52732,
+   "guid": "0f4b3833-2c8d-4c72-a8c3-94d0c00d3eab",
+   "reference": "52732",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 105.03,
+   "municipality": {
+    "id": 27593,
+    "postcode": "69720",
+    "code": "69287",
+    "name": "Saint-Bonnet-de-Mure"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 4
+  },
+  "residency": {
+   "id": 7575,
+   "guid": "a3cd5120-187e-4d67-ada4-cbfebe52ab7e",
+   "reference": "7575",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-06",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence Ilot des Fontaines – rue des Quatre Fontaines à Saint-Bonnet-de-Mûre.\nImplantée en plein cœur de la commune, dans un environnement pavillonnaire et familial, dans une ambiance de village préservée.\nInfrastructures : proximité immédiate du centre-bourg, des commerces et de l’école et du collège à 10min à pied.\nTransports en commun : ligne de bus C201, JD 963, JD 964, JD 965. A 5min de la Rocade Est A46 et 8min de l’A43.\n \nLe logement :  en duplex situé au 2ème étage avec ascenseur. \nIl comprend une entrée avec placard, d'une cuisine ouverte sur le séjour donnant sur une terrasse de plus de 39m2, d'une chambre avec placard, une salle de bains, des toilettes séparées.\nA l'étage, 2 chambres avec placard, d'une salle d'eau et de toilettes séparées.\nPlan non contractuel.\nChauffage : Individuel au gaz tout comme la production d’eau chaude.\nUn stationnement couvert pour un loyer mensuel de 30.00€ en sus du loyer.\nCharges incluses : Le loyer comprend les charges générales d’immeuble.\nDisponibilité : logement disponible à partir 05/09/2026, (sous réserve d’un éventuel report de livraison.\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\nPour votre sécurité nous vous rappelons qu’il est formellement interdit de rentrer sur les chantiers.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1058.06,
+  "rentChargeAmount": 83.47,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1073.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

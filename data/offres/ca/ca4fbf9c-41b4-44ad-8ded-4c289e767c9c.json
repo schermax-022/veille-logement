@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
  "liste": {
   "id": 49657,
   "guid": "ca4fbf9c-41b4-44ad-8ded-4c289e767c9c",
@@ -94,5 +94,190 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 49657,
+  "guid": "ca4fbf9c-41b4-44ad-8ded-4c289e767c9c",
+  "reference": "49657",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ebbe3a3-14d6-47d2-95df-d148634e9ec6/large/176f6914-e899-403a-9e7a-b0ad6f1e0c1b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ebbe3a3-14d6-47d2-95df-d148634e9ec6/large/5d4a0dd5-1581-4648-aec4-eb7a920b2e13",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ebbe3a3-14d6-47d2-95df-d148634e9ec6/large/198c34f7-d4ae-4eda-94f8-d9fa7b1af6fc",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ebbe3a3-14d6-47d2-95df-d148634e9ec6/large/003ef163-7c86-4139-8cec-549e9d358dc8",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ebbe3a3-14d6-47d2-95df-d148634e9ec6/large/b1b946e4-935c-4d57-bd1f-a4f832838beb",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ebbe3a3-14d6-47d2-95df-d148634e9ec6/large/e87947e1-37eb-43a1-ba01-7ad0ced528c6",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ebbe3a3-14d6-47d2-95df-d148634e9ec6/large/4ac1569b-bf6b-40ca-81a5-7a3342095daa",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57456,
+   "guid": "0ebbe3a3-14d6-47d2-95df-d148634e9ec6",
+   "reference": "57456",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 26.3,
+   "municipality": {
+    "id": 13180,
+    "postcode": "34090",
+    "code": "34172",
+    "name": "Montpellier"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 3452,
+   "guid": "d267c926-5b28-4b0e-a1db-a0b6309456e4",
+   "reference": "3452",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-09-20",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Idéalement située dans le cœur de Montpellier, dans une rue semi piétonne partagée, proche du Jardin des Plantes historique de la ville, et de nombreux  commerces, notre Résidence Bonnard, est totalement rénovée et dédiée aux Jeunes Actifs. Nos logements  avec intégration domotique, offrent tout le confort escompté. Laverie automatique et Lockers connectés pour colis à disposition. Local Vélos.      N'LI SUD OUEST  vous propose un agréable T2 tout confort de 26 m² situé au 2ème étage.Il est composé d'un séjour avec cuisine aménagée et équipée, une chambre, une salle d'eau avec WC.Un balcon vient compléter ce bien.Possibilité de louer en sus un parking intérieur (30,26 €/mois)Pas de frais d'agence - Partenaire Visale - Loyer à terme échu - Plans et photos non contractuels. Ref IAO 121912",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 473.33,
+  "rentChargeAmount": 108.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 473.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

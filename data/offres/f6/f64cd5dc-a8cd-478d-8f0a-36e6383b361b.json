@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
  "liste": {
   "id": 45831,
   "guid": "f64cd5dc-a8cd-478d-8f0a-36e6383b361b",
@@ -94,5 +94,228 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 45831,
+  "guid": "f64cd5dc-a8cd-478d-8f0a-36e6383b361b",
+  "reference": "45831",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/2278046e-14f0-4622-a79a-5ea88e1c0fc1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/0f5764b8-c419-4ae7-a9ce-4be92f811634",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/154b83fe-cda6-4521-8758-d67396494b9a",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/e16effc4-d5fe-48b5-bbca-2ac41631062e",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/c0a2a66d-6707-4380-8f00-f1ccbf252c75",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/ecb3d764-d449-43d6-901c-3bd52fabf66c",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/c270c8db-9db5-43a2-b969-4aa058a57e70",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/a92115dd-35f3-4124-b209-47c2ced81b6b",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/bece72f7-35e1-458a-82c8-5ed4cb489a9c",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/57b342b3-c2ee-4263-bb3e-33633a287d48",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/c34faabd-2e3e-4505-8d73-21e786d9f2f4",
+    "urlContentType": "image/jpeg",
+    "ordering": 10,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/87fb8ef6-b4e0-4dcd-bc2b-31252630e95c",
+    "urlContentType": "image/jpeg",
+    "ordering": 11,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34103f3e-a96c-44da-bd5f-53145f08041a/large/a7941c86-419c-4226-b4eb-9bd412e0b2cc",
+    "urlContentType": "image/jpeg",
+    "ordering": 12,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 54405,
+   "guid": "34103f3e-a96c-44da-bd5f-53145f08041a",
+   "reference": "54405",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 59.0,
+   "municipality": {
+    "id": 33169,
+    "postcode": "85180",
+    "code": "85194",
+    "name": "Les Sables-d'Olonne"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": {
+    "id": 1,
+    "ordering": 1,
+    "code": "D",
+    "label": "Duplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 7781,
+   "guid": "72679e60-fdf5-4924-8c79-9c17fbb96b99",
+   "reference": "7781",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "VISALE"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-05",
+  "endDateOfPublication": "2026-10-14",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Au cœur du prisé quartier de La Pironnière, dans la résidence Louisiane, découvrez un bien idéalement situé à environ 400 mètres de la plage de Tanchet et de son lac. Niché dans un environnement résidentiel calme et agréable, il offre un accès rapide au remblai ainsi qu'au centre-ville des Sables-d'Olonne, permettant de conjuguer sérénité, loisirs balnéaires et commodités du quotidien.\n\n\nCe charmant appartement en duplex se compose d'une entrée, d'un coin cuisine ouvert sur un séjour lumineux, d'une salle de bains et de WC séparés. À l'étage, une mezzanine dessert deux chambres ainsi qu'un second WC. Vous apprécierez également son balcon ² offrant une agréable vue sur la piscine de la résidence ainsi qu'un aperçu sur la mer. La résidence dispose d'un accès sécurisé par interphone, d'une piscine en copropriété et d'un local à vélos à disposition des résidents.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 803.0,
+  "rentChargeAmount": 58.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 803.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 149.0,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }
