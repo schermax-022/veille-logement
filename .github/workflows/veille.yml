@@ -40,6 +40,10 @@ jobs:
       INLI_ALERT_POSTCODES: ${{ vars.INLI_ALERT_POSTCODES }}
       INLI_MAX_DETAILS_PER_RUN: ${{ vars.INLI_MAX_DETAILS_PER_RUN }}
       INLI_ENABLED: ${{ vars.INLI_ENABLED }}
+      CDC_ALERT_MAX_RENT: ${{ vars.CDC_ALERT_MAX_RENT }}
+      CDC_ALERT_POSTCODES: ${{ vars.CDC_ALERT_POSTCODES }}
+      CDC_MAX_DETAILS_PER_RUN: ${{ vars.CDC_MAX_DETAILS_PER_RUN }}
+      CDC_ENABLED: ${{ vars.CDC_ENABLED }}
       # E-mail (Settings → Secrets and variables → Actions → Secrets)
       SMTP_HOST: ${{ secrets.SMTP_HOST }}
       SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -86,7 +90,8 @@ jobs:
           git add data
           if ! git diff --cached --quiet; then
             # l'Excel n'est republié que si des offres ou l'historique ont changé (pas seulement l'heure du passage)
-            if ! git diff --cached --quiet -- data/offres data/historique.csv data/inli/offres data/inli/historique.csv; then
+            if ! git diff --cached --quiet -- data/offres data/historique.csv data/inli/offres data/inli/historique.csv \
+                 data/cdc/offres data/cdc/historique.csv; then
               echo "changed=true" >> "$GITHUB_OUTPUT"
               msg="Veille : mise à jour des offres"
             else
@@ -114,5 +119,5 @@ jobs:
         run: |
           gh release view donnees >/dev/null 2>&1 || \
             gh release create donnees --title "Données de la veille" \
-              --notes "Fichiers Excel des offres (Action Logement et In'li), mis à jour automatiquement à chaque changement."
+              --notes "Fichiers Excel des offres (Action Logement, In'li, CDC Habitat), mis à jour automatiquement à chaque changement."
           gh release upload donnees export/*.xlsx --clobber
