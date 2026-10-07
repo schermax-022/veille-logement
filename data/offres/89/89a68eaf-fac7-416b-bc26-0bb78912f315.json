@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 2344,
   "guid": "89a68eaf-fac7-416b-bc26-0bb78912f315",
@@ -89,5 +89,166 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 2344,
+  "guid": "89a68eaf-fac7-416b-bc26-0bb78912f315",
+  "reference": "2344",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/56e73eb8-0306-4fa7-826f-03df4f602d92/large/86fc23ce-84e8-4a53-8a4b-062e8c7ad22a",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/56e73eb8-0306-4fa7-826f-03df4f602d92/large/35de9710-58ad-4682-bdc0-92ab62652f03",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/56e73eb8-0306-4fa7-826f-03df4f602d92/large/4b2f56e2-1f83-45af-acf1-445c57400158",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16991,
+   "guid": "56e73eb8-0306-4fa7-826f-03df4f602d92",
+   "reference": "16991",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 49.0,
+   "municipality": {
+    "id": 20109,
+    "postcode": "54000",
+    "code": "54395",
+    "name": "Nancy"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "NON",
+     "label": "Pas de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 1904,
+   "guid": "8edf0e8d-b10a-4387-be7e-1c06af3cf0ff",
+   "reference": "1904",
+   "livingRules": "Horaires et fréquence des visites extérieures encadrées.\nPossibilité d'hébergement d'un tiers sous réserve de signalement et d'autorisation du gestionnaire.\nAnimaux interdits.\nFacilités de paiement : loyer dû à terme échu au plus tard le 10 du mois suivant.",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 19,
+     "ordering": 20,
+     "code": "SOC",
+     "label": "Référent social",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2024-08-06",
+  "endDateOfPublication": "2027-09-06",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence Grandjean propose quatre logements meublés du T1 au T3 dans un petit immeuble proche du nouveau quartier des rives de Meurthe. Une ligne de bus passe à proximité de la résidence pour vous emmener directement au centre-ville de NANCY.\nVous pourrez également profiter de tous les services et animations proposés par la résidence Les Abeilles située à proximité.\nSi vous le souhaitez, un kit de literie payant vous sera proposé à l'entrée dans les lieux.\n\nGrand T2 de 49 m² entièrement meublé et équipé avec kitchenette (réfrigérateur + plaques électriques).\nEn cas d'occupation par un couple, prévoir un supplément de 29 € par mois.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 470.1,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 430.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

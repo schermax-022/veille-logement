@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 1136,
   "guid": "7787e92f-af59-4db7-9a96-4a851b592950",
@@ -89,5 +89,180 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 1136,
+  "guid": "7787e92f-af59-4db7-9a96-4a851b592950",
+  "reference": "1136",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0f/0fd7ba0a-47f2-4910-9ccc-d71981dda2bf/large/48f31f8b-ea1b-4c0a-96cd-e0c7ce3f1885",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0f/0fd7ba0a-47f2-4910-9ccc-d71981dda2bf/large/cf2e7c74-24d7-4e58-ab2e-0ba66905e411",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 15993,
+   "guid": "0fd7ba0a-47f2-4910-9ccc-d71981dda2bf",
+   "reference": "15993",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 22899,
+    "postcode": "60500",
+    "code": "60141",
+    "name": "Chantilly"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 1824,
+   "guid": "6ce48594-35d7-4926-be9d-0d75a2dbff46",
+   "reference": "1824",
+   "livingRules": "Les animaux ne sont pas admis.",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 19,
+     "ordering": 20,
+     "code": "SOC",
+     "label": "Référent social",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2024-08-01",
+  "endDateOfPublication": "2026-12-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Cette résidence est situé 1 rue d'Alençon à Chantilly, accessible en 25 minutes de la gare du Nord (Paris). Proche du lycée professionnel Jean Rostand.\n\nAppartement meublé et équipé.\n\nPas de frais de dossier. Logement ouvrant le droit aux APL.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 629.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

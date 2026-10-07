@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 51446,
   "guid": "556d2ebc-a5e2-4e4e-9b9a-4657c81a7b58",
@@ -89,5 +89,189 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51446,
+  "guid": "556d2ebc-a5e2-4e4e-9b9a-4657c81a7b58",
+  "reference": "51446",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ea59c2e-ab82-4747-8c82-8920bd7817a6/large/a0c11262-8a40-4558-b9ea-e0031b83d5da",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ea59c2e-ab82-4747-8c82-8920bd7817a6/large/90e41cfe-9320-48b7-9a23-67c091326baf",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0ea59c2e-ab82-4747-8c82-8920bd7817a6/large/b22d4cf3-0603-49ef-9288-3bb323811068",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58928,
+   "guid": "0ea59c2e-ab82-4747-8c82-8920bd7817a6",
+   "reference": "58928",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.87,
+   "municipality": {
+    "id": 34980,
+    "postcode": "92230",
+    "code": "92036",
+    "name": "Gennevilliers"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 61,
+   "guid": "b635ea52-6cd7-4201-bee9-62610d791711",
+   "reference": "61",
+   "livingRules": "Pas d'animal au sein de la résidence",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-31",
+  "endDateOfPublication": "2026-10-21",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence se trouve à 10 min à pied de la station de métro \"Gabriel Péri\" sur la ligne 13.\n\nA proximité de la résidence, vous trouverez un supermarché, plusieurs restaurants et boulangeries et bien d'autres commerces.\n\nLe \"Jardin Chenard et Walker\", non loin de la résidence, vous offre un beau cadre pour faire des balades, du sport et profiter des beaux jours. \n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 569.78,
+  "rentChargeAmount": 3.36,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 569.78,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   },
+   {
+    "id": 1,
+    "ordering": 2,
+    "code": "ETU",
+    "label": "Etudiant",
+    "type": "BOOLEAN",
+    "group": "PROFILE",
+    "boolValue": true,
+    "intStartValue": null,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

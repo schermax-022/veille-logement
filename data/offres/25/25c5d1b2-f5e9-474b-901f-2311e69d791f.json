@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 43277,
   "guid": "25c5d1b2-f5e9-474b-901f-2311e69d791f",
@@ -94,5 +94,177 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 43277,
+  "guid": "25c5d1b2-f5e9-474b-901f-2311e69d791f",
+  "reference": "43277",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/04/049a0884-190e-4c33-b08c-326bd27b62ae/large/9f7128ce-cbe8-46c4-9953-4ad332a82afd",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/04/049a0884-190e-4c33-b08c-326bd27b62ae/large/c5339341-d9f1-422c-8580-52cf9c6a45dd",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/04/049a0884-190e-4c33-b08c-326bd27b62ae/large/f1bdeb50-45c4-4cfb-851e-e6e629866c77",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/04/049a0884-190e-4c33-b08c-326bd27b62ae/large/cf3783e7-6243-423e-a1f3-fcce79eeb38e",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 52350,
+   "guid": "049a0884-190e-4c33-b08c-326bd27b62ae",
+   "reference": "52350",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 9.0,
+   "municipality": {
+    "id": 16850,
+    "postcode": "45100",
+    "code": "45234",
+    "name": "Orléans"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "COLLECTIVE",
+   "toiletType": "COLLECTIVE",
+   "bathroomType": "COLLECTIVE",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7428,
+   "guid": "7db2d27f-7779-4e56-8bfa-95dc38aaa10e",
+   "reference": "7428",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CLO",
+     "label": "Colocation"
+    }
+   ],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-02",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Pour étudiants salariés ou jeunes actifs, \nAppartements entièrement meublés en colocation, de 2 ou 3 chambres\nchambre de 9 m2 ou 12m², cuisine entièrement équipée et meublée avec lave vaisselle et lave linge, \nséjour avec TV, salle d'eau.\nwifi inclus\nappartements non mixtes, soit pour garçons ou pour filles\nloyer toutes charges incluses : eau, électricité, chauffage, wifi\n\nchambre meublée de 9 m² dans un appartement en colocation de type 3\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 389.11,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 251.91,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 17,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

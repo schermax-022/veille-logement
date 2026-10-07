@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 5393,
   "guid": "55f887d3-1cea-4f67-ae6e-28a817af0de8",
@@ -89,5 +89,211 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 5393,
+  "guid": "55f887d3-1cea-4f67-ae6e-28a817af0de8",
+  "reference": "5393",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ba/ba5e7ad4-d3dc-4f84-85e1-dc5dd8bee070/large/cb6d226c-beaf-4230-9bd8-bc09d9e933cd",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ba/ba5e7ad4-d3dc-4f84-85e1-dc5dd8bee070/large/8a28aa3e-9b46-4764-8dfb-ebcb4404d3e5",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ba/ba5e7ad4-d3dc-4f84-85e1-dc5dd8bee070/large/abf2e3d7-d355-4f99-bcd0-a222ce18ce74",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ba/ba5e7ad4-d3dc-4f84-85e1-dc5dd8bee070/large/04c4dd87-872c-46b0-8dd5-27b83515ee40",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ba/ba5e7ad4-d3dc-4f84-85e1-dc5dd8bee070/large/24ecd6d6-c914-45b4-97ef-a6871b397207",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ba/ba5e7ad4-d3dc-4f84-85e1-dc5dd8bee070/large/8c394d27-9bfa-427b-9f90-d9b80747c907",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 19336,
+   "guid": "ba5e7ad4-d3dc-4f84-85e1-dc5dd8bee070",
+   "reference": "19336",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 45.0,
+   "municipality": {
+    "id": 31291,
+    "postcode": "79000",
+    "code": "79191",
+    "name": "Niort"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 2485,
+   "guid": "eea00488-0ef4-438d-a5e2-8ba970a8da6c",
+   "reference": "2485",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CLO",
+     "label": "Colocation"
+    }
+   ],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-10-29",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "La résidence sociale Joséphine BAKER   (R+4) est composée de 165 logements dont 15 adaptés à la vie en co-location ou en couple.\nUn patio végétalisé de 360 m2 laisse pénétrer la lumière naturelle dans tous les logements, il sera aménagé d'un jardin comestible qui rassemblera des plantes aromatiques et condimentaires.\nLa résidence bénéficie d'un local vélo sécurisé, d'une laverie et du Wifi.\n\n\nCe type 2 de 45 M2 propose une kitchenette avec réfrigérateur, plaques, évier, une chambre séparée avec deux lits en 90, deux tables bureaux, deux chaises, un canapé deux places, un buffet et des rangements.\nLa redevance comprend l'eau, l'électricité, le chauffage et internet.\n\nLe logement ouvrant droit à l'APL\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 558.16,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

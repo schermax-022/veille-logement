@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 1396,
   "guid": "f78e217c-55a7-4810-a6c1-4f316dd2ddb9",
@@ -89,5 +89,186 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 1396,
+  "guid": "f78e217c-55a7-4810-a6c1-4f316dd2ddb9",
+  "reference": "1396",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b2/b22ac464-3a9d-4808-8ea8-cbfbf3ae1a45/large/964ad32d-f87c-4a0b-a321-bcc9d4fee930",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b2/b22ac464-3a9d-4808-8ea8-cbfbf3ae1a45/large/898e4df2-6a78-4f19-b6ad-567c137d84e2",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b2/b22ac464-3a9d-4808-8ea8-cbfbf3ae1a45/large/3beec6cc-7745-49f0-86a4-ddcd56b94b71",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b2/b22ac464-3a9d-4808-8ea8-cbfbf3ae1a45/large/8f000fdb-ee78-45f2-8db2-cf37091d5600",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16220,
+   "guid": "b22ac464-3a9d-4808-8ea8-cbfbf3ae1a45",
+   "reference": "16220",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 32.0,
+   "municipality": {
+    "id": 26237,
+    "postcode": "66420",
+    "code": "66017",
+    "name": "Le Barcarès"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 1245,
+   "guid": "df73cc98-d8d9-4019-bc0d-5cac84756bd9",
+   "reference": "1245",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CLO",
+     "label": "Colocation"
+    }
+   ],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2024-04-30",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La Résidence est située sur la presqu’île de la Coudalère, dans la station balnéaire de Port Barcarès entre le lac marin et la mer Méditerranée.\nLes appartements destinés aux salariés de moins de 30 ans, sont entièrement équipés et dotés d'un balcon ou d'une terrasse.\nProche des commerces, des services et de la ligne de bus n°10 qui assure la liaison vers le centre-ville et la gare.\nPlace de stationnement par logement \n\nSous réserve de disponibilité \nloyer compris entre 420€ et 600€ selon le type de logement \n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 427.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 427.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

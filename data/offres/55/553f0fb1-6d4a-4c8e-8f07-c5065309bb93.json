@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 51044,
   "guid": "553f0fb1-6d4a-4c8e-8f07-c5065309bb93",
@@ -94,5 +94,162 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51044,
+  "guid": "553f0fb1-6d4a-4c8e-8f07-c5065309bb93",
+  "reference": "51044",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/66/66390554-d535-4de1-9859-0c0507add744/large/690967a6-c2bb-4474-9366-67a90b30950a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/66/66390554-d535-4de1-9859-0c0507add744/large/ef65fbb4-19fe-4c80-b16f-103ef0873a71",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58629,
+   "guid": "66390554-d535-4de1-9859-0c0507add744",
+   "reference": "58629",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.05,
+   "municipality": {
+    "id": 16522,
+    "postcode": "44300",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 8294,
+   "guid": "9ca001f6-ee98-4008-9b6d-407a041a46af",
+   "reference": "8294",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "NONE"
+   ],
+   "deliveredAt": "2026-12-01",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-01",
+  "endDateOfPublication": "2026-12-04",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "NANTES, route de Rennes. \nSitué dans le secteur Bout des Pavé - Cardo, proche de toutes commodités et desservi par les transports : Bus ligne 59 à 100 m\nAxe routier : Route de Rennes : axe majeur reliant le centre de Nantes à Orvault.\nAppartement NEUF (1 chambre) avec loggia situé au 4ème étage de la résidence avec ascenseur.\nPossibilité de louer un parking moyennant un loyer supplémentaire  de 50€.\nChauffage Collectif Pompe à chaleur (eau chaude compris dans les charges)\nLogement non adapté PMR\nDisponible le 1er décembre 2026 (Sous réserve du délai de livraison)\nLa date limite de dépôt de candidature n’est pas contractuelle\nLes photos et/ou plans fournis ne sont pas contractuels.\n\nAfin de pouvoir prétendre à ce logement, il faut être détenteur d'un NUD (numéro unique départemental). Pour cela, il faut se rendre sur le site www.demandelogement44.fr\n\n\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 507.74,
+  "rentChargeAmount": 123.6,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

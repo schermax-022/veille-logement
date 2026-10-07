@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 7428,
   "guid": "3da3b264-200a-45e2-9077-8b3696dd6335",
@@ -94,5 +94,201 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 7428,
+  "guid": "3da3b264-200a-45e2-9077-8b3696dd6335",
+  "reference": "7428",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/76/76ecf3fe-773a-4375-b026-0119b8585df2/large/7c534c48-f4a0-44f6-8775-4c90df9e0169",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/76/76ecf3fe-773a-4375-b026-0119b8585df2/large/fb98ae98-0790-4a49-8a4a-2dd3ec4877b1",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/76/76ecf3fe-773a-4375-b026-0119b8585df2/large/2a077f2c-d7e8-4e97-b1e2-c2f89d453db6",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/76/76ecf3fe-773a-4375-b026-0119b8585df2/large/34ce1806-931a-44f8-9cc3-f50ba5c5992c",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/76/76ecf3fe-773a-4375-b026-0119b8585df2/large/e9e79268-c590-4331-ac33-0e4470843018",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 20885,
+   "guid": "76ecf3fe-773a-4375-b026-0119b8585df2",
+   "reference": "20885",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 23.0,
+   "municipality": {
+    "id": 29898,
+    "postcode": "76400",
+    "code": "76259",
+    "name": "Fécamp"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2217,
+   "guid": "bdfab942-6af7-4d96-a358-6d0d614af0f8",
+   "reference": "2217",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-05-03",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La Résidence est composée de 10 studios meublés d'une surface habitable de 20 m² .\nElle est est destinée aux jeunes âgés de moins de 30 ans :\n• accédant à un premier emploi\n• en intérim\n• stagiaires découvrant le monde du travail au sein d’une\nentreprise\n• en formation professionnelle qualifiante\n• en mobilité professionnelle\n• en formation par alternance\n• en insertion professionnelle\n• en contrat à durée déterminée\nLe fonctionnement\n• La demande de logement du futur résident fait l’objet d’un\nexamen par une Commission d’Attribution.\n• Le contrat de résident est conclu pour une durée maximale de\n24 mois.\n• Le délai de préavis pour quitter le logement est de 15 jours.\n\nStudio de 23 m² situé au 1er étage d'une Résidence neuve sécurisée. Possibilité d'ajouter un parking payant.\nMachine à laver et sèche linge à disposition.\nProche des commerces et arrêt de bus.\nLogement disponible le 3 Mai\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 445.4,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 436.05,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": null,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

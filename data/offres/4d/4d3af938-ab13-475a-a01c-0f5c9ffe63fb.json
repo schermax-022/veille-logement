@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 50659,
   "guid": "4d3af938-ab13-475a-a01c-0f5c9ffe63fb",
@@ -94,5 +94,191 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50659,
+  "guid": "4d3af938-ab13-475a-a01c-0f5c9ffe63fb",
+  "reference": "50659",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c6fe8948-1cd0-4a6b-a672-657067b28a13/large/2a2bc54c-b356-48d0-8f88-b50e2d24c1fd",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c6fe8948-1cd0-4a6b-a672-657067b28a13/large/79891f34-2592-4c49-bc17-9bda9316b83e",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c6fe8948-1cd0-4a6b-a672-657067b28a13/large/e2c5b13d-abf0-4458-9e4a-3e62bea437c6",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c6fe8948-1cd0-4a6b-a672-657067b28a13/large/34920bb8-dfbd-4824-88e0-618fcbfe77d2",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c6fe8948-1cd0-4a6b-a672-657067b28a13/large/5393d0c3-5cb1-49bc-91d3-8ce74bc84471",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c6fe8948-1cd0-4a6b-a672-657067b28a13/large/b56ca100-ea73-4b4d-8595-be519ecb180c",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c6fe8948-1cd0-4a6b-a672-657067b28a13/large/99d8d598-9d4c-4ed0-9f36-7c336df64325",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c6fe8948-1cd0-4a6b-a672-657067b28a13/large/a33e2fa6-7791-4ebe-9163-d1efa7ebd2b8",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58328,
+   "guid": "c6fe8948-1cd0-4a6b-a672-657067b28a13",
+   "reference": "58328",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 42.2,
+   "municipality": {
+    "id": 35023,
+    "postcode": "93160",
+    "code": "93051",
+    "name": "Noisy-le-Grand"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 8257,
+   "guid": "578a29b9-243f-4662-98de-086aa6a966e5",
+   "reference": "8257",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-15",
+  "endDateOfPublication": "2027-09-28",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Sans frais de dossier. Résidence neuve (livraison prévue fin novembre 2026), au 7 avenue Montaigne à Noisy le Grand, située proche des transports (RER A Noisy le Grand Mont d'Est à 3 minutes à pied, lignes de bus, réseau routier), des commerces, services et équipements (supermarché, pharmacie, hôpital, écoles, poste, commerces dans un rayon de 10 minutes à pied). A louer,       F2 de 42,20 m² au 3ème étage avec ascenseur. Il vous offre une entrée avec placard, une pièce à vivre de 18,25 m² (cuisine ouverte et séjour) donnant sur une loggia de 3,82 m² exposée Est, une chambre de 12,30 m² avec placard et accès à la loggia, une salle de bain et des WC séparés. Chauffage collectif inclus dans les charges. Loué avec un parking extérieur. Photos non contractuelles, en illustration des prestations types. Acceptation sur plan uniquement, sans visites.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 724.07,
+  "rentChargeAmount": 160.79,
+  "rentParkingAmount": 50.06,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 769.07,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

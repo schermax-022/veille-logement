@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 6154,
   "guid": "00c6d2be-1016-455e-82f0-5f8b684f9fe1",
@@ -89,5 +89,154 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 6154,
+  "guid": "00c6d2be-1016-455e-82f0-5f8b684f9fe1",
+  "reference": "6154",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/46dd639b-c9a6-4714-8ac6-b62bb6db2101/large/c04928d0-0452-40b0-926f-6829d276fbd4",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 19884,
+   "guid": "46dd639b-c9a6-4714-8ac6-b62bb6db2101",
+   "reference": "19884",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 16788,
+    "postcode": "45140",
+    "code": "45169",
+    "name": "Ingré"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2095,
+   "guid": "2d81ea70-2c30-49b6-b189-ca358ed80631",
+   "reference": "2095",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2021,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-02-17",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence sociale située à Ingré, proche du tramway, des axes routiers et des commerces de proximité.\nCette résidence est composée de 160 logements meublés (chambre et T1) dans un environnement calme, avec douche et wc. \nLa présence d'une équipe permet d'être accompagné, et répondre aux questions des résidents\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 503.11,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

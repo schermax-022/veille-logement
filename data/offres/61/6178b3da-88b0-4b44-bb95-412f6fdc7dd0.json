@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 7840,
   "guid": "6178b3da-88b0-4b44-bb95-412f6fdc7dd0",
@@ -89,5 +89,229 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 7840,
+  "guid": "6178b3da-88b0-4b44-bb95-412f6fdc7dd0",
+  "reference": "7840",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8e5951e-3f3e-4c57-9616-5983a0dd593d/large/113d101d-7a4e-474f-af37-4070ccbbaa86",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8e5951e-3f3e-4c57-9616-5983a0dd593d/large/b3c3aa02-e5f0-4cee-8b11-40d4344102db",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8e5951e-3f3e-4c57-9616-5983a0dd593d/large/c43a4c9d-f28e-4728-b787-5073fed8d51f",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8e5951e-3f3e-4c57-9616-5983a0dd593d/large/8907aec4-0ef8-4bd9-895b-1038b0537807",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8e5951e-3f3e-4c57-9616-5983a0dd593d/large/d5cf39ee-dca0-4423-b65d-c82d488e6e55",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8e5951e-3f3e-4c57-9616-5983a0dd593d/large/f8498c04-59cb-4dce-ad11-201b3bb13ae0",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8e5951e-3f3e-4c57-9616-5983a0dd593d/large/13a89b54-9bdf-4f70-973b-8ad5b7fc0cf3",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8e5951e-3f3e-4c57-9616-5983a0dd593d/large/0c1466b8-ad6f-44c2-b9bb-047a296f64eb",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8e5951e-3f3e-4c57-9616-5983a0dd593d/large/61c67f92-1c18-473f-94ea-18108c281d63",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8e5951e-3f3e-4c57-9616-5983a0dd593d/large/af0f58b1-2d47-4377-a3ea-082b54a19b8b",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d8/d8e5951e-3f3e-4c57-9616-5983a0dd593d/large/e0bc2d13-ba6b-4514-b6f4-158754ab9d7d",
+    "urlContentType": "image/jpeg",
+    "ordering": 10,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 21383,
+   "guid": "d8e5951e-3f3e-4c57-9616-5983a0dd593d",
+   "reference": "21383",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 12.0,
+   "municipality": {
+    "id": 34123,
+    "postcode": "88100",
+    "code": "88413",
+    "name": "Saint-Dié-des-Vosges"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": "COLLECTIVE",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2782,
+   "guid": "0ad048e1-8dc5-4d0f-97fc-a2c82949b074",
+   "reference": "2782",
+   "livingRules": "",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "SPO",
+     "label": "Salle de sport",
+     "isIncluded": true
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "PHYSICAL",
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-05-31",
+  "endDateOfPublication": "2026-10-08",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La Résidence Habitat Jeunes - CAP JEUNES - ADALI HABITAT vous propose des chambres et T2 meublés, avec accès aux équipements collectifs (TV, billard, babyfoot…). Ce programme est idéalement situé au 36 Avenue Ernest Colin à SAINT-DIE-DES-VOSGES, à proximité immédiate du centre-ville. \n\nChambre d'une surface de 12 m² situé au 2ème étage, dont la redevance mensuelle s'élève à 334.00 €. Ce logement est meublé avec salle d'eau / WC / lit, bureau, chaise.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 337.5,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 259.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

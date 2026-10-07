@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 48194,
   "guid": "2699c9c3-9f21-4d37-80d2-6546afbc20bf",
@@ -94,5 +94,180 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 48194,
+  "guid": "2699c9c3-9f21-4d37-80d2-6546afbc20bf",
+  "reference": "48194",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4e/4eecd41e-ca7c-42f7-8165-7c3eb4b6c1d4/large/61c38184-e83a-465a-9eca-76e92aee2589",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4e/4eecd41e-ca7c-42f7-8165-7c3eb4b6c1d4/large/8dbe19e5-ef3a-4f5a-bcb3-ce62fd6e4bdb",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4e/4eecd41e-ca7c-42f7-8165-7c3eb4b6c1d4/large/708b93f6-4339-4877-84d3-0ab0d5406be7",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4e/4eecd41e-ca7c-42f7-8165-7c3eb4b6c1d4/large/b6d4986e-0b8d-496b-a760-c9b485bfba02",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4e/4eecd41e-ca7c-42f7-8165-7c3eb4b6c1d4/large/9fea41c3-77ee-4494-a6f0-9a3f7ca8e5e2",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4e/4eecd41e-ca7c-42f7-8165-7c3eb4b6c1d4/large/7884c975-d3b6-449e-aeab-f744bd953841",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56288,
+   "guid": "4eecd41e-ca7c-42f7-8165-7c3eb4b6c1d4",
+   "reference": "56288",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 54.0,
+   "municipality": {
+    "id": 3522,
+    "postcode": "10300",
+    "code": "10362",
+    "name": "Sainte-Savine"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "energyPerformanceCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 7999,
+   "guid": "b149eebc-db88-4c14-9d44-c850b5f0ac52",
+   "reference": "7999",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "PHYSICAL",
+    "VISALE"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-01",
+  "endDateOfPublication": "2026-11-01",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Immeuble ancien situé dans un secteur prisé de l'agglomération troyenne, rue Paul Doumer à SAINTE-SAVINE, à proximité immédiate des commerces, services et transports en commun. \n\n\nAppartement T2 meublé situé au 1er étage de cette petite copropriété, entièrement rénové avec goût et authenticité. Confort et fonctionnalité sont au rendez-vous : cuisine entièrement équipée, salle de bains avec baignoire + paroi et meuble vasque, grand séjour lumineux et chambre avec placard/dressing.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 630.0,
+  "rentChargeAmount": 70.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1260.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 100.95,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

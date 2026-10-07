@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 28410,
   "guid": "cfa498c2-e008-456c-9a96-ae371756f7b9",
@@ -94,5 +94,229 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 28410,
+  "guid": "cfa498c2-e008-456c-9a96-ae371756f7b9",
+  "reference": "28410",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4c/4cc589b1-f5b7-4636-96f4-36c37b5a54b5/large/dfa79496-46d7-4e09-86e4-8a998443db68",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4c/4cc589b1-f5b7-4636-96f4-36c37b5a54b5/large/35ec5291-68dc-4fb9-a39a-e57e5ec9c4d2",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4c/4cc589b1-f5b7-4636-96f4-36c37b5a54b5/large/970de305-1f1f-4487-89e7-eebe47503eba",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4c/4cc589b1-f5b7-4636-96f4-36c37b5a54b5/large/3ef56bbe-8d5f-43f8-ab13-495a2d7b86d5",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4c/4cc589b1-f5b7-4636-96f4-36c37b5a54b5/large/846c225f-2edf-451d-b971-9bb09311b7fb",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4c/4cc589b1-f5b7-4636-96f4-36c37b5a54b5/large/622ea869-e213-44db-8d1d-bc984b6761a6",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4c/4cc589b1-f5b7-4636-96f4-36c37b5a54b5/large/190e148c-c0e8-4556-888b-93c6a6366ea1",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 39710,
+   "guid": "4cc589b1-f5b7-4636-96f4-36c37b5a54b5",
+   "reference": "39710",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 26.0,
+   "municipality": {
+    "id": 6032,
+    "postcode": "17100",
+    "code": "17415",
+    "name": "Saintes"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "NON",
+     "label": "Pas de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 5049,
+   "guid": "5bb8b034-b6d5-4d9a-b426-96cb6b7f0bb8",
+   "reference": "5049",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": "2025-10-20",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-12-23",
+  "endDateOfPublication": "2026-12-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Située en plein cœur du centre-ville de Saintes, la résidence Côté Ville Bastion est un lieu de vie sécurisé, idéalement desservi par les transports en commun et à proximité de toutes les commodités.\n\nLa résidence accueille des jeunes actifs et étudiants en recherche de logements temporaires et abordables.\nLa redevance mensuelle inclut l'ensemble des charges : eau, chauffage, électricité, ainsi que l'accès au Wi-Fi.\n\nLa résidence se compose de 30 appartements, du T1 au T1’, d’une surface allant de 22 à 31 m².\nChaque logement est meublé et équipé : mobilier, vaisselle, électroménager.\n\nDe plus les services sont pensés pour votre quotidien ; accès internet haut débit, salle commune, laverie, local à vélos.\n\nLe logement est un appartement meublé de 26,05 m².\nIl se compose d'une cuisine aménagée et équipée, ainsi que d'une salle d'eau avec douche.\nC'est un espace de vie confortable et entièrement meublé, prêt à vous accueillir.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 439.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 431.8,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

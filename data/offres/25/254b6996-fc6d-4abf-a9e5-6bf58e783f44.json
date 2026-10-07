@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 46745,
   "guid": "254b6996-fc6d-4abf-a9e5-6bf58e783f44",
@@ -94,5 +94,169 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 46745,
+  "guid": "254b6996-fc6d-4abf-a9e5-6bf58e783f44",
+  "reference": "46745",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1f/1fa2bfee-b51a-40c6-9f13-a497137417fc/large/e5cd06e5-303b-4f7f-a9dd-55af35f8f8f0",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 55179,
+   "guid": "1fa2bfee-b51a-40c6-9f13-a497137417fc",
+   "reference": "55179",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 62.18,
+   "municipality": {
+    "id": 35224,
+    "postcode": "95340",
+    "code": "95487",
+    "name": "Persan"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": {
+    "id": 1,
+    "ordering": 1,
+    "code": "D",
+    "label": "Duplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3277,
+   "guid": "c85163ba-cd4f-4e43-bb6e-2c24c33ba63e",
+   "reference": "3277",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-13",
+  "endDateOfPublication": "2026-10-18",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A PERSAN (Rue Jean Moulin), nous vous y proposons un appartement Duplex type T3, d’une superficie de 62,18 m² au 1er étage sans ascenseur.\n\nUn appartement comprenant : niveau bas : une entrée, deux chambres dont une avec placard, une salle d'eau, un wc séparé, une terrasse. \nNiveau haut : un séjour simple, un placard, une cuisine ouverte, un wc séparé, deux terrasses. \n\nChauffage collectif gaz\nDisponibilité prévisionnelle 13/11/2026 \nLe bien est géré par une agence immobilière locale qui réalisera l'étude du dossier, la visite, la signature de bail et l'entrée dans les lieux. \nAucuns frais d'agence ne vous sera demandé\n  \nPour accéder à ce logement, à la demande du bailleur, la composition familiale à respecter est :\n\n1 adulte et 2 enfants\n1 couple et 2 enfants\n1 adulte et 1 enfant\n1 couple et 1 enfant\n1 couple sans enfant\n1 adulte sans enfant",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 896.0,
+  "rentChargeAmount": 133.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 896.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

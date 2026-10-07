@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 51293,
   "guid": "8cbf0e7c-1f6d-4379-9ef1-4e4cfd961530",
@@ -94,5 +94,162 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51293,
+  "guid": "8cbf0e7c-1f6d-4379-9ef1-4e4cfd961530",
+  "reference": "51293",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c74fa9cb-f632-455c-a0f3-11c78765b69d/large/90331044-d17a-4985-8203-dcc6143d8c98",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c7/c74fa9cb-f632-455c-a0f3-11c78765b69d/large/368c5444-52a4-4fbc-b7a4-dd24a8ea2e95",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58801,
+   "guid": "c74fa9cb-f632-455c-a0f3-11c78765b69d",
+   "reference": "58801",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 77.25,
+   "municipality": {
+    "id": 11096,
+    "postcode": "30320",
+    "code": "30039",
+    "name": "Bezouce"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8315,
+   "guid": "8cf32c61-0cef-4f1f-b79e-5cd6122667a9",
+   "reference": "8315",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-12-09",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-09",
+  "endDateOfPublication": "2026-11-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Dans un programme neuf, cette résidence bénéficie d'un environnement résidentiel calme et agréable, au cœur d'une commune recherchée du Gard, à proximité de Nîmes et des principaux axes de circulation.\n\nLa rue de la Bastide se situe dans un secteur résidentiel offrant un cadre de vie paisible tout en restant proche des commodités du centre, des écoles maternelles et primaires ainsi que des transports en commun. \n\nLe logement comprend : une entrée avec placard, un séjour cuisine, 3 chambres dont 1 avec placard, une salle de bain, un wc, un cellier et une terrasse.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 812.0,
+  "rentChargeAmount": 83.0,
+  "rentParkingAmount": 15.15,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 812.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

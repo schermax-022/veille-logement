@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 1340,
   "guid": "8918ccd0-7a8f-484c-8beb-f660164934d7",
@@ -89,5 +89,215 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 1340,
+  "guid": "8918ccd0-7a8f-484c-8beb-f660164934d7",
+  "reference": "1340",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b44f855b-9ce0-45a6-b6c6-bd286e78f8db/large/9b3dce86-c3c0-49ac-8b77-1987d8193607",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b44f855b-9ce0-45a6-b6c6-bd286e78f8db/large/9f264070-87c1-4fb2-8739-870eee6ac428",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b44f855b-9ce0-45a6-b6c6-bd286e78f8db/large/cc043e47-b47d-4666-b904-706d56e217e7",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b44f855b-9ce0-45a6-b6c6-bd286e78f8db/large/acbb9bfe-f939-4b22-b3a9-d39168d2b4be",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b44f855b-9ce0-45a6-b6c6-bd286e78f8db/large/59469412-f67b-4f4c-8830-215f596726ab",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b44f855b-9ce0-45a6-b6c6-bd286e78f8db/large/b67ccd4f-ae60-4068-be1b-46475d5c6b26",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b44f855b-9ce0-45a6-b6c6-bd286e78f8db/large/cae438b7-fe87-45fe-8f23-91bfa642b21c",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16177,
+   "guid": "b44f855b-9ce0-45a6-b6c6-bd286e78f8db",
+   "reference": "16177",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 25.0,
+   "municipality": {
+    "id": 5345,
+    "postcode": "16260",
+    "code": "16085",
+    "name": "Chasseneuil-sur-Bonnieure"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1303,
+   "guid": "716581ff-3eac-4693-8096-b7bef5182231",
+   "reference": "1303",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-12-30",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La Résidence Yellome du Grand Pré propose 10 logements meublés. \n\nSituée à proximité de la N141, qui permet de rejoindre facilement Roumazières-Loubert et La Rochefoucauld, proche du centre-ville, des commerces et du Centre de Formation des Apprentis, cette résidence dispose de : \n- 8 studios et 2 appartements T1bis avec kitchenette (mobilier, vaisselle, équipement ménager) entièrement équipés, d’une surface de 23 à 41 m² \n- Services associés : accès WIFI, lingerie, salle commune, parking et local vélos. \n\nRedevance comprise entre 460 € à 504 €/mois \nLes redevances sont toutes charges comprises (chauffage, eau, électricité et wifi inclus) \nLes démarches administratives sont simplifiées, pas d'ouverture ni de fermeture de compteurs, préavis réduit à 8 jours ",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 460.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

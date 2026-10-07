@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 51166,
   "guid": "8ca08cd3-1fec-4def-a3fd-8dd9a4168740",
@@ -94,5 +94,188 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51166,
+  "guid": "8ca08cd3-1fec-4def-a3fd-8dd9a4168740",
+  "reference": "51166",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2b/2b96a6d8-56ef-4403-8fe8-c98f3751f5c9/large/e23b898a-e8b4-4236-b54e-9ea7546b01ca",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2b/2b96a6d8-56ef-4403-8fe8-c98f3751f5c9/large/63238ccd-e63b-43b0-91bb-89c9782e729f",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2b/2b96a6d8-56ef-4403-8fe8-c98f3751f5c9/large/200a4720-7a24-4f42-88d1-2496b0e1f3be",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58734,
+   "guid": "2b96a6d8-56ef-4403-8fe8-c98f3751f5c9",
+   "reference": "58734",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 28.82,
+   "municipality": {
+    "id": 6895,
+    "postcode": "21000",
+    "code": "21231",
+    "name": "Dijon"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 389,
+   "guid": "0582d30d-5064-4ef9-b951-77be1a6aef5b",
+   "reference": "389",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2012,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-30",
+  "endDateOfPublication": "2026-10-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "04 avenue du lac Résidence intégralement réhabilitée, proche tous commerces et transports en commun (ligne de bus 3). Les logements individuels meublés (lit, table chevet, table + chaise , meuble TV– kitchenette équipée plaques électriques+ frigo) se trouvent dans à proximité de toutes les commodités. Des commerces de quartier sont facilement accessibles à pied. De nombreux services sont mis à disposition des résidents : laverie automatique, lingerie, salle multi usage\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 620.51,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 620.51,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

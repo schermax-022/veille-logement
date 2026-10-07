@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 2044,
   "guid": "69df5d28-1c83-4bb0-80b7-625d7e56a49d",
@@ -89,5 +89,208 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 2044,
+  "guid": "69df5d28-1c83-4bb0-80b7-625d7e56a49d",
+  "reference": "2044",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7f/7f8f1c12-37a0-415c-af32-e9d8dfa74dfd/large/26a5e3af-49ec-4eb7-bcdb-b837885c5b66",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7f/7f8f1c12-37a0-415c-af32-e9d8dfa74dfd/large/2a049dec-1532-411a-898c-263509bb63bc",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7f/7f8f1c12-37a0-415c-af32-e9d8dfa74dfd/large/81da4d70-0d14-468d-962f-1a5bfc123816",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7f/7f8f1c12-37a0-415c-af32-e9d8dfa74dfd/large/00f21541-4265-4995-95b9-3a7bdf4709c3",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16770,
+   "guid": "7f8f1c12-37a0-415c-af32-e9d8dfa74dfd",
+   "reference": "16770",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 17.0,
+   "municipality": {
+    "id": 25635,
+    "postcode": "64000",
+    "code": "64445",
+    "name": "Pau"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1426,
+   "guid": "8276dd15-bdbe-4e12-af5c-72b79d270d72",
+   "reference": "1426",
+   "livingRules": "",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-01-01",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": " \nAu cœur du quartier de Saragosse cette  résidence sécurisée, propose 60 logements (90 places), du studio à l’appartement T1bis.  Elle partage ses espaces avec le CROUS qui propose en parallèle des logements réservés aux étudiants. Elle dispose d'un garage à vélos, d'une terrasse et d'une salle de détente.\nVous trouverez à proximité les lignes de bus (F,10,13), une station de vélo en libre service (Idécycle), supérettes et commerces.\n Le quartier Saragosse, fait l’objet d’un important projet urbain dans le cadre d’une démarche d’éco quartier, cette résidence s’inscrit pleinement dans cette ambition.\n                                                                                                                                                                                                           \nLogements de 17 à 35 m² - redevances entre 381 € et 563€/mois                                                                                                                                                 \nLes redevances incluent l'ensemble des charges (chauffage, électricité, eau, entretien des parties communes, taxe ordures ménagères)\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 383.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

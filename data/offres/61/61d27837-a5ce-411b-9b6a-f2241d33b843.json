@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 49902,
   "guid": "61d27837-a5ce-411b-9b6a-f2241d33b843",
@@ -94,5 +94,182 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 49902,
+  "guid": "61d27837-a5ce-411b-9b6a-f2241d33b843",
+  "reference": "49902",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6f/6f5a65ba-a580-42b1-a499-029b4f7b3119/large/657d47f9-a61b-4731-9afd-8c3a59747ca4",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6f/6f5a65ba-a580-42b1-a499-029b4f7b3119/large/2f3d2a68-f93b-4777-a30e-b3f178b9192e",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6f/6f5a65ba-a580-42b1-a499-029b4f7b3119/large/6c8cebf7-886c-4700-aabf-691b07085e91",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6f/6f5a65ba-a580-42b1-a499-029b4f7b3119/large/d36b190b-4557-4741-bd54-4fb8dfec2ed6",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57660,
+   "guid": "6f5a65ba-a580-42b1-a499-029b4f7b3119",
+   "reference": "57660",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 63.65,
+   "municipality": {
+    "id": 11962,
+    "postcode": "31400",
+    "code": "31555",
+    "name": "Toulouse"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8169,
+   "guid": "8a30ebaa-b450-433f-a3c8-f5b70c763630",
+   "reference": "8169",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-09",
+  "endDateOfPublication": "2026-10-19",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Au sein d’une résidence neuve située Rue Jean Moulin à Toulouse (31400), dans le quartier Empalot, découvrez un environnement urbain en plein renouveau. \n\nDesservi par la station de métro Empalot (ligne B), plusieurs lignes de bus, la gare Saint-Agne ainsi que le périphérique (sortie 24).\n\nÀ proximité, les habitants bénéficient du parc de l’Île du Ramier, de commerces de proximité, d’établissements scolaires et de nombreux services.\n\nLes montants des loyers et des charges sont donnés à titre prévisionnel et indicatif. \n\nLivraison prévue fin novembre 2026 (sous réserve de l’avancée des travaux).\n\nLogement comprenant : une entrée avec placard, un séjour - cuisine équipée, deux chambres avec placard, un dégagement, une salle de bains, un WC séparé, une buanderie, deux balcons.\n\nPlans, visuels et surfaces données à titre indicatif et non contractuel. Des variations de surfaces et d'agencements peuvent intervenir lors de la réalisation du programme.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 707.0,
+  "rentChargeAmount": 162.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 707.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

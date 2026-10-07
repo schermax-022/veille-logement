@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 30362,
   "guid": "f76261aa-9a80-43b8-a390-5be1f6acee09",
@@ -94,5 +94,244 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 30362,
+  "guid": "f76261aa-9a80-43b8-a390-5be1f6acee09",
+  "reference": "30362",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/d7da8189-e017-4f99-b1a5-19f8c86108b0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/ce246da0-9692-4d1c-97b0-78ddcf018fbe",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/88e054ab-eac0-465a-b9fc-229539d2cfe3",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/02527a79-e23b-46dd-bc5e-401d72795f7d",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/055ccd34-2fef-4f93-b241-631bbab02aef",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/5261b94a-8a76-48f3-8308-123d99b99219",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/97089893-ed7c-4559-88a7-008455af4c4b",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/51ee0317-1ab3-4054-860a-d105e55868f4",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/a2e37554-e0a9-4623-b505-8b93ae8639e9",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/8992c53c-3b14-4053-9fb4-37d1048ac737",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/a1960fa8-919d-4402-8c0c-24c425cdfab3",
+    "urlContentType": "image/jpeg",
+    "ordering": 10,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaffb987-14a0-4db8-8ccb-ccb73c78e8c6/large/385107f3-2c78-40d4-a417-aab6632df139",
+    "urlContentType": "image/jpeg",
+    "ordering": 11,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 41378,
+   "guid": "eaffb987-14a0-4db8-8ccb-ccb73c78e8c6",
+   "reference": "41378",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 116.5,
+   "municipality": {
+    "id": 13576,
+    "postcode": "35000",
+    "code": "35238",
+    "name": "Rennes"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3239,
+   "guid": "cab9f551-6563-426f-b0bd-57a5e34e708c",
+   "reference": "3239",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2016,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-05-19",
+  "endDateOfPublication": "2026-11-24",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A Rennes, avenue de Languedoc, à proximité de la station de métro \"Villejean université\" (ligne A) et à 15 min du centre-ville, nous vous proposons un appartement de type 5 comprenant : une entrée avec placard, un séjour et une cuisine donnant sur une grande terrasse, 4 chambres dont une avec dressing, une salle de bain et toilettes séparés. \n\nRésidence avec chauffage et eau chaude collective. \n\nStationnement en sous-sol.\n\nPostulez ! L'équipe locative Action Logement vous contactera pour faire le point sur votre demande.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 990.45,
+  "rentChargeAmount": 247.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 990.45,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

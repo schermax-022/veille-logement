@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 22930,
   "guid": "8c992e63-5ee0-422c-9328-e458d527c53d",
@@ -89,5 +89,145 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 22930,
+  "guid": "8c992e63-5ee0-422c-9328-e458d527c53d",
+  "reference": "22930",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1d/1d5fec57-1002-4792-bf97-a05ed39506e7/large/9e1dd31e-4ec9-4067-aa71-b55f1a4cd7b4",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 35042,
+   "guid": "1d5fec57-1002-4792-bf97-a05ed39506e7",
+   "reference": "35042",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 12.0,
+   "municipality": {
+    "id": 20946,
+    "postcode": "56500",
+    "code": "56141",
+    "name": "Moustoir-Ac"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "COLLECTIVE",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 5407,
+   "guid": "05798410-185f-47d8-93db-dafcd36748af",
+   "reference": "5407",
+   "livingRules": "",
+   "type": {
+    "id": 4,
+    "ordering": 13,
+    "code": "AUT",
+    "label": "Autres résidences",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-10-15",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Nous vous proposons de louer une chambre à Quellenec et de vivre l'expérience enrichissante de l'hébergement temporaire chez l'habitant. \nA votre disposition, cuisine, salle d'eau (douche) et autres équipements présent dans le logement. \nLocal vélo et parking \n\nL’hébergement temporaire chez l’habitant est une solution de logement clé en main, rapide et flexible. \nOffre pour les -30 ans.\n* avril à octobre = 15 euros la nuitée ou 250 euros par mois\n\n* novembre à mars = 17 euros la nuitée ou 270 euros par mois\n\n* durée d’hébergement de 8 mois maximum sur une année civile\n\n*les hébergements proposés par le dispositif HTH ne constituent pas une adresse principale.\n\nPhoto non contractuelle\n\nPostulez ! Action Logement prendra contact avec vous pour faire le point sur votre demande\n",
+  "paymentType": {
+   "id": 1,
+   "ordering": 2,
+   "code": "JNR",
+   "label": "Journalier"
+  },
+  "housingFeeBaseBound": 15.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 90.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

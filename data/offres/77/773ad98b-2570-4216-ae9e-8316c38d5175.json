@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 48925,
   "guid": "773ad98b-2570-4216-ae9e-8316c38d5175",
@@ -94,5 +94,149 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 48925,
+  "guid": "773ad98b-2570-4216-ae9e-8316c38d5175",
+  "reference": "48925",
+  "offerNumber": 3,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/81/81ad001e-63a9-4aef-bd9c-ab47b1409871/large/10277617-a990-4f01-8947-190f3131cee9",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 28405,
+   "guid": "81ad001e-63a9-4aef-bd9c-ab47b1409871",
+   "reference": "28405",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 66.0,
+   "municipality": {
+    "id": 11404,
+    "postcode": "30400",
+    "code": "30351",
+    "name": "Villeneuve-lès-Avignon"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 4360,
+   "guid": "d3c9c80d-35ee-47aa-a8f4-2f5587f7f576",
+   "reference": "4360",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-08",
+  "endDateOfPublication": "2026-10-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé rue Justine Favart à Villeneuve-lès-Avignon, ce logement bénéficie d’un environnement agréable, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nLa commune offre un cadre de vie recherché, avec un accès facilité au centre-ville, aux commerces de proximité, aux équipements sportifs et culturels ainsi qu’aux différents services. Son patrimoine historique, ses espaces naturels et sa proximité immédiate d’Avignon constituent également des atouts appréciables.\n\nLes transports en commun permettent de rejoindre facilement Avignon, Les Angles, Le Pontet et les communes voisines, ainsi que les principaux pôles de services du secteur.\n\nGrâce à la proximité des principaux axes routiers, les déplacements vers Avignon, Le Pontet, Orange, Nîmes et les communes environnantes sont facilités.\n\nCe logement offre ainsi un cadre de vie agréable, alliant proximité des services, environnement préservé, mobilité et qualité de vie aux portes d’Avignon.\n\nL'offre comprend une place de stationnement.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 748.45,
+  "rentChargeAmount": 78.94,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

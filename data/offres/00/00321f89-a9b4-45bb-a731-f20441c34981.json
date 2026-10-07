@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 1296,
   "guid": "00321f89-a9b4-45bb-a731-f20441c34981",
@@ -89,5 +89,187 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 1296,
+  "guid": "00321f89-a9b4-45bb-a731-f20441c34981",
+  "reference": "1296",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/45/453dd868-040d-4e36-a055-056dc16efc7c/large/c5b4882c-675d-44a8-9c53-cb1c4d6039bf",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/45/453dd868-040d-4e36-a055-056dc16efc7c/large/c5eb5f4b-74fc-4ca8-80a4-ce6990dddf5b",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/45/453dd868-040d-4e36-a055-056dc16efc7c/large/39817b9d-2dd7-4e82-9e91-f0e7094dcd8a",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/45/453dd868-040d-4e36-a055-056dc16efc7c/large/d07e856b-4cd6-4429-8443-68439809c685",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16141,
+   "guid": "453dd868-040d-4e36-a055-056dc16efc7c",
+   "reference": "16141",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 63.1,
+   "municipality": {
+    "id": 13037,
+    "postcode": "34500",
+    "code": "34032",
+    "name": "Béziers"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 1246,
+   "guid": "040d5191-005e-4727-8957-3b97c672b597",
+   "reference": "1246",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-06-24",
+  "endDateOfPublication": "2026-12-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence  pour  jeunes de moins de 30 ans,  salariés en mobilité ou   jeunes en formation \nProche  du centre-ville, des commerces et de tous les services (Médiathèque,\nUniversité, infrastructures sportives et médicales).\nProche des transports en communs  ( bus lignes 12, B, C, D arrêt\nGare du Nord ),  accès à l’A75 et l’A9 en 10 min et  \n gare SNCF à environ 2km\n Appartement T3 meublé et équipé comprenant une entrée, un séjour équipé de mobilier (table , chaise, canapé...) avec cuisine équipée (plaque de cuisson électrique 4 feux, meuble haut, meuble évier avec frigo ), 2 chambres (lit, bureau) ainsi qu’une salle d’eau et WC. \n \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 727.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 608.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": null,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

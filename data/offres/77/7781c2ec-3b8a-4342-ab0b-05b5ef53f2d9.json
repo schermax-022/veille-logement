@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 51163,
   "guid": "7781c2ec-3b8a-4342-ab0b-05b5ef53f2d9",
@@ -94,5 +94,204 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51163,
+  "guid": "7781c2ec-3b8a-4342-ab0b-05b5ef53f2d9",
+  "reference": "51163",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62690622-cd31-4d55-b255-bbb8ea1c0315/large/9dd2335d-b9be-409d-8a62-2ae43591d2e7",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62690622-cd31-4d55-b255-bbb8ea1c0315/large/2849c53f-c648-4952-9aa8-7c2307ffb002",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62690622-cd31-4d55-b255-bbb8ea1c0315/large/e825d29a-4add-4499-aa28-e6645a784729",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62690622-cd31-4d55-b255-bbb8ea1c0315/large/6b4cbaf4-9406-454c-b6f3-5e9f104dbe25",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62690622-cd31-4d55-b255-bbb8ea1c0315/large/04b5fde3-49b3-411d-81e4-be2599d602bf",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62690622-cd31-4d55-b255-bbb8ea1c0315/large/01579278-bc13-4790-af49-a1f081e3d733",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62690622-cd31-4d55-b255-bbb8ea1c0315/large/2b0b2d82-1bcb-4d5b-829e-decd1754f5e4",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62690622-cd31-4d55-b255-bbb8ea1c0315/large/e38a4054-e658-4039-8071-a9a5f114c5ff",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58732,
+   "guid": "62690622-cd31-4d55-b255-bbb8ea1c0315",
+   "reference": "58732",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.0,
+   "municipality": {
+    "id": 35054,
+    "postcode": "94000",
+    "code": "94028",
+    "name": "Créteil"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 3553,
+   "guid": "361a79e1-dcfd-4922-ada8-c7b14641fb71",
+   "reference": "3553",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-10-04",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "EXCLUSIVITÉ\n\n\n\n\nEn location : découvrez à CRETEIL (94000) cet appartement de 2 pièces de 46 m².\n\n\n\n\nGagnez en espace et en confort avec le balcon qu'il offre.\n\n\n\n\nPlusieurs établissements scolaires (maternelle, élémentaire, primaire et collège) sont implantés à moins de 10 minutes à pied. Côté transports en commun, on trouve la ligne de métro 8 (Créteil-Préfecture) à quelques pas du bien.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 757.0,
+  "rentChargeAmount": 197.58,
+  "rentParkingAmount": 94.15,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 842.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 29875,
   "guid": "2b6c88ca-c7ee-4506-9141-33a38e53e29d",
@@ -94,5 +94,228 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 29875,
+  "guid": "2b6c88ca-c7ee-4506-9141-33a38e53e29d",
+  "reference": "29875",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0dcf4244-643a-4f60-9855-2c9a71c82efa/large/8ec66c02-5149-4b67-81db-2e2255afc2c9",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0dcf4244-643a-4f60-9855-2c9a71c82efa/large/8a699848-556e-4717-9c75-313b74c832b4",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0dcf4244-643a-4f60-9855-2c9a71c82efa/large/e44bdcfb-761f-4551-aa19-a07769e8e55e",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0dcf4244-643a-4f60-9855-2c9a71c82efa/large/5e5bcf91-e620-4c5c-8301-f52df7b16d39",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0dcf4244-643a-4f60-9855-2c9a71c82efa/large/4a84a0ec-28ab-4d84-a85d-53821f5410be",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0dcf4244-643a-4f60-9855-2c9a71c82efa/large/aef52863-ba23-436f-9d40-2f28b76bfcd4",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0dcf4244-643a-4f60-9855-2c9a71c82efa/large/4b97f3d9-90f7-4bf7-a24a-e554d8016ed4",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0dcf4244-643a-4f60-9855-2c9a71c82efa/large/b63fd323-4b35-41e8-80dc-b5c77a8ac450",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0dcf4244-643a-4f60-9855-2c9a71c82efa/large/994ef05f-1047-4ca0-8a48-55f34146d774",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 40979,
+   "guid": "0dcf4244-643a-4f60-9855-2c9a71c82efa",
+   "reference": "40979",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 23.0,
+   "municipality": {
+    "id": 33410,
+    "postcode": "86550",
+    "code": "86157",
+    "name": "Mignaloux-Beauvoir"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 1,
+    "ordering": 1,
+    "code": "RDC",
+    "label": "Rez-de-chaussée"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 6146,
+   "guid": "c6ca4b41-ecf3-4b78-9e18-a8fad5864758",
+   "reference": "6146",
+   "livingRules": "Un accompagnement social individuel est assuré tout au long du parcours par une accompagnatrice sociale présente plusieurs fois par semaine.",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "PHYSICAL",
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-01-16",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "A proximité de la ville de Poitiers dans la commune de Mignaloux Beauvoir, vous pouvez découvrir une résidence de 42 logements répartis sur 3 niveaux avec ascenseur.\nAu sein de la résidence vous trouverez des studios pour les personnes seules et des T2 pour les personnes en couples ou parents isolés.\nLes logements vont de 22.5m² à 45.4m². Une laverie, un parking et un local vélo collectif sont à la disposition de chacun.\nL’électricité, l’eau et le mode de chauffage sont compris dans la redevance totale.\nA proximité se trouve plusieurs commerces, 2 lignes de bus, le CHU, université etc.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 474.89,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 418.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 1196,
   "guid": "41d1ac1c-6e0c-46e8-901f-8e42f45e7f62",
@@ -89,5 +89,191 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 1196,
+  "guid": "41d1ac1c-6e0c-46e8-901f-8e42f45e7f62",
+  "reference": "1196",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ed/ed79ecf0-12dc-409d-be58-f44503b738dd/large/fa3efdad-e83d-44fe-80c2-d9064a6b906f",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ed/ed79ecf0-12dc-409d-be58-f44503b738dd/large/06c59d74-ae16-44b9-8bdd-3620e366bf99",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ed/ed79ecf0-12dc-409d-be58-f44503b738dd/large/7e56e82a-f006-42d9-9dda-3c8a28e10d04",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ed/ed79ecf0-12dc-409d-be58-f44503b738dd/large/559481fc-40a9-460a-80af-117386ed125f",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ed/ed79ecf0-12dc-409d-be58-f44503b738dd/large/7081d8f8-7c8c-4751-9923-4b9fd07d793d",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ed/ed79ecf0-12dc-409d-be58-f44503b738dd/large/992853ff-97bd-4478-91a3-a7c1be67ac61",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16053,
+   "guid": "ed79ecf0-12dc-409d-be58-f44503b738dd",
+   "reference": "16053",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 24910,
+    "postcode": "63500",
+    "code": "63178",
+    "name": "Issoire"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2254,
+   "guid": "40d0ea9d-8fcc-4c7d-8a3c-2aeb02c756d1",
+   "reference": "2254",
+   "livingRules": "",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 12,
+     "ordering": 13,
+     "code": "INF",
+     "label": "Salle informatique",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-01-01",
+  "endDateOfPublication": "2026-12-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "- Résidence située à Issoire, au sud de Clermont-Ferrand, à proximité de l'A75.\n- Logements équipés de mobilier : kitchenette avec réfrigérateur et plaques électriques, lit, coin repas, bureau. \n- Nombreux équipements à proximité de l'hébergement : gare SNCF, centre aqualudique, Maison des Jeunes, complexe sportif, salle de spectacles, ainsi qu'une zone commerciale importante.\n- Possibilité de louer : 2 nuits minimum (sans déjeuner) ; 1 semaine (soit 7 nuits) ; à la quinzaine ou au mois\n- Accès au salon informatique, vélo électrique, laverie, location KIT vaisselle linge ou entretien. Ces prestations demandent un petit coût supplémentaire \n- Séjours invités : gratuit la 1ere nuit / Payant à partir de la 2e nuit \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 433.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 400.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

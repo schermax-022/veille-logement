@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 51359,
   "guid": "eb07f9e9-6c67-4e0f-935f-9e802e4403bc",
@@ -94,5 +94,155 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51359,
+  "guid": "eb07f9e9-6c67-4e0f-935f-9e802e4403bc",
+  "reference": "51359",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/92/928371c9-1ff1-4a91-88c0-5073eb82c35d/large/58a4c176-9a5d-4edf-beac-9e792b1e45cd",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58850,
+   "guid": "928371c9-1ff1-4a91-88c0-5073eb82c35d",
+   "reference": "58850",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 64.0,
+   "municipality": {
+    "id": 35089,
+    "postcode": "94400",
+    "code": "94081",
+    "name": "Vitry-sur-Seine"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3398,
+   "guid": "5b8720c4-df5c-4b61-be33-c2c7bc4cfcfc",
+   "reference": "3398",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-10-06",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 3 pièces de 64 m² à Vitry sur Seine  Ce logement comprend notamment un séjour et une cuisine.  Présence d'un gardien. L’appartement se situe au 3e étage.  Chauffage collectif.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 864.0,
+  "rentChargeAmount": 204.55,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 864.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

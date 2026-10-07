@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 47276,
   "guid": "5d734dea-6b54-40b6-8ead-290470ae5729",
@@ -89,5 +89,188 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 47276,
+  "guid": "5d734dea-6b54-40b6-8ead-290470ae5729",
+  "reference": "47276",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c04dd836-afb3-4740-a661-6b3a50b9d957/large/f77b49ce-c288-4d8a-a567-06cbbb2834e1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c04dd836-afb3-4740-a661-6b3a50b9d957/large/fad10f01-d06c-4a66-b2bc-e50aa50dd11a",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c04dd836-afb3-4740-a661-6b3a50b9d957/large/763f142d-bb79-46c8-84a0-f13382e41626",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c04dd836-afb3-4740-a661-6b3a50b9d957/large/ad6790dd-1496-449b-b1f9-a48bafa96c7f",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c0/c04dd836-afb3-4740-a661-6b3a50b9d957/large/5f0e46d8-4675-468c-bd98-8ed57547e792",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 32699,
+   "guid": "c04dd836-afb3-4740-a661-6b3a50b9d957",
+   "reference": "32699",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 29.0,
+   "municipality": {
+    "id": 32712,
+    "postcode": "83230",
+    "code": "83019",
+    "name": "Bormes-les-Mimosas"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "NON",
+     "label": "Pas de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 5069,
+   "guid": "6d0356d5-d216-41ac-8937-2ff1ad8ed683",
+   "reference": "5069",
+   "livingRules": "Animaux non admis\n\n",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CLO",
+     "label": "Colocation"
+    }
+   ],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-01",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "-\tLogement meublé et cuisine aménagée et équipée\n-\tAccès laverie collective (conso inclue dans les charges)\n-\tAccès internet en WIFI (compris dans les charges)\n-\tEau froide (compris dans les charges)\n\nAu coeur du centre historique de Bormes les Mimosas, joli T2 rénové de 29 m².\nCe logement dispose de 3 couchages.\n\nImportant : le logement devra être absolument libéré au plus tard le 30/04/2027 pour la saison\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 433.46,
+  "rentChargeAmount": 70.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

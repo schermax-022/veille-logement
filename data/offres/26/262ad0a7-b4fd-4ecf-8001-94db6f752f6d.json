@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 1259,
   "guid": "262ad0a7-b4fd-4ecf-8001-94db6f752f6d",
@@ -89,5 +89,252 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 1259,
+  "guid": "262ad0a7-b4fd-4ecf-8001-94db6f752f6d",
+  "reference": "1259",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/27c5665e-b9a9-49f7-bd28-2d6188665218/large/c8842ac5-a446-4898-92f1-18df559d3a21",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/27c5665e-b9a9-49f7-bd28-2d6188665218/large/cbff6958-7633-42ec-9fa4-84bcc9b1cad8",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/27c5665e-b9a9-49f7-bd28-2d6188665218/large/27067e97-a25f-4576-bb4e-f644056bc3c9",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/27c5665e-b9a9-49f7-bd28-2d6188665218/large/cd447036-7b87-4c69-bc1b-bf58123c59c0",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/27c5665e-b9a9-49f7-bd28-2d6188665218/large/acb2cbb7-dfff-402b-b00c-52f16979d9be",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/27c5665e-b9a9-49f7-bd28-2d6188665218/large/5f639e2a-1fab-4f83-a290-9edc53fa8071",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/27c5665e-b9a9-49f7-bd28-2d6188665218/large/ad3fe225-6a4e-44d6-9091-703cdb2aa291",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/27c5665e-b9a9-49f7-bd28-2d6188665218/large/28781685-50ae-4b4b-89f9-1ad57ae6c441",
+    "urlContentType": "image/png",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16110,
+   "guid": "27c5665e-b9a9-49f7-bd28-2d6188665218",
+   "reference": "16110",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 1504,
+    "postcode": "03200",
+    "code": "03310",
+    "name": "Vichy"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2271,
+   "guid": "40ce3029-d987-47bb-9b2e-bef5ca8bacc5",
+   "reference": "2271",
+   "livingRules": "",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "RES",
+     "label": "Services de restauration",
+     "isIncluded": true
+    },
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    },
+    {
+     "id": 3,
+     "ordering": 4,
+     "code": "LIG",
+     "label": "Service de lingerie (location de draps et serviettes)",
+     "isIncluded": true
+    },
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "SPO",
+     "label": "Salle de sport",
+     "isIncluded": true
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    },
+    {
+     "id": 19,
+     "ordering": 20,
+     "code": "SOC",
+     "label": "Référent social",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-01-01",
+  "endDateOfPublication": "2026-12-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A louer, studio meublé\nA proximité de la gare, proche du centre hospitalier et du centre-ville\nIl comprend : avec 1 lit simple (90 cm), bureau, chaises, table, placard, salle d'eau, WC & kitchenette (évier, placard, plaques de cuisson, réfrigérateur)\nLe loyer comprend : l'eau, l'électricité et le chauffage\nService Resto-Cap : le midi  (cuisine maison ouverte à tous) et le soir (possibilités aux résidents de réserver des plateaux repas) - Chèque déjeuner & ticket Restaurant acceptés\n\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 510.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

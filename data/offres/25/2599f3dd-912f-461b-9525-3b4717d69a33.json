@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 46604,
   "guid": "2599f3dd-912f-461b-9525-3b4717d69a33",
@@ -94,5 +94,174 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 46604,
+  "guid": "2599f3dd-912f-461b-9525-3b4717d69a33",
+  "reference": "46604",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/02/02473bfd-32a5-40de-b4a3-9c91c3016d4d/large/2793c3bf-a57f-4b5b-92b9-ad73098bc4d5",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/02/02473bfd-32a5-40de-b4a3-9c91c3016d4d/large/56a64cbf-db58-4fae-9770-773c00b3df07",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/02/02473bfd-32a5-40de-b4a3-9c91c3016d4d/large/c6941b0d-037e-418c-b8f1-a64d85012f06",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/02/02473bfd-32a5-40de-b4a3-9c91c3016d4d/large/4b0b53ef-4d5f-467e-90ea-fa76031796e3",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 55055,
+   "guid": "02473bfd-32a5-40de-b4a3-9c91c3016d4d",
+   "reference": "55055",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 70.85,
+   "municipality": {
+    "id": 12526,
+    "postcode": "33100",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 7845,
+   "guid": "53ec5407-4d00-4390-98ca-78f8c11e38a5",
+   "reference": "7845",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-11-13",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-13",
+  "endDateOfPublication": "2026-11-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Au cœur du nouveau quartier Deschamps-Belvédère, sur la rive droite de Bordeaux, la résidence Esprit Bastide bénéficie d’un emplacement privilégié, avec des accès depuis la rue de Cénac, l’Allée des Abeilles et la Sente des Thoniers.\nVous profiterez d’un environnement dynamique et agréable à proximité des commerces et services : transports en commun (tram, bus et Batcub ), supermarché, établissements scolaires, pharmacie, professionnels de santé, restaurants, et équipements sportifs .\n\n\nNous vous proposons un appartenant non meublé composé d'une entrée avec placard, cuisine meublée et équipée (hotte + plaque de cuisson) ouverte sur le séjour, 2 chambres dont 1 avec placard, rangement, salle de bain, WC séparés.\nLe bien dispose de 2 loggias de 8.70m² et 7.30m²\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 874.6,
+  "rentChargeAmount": 209.76,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 874.6,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

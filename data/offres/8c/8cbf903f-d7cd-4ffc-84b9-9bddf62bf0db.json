@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 49830,
   "guid": "8cbf903f-d7cd-4ffc-84b9-9bddf62bf0db",
@@ -94,5 +94,172 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 49830,
+  "guid": "8cbf903f-d7cd-4ffc-84b9-9bddf62bf0db",
+  "reference": "49830",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcf61871-5777-4e5d-8533-3871acda54d1/large/6d59db3f-bb02-4831-ae57-02c240bebf78",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcf61871-5777-4e5d-8533-3871acda54d1/large/4b930b0f-88b9-4ea5-bdb6-08e611cd86cc",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcf61871-5777-4e5d-8533-3871acda54d1/large/b5656e3b-62e2-40be-85d5-bea8d392a433",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcf61871-5777-4e5d-8533-3871acda54d1/large/ce3f60bc-c104-4229-a25a-b26e86b29cc6",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcf61871-5777-4e5d-8533-3871acda54d1/large/02f0e037-29d8-4ee2-9364-d2b4ee5cda30",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bc/bcf61871-5777-4e5d-8533-3871acda54d1/large/410a2645-2c2f-4dbd-adaf-9f2525dd74f9",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57604,
+   "guid": "bcf61871-5777-4e5d-8533-3871acda54d1",
+   "reference": "57604",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 92.7,
+   "municipality": {
+    "id": 29898,
+    "postcode": "76400",
+    "code": "76259",
+    "name": "Fécamp"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 2778,
+   "guid": "da20a078-1df6-4af0-88c0-ddeb0f4fd03f",
+   "reference": "2778",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2024,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-16",
+  "endDateOfPublication": "2026-10-16",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Idéalement situés près de la plage et des commerces, les logements de la Résidence La Boucane sont entièrement rénovés avec des prestations de qualité, des choix de matériaux durables et une très bonne performance énergétique.\n\nFactures réduites d'eau et d'énergie (cuve de récupération d'eau de pluie) et pompe à chaleur pour eau chaude sanitaire.\n\nLes appartements sont lumineux et spacieux, organisés autour d'une cour centrale commune végétalisée pour la convivialité des résidents.\n\nRésidence intergénérationnelle.\n\n\nGrand T3 situé 35 rue Herbeuse se composant de deux chambres, une salle de bain avec douche, toilettes séparées et une très grande pièce salon / salle à manger : cuisine américaine.\nTrès lumineux, orienté plein ouest.\nAu calme donnant sur un jardin commun.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 957.0,
+  "rentChargeAmount": 100.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 957.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

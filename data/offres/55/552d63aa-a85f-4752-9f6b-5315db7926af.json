@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 13995,
   "guid": "552d63aa-a85f-4752-9f6b-5315db7926af",
@@ -94,5 +94,182 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 13995,
+  "guid": "552d63aa-a85f-4752-9f6b-5315db7926af",
+  "reference": "13995",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/99/995c8283-3146-4bd9-913c-dc72276f692a/large/d86e5a69-68f2-4fcf-a419-9f3f2364075f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/99/995c8283-3146-4bd9-913c-dc72276f692a/large/7e1cecb6-7e87-463d-a16b-c21e3e489db1",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/99/995c8283-3146-4bd9-913c-dc72276f692a/large/46a604d7-e373-4203-92b8-31384b40ce69",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/99/995c8283-3146-4bd9-913c-dc72276f692a/large/ad04242f-8cef-4589-9ae4-8a5634c94c9d",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 27191,
+   "guid": "995c8283-3146-4bd9-913c-dc72276f692a",
+   "reference": "27191",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 19.0,
+   "municipality": {
+    "id": 4459,
+    "postcode": "13004",
+    "code": "13204",
+    "name": "Marseille 4e Arrondissement"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 202,
+   "guid": "98c555e3-1b6d-4b5e-834c-2cd3a22b2d33",
+   "reference": "202",
+   "livingRules": "",
+   "type": {
+    "id": 3,
+    "ordering": 7,
+    "code": "RHV",
+    "label": "Résidence hôtelière à vocation sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-06-17",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence Montempô Marseille Dôme se trouve à moins de 2,9 km de la station de métro La Timone et à 4,2 km de celle du Vieux Port.\nLes studios sont tout équipés pour vos séjours d'affaires ou de loisirs.\nServices inclus : kitchenette, accueil 24/7j,  petit-déjeuner buffet payant, laverie 24/7j payante, WiFi gratuit, local à vélo, transports en commun à proximité, \n \nLa durée du séjour peut être d’une nuit à plusieurs mois. \n  \n- Tarification longue durée : 33€/ nuit dès 28 nuits consécutives.\n- 1 à 4 nuits : à partir de 51€/nuit\n- 5 à 27 nuits : à partir de 44€/nuit\nNos tarifs sont hors taxe de séjour de 1,30€ par personne et par nuit\n\nAfin de finaliser votre demande et réserver votre studio Montempô (sous réserve de disponibilités), et bénéficier de l’offre Action logement, nous vous invitons à suivre le lien ci-dessous : \n \nhttps://www.montempo.fr/sejours/offres-appart-hotel/logement-temporaire\n\n\n",
+  "paymentType": {
+   "id": 1,
+   "ordering": 2,
+   "code": "JNR",
+   "label": "Journalier"
+  },
+  "housingFeeBaseBound": 33.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 45.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

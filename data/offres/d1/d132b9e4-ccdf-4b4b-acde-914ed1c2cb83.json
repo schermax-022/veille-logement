@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 39503,
   "guid": "d132b9e4-ccdf-4b4b-acde-914ed1c2cb83",
@@ -94,5 +94,217 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 39503,
+  "guid": "d132b9e4-ccdf-4b4b-acde-914ed1c2cb83",
+  "reference": "39503",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/984225f9-d11f-4f6e-b296-672fce195af8/large/1fea47ff-8555-4b7e-8bf4-66db712b84d0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/984225f9-d11f-4f6e-b296-672fce195af8/large/ba588933-0f0b-46ab-a52f-070f77764ab2",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/984225f9-d11f-4f6e-b296-672fce195af8/large/32977017-cb22-4ae3-9197-d3a954baf14b",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/984225f9-d11f-4f6e-b296-672fce195af8/large/8c188096-2aea-4b0a-be75-5d68252f8e19",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/984225f9-d11f-4f6e-b296-672fce195af8/large/4e7606c9-192d-4b37-9a95-51adac5aa9dc",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/984225f9-d11f-4f6e-b296-672fce195af8/large/08acc2d6-1d0c-4aee-a4f4-1dec1c8b0613",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/984225f9-d11f-4f6e-b296-672fce195af8/large/3a8cb977-5d20-4160-8c5e-54ef99a1ab4b",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/984225f9-d11f-4f6e-b296-672fce195af8/large/2d60a6de-1bc9-48a7-b8af-e9a1722d3682",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/98/984225f9-d11f-4f6e-b296-672fce195af8/large/123557ab-fa79-49fa-8126-f37a66fe048d",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 31418,
+   "guid": "984225f9-d11f-4f6e-b296-672fce195af8",
+   "reference": "31418",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 80.0,
+   "municipality": {
+    "id": 34990,
+    "postcode": "92350",
+    "code": "92060",
+    "name": "Le Plessis-Robinson"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "energyPerformanceCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3351,
+   "guid": "b97bafca-c70a-4d89-9fb3-0bceda084615",
+   "reference": "3351",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-05-18",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "EXCLUSIVITÉSANS FRAIS DE DOSSIER\n\nA louer 4 pièces de 80 m² situé au 2e étage. Il dispose d'un séjour, une cuisine, 3 chambres, une salle de bain et WC séparés. Chauffage collectif et parking.Résidence avec gardien.\n\nA proximité des établissements scolaires et commerces. Transport tramway T6 (Hôpital Béclère).",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1240.0,
+  "rentChargeAmount": 380.58,
+  "rentParkingAmount": 51.64,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1290.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

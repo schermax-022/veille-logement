@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 50849,
   "guid": "cfc42659-09c1-41db-86a9-9d9ff5079d19",
@@ -94,5 +94,162 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50849,
+  "guid": "cfc42659-09c1-41db-86a9-9d9ff5079d19",
+  "reference": "50849",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6e/6e57dcb4-e0b8-4c6a-8875-ac89f79b170e/large/11d79536-9ccc-4def-9717-ebbbf6d09d5e",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6e/6e57dcb4-e0b8-4c6a-8875-ac89f79b170e/large/580139f2-bf44-4a43-9a69-e33daddd8da6",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58471,
+   "guid": "6e57dcb4-e0b8-4c6a-8875-ac89f79b170e",
+   "reference": "58471",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 63.4,
+   "municipality": {
+    "id": 27253,
+    "postcode": "68300",
+    "code": "68297",
+    "name": "Saint-Louis"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8283,
+   "guid": "f44e196d-ee8c-408d-991e-1f948f74199f",
+   "reference": "8283",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-06",
+  "endDateOfPublication": "2026-10-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "PROGRAMME NEUF\n\nA ST-LOUIS, rue Markstein, à proximité des transports en commun, des commerces et axes routiers.\n\nVenez découvrir ce logement T3 comprenant une cuisine semi équipée (meubles, plaques et hotte) ouverte sur un  séjour avec BALCON, deux chambres, une salle de bain avec baignoire et un WC séparé.\n\nPossibilité de louer un emplacement de parking pour  un montant mensuel de 35 € en sus.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 712.1,
+  "rentChargeAmount": 275.62,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 712.1,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

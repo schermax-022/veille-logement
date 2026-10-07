@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 37144,
   "guid": "93ca850c-64f1-4886-96b9-ae8a1f0d137b",
@@ -94,5 +94,219 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 37144,
+  "guid": "93ca850c-64f1-4886-96b9-ae8a1f0d137b",
+  "reference": "37144",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fca2da66-7231-4d1c-813e-106ecdbe838e/large/0a9c7540-90ec-4449-a3d6-96d8ecbc027f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fca2da66-7231-4d1c-813e-106ecdbe838e/large/99af6e4b-594d-4b17-b202-cfaa5134d245",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fca2da66-7231-4d1c-813e-106ecdbe838e/large/91c77d09-ed6b-4e60-bd4e-3d843152ba0d",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fca2da66-7231-4d1c-813e-106ecdbe838e/large/a86dfb13-c95c-4127-9b1a-7a00d0c68bb0",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fca2da66-7231-4d1c-813e-106ecdbe838e/large/75e4d102-b3d0-49c5-8777-200035015f77",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 36231,
+   "guid": "fca2da66-7231-4d1c-813e-106ecdbe838e",
+   "reference": "36231",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 14636,
+    "postcode": "38150",
+    "code": "38468",
+    "name": "Salaise-sur-Sanne"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 2239,
+   "guid": "545b36e1-2809-4b9a-8953-42050d4498d9",
+   "reference": "2239",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    },
+    {
+     "id": 3,
+     "ordering": 4,
+     "code": "LIG",
+     "label": "Service de lingerie (location de draps et serviettes)",
+     "isIncluded": false
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-01",
+  "endDateOfPublication": "2026-10-11",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence Les Sables est idéalement située, à seulement 50 km de Lyon et 60 km de Valence. Elle bénéficie de la proximité d’un bassin d’emploi dynamique ainsi que des principaux services du quotidien. Tous les logements sont entièrement meublés et équipés et offrent un confort optimal. La résidence dispose également d’un parking privé. \n\nLa redevance inclut l'ensemble des charges (chauffage, électricité, eau, taxe ordonnances ménagères et entretien parties communes).​  \n\nInfrastructures à proximités (écoles, commerces, boulangerie, etc.) et transports en communs accessibles : ligne de bus : T53, Transisère, Gare TER à 15 minutes en voiture et axe autoroutier A7 facile d’accès. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 533.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

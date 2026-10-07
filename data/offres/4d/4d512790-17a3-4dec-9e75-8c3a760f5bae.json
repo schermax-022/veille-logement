@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 40827,
   "guid": "4d512790-17a3-4dec-9e75-8c3a760f5bae",
@@ -94,5 +94,176 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 40827,
+  "guid": "4d512790-17a3-4dec-9e75-8c3a760f5bae",
+  "reference": "40827",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaa6f452-98b4-4945-aa61-d31536ca0237/large/e49d9625-4524-420b-a6fe-2e081ca63d14",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaa6f452-98b4-4945-aa61-d31536ca0237/large/25afca46-882a-42ab-b221-0f8e842b158d",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaa6f452-98b4-4945-aa61-d31536ca0237/large/62f8758d-5960-4f66-8cbb-9f977bf66cc6",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/eaa6f452-98b4-4945-aa61-d31536ca0237/large/edb5bd6c-1fe9-488d-9613-73b021296de7",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 50217,
+   "guid": "eaa6f452-98b4-4945-aa61-d31536ca0237",
+   "reference": "50217",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 12.0,
+   "municipality": {
+    "id": 25384,
+    "postcode": "64500",
+    "code": "64189",
+    "name": "Ciboure"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": "COLLECTIVE",
+   "toiletType": "COLLECTIVE",
+   "bathroomType": "COLLECTIVE",
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "NON",
+     "label": "Pas de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7225,
+   "guid": "123023b7-5dfc-454e-a709-fa7641788503",
+   "reference": "7225",
+   "livingRules": "",
+   "type": {
+    "id": 7,
+    "ordering": 5,
+    "code": "COL",
+    "label": "Co-location meublée",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CLO",
+     "label": "Colocation"
+    }
+   ],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": "2026-05-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-05-01",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Idéalement située, cette résidence bénéficie d’un emplacement privilégié. À seulement quelques minutes de de Saint-Jean-de-Luz, elle profite d’un cadre résidentiel calme tout en restant proche des commodités, des commerces et des animations du centre-ville.\n\nAppartement T3 situé au rez-de-chausée idéal pour une colocation, composé de 2 chambres individuelles autour d’espaces communs fonctionnels et bien équipés.\nL’appartement propose une cuisine ouverte entièrement équipée (plaques, four, hotte, micro-ondes, réfrigérateur, vaisselle et ustensiles), un séjour convivial, ainsi qu’une salle d’eau avec WC. Un lave-linge et étendoir complètent les équipements.\nChambre 1 – 12 m² : aménagée avec un lit 90x190, une table de chevet avec liseuse, bureau et chaise, multiprise, armoire de rangement et porte-manteau.\nUn logement confortable et prêt à vivre, idéalement agencé pour partager un cadre de vie agréable.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 360.0,
+  "rentChargeAmount": 110.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 360.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 200.0,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

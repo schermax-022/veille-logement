@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 2302,
   "guid": "eb19173e-5bfb-4a91-b746-cf49c6e69d40",
@@ -89,5 +89,207 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 2302,
+  "guid": "eb19173e-5bfb-4a91-b746-cf49c6e69d40",
+  "reference": "2302",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/5642bea8-5f3d-414c-9628-72f06e704bac/large/f8e29805-ca95-4f76-aeee-62954c8815cb",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/5642bea8-5f3d-414c-9628-72f06e704bac/large/36915295-1ca3-4fc7-b988-87d187a000d2",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/5642bea8-5f3d-414c-9628-72f06e704bac/large/a6392b97-7ba2-42de-bd88-979017e0bc68",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/5642bea8-5f3d-414c-9628-72f06e704bac/large/fe35a18b-f5e5-4e6b-8d1b-5aac54a36764",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/5642bea8-5f3d-414c-9628-72f06e704bac/large/d12b0135-29d4-4163-b196-aa00ec6c9b16",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/5642bea8-5f3d-414c-9628-72f06e704bac/large/72ff7fcf-af9e-4f87-9e45-66db362d7ecf",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16956,
+   "guid": "5642bea8-5f3d-414c-9628-72f06e704bac",
+   "reference": "16956",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 27.0,
+   "municipality": {
+    "id": 2231,
+    "postcode": "07000",
+    "code": "07186",
+    "name": "Privas"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2260,
+   "guid": "fa7d8050-ad84-4bdb-930b-fff812efd704",
+   "reference": "2260",
+   "livingRules": "Animaux non autorisés",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": false
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 19,
+     "ordering": 20,
+     "code": "SOC",
+     "label": "Référent social",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2024-08-02",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence se situe à seulement 5 mn à pied du centre ville, très calme, vous bénéficiez d’un accès privilégié à toutes les commodités : commerces, équipements sociaux et culturels, services administratifs, transports …\nLa Résidence propose 54 logements meublés : 48 chambres de 12 m² avec sanitaires et douche privatifs, cuisine collective à chaque étage, 4 studios meublés de 21 m²,  et 2 T1 meublé de 27 m² .\n\nT1 de 27 m² à 445 € TTC avec lit, armoire, bureau, chaise, douche, toilette, lavabo, kitchenette avec frigo et 2 plaques électriques. Très calme et proche du centre-ville (5 mn à pied), vous bénéficierez d’un accès privilégié à toutes les commodités : commerces, équipements sociaux et culturels, services administratifs, transports …\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 445.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 445.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

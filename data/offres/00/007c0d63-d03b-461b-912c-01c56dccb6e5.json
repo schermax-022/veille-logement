@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 42912,
   "guid": "007c0d63-d03b-461b-912c-01c56dccb6e5",
@@ -94,5 +94,188 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 42912,
+  "guid": "007c0d63-d03b-461b-912c-01c56dccb6e5",
+  "reference": "42912",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c1/c1db3ca3-1467-4035-a66c-f6e7af511f68/large/afb831f0-4dd9-4355-837a-a184e01285aa",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c1/c1db3ca3-1467-4035-a66c-f6e7af511f68/large/4649e880-18bb-4b08-b106-9cc7bdb3a9f1",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c1/c1db3ca3-1467-4035-a66c-f6e7af511f68/large/89aa0ecf-2d5f-444b-8942-0f2919e434ee",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c1/c1db3ca3-1467-4035-a66c-f6e7af511f68/large/4022dd51-46af-4245-969d-534489be4691",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 52048,
+   "guid": "c1db3ca3-1467-4035-a66c-f6e7af511f68",
+   "reference": "52048",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 25.39,
+   "municipality": {
+    "id": 32833,
+    "postcode": "83100",
+    "code": "83137",
+    "name": "Toulon"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "COR",
+    "label": "Collectif radiateur",
+    "commercialLabel": "Chauffage collectif radiateur compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7440,
+   "guid": "e9ad5d2d-41e6-49d2-a356-1c68b4958db4",
+   "reference": "7440",
+   "livingRules": "",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-30",
+  "endDateOfPublication": "2026-10-17",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Situé rue Massenet à Toulon, ce bien bénéficie d’un emplacement agréable au sein d’un secteur résidentiel, à proximité des commerces, des services et des établissements scolaires.\nToulon offre un cadre de vie dynamique entre mer et collines, avec un centre-ville animé, un port emblématique, de nombreuses infrastructures culturelles et sportives ainsi qu’un accès rapide aux plages.\nL’emplacement profite d’une bonne accessibilité grâce aux principaux axes routiers, notamment l’autoroute A50, facilitant les déplacements vers La Seyne-sur-Mer, Hyères et Marseille.\nLe secteur est bien desservi par les transports en commun du réseau Mistral, permettant de rejoindre facilement les différents quartiers de la ville et les pôles d’activité.\nUn emplacement recherché, alliant confort de vie, proximité des commodités et accessibilité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 617.33,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 402.6,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": null,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

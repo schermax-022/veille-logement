@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 1127,
   "guid": "61479911-585c-41d6-ae1f-b6d5dade2afb",
@@ -89,5 +89,179 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 1127,
+  "guid": "61479911-585c-41d6-ae1f-b6d5dade2afb",
+  "reference": "1127",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2d/2d9b5f1a-c917-4b04-9b8e-cfb12e06a128/large/461334ab-b04a-48ac-ad04-53fd8c0ae60d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2d/2d9b5f1a-c917-4b04-9b8e-cfb12e06a128/large/a87538af-4000-41ef-a9cd-38d321ca8e0a",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 15982,
+   "guid": "2d9b5f1a-c917-4b04-9b8e-cfb12e06a128",
+   "reference": "15982",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 6895,
+    "postcode": "21000",
+    "code": "21231",
+    "name": "Dijon"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 394,
+   "guid": "a1237d43-0bdf-4a76-81b4-693aca222fd8",
+   "reference": "394",
+   "livingRules": null,
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": false
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2023,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2024-06-18",
+  "endDateOfPublication": "2027-02-24",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Présentation : La résidence « Terrot town » bénéficie d’un emplacement idéal située dans un quartier plaisant en plein essor à Dijon.\nLes logements individuels meublés (lit, table chevet, table + chaise – kitchenette équipée plaques électriques+ frigo) se trouvent à proximité immédiate de l’hypercentre et de toutes les commodités. Des commerces de quartier sont facilement accessibles à pied ou en bus. La résidence est destinée à accueillir prioritairement des jeunes actifs âgés de 18 à 35 ans et débutant leur vie professionnelle.\nUne salle collective d’animation se trouve au RDC d’un bâtiment (intervention de partenaires pour les résidents et évènements de convivialité)\n\n\nLes logements individuels meublés (lit, table chevet, table + chaise – kitchenette équipée plaques électriques+ frigo) se trouvent à proximité immédiate de l’hypercentre et de toutes les commodités. Des commerces de quartier sont facilement accessibles à pied ou en bus. La résidence est destinée à accueillir prioritairement des jeunes actifs âgés de 18 à 35 ans et débutant leur vie professionnelle.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 500.71,
+  "rentChargeAmount": null,
+  "rentParkingAmount": 19.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

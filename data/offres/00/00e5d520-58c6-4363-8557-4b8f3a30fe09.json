@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 42692,
   "guid": "00e5d520-58c6-4363-8557-4b8f3a30fe09",
@@ -94,5 +94,215 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 42692,
+  "guid": "00e5d520-58c6-4363-8557-4b8f3a30fe09",
+  "reference": "42692",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/31/31cbdaf5-b401-4e9e-8051-19197109e533/large/04a70cb2-0090-4aaf-87ab-9c30aac04aa1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/31/31cbdaf5-b401-4e9e-8051-19197109e533/large/c5f435a0-5b87-431e-bde8-aec2515badeb",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/31/31cbdaf5-b401-4e9e-8051-19197109e533/large/b89a837c-c7ac-47c4-b9b8-56a0a7ebeee3",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/31/31cbdaf5-b401-4e9e-8051-19197109e533/large/adc97fe2-5f6a-4c53-a2b6-7703e596a7f1",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/31/31cbdaf5-b401-4e9e-8051-19197109e533/large/0d6bae92-2db9-4b5d-8d24-62927f9cd580",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/31/31cbdaf5-b401-4e9e-8051-19197109e533/large/3e90ef26-f7f3-4edf-b214-794d9a26c4a6",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/31/31cbdaf5-b401-4e9e-8051-19197109e533/large/27585491-3b08-4fd4-ac72-1317e087b52c",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 51870,
+   "guid": "31cbdaf5-b401-4e9e-8051-19197109e533",
+   "reference": "51870",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 16.0,
+   "municipality": {
+    "id": 10541,
+    "postcode": "29600",
+    "code": "29151",
+    "name": "Morlaix"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7405,
+   "guid": "f0d57a61-37f0-4677-8623-e750a5c897c7",
+   "reference": "7405",
+   "livingRules": "",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-01",
+  "endDateOfPublication": "2027-06-20",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Dans cette résidence située Avenue de Wurselen , nous vous proposons un appartement type 1 de 16m² pour un loyer de 441€ par mois. La redevance comprend le loyer et toutes les charges.\n\nLes logements sont équipés d'une salle de bain, d'une cuisine et toilettes. \n\nLa résidence possède une salle commune avec un salle d'activités ( Billard, table de Ping Pong, yoga, instruments de musique, activités manuelles, salle de réunion, salon, espace TV et \nbaby-foot). Ces espaces de vie sont modulables en fonction des envies et des besoins des résidents. Ainsi qu’une buanderie (le service est équipé de 2 machines à laver et de 2 sèche-linges. Le prix est d’1,50€ le jeton qu’il s’agisse de la machine à laver ou du sèche-linge);\nun local deux roues et deux cuisines collectives à chaque étage.\n\nUn service de changement de draps est également proposé à tous les résidents toutes les 3 semaines. Ceci est compris dans le montant du loyer.\n\nPostulez ! Action Logement vous contactera pour faire le point sur votre demande.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 441.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 200.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

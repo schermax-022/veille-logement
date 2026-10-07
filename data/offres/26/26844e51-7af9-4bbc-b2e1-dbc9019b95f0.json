@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 30257,
   "guid": "26844e51-7af9-4bbc-b2e1-dbc9019b95f0",
@@ -94,5 +94,168 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 30257,
+  "guid": "26844e51-7af9-4bbc-b2e1-dbc9019b95f0",
+  "reference": "30257",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/95/95f79391-36f6-4c3d-a56a-9f18cfc9e9b7/large/69a08352-ff94-4ac2-96b1-e339bac16a5a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/95/95f79391-36f6-4c3d-a56a-9f18cfc9e9b7/large/7e185801-5f42-47d0-bca1-9970f0a08957",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 27896,
+   "guid": "95f79391-36f6-4c3d-a56a-9f18cfc9e9b7",
+   "reference": "27896",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 104.54,
+   "municipality": {
+    "id": 33442,
+    "postcode": "86000",
+    "code": "86194",
+    "name": "Poitiers"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    },
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3111,
+   "guid": "70868aa9-7aa1-4a30-b2d9-447a6b3de8ae",
+   "reference": "3111",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2019,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-01-06",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence se situe rue Charlotte Delbo à proximité de commerces et services, transports en commun (bus). L'ensemble immobilier est composé de maisons duplex équipées de garages et stationnements extérieurs.\n\nNous vous proposons une maison à étage composée au rez-de-chaussée d'une entrée avec placard, cuisine ouverte sur le séjour, cellier, WC séparés, 1 chambre avec dressing, salle d'eau et à l'étage: 2 chambres avec placard, salle de bain et WC séparés.\nLe bien dispose d'un garage et jardin avec terrasse.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 815.69,
+  "rentChargeAmount": 50.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 815.69,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

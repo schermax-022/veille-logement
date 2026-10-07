@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
  "liste": {
   "id": 43676,
   "guid": "2ae314d7-23d9-4ef3-aac1-849a23340d02",
@@ -94,5 +94,182 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 43676,
+  "guid": "2ae314d7-23d9-4ef3-aac1-849a23340d02",
+  "reference": "43676",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b4869b1f-1102-4cd9-8be2-36dd199a0466/large/21107613-14e9-4235-9917-08197be548de",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b4869b1f-1102-4cd9-8be2-36dd199a0466/large/9d455efd-7648-4a82-9606-b950db53bce2",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b4869b1f-1102-4cd9-8be2-36dd199a0466/large/1d172dea-b9a7-4b0f-a2f5-2ee2c548928a",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b4869b1f-1102-4cd9-8be2-36dd199a0466/large/b0f0ab17-78b3-4aa0-89c1-a289f3ec8c11",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 27998,
+   "guid": "b4869b1f-1102-4cd9-8be2-36dd199a0466",
+   "reference": "27998",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 83.81,
+   "municipality": {
+    "id": 26859,
+    "postcode": "67300",
+    "code": "67447",
+    "name": "Schiltigheim"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 4272,
+   "guid": "ae87b0bc-4175-4f22-b32d-3ab08b625ef8",
+   "reference": "4272",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-30",
+  "endDateOfPublication": "2026-11-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "CONSTRUCTION DE 2025 ! SCHILTIGHEIM, rue Georges Clémenceau, proche des commerces du centre ville de Strasbourg, venez découvrir cette magnifique nouvelle résidence de 90 logements avec Espaces verts.\n\nNous vous proposons cet appartement T4 d'une surface de 83.81 m² situé au 2ème étage. Le logement se compose d'une entrée, d'un WC séparé, d'une salle de bain avec baignoire, de trois belles chambres et d'une cuisine ouverte sur le séjour avec balcon de 10.00 m². \nVous disposerez d'un chauffage collectif urbain et bénéficierez d'un double parking.\n\nATTENTION : Logement soumis à planchers de revenus mensuels – voir grille dans les photos ci-jointes",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 860.0,
+  "rentChargeAmount": 210.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 860.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }
