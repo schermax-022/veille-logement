@@ -13,8 +13,8 @@ on:
         default: check
         options:
           - check       # vérification normale
-          - test-email  # envoyer un exemple d'alerte avec une vraie annonce parisienne
-          - export      # republier le fichier Excel
+          - test-email  # envoyer un exemple d'alerte par site, avec de vraies annonces parisiennes
+          - export      # republier les fichiers Excel
 
 permissions:
   contents: write
@@ -35,6 +35,11 @@ jobs:
       SEARCH_BODY: ${{ vars.SEARCH_BODY }}
       USE_BROWSER: ${{ vars.USE_BROWSER }}
       MAX_DETAILS_PER_RUN: ${{ vars.MAX_DETAILS_PER_RUN }}
+      ALERT_MAX_RENT: ${{ vars.ALERT_MAX_RENT }}
+      INLI_ALERT_MAX_RENT: ${{ vars.INLI_ALERT_MAX_RENT }}
+      INLI_ALERT_POSTCODES: ${{ vars.INLI_ALERT_POSTCODES }}
+      INLI_MAX_DETAILS_PER_RUN: ${{ vars.INLI_MAX_DETAILS_PER_RUN }}
+      INLI_ENABLED: ${{ vars.INLI_ENABLED }}
       # E-mail (Settings → Secrets and variables → Actions → Secrets)
       SMTP_HOST: ${{ secrets.SMTP_HOST }}
       SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -81,7 +86,7 @@ jobs:
           git add data
           if ! git diff --cached --quiet; then
             # l'Excel n'est republié que si des offres ou l'historique ont changé (pas seulement l'heure du passage)
-            if ! git diff --cached --quiet -- data/offres data/historique.csv; then
+            if ! git diff --cached --quiet -- data/offres data/historique.csv data/inli/offres data/inli/historique.csv; then
               echo "changed=true" >> "$GITHUB_OUTPUT"
               msg="Veille : mise à jour des offres"
             else
@@ -102,12 +107,12 @@ jobs:
             done
           fi
 
-      - name: Publier le fichier Excel
-        if: always() && (steps.save.outputs.changed == 'true' || env.MODE == 'export') && hashFiles('export/offres-action-logement.xlsx') != ''
+      - name: Publier les fichiers Excel
+        if: always() && (steps.save.outputs.changed == 'true' || env.MODE == 'export') && hashFiles('export/*.xlsx') != ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh release view donnees >/dev/null 2>&1 || \
             gh release create donnees --title "Données de la veille" \
-              --notes "Fichier Excel des offres, mis à jour automatiquement à chaque changement."
-          gh release upload donnees export/offres-action-logement.xlsx --clobber
+              --notes "Fichiers Excel des offres (Action Logement et In'li), mis à jour automatiquement à chaque changement."
+          gh release upload donnees export/*.xlsx --clobber
