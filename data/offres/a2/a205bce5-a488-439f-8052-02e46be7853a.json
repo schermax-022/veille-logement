@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
  "liste": {
   "id": 50715,
   "guid": "a205bce5-a488-439f-8052-02e46be7853a",
@@ -94,5 +94,213 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50715,
+  "guid": "a205bce5-a488-439f-8052-02e46be7853a",
+  "reference": "50715",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ce/ceb3528f-18ad-4a8d-8232-3e29523e4243/large/d98c5fc7-3cc7-4753-b7d5-ad8ece706baa",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ce/ceb3528f-18ad-4a8d-8232-3e29523e4243/large/61a89ab9-a8ca-4326-af22-1c0165249fbc",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ce/ceb3528f-18ad-4a8d-8232-3e29523e4243/large/10fc9a67-6069-476e-9c99-a9f9b693455a",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ce/ceb3528f-18ad-4a8d-8232-3e29523e4243/large/6fc93bf0-407d-44a4-9943-45a3eaa01c3c",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ce/ceb3528f-18ad-4a8d-8232-3e29523e4243/large/415f565b-402b-4fed-9432-ab9e5cc38015",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ce/ceb3528f-18ad-4a8d-8232-3e29523e4243/large/ff6d0d0a-1a61-450d-b7cf-e54113ee6b35",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ce/ceb3528f-18ad-4a8d-8232-3e29523e4243/large/5f2e1c02-23ad-46dc-b805-d1c6d47aaacd",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ce/ceb3528f-18ad-4a8d-8232-3e29523e4243/large/1034a41e-bb1e-4533-8401-adcc17b0c819",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58366,
+   "guid": "ceb3528f-18ad-4a8d-8232-3e29523e4243",
+   "reference": "58366",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 42.31,
+   "municipality": {
+    "id": 14187,
+    "postcode": "37200",
+    "code": "37261",
+    "name": "Tours"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 9,
+    "ordering": 9,
+    "code": "6",
+    "label": "6"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 5972,
+   "guid": "67c26370-cb2e-4dba-bcdc-1c0904aa90dd",
+   "reference": "5972",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-03-10",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-08-10",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence neuve située dans un environnement arboré composée de 30 logements : T2, T3 et T4 avec terrasse ou balcon.\n\nA proximité des transports en commun (ligne de tram, bus) et des commerces.\n\nPas de frais d'agence. Une place de stationnement possible. Une cuisine aménagée et équipée et un local vélo à disposition.\n\n\nAppartement T2 de 42,31 m2. Le logement est équipé d'une douche grande largeur. Il bénéficie d'un espace extérieur privatif (loggia).\n\nLe chauffage et la production d'eau chaude sont assurés par une chaufferie collective avec module thermique et compteur calorique dans les logements.\n\nLe bien dispose d'un emplacement de parking.\n\nLa résidence dispose d'un local vélos.\n\nLa provision mensuelle pour charges de copropriété comprend notamment :\n\neau chaude\nchauffage\nmaintenance chauffage\neau froide individuelle\neau froide collective\ninterphone\nélectricité services généraux\nentretien ménager\nentretien VMC\nmaintenance portail et entretien parking\nespaces verts\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 507.87,
+  "rentChargeAmount": 150.71,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

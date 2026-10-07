@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
  "liste": {
   "id": 50822,
   "guid": "9fd3da95-b5aa-4927-a18e-334d1e56669e",
@@ -94,5 +94,184 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50822,
+  "guid": "9fd3da95-b5aa-4927-a18e-334d1e56669e",
+  "reference": "50822",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f717b632-0ee2-4264-8083-64c3a89f8673/large/a201ceeb-eb93-4a02-b9bf-137572b77447",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f717b632-0ee2-4264-8083-64c3a89f8673/large/a9d3a9fd-6c98-44d6-8fcd-685aebf63182",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f717b632-0ee2-4264-8083-64c3a89f8673/large/77052b18-266c-4d33-b295-cdacacd3b187",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f717b632-0ee2-4264-8083-64c3a89f8673/large/5ccf1408-d82c-4e45-ae08-920940718b0f",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f717b632-0ee2-4264-8083-64c3a89f8673/large/b9e0b896-8900-444d-b86d-7f7a057fcf76",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f717b632-0ee2-4264-8083-64c3a89f8673/large/4701ba9d-e22a-4b69-bdc0-cfe4e9a21200",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f717b632-0ee2-4264-8083-64c3a89f8673/large/70a2d931-39e6-4100-84f4-b75a85c18f8c",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f717b632-0ee2-4264-8083-64c3a89f8673/large/6034cd10-bd70-421d-8a31-4aed8c931f38",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58453,
+   "guid": "f717b632-0ee2-4264-8083-64c3a89f8673",
+   "reference": "58453",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 79.0,
+   "municipality": {
+    "id": 32762,
+    "postcode": "83400",
+    "code": "83069",
+    "name": "Hyères"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 4
+  },
+  "residency": {
+   "id": 8278,
+   "guid": "1f6ca67c-9f93-4c19-8377-df7bed210914",
+   "reference": "8278",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2021,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-31",
+  "endDateOfPublication": "2026-10-16",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé chemin Vieux Chemin de Toulon à Hyères, ce logement bénéficie d’un cadre agréable, à proximité des commerces, des établissements scolaires, des services de santé et des commodités nécessaires au quotidien.\n\nHyères se distingue par son environnement provençal, entre espaces urbains, collines et littoral méditerranéen. La commune propose de nombreux commerces, services et équipements, tout en offrant un accès aux espaces naturels et aux différents secteurs de la presqu’île de Giens.\n\nLes transports en commun permettent de rejoindre le centre-ville, la gare de Hyères et les communes voisines de l’agglomération toulonnaise, selon les dessertes disponibles.\n\nLes principaux axes routiers, notamment l’A570 et la D98, facilitent les déplacements vers Toulon, La Crau, La Garde et les autres communes du littoral varois.\n\nCe logement offre ainsi un cadre de vie agréable, alliant proximité des services, mobilité et environnement méditerranéen au cœur du Var.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1100.97,
+  "rentChargeAmount": 121.62,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 943.69,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

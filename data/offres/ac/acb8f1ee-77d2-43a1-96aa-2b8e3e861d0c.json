@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
  "liste": {
   "id": 12331,
   "guid": "acb8f1ee-77d2-43a1-96aa-2b8e3e861d0c",
@@ -89,5 +89,208 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 12331,
+  "guid": "acb8f1ee-77d2-43a1-96aa-2b8e3e861d0c",
+  "reference": "12331",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b424edc-5b67-47bb-a9ac-3808622b3e07/large/432183ab-17aa-45a5-9bf8-48c384a5a9af",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b424edc-5b67-47bb-a9ac-3808622b3e07/large/0be154a8-71d0-499d-ae5f-a8e5ecf03514",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b424edc-5b67-47bb-a9ac-3808622b3e07/large/de0612fc-b46b-4418-9a22-14586b3f297a",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b424edc-5b67-47bb-a9ac-3808622b3e07/large/61e3fc72-462e-44cf-a5b4-d6b039f93a97",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b424edc-5b67-47bb-a9ac-3808622b3e07/large/05a19f59-28cf-4d95-9a12-36dab19f6ae3",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b424edc-5b67-47bb-a9ac-3808622b3e07/large/935a40a0-7bac-4594-9e5b-db5515f9fad2",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b424edc-5b67-47bb-a9ac-3808622b3e07/large/c9f1c290-d489-4bd4-acee-1ea46a621ca2",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b424edc-5b67-47bb-a9ac-3808622b3e07/large/35003e51-d3f8-4378-987c-c2a75a841077",
+    "urlContentType": "image/png",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b424edc-5b67-47bb-a9ac-3808622b3e07/large/62b7f7da-bcbb-4a10-9891-37704b6ce955",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b424edc-5b67-47bb-a9ac-3808622b3e07/large/44dc7800-5766-44ef-8907-af00133ab093",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 25636,
+   "guid": "3b424edc-5b67-47bb-a9ac-3808622b3e07",
+   "reference": "25636",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 16.0,
+   "municipality": {
+    "id": 20239,
+    "postcode": "54200",
+    "code": "54528",
+    "name": "Toul"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": null,
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3820,
+   "guid": "96d03103-5395-4349-939b-334c27e59b7f",
+   "reference": "3820",
+   "livingRules": "Pour le bien être de chacun la résidence demande le respect des règles suivantes : \nPas d’animaux, \nInterdiction des visites entre 20h et 8h,\nPas de consommation d’alcool dans les espaces communs.",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-05-27",
+  "endDateOfPublication": "2027-02-01",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "TOUL, rue du champ de foire, à proximité des transports en commun et des commerces découvrez cette résidence de 102 logements meublés. \nVous bénéficierez d'un accompagnement social, d'un service de blanchisserie gratuit pour les draps et les couvertures et pour les moments de détente et de convivialité d'une cafétéria et d'une salle commune avec TV et espace lecture en accès libre. \n\nNous vous proposons ce studio d'une surface de 16 m² comprenant un espace nuit avec un lit une place, une table de chevet, une armoire et un coin cuisine avec une table, une chaise, un frigo de bar et des plaques de cuisson encastrées (vaisselle non fourni). \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 388.4,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
  "liste": {
   "id": 44824,
   "guid": "0482e9c4-1370-4e2f-8111-897adac04512",
@@ -94,5 +94,198 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 44824,
+  "guid": "0482e9c4-1370-4e2f-8111-897adac04512",
+  "reference": "44824",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8e0f4c5c-2cc4-4e8c-b5aa-157da7394bcd/large/85506c49-55d3-4c74-a51c-20a5bf690262",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8e0f4c5c-2cc4-4e8c-b5aa-157da7394bcd/large/32a90dc0-fc04-47dd-a460-fbfca216bd9b",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8e0f4c5c-2cc4-4e8c-b5aa-157da7394bcd/large/375a887a-d916-44ae-98b8-1811bf73da31",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8e0f4c5c-2cc4-4e8c-b5aa-157da7394bcd/large/642ac8dc-2c08-4b2b-8be1-214d015ee188",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8e0f4c5c-2cc4-4e8c-b5aa-157da7394bcd/large/51d49974-9af6-4382-891f-83c9726b4595",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8e0f4c5c-2cc4-4e8c-b5aa-157da7394bcd/large/bb8d7360-57de-43f2-ac4c-c565b77438ff",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8e0f4c5c-2cc4-4e8c-b5aa-157da7394bcd/large/361d7e2a-a1ef-4206-ba15-9620e22d2af0",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 53604,
+   "guid": "8e0f4c5c-2cc4-4e8c-b5aa-157da7394bcd",
+   "reference": "53604",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 68.0,
+   "municipality": {
+    "id": 34992,
+    "postcode": "92500",
+    "code": "92063",
+    "name": "Rueil-Malmaison"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 4085,
+   "guid": "8dccea8d-e806-41d0-b09a-fc51c07f864f",
+   "reference": "4085",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-07-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "EXCLUSIVITÉ - APPARTEMENT 3 PIÈCES AVEC BALCON Sans frais d'agence,Au pied du RER A (10 min de Paris), découvrez cet appartement de 3 pièces de 68 m² en location à RUEIL MALMAISON (92500). Il se situe au premier étage d'un petit immeuble récent datant de 2015 de trois étages. Un gardien s'occupe du bâtiment. Il comporte une pièce à vivre, deux chambres, une cuisine ouverte et des toilettes. Le chauffage de la résidence est collectif fonctionnant au gaz. Profitez de davantage d'espace avec un balcon. L'appartement dispose d'un local poussettes. Il est à louer avec une place de parking. Plusieurs écoles (maternelle, élémentaire, primaire et collège) sont implantées à moins de 10 minutes à pied, tout comme une établissement du supérieur dans un rayon de 1 km : l'école École nationale supérieure du pétrole et des moteurs. Côté transports en commun, il y a les lignes A et C du RER à moins de 10 minutes en voiture. On trouve quatre tennis, un bassin de natation, deux supermarchés, des commerces, des boulangeries, des boucheries-charcuteries et deux supérettes dans les environs. Le marché Place Jaurès anime les environs.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1278.28,
+  "rentChargeAmount": 269.57,
+  "rentParkingAmount": 85.46,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1360.78,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

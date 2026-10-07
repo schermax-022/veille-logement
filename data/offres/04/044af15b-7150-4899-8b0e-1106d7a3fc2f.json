@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
  "liste": {
   "id": 48179,
   "guid": "044af15b-7150-4899-8b0e-1106d7a3fc2f",
@@ -94,5 +94,149 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 48179,
+  "guid": "044af15b-7150-4899-8b0e-1106d7a3fc2f",
+  "reference": "48179",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/db/dbd7e2dd-c324-41f9-8c81-3f17f85407fe/large/b5ed90f5-9310-4aa4-8eb2-40fba90705e7",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56281,
+   "guid": "dbd7e2dd-c324-41f9-8c81-3f17f85407fe",
+   "reference": "56281",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 78.55,
+   "municipality": {
+    "id": 27424,
+    "postcode": "69290",
+    "code": "69094",
+    "name": "Grézieu-la-Varenne"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 4
+  },
+  "residency": {
+   "id": 7998,
+   "guid": "16fe9c26-daa9-424e-af72-08f0d6434b34",
+   "reference": "7998",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-14",
+  "endDateOfPublication": "2026-10-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "\nRésidence neuve LE TUPUNIER - rue du stade à Grézieu-la-Varenne\nLa résidence est implantée dans le secteur résidence à proximité immédiate du centre de Grézieu-la-Varenne et de Craponne, offrant un cadre de vie calme et familial.\nInfrastructures à proximité : les commerces essentiels sont accessibles à 10min à pied, supermarché et zone commerciale à 10min en voiture. Groupe scolaire situé à 600 mètres de la résidence, le collège et lycée en 15min en transports.\nTransports en commun : Lignes de bus C22, C24, 247 et de nombreux transports scolaires. Axes routiers, A6 et périphérique Nord (TEO) à 15min.\n\nLe logement est un duplex situé en rez-de-jardin au sein de la résidence.\nAu premier niveau, il se compose d'une cuisine ouverte sur un séjour lumineux donnant accès à un jardin privatif de plus de 40 m², ainsi que d'une salle d'eau avec WC. \nÀ l'étage, le logement dispose de trois chambres, d'une salle de bains et de toilettes séparées.\nPossibilité de louer un  stationnement en supplément.\nChauffage individuel électrique.\nCharges incluses : charges générales d’immeuble.\nDisponibilité : logement disponible à partir 14/11/2026, (sous réserve d’un éventuel report de livraison).\n\nSans frais d’agence\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\nPour votre sécurité nous vous rappelons qu’il est formellement interdit de rentrer sur les chantiers.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1080.85,
+  "rentChargeAmount": 68.41,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1095.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

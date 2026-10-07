@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
  "liste": {
   "id": 48270,
   "guid": "8fe98e7d-0d50-4917-9b3d-2fb33a03d547",
@@ -89,5 +89,183 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 48270,
+  "guid": "8fe98e7d-0d50-4917-9b3d-2fb33a03d547",
+  "reference": "48270",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/56c0d6ef-1815-4482-b106-e36e039553f3/large/1612ec39-8aca-4c8a-ab9f-4850d8e3b220",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/56c0d6ef-1815-4482-b106-e36e039553f3/large/90563737-5c41-41ed-af11-f2188e63d469",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/56c0d6ef-1815-4482-b106-e36e039553f3/large/814b5379-f630-43c0-b39d-be2fb46e2dd5",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/56c0d6ef-1815-4482-b106-e36e039553f3/large/ab1154e9-b2c3-4d35-88e7-df8419f18976",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/56c0d6ef-1815-4482-b106-e36e039553f3/large/24f47be3-2aa6-44e0-8f57-2a92b0ace0c8",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 23536,
+   "guid": "56c0d6ef-1815-4482-b106-e36e039553f3",
+   "reference": "23536",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 15659,
+    "postcode": "41600",
+    "code": "41106",
+    "name": "Lamotte-Beuvron"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 1,
+    "ordering": 1,
+    "code": "RDC",
+    "label": "Rez-de-chaussée"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 3242,
+   "guid": "f61b023c-dbe6-462f-a203-b8e9c6293643",
+   "reference": "3242",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2024,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-02",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Les logements sont meublés et adaptés aux personnes à mobilité réduite (PMR). Chaque studio (T1') de 20,05 m² est équipé d’une kitchenette, d’un coin repas, d’un coin bureau, d’un placard aménagé, d’un lit et d’une salle d’eau. Le T1 Bis de 31,20 m² dispose des mêmes équipements mais répartis sur deux pièces.\n\nCHAQUE LOGEMENT EST AMÉNAGÉ AVEC :• Un lit de 120 cm (140 cm pour le T1 bis) aves coffre de rangements• Un espace bureau• Une penderie• Un espace repas• Une kitchenette équipée (Evier, plaquettes électriques, micro-ondes, réfrigérateur, meuble de rangement)\nDes équipements et services :• Gestionnaire de Proximité• Accès WIFI illimité• Local vélo sécurisé• Parking aérien.\n\nLoyer redevance : un équivalent charges locatives couvrant de manière forfaitaire les dépenses relatives à l’entretien des parties communes, au chauffage, aux consommations d’eau et d’électricité et aux impositions correspondant à des services dont le résident profite directement, l’accès au Wifi.\n\n2 min en voiture gare de Lamotte-Beuvron10 min en voiture autoroute A10\n\n4 min en voiture de la zone commerciale Intermarché Lamotte-Beuvron550 m du Bureau de La Poste600 m des restaurants du centre-ville.\n\nAppartement type 1 de 20 m² au rez de chaussée d'une résidence neuve.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 491.51,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 491.51,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
  "liste": {
   "id": 49898,
   "guid": "d0095c81-b5c6-473e-b1be-f3b49a00a1c2",
@@ -94,5 +94,182 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 49898,
+  "guid": "d0095c81-b5c6-473e-b1be-f3b49a00a1c2",
+  "reference": "49898",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8c29c0fa-a90c-4e47-a9fb-355e52ac5223/large/752cd6ea-691a-4fbb-8803-1bbfb0a81fc0",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8c29c0fa-a90c-4e47-a9fb-355e52ac5223/large/637f5f5b-8349-40fc-ab30-601155cdc477",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8c29c0fa-a90c-4e47-a9fb-355e52ac5223/large/75d2f939-e1a1-4c7e-a7c7-e8c570c5df69",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8c29c0fa-a90c-4e47-a9fb-355e52ac5223/large/192a1dfa-4d54-4afc-974a-eaf1bbde9752",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57656,
+   "guid": "8c29c0fa-a90c-4e47-a9fb-355e52ac5223",
+   "reference": "57656",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 99.0,
+   "municipality": {
+    "id": 24593,
+    "postcode": "62223",
+    "code": "62764",
+    "name": "Saint-Nicolas"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3183,
+   "guid": "046ec286-bc34-43de-bd27-b561f5c37a12",
+   "reference": "3183",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2017,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-19",
+  "endDateOfPublication": "2026-10-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé à Saint-Nicolas, rue Mediolanaise, à proximité d'un centre commercial, de l'arrêt de bus \"CHANTECLAIR\" et des grands axes.\n\nNous vous proposons un appartement comprenant : un séjour, une cuisine fermée, 3 chambres avec placard, une salle de bain, une salle d'eau, deux WC, une entrée avec placard, un cellier et un balcon.\n\nLe loyer charges comprises comprend deux emplacements de stationnement en box ainsi qu'une cave.\n\nLe montant du dépôt de garantie correspond à 1 mois de loyer hors charges.\n\nConditions d'éligibilité d’attribution :  \nCatégorie de ménage - 3 personnes, dont le plancher de ressources mensuelles dépasse 3511€.\nCatégorie de ménage - 4 personnes, dont le plancher de ressources mensuelles dépasse 3511€.\n\nEn cas d'instruction de votre dossier, un conseiller prendra contact avec vous afin de vous notifier l’éligibilité de votre dossier.\n\nLa date limite de dépôt de candidature n’est pas contractuelle. ",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 772.98,
+  "rentChargeAmount": 150.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 772.98,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
  "liste": {
   "id": 1176,
   "guid": "8d2ba466-5660-4f33-8e6f-dc4bdc62d4de",
@@ -89,5 +89,171 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 1176,
+  "guid": "8d2ba466-5660-4f33-8e6f-dc4bdc62d4de",
+  "reference": "1176",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2a/2a1c6516-2f2c-44ae-8326-4c413e71db01/large/db33361c-6414-41e8-86f7-87baa60f9b29",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2a/2a1c6516-2f2c-44ae-8326-4c413e71db01/large/809ea2c2-4e22-4f9d-bda7-d1e4dd8fb386",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2a/2a1c6516-2f2c-44ae-8326-4c413e71db01/large/ea040413-195e-4a74-9888-24538978f138",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2a/2a1c6516-2f2c-44ae-8326-4c413e71db01/large/9cbbd59e-3f62-45d8-a336-307c42740210",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2a/2a1c6516-2f2c-44ae-8326-4c413e71db01/large/f77faf54-5ef9-4ec4-81a9-2a31675fa6d3",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16033,
+   "guid": "2a1c6516-2f2c-44ae-8326-4c413e71db01",
+   "reference": "16033",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.0,
+   "municipality": {
+    "id": 10108,
+    "postcode": "28000",
+    "code": "28085",
+    "name": "Chartres"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 2077,
+   "guid": "04ce0421-5eb8-458d-ba01-fff0362e86fb",
+   "reference": "2077",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2024-06-17",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Studio meublé de 17 m² \nkitchenette avec plaques et frigo, micro onde.\nplacard de rangement dans l'entrée.\npièce principale avec lit de 120 cm de large, tiroirs de rangement en dessous.\nbureau, une table et chaise.\ntv, wifi.\nsalle d'eau avec wc.\n\nLe complexe est situé sur le site de la CCI d'Eure-et-Loir et de son Campus à 10mn du centre-ville en bus ou 20mn en vélo.\nLe bâtiment est construit sur 3 niveaux avec ascenseurs et comprend 3 logements adaptés aux normes PMR.\nlaverie au rez de chaussée avec machine à laver et sèche linge\nlocal vélo\nparking à disposition pour la résidence\nLe complexe est situé sur le site de la CCI d'Eure-et-Loir et de son Campus, à 10mn du centre-ville en bus (arrêt en face de la résidence) ou 20mn en vélo.\nLe bâtiment, récent, de 81 logements est construit sur 3 niveaux avec ascenseurs et comprend 3 logements adaptés aux normes PMR.\n\nLa résidence facilite l'accueil des alternants en contrat d'apprentissage ou de professionnalisation ainsi que les salariés en mobilité.\n\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 340.0,
+  "rentChargeAmount": 64.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 340.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

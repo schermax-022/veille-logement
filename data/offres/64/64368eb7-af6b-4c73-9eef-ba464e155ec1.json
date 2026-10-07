@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
  "liste": {
   "id": 49020,
   "guid": "64368eb7-af6b-4c73-9eef-ba464e155ec1",
@@ -94,5 +94,201 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 49020,
+  "guid": "64368eb7-af6b-4c73-9eef-ba464e155ec1",
+  "reference": "49020",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/4683f0ba-4f8d-4faa-a5d7-24a56d6dc6dd/large/f316e0b8-5700-48f9-8586-4a839b0e37b9",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/4683f0ba-4f8d-4faa-a5d7-24a56d6dc6dd/large/d6ff85ac-414b-4826-8035-0ec0384d693a",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/4683f0ba-4f8d-4faa-a5d7-24a56d6dc6dd/large/bfabf097-1c23-4e88-8be8-b5bd5b8d7aef",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/4683f0ba-4f8d-4faa-a5d7-24a56d6dc6dd/large/f5d73da6-919d-46ac-81e5-f24554332624",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/4683f0ba-4f8d-4faa-a5d7-24a56d6dc6dd/large/3392044e-9b67-401e-be59-cea921658e7f",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/4683f0ba-4f8d-4faa-a5d7-24a56d6dc6dd/large/61e2bd88-ae34-41a8-9c29-e6e85f32303c",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/4683f0ba-4f8d-4faa-a5d7-24a56d6dc6dd/large/2ba44c5c-199f-4878-aa4c-1f7541e25d49",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/4683f0ba-4f8d-4faa-a5d7-24a56d6dc6dd/large/5bcf391e-51fa-4ec2-aa53-8b5c2a93a755",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/4683f0ba-4f8d-4faa-a5d7-24a56d6dc6dd/large/2adb6096-1eea-4674-bdf4-33d45ea99163",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/4683f0ba-4f8d-4faa-a5d7-24a56d6dc6dd/large/efe5e386-3dd0-4cae-8baa-3847cca0ad91",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56947,
+   "guid": "4683f0ba-4f8d-4faa-a5d7-24a56d6dc6dd",
+   "reference": "56947",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 66.44,
+   "municipality": {
+    "id": 27182,
+    "postcode": "68100",
+    "code": "68224",
+    "name": "Mulhouse"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 5185,
+   "guid": "92b1197a-dab3-44d9-8c04-784e43e6520f",
+   "reference": "5185",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-12-22",
+  "endDateOfPublication": "2027-09-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "SANS FRAIS D'AGENCE NI HONORAIRES. A saisir logement dans programme neuf rue des Bateliers à Mulhouse.      F3 à louer. Entrée avec placard, espace séjour / cuisine ouverte (non équipée), terrasse exposée Sud, 2 chambres, SDB avec baignoire, WC séparé. Chauffage et eau chaude collectif gaz. Parking inclus. Logement moderne et fonctionnel avec de très belles prestations.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 640.0,
+  "rentChargeAmount": 180.0,
+  "rentParkingAmount": 25.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 665.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

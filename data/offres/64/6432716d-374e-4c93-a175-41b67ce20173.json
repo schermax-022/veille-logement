@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
  "liste": {
   "id": 36720,
   "guid": "6432716d-374e-4c93-a175-41b67ce20173",
@@ -94,5 +94,162 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 36720,
+  "guid": "6432716d-374e-4c93-a175-41b67ce20173",
+  "reference": "36720",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b3/b319452c-6200-4c6f-9234-d887c06f497e/large/5b6a524c-624a-45a3-ad66-3b2cddb34dc9",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b3/b319452c-6200-4c6f-9234-d887c06f497e/large/df4beda2-ee10-4c2c-bb13-1c12e6d1b537",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 46757,
+   "guid": "b319452c-6200-4c6f-9234-d887c06f497e",
+   "reference": "46757",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 130.8,
+   "municipality": {
+    "id": 30206,
+    "postcode": "76800",
+    "code": "76575",
+    "name": "Saint-Étienne-du-Rouvray"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 6506,
+   "guid": "a13d4637-ac13-4565-8d78-26eb011068ff",
+   "reference": "6506",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2011,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-04-28",
+  "endDateOfPublication": "2026-10-14",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Pavillon de type 5 d'une superficie de 130.80 m² et situé Avenue Felling à ST ETIENNE DU ROUVRAY.\n\nIl comprend au rdc : entrée avec placard, séjour, cuisine ouverte, cellier, chambre avec dressing et salle d'eau, wc séparé, garage intégré, parking extérieur, terrasse, jardin ; au 1er : palier, mezzanine, 3 chambres avec placard, salle de bains avec wc.\n\nLe loyer est de 1189.71 euros dont 48.61 euros de charges.\n\nLe chauffage est individuel au gaz.\n\nPrésence d'un garage, jardin et d'une place de parking.\n\nStations de métro à 5 minutes à pied.\n\nEcoles primaire et maternelle dans un rayon de 600 mètres.\n\nToutes commodités à proximité et Rouen facilement accessible par la N338 ou les transports en commun.\n\nLe logement est soumis à conditions de ressources minimum mensuelles.\n\nTypologie familiale demandée :\n- couple ou personne seule avec 2 ou 3 enfants\n- couple ou personne seule avec 4 enfants dont 2 âgés de moins de 6 ans\n- couple ou personne seule avec 5 enfants dont 4 âgés de moins de 6 ans\n\nLogement disponible le 28 avril.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1141.1,
+  "rentChargeAmount": 48.61,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1141.1,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

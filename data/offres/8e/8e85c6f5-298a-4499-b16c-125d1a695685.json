@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
  "liste": {
   "id": 50068,
   "guid": "8e85c6f5-298a-4499-b16c-125d1a695685",
@@ -94,5 +94,150 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50068,
+  "guid": "8e85c6f5-298a-4499-b16c-125d1a695685",
+  "reference": "50068",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fa/fa0e2801-c69a-428b-be99-5d2248f1059a/large/fe4bf60b-ce6c-4147-aefd-d9930875f98d",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fa/fa0e2801-c69a-428b-be99-5d2248f1059a/large/803aa639-d7ea-41e4-b1e8-7dbc6fdca638",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 46055,
+   "guid": "fa0e2801-c69a-428b-be99-5d2248f1059a",
+   "reference": "46055",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 51.74,
+   "municipality": {
+    "id": 27567,
+    "postcode": "69200",
+    "code": "69259",
+    "name": "Vénissieux"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 6768,
+   "guid": "18c30561-e4ab-44c7-87dc-520348519931",
+   "reference": "6768",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-06",
+  "endDateOfPublication": "2026-10-09",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "RESIDENCE NEUVE – LES TERRASSES DE SAINT GERMAIN située rue Paul Bert à Vénissieux.\nLa résidence est située en plein centre historique de Vénissieux, quartier village, où tout est accessible à pied.\nLes infrastructures : les commerces de proximité et supermarchés sont à accessible à 10min à pied de la résidence. Les écoles maternelles, primaires sont accessibles à 5min. Collège et Lycée en 15min en transport en commun.\nLes transports en commun : Métro D et tramway T4 est à quelques minutes à pied de la résidence, lignes de bus C12, 35, 39, 54.\n\nLe logement :  situé au rez-de-chaussée. \nIl comprend une cuisine ouverte sur un séjour prolongé d’une terrasse de 8.69M2 et d’un jardin privatif de 17.46M2, une chambre, une salle d’eau avec des toilettes. \nLe plan est non contractuel.\nChauffage : collectif urbain.\nLe loyer comprend les charges générales d’immeuble ainsi que la production d’eau froide.\nLe logement est disponible à compter du 21 mai 2026 (sous réserve d’un éventuel report de livraison).\nSans frais d’agence.\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\nPour votre sécurité nous vous rappelons qu’il est formellement interdit de rentrer sur les chantiers.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 639.99,
+  "rentChargeAmount": 111.36,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 654.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }
