@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 12336,
   "guid": "2fd95658-b148-4612-8863-460605c82632",
@@ -89,5 +89,208 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 12336,
+  "guid": "2fd95658-b148-4612-8863-460605c82632",
+  "reference": "12336",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/64/64305cbd-94d8-4e12-b305-8d0c347590ea/large/71f54a66-58c7-4c70-91fe-79b4268a94f8",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/64/64305cbd-94d8-4e12-b305-8d0c347590ea/large/4e55c0c5-44fe-4fca-bdb9-5294c043a2cf",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/64/64305cbd-94d8-4e12-b305-8d0c347590ea/large/bc0a67d0-525b-4d7e-848e-1fb55810fe1a",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/64/64305cbd-94d8-4e12-b305-8d0c347590ea/large/39cefd86-e827-4979-9054-f4205fbef4ed",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/64/64305cbd-94d8-4e12-b305-8d0c347590ea/large/6d3239e6-a16b-4f5f-bf29-e74965b58429",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/64/64305cbd-94d8-4e12-b305-8d0c347590ea/large/661237f8-fa07-4f65-a888-62fe63fba4cc",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/64/64305cbd-94d8-4e12-b305-8d0c347590ea/large/887155e6-9b93-4a27-b8ea-c0d11bff97b8",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/64/64305cbd-94d8-4e12-b305-8d0c347590ea/large/38bc6d71-e993-4db5-9a65-a081275965d4",
+    "urlContentType": "image/png",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 25652,
+   "guid": "64305cbd-94d8-4e12-b305-8d0c347590ea",
+   "reference": "25652",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 25.0,
+   "municipality": {
+    "id": 20112,
+    "postcode": "54230",
+    "code": "54397",
+    "name": "Neuves-Maisons"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 3824,
+   "guid": "1e954efe-6044-46bd-ab04-aaf61f528155",
+   "reference": "3824",
+   "livingRules": "Pour le bien être de chacun la résidence demande le respect des règles suivantes : \nPas d’animaux, \nInterdiction des visites entre 20h et 8h,\nPas de consommation d’alcool dans les espaces communs.",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 19,
+     "ordering": 20,
+     "code": "SOC",
+     "label": "Référent social",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-05-27",
+  "endDateOfPublication": "2026-11-25",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "NEUVES-MAISONS, rue Aristide Briand, découvrez cette résidence de taille humaine de 130 logements meublés. \nVous bénéficierez d'un accompagnement social, d'un service de blanchisserie et pour les moments de détente  et de convivialité d'une cafétéria et d'une salle de jeux avec babyfoot, jeux de société, consoles et espace lecture en accès libre. \n\nNous vous proposons ce studio (PMR) pour personne à mobilité réduite d'une surface de 25 m² comprenant un espace nuit avec un lit une place, une table de chevet, une armoire et un coin cuisine avec une table, une chaise, un frigo de bar et des plaques de cuisson encastrées (vaisselle non fourni). \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 527.29,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 3337,
   "guid": "23cc4bf3-f9aa-4741-9354-60b761c2d47a",
@@ -89,5 +89,232 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 3337,
+  "guid": "23cc4bf3-f9aa-4741-9354-60b761c2d47a",
+  "reference": "3337",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d5/d5ad846f-4da3-474a-ac14-c19c0fe9c882/large/0eab809f-5249-4eae-ba09-3f0e82702d05",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d5/d5ad846f-4da3-474a-ac14-c19c0fe9c882/large/8cfb595d-177e-4fe0-851f-a6ae0be386a8",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d5/d5ad846f-4da3-474a-ac14-c19c0fe9c882/large/61bb7f0d-bbad-4263-8f9c-96341c106729",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d5/d5ad846f-4da3-474a-ac14-c19c0fe9c882/large/ac4be155-6c32-490e-a402-8a798d46572f",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d5/d5ad846f-4da3-474a-ac14-c19c0fe9c882/large/56e74842-2bb0-47e9-86f2-6ba0fc3af455",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d5/d5ad846f-4da3-474a-ac14-c19c0fe9c882/large/4512b702-c005-48c0-ae41-0ea57d26dbad",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d5/d5ad846f-4da3-474a-ac14-c19c0fe9c882/large/3e65aa10-daee-4283-909c-5adeec64c6af",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 17720,
+   "guid": "d5ad846f-4da3-474a-ac14-c19c0fe9c882",
+   "reference": "17720",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 31.0,
+   "municipality": {
+    "id": 33169,
+    "postcode": "85180",
+    "code": "85194",
+    "name": "Les Sables-d'Olonne"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "COR",
+    "label": "Collectif radiateur",
+    "commercialLabel": "Chauffage collectif radiateur compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 2082,
+   "guid": "5ba105f2-bf6d-4db0-b6df-3bd5634c318e",
+   "reference": "2082",
+   "livingRules": "Oui/ pas d'animaux",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "SPO",
+     "label": "Salle de sport",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 12,
+     "ordering": 13,
+     "code": "INF",
+     "label": "Salle informatique",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "PHYSICAL",
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2024-10-01",
+  "endDateOfPublication": "2026-12-23",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence est située dans la zone des plesses, au Château d’Olonne.\n \n27 T1 meublés pour les 16 – 29 ans ! (priorité aux 16-25 ans)\n \nLes T1 de 31 m² sont équipés d’une kitchenette, d’une salle d’eau et d’un mobilier sur mesure très fonctionnel !\nCes logements sont idéals pour les jeunes en mobilité professionnelle, en apprentissage, en études / formation ou en emploi.\n\nLa durée minimale d’un séjour est d’un mois, et maximale 2 ans.\n \nLe loyer pour un studio meublé est de 515 € et la prestation obligatoire mensuelle est de 15€ (accès à la laverie, WIFI, service de vidéo surveillance, accès espace multimédia informatique). Une cotisation de 2€ pour le fond d’aide au projet est à régler chaque mois. Ce fond d’aide peut être sollicitée pour financer un projet professionnel, l’achat de matériel professionnel, la mobilité…\n\nLogements éligibles à l’APL dès le premier mois entier de loyer. Le préavis est de 8 jours.\n \nLes charges d’eau, d’électricité et de chauffage sont inclues dans le loyer.\n\nCes logements sont pour personnes seules.\n \nUn accompagnement social et des animations vous sont proposées sur place.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 515.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": 17.0,
+  "securityDepositAmount": 510.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

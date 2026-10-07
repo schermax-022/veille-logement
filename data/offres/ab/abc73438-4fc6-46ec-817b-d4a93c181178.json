@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 51033,
   "guid": "abc73438-4fc6-46ec-817b-d4a93c181178",
@@ -94,5 +94,161 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 51033,
+  "guid": "abc73438-4fc6-46ec-817b-d4a93c181178",
+  "reference": "51033",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5a870b06-fbe2-4f27-a9de-dea4166f6f2a/large/dcade516-a63a-4e8d-9ac3-f644be179639",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5a870b06-fbe2-4f27-a9de-dea4166f6f2a/large/8c92d192-5f68-424f-beaa-99b3e5365442",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 48681,
+   "guid": "5a870b06-fbe2-4f27-a9de-dea4166f6f2a",
+   "reference": "48681",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 42.0,
+   "municipality": {
+    "id": 1969,
+    "postcode": "06250",
+    "code": "06085",
+    "name": "Mougins"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 7055,
+   "guid": "8ca1bead-7423-449e-a463-fcc45a2b5d9a",
+   "reference": "7055",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-07-01",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-06-30",
+  "endDateOfPublication": "2026-11-03",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé chemin du Château à Mougins, ce logement bénéficie d’un environnement agréable, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nMougins offre un cadre de vie apprécié dans l’arrière-pays cannois, entre collines, espaces naturels et paysages méditerranéens. La commune dispose de commerces, de services et d’équipements de proximité, tout en restant proche de Cannes, de Grasse et des principaux pôles d’activités de la Côte d’Azur.\n\nLes transports en commun permettent de rejoindre les différents secteurs de Mougins ainsi que les communes voisines, notamment Cannes, Le Cannet, Valbonne et Grasse, selon les dessertes disponibles.\n\nLa proximité de l’A8 et des principaux axes routiers facilite les déplacements vers Cannes, Antibes, Nice, Grasse et les autres communes du littoral azuréen.\n\nCe logement offre ainsi un cadre de vie agréable, alliant environnement résidentiel, proximité des services et accessibilité au cœur des Alpes-Maritimes",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 694.67,
+  "rentChargeAmount": 152.08,
+  "rentParkingAmount": 48.59,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 694.67,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 137.12,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

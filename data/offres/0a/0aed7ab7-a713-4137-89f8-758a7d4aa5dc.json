@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 41216,
   "guid": "0aed7ab7-a713-4137-89f8-758a7d4aa5dc",
@@ -94,5 +94,167 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 41216,
+  "guid": "0aed7ab7-a713-4137-89f8-758a7d4aa5dc",
+  "reference": "41216",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5c/5c48b4a8-5018-4c71-9946-917d358b0aa3/large/288b03e8-203c-417d-b0a0-97b044019418",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5c/5c48b4a8-5018-4c71-9946-917d358b0aa3/large/88dc23b8-e67d-43b4-bb47-aa30050b3078",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5c/5c48b4a8-5018-4c71-9946-917d358b0aa3/large/29ef2c24-bf9d-4787-863c-617c698d5c3a",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 50579,
+   "guid": "5c48b4a8-5018-4c71-9946-917d358b0aa3",
+   "reference": "50579",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 111.72,
+   "municipality": {
+    "id": 4428,
+    "postcode": "13250",
+    "code": "13092",
+    "name": "Saint-Chamas"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": {
+    "id": 2,
+    "ordering": 2,
+    "code": "T",
+    "label": "Triplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    },
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7277,
+   "guid": "ca256ab0-c359-4edf-82ef-621b38fdd373",
+   "reference": "7277",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-15",
+  "endDateOfPublication": "2026-10-16",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Situé dans un environnement privilégié entre nature, patrimoine et proximité des grands pôles d’activité de l’ouest provençal.\nConçue pour offrir confort et modernité, la résidence bénéficie de prestations de qualité et d’un cadre de vie agréable à quelques minutes des commerces, établissements scolaires, services de santé et équipements sportifs. Le centre-ville de Saint-Chamas et les rives de l’Étang de Berre sont facilement accessibles, offrant un environnement propice à la détente et aux loisirs.\nL’emplacement permet de rejoindre rapidement les communes de Miramas, Istres, Salon-de-Provence et Martigues grâce aux principaux axes routiers à proximité. Les accès autoroutiers facilitent également les déplacements vers Aix-en-Provence, Marseille et l’ensemble de la région.\nLa commune bénéficie d’une desserte efficace en transports en commun et d’une gare SNCF permettant de rejoindre facilement les principales villes du territoire. Cette accessibilité constitue un véritable atout pour les actifs comme pour les familles.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1418.84,
+  "rentChargeAmount": 134.9,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1418.84,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

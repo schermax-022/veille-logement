@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 46327,
   "guid": "c1ca1c96-3e19-4073-9f14-dcd0a8805aa6",
@@ -94,5 +94,181 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 46327,
+  "guid": "c1ca1c96-3e19-4073-9f14-dcd0a8805aa6",
+  "reference": "46327",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a5/a515f4bd-6c6d-4105-bfb9-9e217f38646c/large/f815b516-56eb-4afd-98b6-f2fce96d1610",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a5/a515f4bd-6c6d-4105-bfb9-9e217f38646c/large/79027751-c52b-4c6c-90bd-b748c97f855b",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 54824,
+   "guid": "a515f4bd-6c6d-4105-bfb9-9e217f38646c",
+   "reference": "54824",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 30.74,
+   "municipality": {
+    "id": 16544,
+    "postcode": "44210",
+    "code": "44131",
+    "name": "Pornic"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7816,
+   "guid": "00a0d28f-63a9-4892-ab18-3a35329b99d8",
+   "reference": "7816",
+   "livingRules": "",
+   "type": {
+    "id": 13,
+    "ordering": 11,
+    "code": "RTS",
+    "label": "Résidence travailleurs saisonniers",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2027-01-18",
+   "constructionYear": 2027,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-18",
+  "endDateOfPublication": "2026-11-07",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Située en plein coeur de Pornic, nichée dans un quartier résidentiel en bord du canal de Haute Perche et offrant un cadre de vie exceptionnel. Son emplacement idéal vous permet de tout faire à pied : parc, plages, écoles, commerces et toutes les commodités sont à portée de main. Gare TER à 2 minutes à pied.\n\nAppartement T1 Neuf avec un balcon de 6.37 m², meublé et équipé d'un frigo, d'une plaque de cuisson, d'un meuble de salle de bains avec miroir et paroi de douche.\n Disponible le 18 Janvier 2027 (Sous réserve du délai de livraison)\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 462.28,
+  "rentChargeAmount": 89.87,
+  "rentParkingAmount": 13.42,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 452.28,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": null,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

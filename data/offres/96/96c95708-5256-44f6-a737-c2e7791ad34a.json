@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 44889,
   "guid": "96c95708-5256-44f6-a737-c2e7791ad34a",
@@ -94,5 +94,191 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 44889,
+  "guid": "96c95708-5256-44f6-a737-c2e7791ad34a",
+  "reference": "44889",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b4b3e18a-4547-43a2-ad58-34fcdeeef7a4/large/9ae9e196-b599-4320-89bd-dccceec31a7c",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b4b3e18a-4547-43a2-ad58-34fcdeeef7a4/large/d81cf415-20b9-43b3-83e0-531e5dd83f41",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b4b3e18a-4547-43a2-ad58-34fcdeeef7a4/large/cad90803-0682-4d29-9081-d45432213e9c",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b4b3e18a-4547-43a2-ad58-34fcdeeef7a4/large/fba95b9a-00c2-4882-8c12-04a7560c708a",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b4b3e18a-4547-43a2-ad58-34fcdeeef7a4/large/649a19f5-3b46-47f5-ae9c-86a539078033",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b4b3e18a-4547-43a2-ad58-34fcdeeef7a4/large/0264be8b-f139-44a1-8539-8704f6e0c0cd",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b4/b4b3e18a-4547-43a2-ad58-34fcdeeef7a4/large/5313009d-65b1-4ac5-8819-df8dd96a1ee6",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 53659,
+   "guid": "b4b3e18a-4547-43a2-ad58-34fcdeeef7a4",
+   "reference": "53659",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 69.77,
+   "municipality": {
+    "id": 35004,
+    "postcode": "93150",
+    "code": "93007",
+    "name": "Le Blanc-Mesnil"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3610,
+   "guid": "2f641e5c-faf8-41d7-8f11-79b9f0221d33",
+   "reference": "3610",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-07-23",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 3 pièces de 69,77 m² au Blanc-Mesnil  Sans frais d'agence.  Ce bien bénéficie d'un séjour, d'une cuisine indépendante, de deux chambres, d'une salle de bains et d'un WC séparé (photographies non contractuelles).  La présence d'un gardien et d'un ascenseur sécurisent l'accès à l'immeuble. L'appartement se situe au 1er étage.  Chauffage collectif. Place de parking disponible.  Transports en commun : lignes B, D et E du RER accessibles via plusieurs stations proches dont Blanc-Mesnil et Drancy. Commerces à proximité. Établissements scolaires divers à proximité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 949.56,
+  "rentChargeAmount": 370.83,
+  "rentParkingAmount": 62.69,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1009.56,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

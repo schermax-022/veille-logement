@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 48018,
   "guid": "2dc5ec4f-a003-4091-bb8a-496af5d4ec66",
@@ -94,5 +94,253 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 48018,
+  "guid": "2dc5ec4f-a003-4091-bb8a-496af5d4ec66",
+  "reference": "48018",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/246816a9-1736-4f87-81f8-5850af9bc4cd/large/6e565fd1-13a1-4b72-87ad-4fb4ed548b5f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/246816a9-1736-4f87-81f8-5850af9bc4cd/large/f8911198-9db2-4d3b-a513-b866693544dd",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/246816a9-1736-4f87-81f8-5850af9bc4cd/large/6a4ef288-6e33-4ba8-90fa-b4ccd37a3ba1",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/246816a9-1736-4f87-81f8-5850af9bc4cd/large/148a3e7d-d9b8-489c-9ad8-9ae4a215bdfb",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/246816a9-1736-4f87-81f8-5850af9bc4cd/large/9e2e3412-dc53-48f1-bfbe-af28116dbf4d",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/246816a9-1736-4f87-81f8-5850af9bc4cd/large/8ea1c9e6-4205-4d31-a1e8-445927a0ad4f",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/246816a9-1736-4f87-81f8-5850af9bc4cd/large/f630af16-a662-44a4-a23e-cd082c4a378e",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/246816a9-1736-4f87-81f8-5850af9bc4cd/large/e6bc390b-561e-417c-b948-e3790d98487e",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/246816a9-1736-4f87-81f8-5850af9bc4cd/large/4f90bfbc-d9e5-4f96-9fee-3f200f6ba5c3",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/246816a9-1736-4f87-81f8-5850af9bc4cd/large/8f41824c-bddd-41cc-bf95-660ada43c173",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56158,
+   "guid": "246816a9-1736-4f87-81f8-5850af9bc4cd",
+   "reference": "56158",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 12529,
+    "postcode": "33800",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1407,
+   "guid": "c3883baf-253e-4265-9cbc-b2eec1664dc6",
+   "reference": "1407",
+   "livingRules": "Un règlement intérieur permet d'assurer les meilleures conditions de vie personnelle et collective et de garantir le bon fonctionnement de la résidence.\n\nUn accueil et un accompagnement personnalisés sont assurés sur site.\n\nLes animaux ne sont pas admis.",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "SPO",
+     "label": "Salle de sport",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 12,
+     "ordering": 13,
+     "code": "INF",
+     "label": "Salle informatique",
+     "isIncluded": true
+    },
+    {
+     "id": 19,
+     "ordering": 20,
+     "code": "SOC",
+     "label": "Référent social",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": "2019-01-01"
+  },
+  "availableAt": "2026-09-01",
+  "endDateOfPublication": "2026-10-09",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence LES ACACIAS - Bordeaux (33800).\n\nBoulevard Albert 01er à Bordeaux.\n\nLa résidence associe confort et modernité, en proposant à ses résidents une large gamme de services, dans un édifice accueillant et idéalement implanté.\n\nLe terminus de la ligne C du tramway qui permet de rejoindre la gare St Jean en 10 minutes à pied est située à 800 mètres du site. \n\nVous trouverez également à moins de 10 minutes à pied, La Poste, les commerces, les restaurants, le cinéma et la bibliothèque.\n\nLa résidence présente de nombreux espaces communs comprenant notamment un espace internet, un espace détente, une salle de sport, une salle de jeux, une laverie et un local à vélos ainsi que de beaux espaces verts.\n\nLa redevance mensuelle inclut le loyer, les charges et les services de la résidence.\n\nCe  logement de type 1 de 22 m² est meublé et équipé confortablement (meuble kitchenette avec évier, le lit gigogne 1 place qui se compose classiquement d'un cadre de lit avec espace literie et d'un tiroir positionné sous celui-ci qui permet l'accueil d' un deuxième couchage avec matelas et sommier, bureau, chaise...) avec salle de bain privative.\n\nPAS DE FRAIS D'AGENCE - PAS DE FRAIS DE DOSSIER.\n\n Logement ouvrant le droit aux APL.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 530.27,
+  "rentChargeAmount": 38.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 2357,
   "guid": "eeef7bad-96eb-44a6-979a-218d23e03dd2",
@@ -89,5 +89,231 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 2357,
+  "guid": "eeef7bad-96eb-44a6-979a-218d23e03dd2",
+  "reference": "2357",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5ae6f53e-bcdb-4ba9-ad22-7de259e76ca9/large/ca815022-3197-4f51-a344-181d0487bd44",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5ae6f53e-bcdb-4ba9-ad22-7de259e76ca9/large/44d5f109-edfc-4d83-aa6e-0d67d84a802d",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5ae6f53e-bcdb-4ba9-ad22-7de259e76ca9/large/01d1a27b-b6ef-4525-ba4f-2335382ce288",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5ae6f53e-bcdb-4ba9-ad22-7de259e76ca9/large/e6902142-1d8c-499e-b6ff-dfaf1bacffea",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5ae6f53e-bcdb-4ba9-ad22-7de259e76ca9/large/3260518d-a5f2-4177-ad01-c5f9432047d9",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5ae6f53e-bcdb-4ba9-ad22-7de259e76ca9/large/2ddb51c0-c867-4064-99ae-d50fef435f59",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5ae6f53e-bcdb-4ba9-ad22-7de259e76ca9/large/92db5e24-e65b-4d7d-b471-e5758577753c",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5ae6f53e-bcdb-4ba9-ad22-7de259e76ca9/large/e7bce838-8ca0-4e13-b571-fb6e64103ece",
+    "urlContentType": "image/png",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5ae6f53e-bcdb-4ba9-ad22-7de259e76ca9/large/790349a2-068f-4558-b159-5ed39ab29027",
+    "urlContentType": "image/png",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/5a/5ae6f53e-bcdb-4ba9-ad22-7de259e76ca9/large/d5a59afb-4df0-44eb-9afe-242481efd551",
+    "urlContentType": "image/png",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 17004,
+   "guid": "5ae6f53e-bcdb-4ba9-ad22-7de259e76ca9",
+   "reference": "17004",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 60.0,
+   "municipality": {
+    "id": 20109,
+    "postcode": "54000",
+    "code": "54395",
+    "name": "Nancy"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "NON",
+     "label": "Pas de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 2015,
+   "guid": "95b67f77-616c-4e90-b878-9487838b73c8",
+   "reference": "2015",
+   "livingRules": "Horaires et fréquence des visites extérieures encadrées.\nPossibilité d'hébergement d'un tiers sous réserve de signalement et d'autorisation du gestionnaire.\nAnimaux interdits.\nFacilités de paiement : loyer dû à terme échu au plus tard le 10 du mois suivant.",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    },
+    {
+     "id": 19,
+     "ordering": 20,
+     "code": "SOC",
+     "label": "Référent social",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2024-08-06",
+  "endDateOfPublication": "2027-09-06",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence Les Maraîchers propose 30 appartements du T1 bis au T3, répartis dans deux immeubles entièrement rénovés au coeur d'un quartier dynamique. De nombreux services et équipements sont à votre disposition dans les parties communes et une ligne de bus située à proximité vous permettra de rejoindre rapidement et directement le centre-ville de NANCY.\nCertains logements sont accessibles PMR en RDC.\nSi vous le souhaitez, un kit de literie payant vous sera proposé à l'entrée dans les lieux.\n\nT3 de 60 m² entièrement meublé et équipé + placard, avec kitchenette comprenant plaques et réfrigérateur.\nEn cas d'occupation par un couple, prévoir un supplément de loyer de 29 € par mois.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 489.4,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 400.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 41948,
   "guid": "92c98659-57fc-4e96-955a-4fb364245e52",
@@ -94,5 +94,233 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 41948,
+  "guid": "92c98659-57fc-4e96-955a-4fb364245e52",
+  "reference": "41948",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab4c7d2-6d97-403f-8783-e627bd4e7dd9/large/5947b4fc-a8b1-4aae-ac44-b02c2b33146e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab4c7d2-6d97-403f-8783-e627bd4e7dd9/large/075597d8-0539-4b16-8fa8-dc2eae68db20",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab4c7d2-6d97-403f-8783-e627bd4e7dd9/large/9b5f92c4-8c4d-419f-9cf3-f89992adc74a",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab4c7d2-6d97-403f-8783-e627bd4e7dd9/large/4206cd69-72aa-4efe-9a6a-2afb18cdbfef",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab4c7d2-6d97-403f-8783-e627bd4e7dd9/large/f6c2af95-e235-41b3-8d91-58019cee1190",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab4c7d2-6d97-403f-8783-e627bd4e7dd9/large/48223af7-d351-4c53-a86c-b45d18d32625",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab4c7d2-6d97-403f-8783-e627bd4e7dd9/large/f9156c3f-3369-415b-86dd-c743da764122",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab4c7d2-6d97-403f-8783-e627bd4e7dd9/large/f40607a1-f7f4-438a-bd00-64149689748f",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab4c7d2-6d97-403f-8783-e627bd4e7dd9/large/05a57523-4913-495e-b51c-de65e0599acd",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab4c7d2-6d97-403f-8783-e627bd4e7dd9/large/0a498db8-db84-4b90-a989-335d3b4166cb",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab4c7d2-6d97-403f-8783-e627bd4e7dd9/large/c4c29682-976f-411f-8f8a-ae1e79cf785d",
+    "urlContentType": "image/png",
+    "ordering": 10,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 51308,
+   "guid": "9ab4c7d2-6d97-403f-8783-e627bd4e7dd9",
+   "reference": "51308",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 25.0,
+   "municipality": {
+    "id": 26892,
+    "postcode": "67000",
+    "code": "67482",
+    "name": "Strasbourg"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7350,
+   "guid": "75440aa5-67e3-42b8-8629-18015f9f2e88",
+   "reference": "7350",
+   "livingRules": "",
+   "type": {
+    "id": 4,
+    "ordering": 13,
+    "code": "AUT",
+    "label": "Autres résidences",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 3,
+     "ordering": 4,
+     "code": "LIG",
+     "label": "Service de lingerie (location de draps et serviettes)",
+     "isIncluded": false
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": "2006-06-01"
+  },
+  "availableAt": "2026-06-17",
+  "endDateOfPublication": "2027-08-17",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "LOCALISATION EXCEPTIONNELLE EN CENTRE-VILLE\nLa Résidence Charles de Foucauld est située à deux pas de la Place Broglie et bénéficie d'une localisation exceptionnelle dans le centre historique de Strasbourg, à proximité immédiate des commodités (services, commerces, transports...). Elle est composée d'un bâtiment de deux étages accessible par coursive et d'un bâtiment de cinq étages desservis pas ascenseur. Elle propose des appartements meublés du studio au T2, accessibles aux personnes seules ou aux couples sans enfants. Les loyers comprennent l'ensemble des charges communes et privatives des logements sans dépense complémentaire : électricité, chauffage collectif gaz, eau chaude et froide, ordures ménagères, accès internet (fibre). Un local 2 roues sécurisé est mis gratuitement à disposition. Une laverie est accessible aux résidents (linge 5€/sèche-linge3€), avec possibilité de location de linge de lit et de toilette (25€). Possibilité d'y résider pour quelques mois ou pour une plus longue durée avec des baux d'1 an renouvelables. \n\nLogement meublé composé  : \nD'une kitchenette équipée de deux plaques de cuisson vitrocéramique, un réfrigérateur, un micro-ondes, une cafetière. Il est également mis à disposition une batterie de cuisine, de la vaisselle, des couverts et des ustensiles ainsi que d’une table et deux chaises\nD'une salle de bain équipée d’une douche, lavabo, WC, miroir avec tablette et radiateur sèche serviette\nD'un espace nuit avec lit, table de chevet, armoire avec penderie, \nD'un bureau, un fauteuil de bureau et une étagère.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 800.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 800.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 60.0,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

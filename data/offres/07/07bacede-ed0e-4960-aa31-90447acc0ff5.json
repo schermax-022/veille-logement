@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 44313,
   "guid": "07bacede-ed0e-4960-aa31-90447acc0ff5",
@@ -94,5 +94,155 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 44313,
+  "guid": "07bacede-ed0e-4960-aa31-90447acc0ff5",
+  "reference": "44313",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/22/225e6732-c7cb-44cb-8299-656a152f1d6e/large/93394802-7ec9-4768-be12-2a747e5eefe5",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 53193,
+   "guid": "225e6732-c7cb-44cb-8299-656a152f1d6e",
+   "reference": "53193",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 62.0,
+   "municipality": {
+    "id": 35618,
+    "postcode": "93380",
+    "code": "93066",
+    "name": "Saint-Denis"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 12,
+    "ordering": 12,
+    "code": "9",
+    "label": "9"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3886,
+   "guid": "a2450ad9-cf0c-4bdd-b618-427bab7330bb",
+   "reference": "3886",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2027-07-16",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "EXCLUSIVITÉ À quelques minutes de la station de RER Pierrefitte-Stains (ligne D), en location à PIERREFITTE SUR SEINE (93380), venez visiter cet appartement de 3 pièces plein sud de 62 m². Il est situé au 9e étage d'un immeuble des années 70 de 10 étages avec ascenseur. Le bâtiment a un gardien. Il comporte une pièce à vivre, deux chambres, une cuisine ouverte, une salle de bains et des toilettes. L'appartement est équipé d'un chauffage individuel électrique. Il est loué avec une place de parking. Des écoles du primaire et du secondaire sont implantées à moins de 10 minutes à pied, tout comme une structure d'accueil pour les enfants en bas âge. Niveau transports, on trouve la station de RER Pierrefitte-Stains (ligne D), la gare Pierrefitte-Stains ainsi que deux lignes de tramway (T11 et T5) juste à côté, positionnant Paris à 10 min de cet appartement en rer. Il y a un bassin de natation, un tennis, des commerces, trois supermarchés, des boulangeries, des épiceries et des boucheries-charcuteries dans les environs.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 842.58,
+  "rentChargeAmount": 180.11,
+  "rentParkingAmount": 60.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 902.58,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

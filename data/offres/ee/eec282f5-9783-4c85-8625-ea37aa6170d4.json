@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 26731,
   "guid": "eec282f5-9783-4c85-8625-ea37aa6170d4",
@@ -94,5 +94,192 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 26731,
+  "guid": "eec282f5-9783-4c85-8625-ea37aa6170d4",
+  "reference": "26731",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ca/ca732247-df44-4aa6-b13b-5197ab3b92e1/large/cac22f67-0f92-42ea-8b5e-7630ceebfba9",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ca/ca732247-df44-4aa6-b13b-5197ab3b92e1/large/3b3eeca1-4cee-4786-bd61-2e34e217e0c8",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ca/ca732247-df44-4aa6-b13b-5197ab3b92e1/large/4370c1e5-08bf-49c5-8539-abfea81c940d",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 38316,
+   "guid": "ca732247-df44-4aa6-b13b-5197ab3b92e1",
+   "reference": "38316",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 84.7,
+   "municipality": {
+    "id": 29440,
+    "postcode": "74380",
+    "code": "74094",
+    "name": "Cranves-Sales"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 5823,
+   "guid": "e42994b6-7082-4dbf-80db-6853900d97fb",
+   "reference": "5823",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-02-02",
+  "endDateOfPublication": "2026-10-27",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Bienvenue dans une nouvelle résidence neuve et sécurisée » INSPIRE » située 320 route de la Bergue à Cranves-Sales.\n\nVous êtes à proximité du centre-ville et de ses rues animées.\n\nIci, tout est accessible à pied ou à vélo : commerces, écoles, transports en commun, équipements de loisirs et espaces verts, offrant un quotidien pratique et agréable. \n\nAppartement de Type 4 de 84.7m2 au 2ème étage d'un immeuble sécurisé sans ascenseur situé au 320 Route de la Bergue, 74380 Cranves-Sales.\n\nCe logement est composé d’une cuisine ouverte sur le séjour prolongé d’un balcon, de trois chambres, d'une salle de bains avec WC séparés.\n\nLe chauffage et l’eau chaude sont assurés par un chauffage collectif mixte (pompe à chaleur + chaudière au gaz).\n\nVous disposez également d’une cave et un espace de tri des ordures ménagères est installé devant la résidence.\n\nDes places de stationnement sont proposées à la location au tarif de 45.31 € CC/mois pour les emplacements intérieurs et 21.14 € CC/mois pour les emplacements extérieurs.\n\nDisponibilité : Février 2026\n\nIMPORTANT : il s’agit d’un programme neuf et la date de livraison est prévisionnelle. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1185.27,
+  "rentChargeAmount": 144.05,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1185.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }

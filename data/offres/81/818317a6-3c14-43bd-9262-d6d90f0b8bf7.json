@@ -10,8 +10,8 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": null,
- "fiche_recuperee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
  "liste": {
   "id": 50547,
   "guid": "818317a6-3c14-43bd-9262-d6d90f0b8bf7",
@@ -94,5 +94,172 @@
   "demandUniqueNumberCorrespondenceCode": null,
   "offerCategory": null
  },
- "fiche": null
+ "fiche": {
+  "id": 50547,
+  "guid": "818317a6-3c14-43bd-9262-d6d90f0b8bf7",
+  "reference": "50547",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/87/87621567-829b-497d-90d5-aeeb29d84bd9/large/c8cc0b5c-45d5-4bca-8084-abf0d5d62d34",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/87/87621567-829b-497d-90d5-aeeb29d84bd9/large/3a8e9630-62a0-44be-bb78-dd64b13ee765",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/87/87621567-829b-497d-90d5-aeeb29d84bd9/large/3e058a87-3fb6-4bfb-b7ab-c30cd1551a21",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/87/87621567-829b-497d-90d5-aeeb29d84bd9/large/e03ad3da-82b0-40b8-926f-7ecfe86269d7",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/87/87621567-829b-497d-90d5-aeeb29d84bd9/large/e7b03efb-2d5d-4bab-a72a-6f9342ede213",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/87/87621567-829b-497d-90d5-aeeb29d84bd9/large/f1293ad6-ce04-4ebc-8fdc-1613acfe3bfd",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58224,
+   "guid": "87621567-829b-497d-90d5-aeeb29d84bd9",
+   "reference": "58224",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 93.0,
+   "municipality": {
+    "id": 27610,
+    "postcode": "69004",
+    "code": "69384",
+    "name": "Lyon 4e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 8250,
+   "guid": "81c10802-1204-43ad-8800-ff9c3f81d5c0",
+   "reference": "8250",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-13",
+  "endDateOfPublication": "2026-10-10",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence située ru Hénon LYON 4 -ème\nLa résidence bénéficie d’un emplacement privilégié.\nInfrastructures à proximité : commerces, supermarchés et des établissements scolaires.\nTransports en commun : Métro C (arrêt Hénon) et Bus C18, 33 et102.\n \nLe logement situé au 4èm étage avec ascenseur. \nIl comprend une cuisine, un séjour donnant sur un balcon, trois chambres, une salle de bains et des toilettes séparées.\nChauffage : individuel.\nCharges incluses : charges générales d’immeuble.\n\nDisponibilité : logement disponible à partir 13/10/2026 sous réserve de travaux.\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1000.82,
+  "rentChargeAmount": 91.93,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1000.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
 }
