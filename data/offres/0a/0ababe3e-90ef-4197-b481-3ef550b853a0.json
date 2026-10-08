@@ -1,0 +1,299 @@
+{
+ "guid": "0ababe3e-90ef-4197-b481-3ef550b853a0",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-08T16:20:31+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-08T16:20:31+02:00",
+ "liste": {
+  "id": 51568,
+  "guid": "0ababe3e-90ef-4197-b481-3ef550b853a0",
+  "reference": "51568",
+  "residency": {
+   "id": 1942,
+   "guid": "2bad081d-16c8-40fd-a1ce-dfc6deb25152",
+   "reference": "1942",
+   "name": "RESIDENCE PANNEVERT",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59042,
+   "guid": "9275af5c-4021-4b63-bff7-236c32ce2ee5",
+   "reference": "59042",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 30170,
+    "postcode": "76000",
+    "code": "76540",
+    "name": "Rouen"
+   },
+   "description": "Studio lumineux situé au coeur de ROUEN et offrant habitat meublé, confort et qualité de vie."
+  },
+  "availableAt": "2026-10-03",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 481.99,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-08",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/92/9275af5c-4021-4b63-bff7-236c32ce2ee5/medium/a7b67ced-b4fd-4401-87a5-303e10c32f02",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence PANNEVERT, située 95 Route de Darnetal à ROUEN est destinée aux jeunes actifs de moins de 30 ans et offre une location à la carte pour 24 mois maximum.\nLa formule est tout inclus. \nIdéalement située proche des commerces et des transports en commun\n\nStudio lumineux situé au coeur de ROUEN et offrant habitat meublé, confort et qualité de vie.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51568,
+  "guid": "0ababe3e-90ef-4197-b481-3ef550b853a0",
+  "reference": "51568",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/92/9275af5c-4021-4b63-bff7-236c32ce2ee5/large/fc7e13cf-a82e-4982-87e7-8ad822a567a8",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/92/9275af5c-4021-4b63-bff7-236c32ce2ee5/large/82ec4faf-3471-4ef9-b08e-0d5c58b814e0",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/92/9275af5c-4021-4b63-bff7-236c32ce2ee5/large/21b6ca4a-acc8-492e-94b3-17f8d1c904eb",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/92/9275af5c-4021-4b63-bff7-236c32ce2ee5/large/d9ceb169-8a71-4718-b9f0-e4df004535c4",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59042,
+   "guid": "9275af5c-4021-4b63-bff7-236c32ce2ee5",
+   "reference": "59042",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 30170,
+    "postcode": "76000",
+    "code": "76540",
+    "name": "Rouen"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1942,
+   "guid": "2bad081d-16c8-40fd-a1ce-dfc6deb25152",
+   "reference": "1942",
+   "livingRules": "Logements de type T1 avec kitchenette équipée d’une plaque de cuisson, d’un frigo et d’un micro-ondes\nSalle d’eau et WC individuel\nLiterie avec oreiller et couette, table bureau avec chaise, vaisselle\n",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    },
+    {
+     "id": 19,
+     "ordering": 20,
+     "code": "SOC",
+     "label": "Référent social",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-03",
+  "endDateOfPublication": "2026-10-27",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence PANNEVERT, située 95 Route de Darnetal à ROUEN est destinée aux jeunes actifs de moins de 30 ans et offre une location à la carte pour 24 mois maximum.\nLa formule est tout inclus. \nIdéalement située proche des commerces et des transports en commun\n\nStudio lumineux situé au coeur de ROUEN et offrant habitat meublé, confort et qualité de vie.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 458.75,
+  "rentChargeAmount": 23.24,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
