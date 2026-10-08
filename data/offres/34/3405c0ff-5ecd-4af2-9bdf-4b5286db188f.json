@@ -11,7 +11,7 @@
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T18:14:49+02:00",
+ "fiche_recuperee_le": "2026-10-08T10:49:27+02:00",
  "liste": {
   "id": 49693,
   "guid": "3405c0ff-5ecd-4af2-9bdf-4b5286db188f",
@@ -70,7 +70,7 @@
    "code": "MSL",
    "label": "Mensuel"
   },
-  "totalRentAmountBaseBound": 1085.16,
+  "totalRentAmountBaseBound": 1000.16,
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
@@ -192,7 +192,7 @@
      "label": "Jardin"
     }
    ],
-   "isParkingMandatory": true,
+   "isParkingMandatory": false,
    "numberOfRoomsHousing": 2
   },
   "residency": {
@@ -233,9 +233,9 @@
   },
   "housingFeeBaseBound": 884.87,
   "rentChargeAmount": 115.29,
-  "rentParkingAmount": 85.0,
+  "rentParkingAmount": 0.0,
   "compulsoryBenefitAmount": null,
-  "securityDepositAmount": 964.87,
+  "securityDepositAmount": 884.87,
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
