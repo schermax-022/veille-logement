@@ -1,0 +1,196 @@
+# Alerte mail dès que les réservations HolaCamp ouvrent pour une année donnée.
+# Interroge toutes les heures le calendrier public du moteur de réservation (Witbooking),
+# envoie un mail + ouvre un ticket GitHub quand des jours deviennent réservables,
+# puis se désactive tout seul.
+
+name: Alerte réservations HolaCamp
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # toutes les heures, à hh:17 (heure UTC)
+  workflow_dispatch:
+    inputs:
+      test_email:
+        description: "Envoyer un mail de test avec l'état actuel"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+  issues: write    # ticket GitHub d'alerte (notification GitHub en plus du mail)
+  actions: write   # pour désactiver ce workflow une fois l'alerte envoyée
+
+env:
+  PROPERTY: sitgesrelax   # identifiant du camping dans Witbooking (ex. garrofer, palamos...)
+  YEAR: "2027"            # année à surveiller
+
+concurrency:
+  group: holacamp-alerte
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Interroger le calendrier de réservation
+        id: check
+        run: |
+          python3 - <<'PY'
+          import json, os, sys, time, urllib.error, urllib.request
+          from datetime import date
+
+          PROPERTY = os.environ.get("PROPERTY", "sitgesrelax")
+          YEAR = int(os.environ.get("YEAR", "2027"))
+          API = ("https://api-engine.prod.witbooking.com/api-property-ari/hotel/"
+                 f"{PROPERTY}/ari/calendar?startDate={YEAR}-01-01&endDate={YEAR}-12-31")
+
+
+          def fetch_calendar():
+              req = urllib.request.Request(API, headers={
+                  "x-property": PROPERTY,
+                  "Origin": "https://reservations.holacamp.net",
+                  "Referer": "https://reservations.holacamp.net/",
+                  "Accept": "application/json",
+                  "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36",
+              })
+              error = None
+              for attempt in range(3):
+                  try:
+                      with urllib.request.urlopen(req, timeout=30) as resp:
+                          return json.loads(resp.read().decode("utf-8"))
+                  except (urllib.error.URLError, TimeoutError, ValueError) as exc:
+                      error = exc
+                      time.sleep(15 * (attempt + 1))
+              sys.exit(f"Échec de l'appel à l'API Witbooking : {error}")
+
+
+          def parse(data):
+              """Each day is 'prix_stock_fermé_minStay_?_maxStay_?' ('#' = empty)."""
+              key = f"{PROPERTY}_calendar_{YEAR % 100:02d}"
+              months = next((b[key] for b in data if isinstance(b, dict) and key in b), None)
+              if months is None:
+                  sys.exit(f"Format inattendu : la clé {key} est absente de la réponse.")
+              bookable, priced = [], []
+              for month, cells in months.items():
+                  for day, cell in enumerate(cells.split(","), 1):
+                      fields = cell.split("_")
+                      if len(fields) < 3:
+                          sys.exit(f"Format inattendu pour le {day}/{month} : {cell!r}")
+                      price, stock, closed = fields[0], fields[1], fields[2]
+                      d = date(YEAR, int(month), day)
+                      if price != "#":
+                          priced.append(d)
+                      if stock != "#" and float(stock) > 0 and closed == "false":
+                          bookable.append(d)
+              return sorted(bookable), sorted(priced)
+
+
+          def main():
+              bookable, priced = parse(fetch_calendar())
+              is_open = bool(bookable)
+              first = bookable[0].isoformat() if bookable else ""
+              last = bookable[-1].isoformat() if bookable else ""
+              status = (f"OUVERT : {len(bookable)} jours réservables en {YEAR} (du {first} au {last})"
+                        if is_open else
+                        f"Pas encore ouvert : 0 jour réservable en {YEAR} ({len(priced)} jour(s) avec un prix)")
+              print(f"{PROPERTY} {YEAR} -> {status}")
+              if os.environ.get("GITHUB_OUTPUT"):
+                  with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
+                      fh.write(f"open={'true' if is_open else 'false'}\n")
+                      fh.write(f"count={len(bookable)}\nfirst={first}\nlast={last}\n")
+                      fh.write(f"status={status}\n")
+              if os.environ.get("GITHUB_STEP_SUMMARY"):
+                  with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as fh:
+                      fh.write(f"### {PROPERTY} {YEAR}\n\n{status}\n")
+
+
+          main()
+          PY
+
+      - name: Envoyer le mail
+        if: steps.check.outputs.open == 'true' || github.event.inputs.test_email == 'true'
+        env:
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          IS_OPEN: ${{ steps.check.outputs.open }}
+          FIRST: ${{ steps.check.outputs.first }}
+          STATUS: ${{ steps.check.outputs.status }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          python3 - <<'PY'
+          import os, smtplib, ssl, sys
+          from datetime import date, timedelta
+          from email.message import EmailMessage
+
+          env = os.environ.get
+          user, password = env("SMTP_USERNAME"), env("SMTP_PASSWORD")
+          if not (user and password):
+              print("::warning::Secrets SMTP_USERNAME / SMTP_PASSWORD absents : pas de mail envoyé.")
+              sys.exit(0)
+
+          prop, year = env("PROPERTY", "sitgesrelax"), env("YEAR", "2027")
+          is_open = env("IS_OPEN") == "true"
+          first = env("FIRST", "")
+          if first:
+              a = date.fromisoformat(first)
+              b = a + timedelta(days=2)
+              link = ("https://reservations.holacamp.net/fr/hotel/" + prop +
+                      f"?adults=2&ninos=0&datein={a:%d-%m-%Y}&dateout={b:%d-%m-%Y}&origin=web_holacamp")
+          else:
+              link = f"https://reservations.holacamp.net/fr/hotel/{prop}"
+
+          if is_open:
+              subject = f"🏕️ {prop} : les réservations {year} sont ouvertes !"
+          else:
+              subject = f"[Test] Alerte réservations {prop} {year} : le mail fonctionne"
+          body = (f"{env('STATUS', '')}\n\nRéserver : {link}\n\n"
+                  f"Détail de l'exécution : {env('RUN_URL', '')}\n")
+          if is_open:
+              body += "\nLa surveillance s'est arrêtée toute seule après cette alerte.\n"
+
+          msg = EmailMessage()
+          msg["Subject"], msg["From"], msg["To"] = subject, user, env("MAIL_TO") or user
+          msg.set_content(body)
+
+          host = env("SMTP_SERVER") or "smtp.gmail.com"
+          port = int(env("SMTP_PORT") or 465)
+          ctx = ssl.create_default_context()
+          if port == 465:
+              with smtplib.SMTP_SSL(host, port, context=ctx, timeout=30) as smtp:
+                  smtp.login(user, password)
+                  smtp.send_message(msg)
+          else:
+              with smtplib.SMTP(host, port, timeout=30) as smtp:
+                  smtp.starttls(context=ctx)
+                  smtp.login(user, password)
+                  smtp.send_message(msg)
+          print(f"Mail envoyé à {msg['To']} : {subject}")
+          PY
+
+      - name: Ouvrir un ticket GitHub
+        if: always() && steps.check.outputs.open == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          STATUS: ${{ steps.check.outputs.status }}
+        run: |
+          title="Réservations ${YEAR} ouvertes : ${PROPERTY}"
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "\"$title\" in:title" --json number --jq 'length')
+          if [ "$existing" = "0" ]; then
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" \
+              --body "@${GITHUB_REPOSITORY_OWNER} ${STATUS}
+
+          https://reservations.holacamp.net/fr/hotel/${PROPERTY}"
+          fi
+
+      - name: Arrêter la surveillance
+        if: always() && steps.check.outputs.open == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          wf="${GITHUB_WORKFLOW_REF%@*}"
+          gh workflow disable "${wf##*/}" --repo "$GITHUB_REPOSITORY"
+          echo "Surveillance désactivée (réactivable dans l'onglet Actions)."
