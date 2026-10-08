@@ -197,6 +197,7 @@ pour ne plus avoir de plafond.
 | `CDC_ALERT_POSTCODES` | mêmes villes | Codes postaux de la zone CDC Habitat (`75*` = tout Paris) |
 | `CDC_MAX_DETAILS_PER_RUN` | `120` | Logements CDC Habitat complétés (vignette + fiche) par passage |
 | `CDC_ENABLED` | `true` | `false` pour désactiver CDC Habitat |
+| `ALERT_EXCLUDE_PRODUCTS` | `TEMP` | Action Logement : pas d'e-mail pour les logements temporaires (foyers, résidences jeunes actifs, résidences sociales), qui restent dans l'Excel (colonne « Type de location ») ; `aucun` = alertes sur tout |
 | `ALERT_ON_RELISTING` | `true` | E-mail aussi quand une offre retirée revient |
 | `ALERT_ON_FIRST_RUN` | `false` | E-mails dès le premier passage pour les offres déjà en ligne |
 | `SEARCH_BODY` | toute la France | Périmètre enregistré (même format que la recherche du site) |
