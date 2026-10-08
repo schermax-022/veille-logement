@@ -1,0 +1,298 @@
+{
+ "guid": "ffe0c40e-a595-4bd7-96c0-26f5dddb5ab4",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-08T11:48:59+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-08T11:48:59+02:00",
+ "liste": {
+  "id": 51507,
+  "guid": "ffe0c40e-a595-4bd7-96c0-26f5dddb5ab4",
+  "reference": "51507",
+  "residency": {
+   "id": 2352,
+   "guid": "9009f23d-3645-41f8-b23e-3c1d7c45178c",
+   "reference": "2352",
+   "name": "RESIDENCE PETIT PORT",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 35220,
+   "guid": "3cd6bb3a-0a71-4027-9027-78f6e932842b",
+   "reference": "35220",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 15.0,
+   "municipality": {
+    "id": 16522,
+    "postcode": "44300",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "description": "Appartement meublé et équipé disponible le 14 Octobre 2026"
+  },
+  "availableAt": "2026-10-14",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 416.44,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-08",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3c/3cd6bb3a-0a71-4027-9027-78f6e932842b/medium/faee85e5-4137-42a2-a55b-5e368438bbb6",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence sociale propose des logements de 14 m² dédiés à des jeunes actifs. La résidence se situe dans le quartier du Petit Port à Nantes en proximité directe des transports en commun (ligne 2 du tramway) et se caractérise par une architecture moderne et fonctionnelle. Le séjour est temporaire et a pour vocation d'offrir un logement qui permet de sécuriser son parcours professionnel et de préparer son accès au logement de droit commun.\n\nAppartement meublé et équipé disponible le 14 Octobre 2026\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51507,
+  "guid": "ffe0c40e-a595-4bd7-96c0-26f5dddb5ab4",
+  "reference": "51507",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3c/3cd6bb3a-0a71-4027-9027-78f6e932842b/large/f8012eeb-5f0f-4ef3-8a29-81d53959bd85",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3c/3cd6bb3a-0a71-4027-9027-78f6e932842b/large/39fd8d0c-cfaa-43df-9cf9-b73c7996a6d0",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3c/3cd6bb3a-0a71-4027-9027-78f6e932842b/large/142f0783-4d22-4175-b47f-b79989db6d02",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3c/3cd6bb3a-0a71-4027-9027-78f6e932842b/large/f46bfd41-29bd-4517-88ac-964e4249cdbd",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3c/3cd6bb3a-0a71-4027-9027-78f6e932842b/large/85f063b9-ba6c-4eda-8c16-7b839cfbf679",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 35220,
+   "guid": "3cd6bb3a-0a71-4027-9027-78f6e932842b",
+   "reference": "35220",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 15.0,
+   "municipality": {
+    "id": 16522,
+    "postcode": "44300",
+    "code": "44109",
+    "name": "Nantes"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": null,
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 2352,
+   "guid": "9009f23d-3645-41f8-b23e-3c1d7c45178c",
+   "reference": "2352",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "CLI",
+     "label": "Co-living"
+    }
+   ],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-14",
+  "endDateOfPublication": "2026-10-19",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence sociale propose des logements de 14 m² dédiés à des jeunes actifs. La résidence se situe dans le quartier du Petit Port à Nantes en proximité directe des transports en commun (ligne 2 du tramway) et se caractérise par une architecture moderne et fonctionnelle. Le séjour est temporaire et a pour vocation d'offrir un logement qui permet de sécuriser son parcours professionnel et de préparer son accès au logement de droit commun.\n\nAppartement meublé et équipé disponible le 14 Octobre 2026\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 416.44,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 416.44,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

@@ -1,0 +1,248 @@
+{
+ "guid": "c7bf21da-4a60-4a2c-8710-5ee60a9ffadb",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-08T11:48:59+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-08T11:48:59+02:00",
+ "liste": {
+  "id": 47759,
+  "guid": "c7bf21da-4a60-4a2c-8710-5ee60a9ffadb",
+  "reference": "47759",
+  "residency": {
+   "id": 5456,
+   "guid": "4b7f093d-3759-4eb4-bc06-b14682558259",
+   "reference": "5456",
+   "name": "LGT 6",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 55966,
+   "guid": "759e6d0a-89bc-44b8-9a32-acad8113ba2c",
+   "reference": "55966",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 76.0,
+   "municipality": {
+    "id": 35038,
+    "postcode": "93410",
+    "code": "93074",
+    "name": "Vaujours"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-09-14",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1150.96,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 120.55,
+  "startDateOfPublication": "2026-10-08",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/759e6d0a-89bc-44b8-9a32-acad8113ba2c/medium/04c3845f-3965-40a0-9796-06c1c48c9768",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Dans la commune de VAUJOURS situé Avenue de Meaux, venez découvrir un appartement de 3 pièces, au 1er étage (sans ascenseur) d'une superficie de 76m², le mode de chauffage est Individuel Electrique.\nVous bénéficierez de toutes les commodités à proximité (commerces, infrastructures éducatives, scolaires & sportives), des transports en commune, le RER B (proche de la zone) et la gare de Vert Galant (ligne K ou RER B selon les correspondances) permettent de s'approcher rapidement de la commune.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 47759,
+  "guid": "c7bf21da-4a60-4a2c-8710-5ee60a9ffadb",
+  "reference": "47759",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/759e6d0a-89bc-44b8-9a32-acad8113ba2c/large/d893cb3c-0397-45e9-9eaa-e430f7fa5d86",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 55966,
+   "guid": "759e6d0a-89bc-44b8-9a32-acad8113ba2c",
+   "reference": "55966",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 76.0,
+   "municipality": {
+    "id": 35038,
+    "postcode": "93410",
+    "code": "93074",
+    "name": "Vaujours"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 5456,
+   "guid": "4b7f093d-3759-4eb4-bc06-b14682558259",
+   "reference": "5456",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2007-01-01",
+   "constructionYear": 2007,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-14",
+  "endDateOfPublication": "2026-10-27",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Dans la commune de VAUJOURS situé Avenue de Meaux, venez découvrir un appartement de 3 pièces, au 1er étage (sans ascenseur) d'une superficie de 76m², le mode de chauffage est Individuel Electrique.\nVous bénéficierez de toutes les commodités à proximité (commerces, infrastructures éducatives, scolaires & sportives), des transports en commune, le RER B (proche de la zone) et la gare de Vert Galant (ligne K ou RER B selon les correspondances) permettent de s'approcher rapidement de la commune.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 882.36,
+  "rentChargeAmount": 148.05,
+  "rentParkingAmount": 35.86,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 882.36,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 120.55,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
