@@ -1,0 +1,278 @@
+{
+ "guid": "6975dbfa-d212-4374-877a-6fca47961a00",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-08T09:49:06+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-08T09:49:06+02:00",
+ "liste": {
+  "id": 51483,
+  "guid": "6975dbfa-d212-4374-877a-6fca47961a00",
+  "reference": "51483",
+  "residency": {
+   "id": 32,
+   "guid": "3c17a29a-37f4-480f-8b48-81d4c282fb87",
+   "reference": "32",
+   "name": "JULIE-VICTOIRE DAUBIÉ",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 2079,
+   "guid": "0a140f0c-e1e8-441d-bcd4-8a89ba4d7f77",
+   "reference": "2079",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 21.21,
+   "municipality": {
+    "id": 35053,
+    "postcode": "94600",
+    "code": "94022",
+    "name": "Choisy-le-Roi"
+   },
+   "description": "Logement équipé."
+  },
+  "availableAt": "2026-11-06",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 387.63,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-08",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0a/0a140f0c-e1e8-441d-bcd4-8a89ba4d7f77/medium/52563902-f064-447f-b753-f0eb8da32830",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Située au sud de Paris, la résidence est idéalement située à proximité de grands axes routiers, de l’aéroport d’Orly, de Rungis et des transports en commun. La résidence se situe à moins de 10mn du RER C à pieds et à moins de 30mn de l’université de Créteil. Les commerces sont proches pour faciliter votre quotidien : supérette, boulangerie, restaurants, ... studio équipé et éligible APL.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n\nLogement équipé.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51483,
+  "guid": "6975dbfa-d212-4374-877a-6fca47961a00",
+  "reference": "51483",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0a/0a140f0c-e1e8-441d-bcd4-8a89ba4d7f77/large/0c8dfe1d-4743-49ce-9bdb-e723579113fb",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0a/0a140f0c-e1e8-441d-bcd4-8a89ba4d7f77/large/a72a1b7f-eda8-4eda-8675-d8e39e3d3ec4",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 2079,
+   "guid": "0a140f0c-e1e8-441d-bcd4-8a89ba4d7f77",
+   "reference": "2079",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 21.21,
+   "municipality": {
+    "id": 35053,
+    "postcode": "94600",
+    "code": "94022",
+    "name": "Choisy-le-Roi"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 32,
+   "guid": "3c17a29a-37f4-480f-8b48-81d4c282fb87",
+   "reference": "32",
+   "livingRules": "Règlement intérieur au sein de la résidence :\n- Pas d'animal\n- Pas d'hébergement,",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-06",
+  "endDateOfPublication": "2026-10-21",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Située au sud de Paris, la résidence est idéalement située à proximité de grands axes routiers, de l’aéroport d’Orly, de Rungis et des transports en commun. La résidence se situe à moins de 10mn du RER C à pieds et à moins de 30mn de l’université de Créteil. Les commerces sont proches pour faciliter votre quotidien : supérette, boulangerie, restaurants, ... studio équipé et éligible APL.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n\nLogement équipé.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 275.7,
+  "rentChargeAmount": 111.93,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 275.7,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   },
+   {
+    "id": 1,
+    "ordering": 2,
+    "code": "ETU",
+    "label": "Etudiant",
+    "type": "BOOLEAN",
+    "group": "PROFILE",
+    "boolValue": true,
+    "intStartValue": null,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
