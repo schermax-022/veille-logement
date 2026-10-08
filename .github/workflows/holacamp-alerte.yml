@@ -7,7 +7,7 @@ name: Alerte réservations HolaCamp
 
 on:
   schedule:
-    - cron: "17 * * * *"   # toutes les heures, à hh:17 (heure UTC)
+    - cron: "7,37 * * * *"   # toutes les 30 min (hh:07 et hh:37)
   workflow_dispatch:
     inputs:
       test_email:
