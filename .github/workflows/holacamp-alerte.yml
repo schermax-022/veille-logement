@@ -111,11 +111,13 @@ jobs:
       - name: Envoyer le mail
         if: steps.check.outputs.open == 'true' || github.event.inputs.test_email == 'true'
         env:
-          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          # mêmes secrets que le script de veille logement
+          SMTP_SERVER: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
-          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          MAIL_TO: [adresse retirée]
           IS_OPEN: ${{ steps.check.outputs.open }}
           FIRST: ${{ steps.check.outputs.first }}
           STATUS: ${{ steps.check.outputs.status }}
@@ -153,11 +155,13 @@ jobs:
               body += "\nLa surveillance s'est arrêtée toute seule après cette alerte.\n"
 
           msg = EmailMessage()
-          msg["Subject"], msg["From"], msg["To"] = subject, user, env("MAIL_TO") or user
+          msg["Subject"] = subject
+          msg["From"] = env("MAIL_FROM") or user
+          msg["To"] = env("MAIL_TO") or user
           msg.set_content(body)
 
           host = env("SMTP_SERVER") or "smtp.gmail.com"
-          port = int(env("SMTP_PORT") or 465)
+          port = int((env("SMTP_PORT") or "465").strip())
           ctx = ssl.create_default_context()
           if port == 465:
               with smtplib.SMTP_SSL(host, port, context=ctx, timeout=30) as smtp:
