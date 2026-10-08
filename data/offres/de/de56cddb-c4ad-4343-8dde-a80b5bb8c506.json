@@ -1,0 +1,260 @@
+{
+ "guid": "de56cddb-c4ad-4343-8dde-a80b5bb8c506",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-08T19:47:39+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-08T19:47:39+02:00",
+ "liste": {
+  "id": 43818,
+  "guid": "de56cddb-c4ad-4343-8dde-a80b5bb8c506",
+  "reference": "43818",
+  "residency": {
+   "id": 3362,
+   "guid": "8f3f8755-2d1e-4097-b5d4-3616046300a7",
+   "reference": "3362",
+   "name": "PANTIN 04",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 52832,
+   "guid": "a7a8c105-5e38-4f0e-bb42-db3b5bd8e51a",
+   "reference": "52832",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 61.0,
+   "municipality": {
+    "id": 35025,
+    "postcode": "93500",
+    "code": "93055",
+    "name": "Pantin"
+   },
+   "description": "A LOUER, appartement T3 à Pantin - 61 m2 / Situé au 4ème étage avec ascenseur.  Sans frais d'agence.  Ce T3 comprend un salon et deux chambres, ainsi qu'une cuisine séparée.  Chauffage collectif au gaz. Un gardien est présent.   Transports ligne 7 du métro avec les stations Aubervilliers-Pantin Quatre Chemins, et Fort d'Aubervilliers."
+  },
+  "availableAt": "2026-10-08",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1022.43,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-07-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a7/a7a8c105-5e38-4f0e-bb42-db3b5bd8e51a/medium/39467ae1-bc84-49a3-87d9-869db0cc015f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité, appartement T2 à Pantin.  Sans frais d'agence.  Cet appartement comprend un séjour, deux chambres et une cuisine. La surface totale est de 61 m².  L'immeuble possède un ascenseur et un Gardien. Le logement se situe au 4e étage.  Chauffage collectif au gaz.  Commerces proches. Métro ligne 7 avec stations Aubervilliers-Pantin Quatre Chemins à 647 mètres et Fort d'Aubervilliers à 855 mètres. Grandes voies routières à proximité.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 43818,
+  "guid": "de56cddb-c4ad-4343-8dde-a80b5bb8c506",
+  "reference": "43818",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a7/a7a8c105-5e38-4f0e-bb42-db3b5bd8e51a/large/ee6bd46d-ff7a-4447-8255-d1ef7d5a763b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a7/a7a8c105-5e38-4f0e-bb42-db3b5bd8e51a/large/10781363-b3ca-49ba-b6da-182010e09270",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a7/a7a8c105-5e38-4f0e-bb42-db3b5bd8e51a/large/60f3b48b-d433-4014-9335-18aca95a217d",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 52832,
+   "guid": "a7a8c105-5e38-4f0e-bb42-db3b5bd8e51a",
+   "reference": "52832",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 61.0,
+   "municipality": {
+    "id": 35025,
+    "postcode": "93500",
+    "code": "93055",
+    "name": "Pantin"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3362,
+   "guid": "8f3f8755-2d1e-4097-b5d4-3616046300a7",
+   "reference": "3362",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-08",
+  "endDateOfPublication": "2027-07-08",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité, appartement T2 à Pantin.  Sans frais d'agence.  Cet appartement comprend un séjour, deux chambres et une cuisine. La surface totale est de 61 m².  L'immeuble possède un ascenseur et un Gardien. Le logement se situe au 4e étage.  Chauffage collectif au gaz.  Commerces proches. Métro ligne 7 avec stations Aubervilliers-Pantin Quatre Chemins à 647 mètres et Fort d'Aubervilliers à 855 mètres. Grandes voies routières à proximité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 640.5,
+  "rentChargeAmount": 381.93,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 640.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
