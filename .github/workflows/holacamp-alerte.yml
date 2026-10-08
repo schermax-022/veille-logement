@@ -117,7 +117,7 @@ jobs:
           SMTP_USERNAME: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           MAIL_FROM: ${{ secrets.EMAIL_FROM }}
-          MAIL_TO: [adresse retirée]
+          MAIL_TO: ${{ secrets.EMAIL_TO }}
           IS_OPEN: ${{ steps.check.outputs.open }}
           FIRST: ${{ steps.check.outputs.first }}
           STATUS: ${{ steps.check.outputs.status }}
