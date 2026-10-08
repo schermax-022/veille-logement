@@ -48,9 +48,31 @@ def offer_rent(offer: dict) -> float | None:
     return None
 
 
+# Patrimoine exclu des alertes (les offres restent dans le registre et l'Excel, colonne « Patrimoine »).
+# Par défaut « TEMP » = Patrimoine temporaire : foyers de jeunes travailleurs, résidences jeunes actifs,
+# résidences sociales. Variable ALERT_EXCLUDE_PRODUCTS ; « aucun » = alertes sur tout.
+_excl = config.env("ALERT_EXCLUDE_PRODUCTS", "TEMP").upper()
+EXCLUDED_PRODUCTS = set() if _excl.strip() in ("AUCUN", "NONE", "0") else \
+    {p.strip() for p in _excl.split(",") if p.strip()}
+
+
+def offer_product(offer: dict) -> str:
+    product = (((offer.get("residency") or {}).get("type") or {}).get("product") or {})
+    return str(product.get("code") or "").upper()
+
+
+def excluded_product(offer: dict) -> bool:
+    return offer_product(offer) in EXCLUDED_PRODUCTS
+
+
+def housing_in_zone(offer: dict) -> bool:
+    """Ville suivie, hors patrimoine exclu (sert aux compteurs et au message « au-dessus du plafond »)."""
+    return zone_of_offer(offer) and not excluded_product(offer)
+
+
 def wants_alert(offer: dict) -> bool:
-    """Alerte = dans une ville suivie ET loyer sous le plafond."""
-    if not zone_of_offer(offer):
+    """Alerte = dans une ville suivie, pas un logement temporaire, ET loyer sous le plafond."""
+    if not housing_in_zone(offer):
         return False
     rent = offer_rent(offer)
     return ALERT_MAX_RENT is None or rent is None or rent <= ALERT_MAX_RENT
@@ -81,7 +103,7 @@ def run_check() -> int:
 
         # 1-2. nouvelles offres, modifications, remises en ligne, retraits
         counts = reconcile(store, crawl.offers, now, complete=crawl.complete, total=crawl.total,
-                           in_zone=zone_of_offer, wants_alert=wants_alert,
+                           in_zone=housing_in_zone, wants_alert=wants_alert,
                            describe=lambda o: title({"liste": o}), rent_of=offer_rent, max_rent=ALERT_MAX_RENT)
         store.set_state(taille_page=crawl.size)
 
@@ -123,6 +145,11 @@ def run_check() -> int:
         elif pending:
             import alertes
             for rec in pending[: config.MAX_ALERTS_PER_RUN]:
+                if excluded_product(rec.get("liste") or {}):   # alerte en attente d'avant le réglage
+                    rec["alerte"] = "exclue"
+                    store.touch(rec["guid"])
+                    log(f"Logement temporaire, pas d'alerte : {title(rec)}")
+                    continue
                 raw = fresh.get(rec["guid"])
                 if raw is None:  # les liens des photos expirent : on relit la fiche pour en avoir des frais
                     try:

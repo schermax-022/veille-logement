@@ -168,6 +168,17 @@ def F(section, label, path=None, kind="text", get=None, width=16, in_email=True,
 
 STATUS_FR = {"en_ligne": "En ligne", "retiree": "Retirée"}
 
+
+def rental_kind(rec: dict) -> str | None:
+    """« Classique » (patrimoine pérenne) ou « Temporaire » (foyers, résidences jeunes actifs, résidences sociales)."""
+    code = str(pick(rec, "residency.type.product.code") or "").upper()
+    if code == "TEMP":
+        return "Temporaire"
+    if code == "PERN":
+        return "Classique"
+    return labels(pick(rec, "residency.type.product"))
+
+
 FIELDS: list[Field] = [
     # Suivi
     F("Suivi", "Statut", get=lambda r: STATUS_FR.get(r.get("statut"), r.get("statut")), width=11, in_email=False),
@@ -184,6 +195,7 @@ FIELDS: list[Field] = [
     F("Suivi", "Durée en ligne (jours)", kind="formula", get=lambda r: None, width=12, in_email=False),
     F("Suivi", "Remises en ligne", kind="int", get=lambda r: r.get("remises_en_ligne") or 0, width=10, in_email=False),
     F("Suivi", "Zone d'alerte", kind="bool", get=is_in_zone, width=10, in_email=False),
+    F("Suivi", "Type de location", get=lambda r: rental_kind(r), width=12, in_email=False),
     # Localisation
     F("Localisation", "Ville", "lodging.municipality.name", width=26),
     F("Localisation", "Code postal", "lodging.municipality.postcode", width=10),
