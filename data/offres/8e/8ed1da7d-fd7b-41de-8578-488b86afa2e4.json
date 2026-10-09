@@ -1,0 +1,248 @@
+{
+ "guid": "8ed1da7d-fd7b-41de-8578-488b86afa2e4",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-09T16:19:50+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-09T16:19:50+02:00",
+ "liste": {
+  "id": 36967,
+  "guid": "8ed1da7d-fd7b-41de-8578-488b86afa2e4",
+  "reference": "36967",
+  "residency": {
+   "id": 6236,
+   "guid": "c185022b-e73e-4450-acdf-8711c9d5fd9b",
+   "reference": "6236",
+   "name": "LGT 421",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 41634,
+   "guid": "661f3248-91a6-4c49-98ba-e81beaf72158",
+   "reference": "41634",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 51.0,
+   "municipality": {
+    "id": 35128,
+    "postcode": "95800",
+    "code": "95127",
+    "name": "Cergy"
+   },
+   "description": ""
+  },
+  "availableAt": "2024-05-07",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1067.97,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "startDateOfPublication": "2026-10-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/66/661f3248-91a6-4c49-98ba-e81beaf72158/medium/67256cd4-75ee-4c14-94c7-e3ea9339a2e2",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "TRANSPORTS : Gare de Cergy St-Christophe (RER A et Transilien Ligne L), Réseau de bus. Accès routiers : Autoroute A15 (à 20mn).\nECOLES : Crèches, Ecoles Maternelles et Primaires, Collèges et Lycées. Université de Cergy-Pontoise.\nCOMMERCES : Tous commerces de proximité, Supermarché, plusieurs marchés, Centre commercial.\nSERVICES DIVERS : Plusieurs complexes sportifs, gymnases, stades, piscines. Bibliothèques, Base de loisirs. Nombreuses associations culturelles et sportives. Centre Hospitalier René-Dubos (Cergy-Pontoise).\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 36967,
+  "guid": "8ed1da7d-fd7b-41de-8578-488b86afa2e4",
+  "reference": "36967",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/66/661f3248-91a6-4c49-98ba-e81beaf72158/large/3b55b6ca-9702-4a68-8f17-3666e9cf5ad0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 41634,
+   "guid": "661f3248-91a6-4c49-98ba-e81beaf72158",
+   "reference": "41634",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 51.0,
+   "municipality": {
+    "id": 35128,
+    "postcode": "95800",
+    "code": "95127",
+    "name": "Cergy"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 6236,
+   "guid": "c185022b-e73e-4450-acdf-8711c9d5fd9b",
+   "reference": "6236",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "1993-01-01",
+   "constructionYear": 1993,
+   "lastRehabilitatedDate": "2026-06-16"
+  },
+  "availableAt": "2024-05-07",
+  "endDateOfPublication": "2026-10-23",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "TRANSPORTS : Gare de Cergy St-Christophe (RER A et Transilien Ligne L), Réseau de bus. Accès routiers : Autoroute A15 (à 20mn).\nECOLES : Crèches, Ecoles Maternelles et Primaires, Collèges et Lycées. Université de Cergy-Pontoise.\nCOMMERCES : Tous commerces de proximité, Supermarché, plusieurs marchés, Centre commercial.\nSERVICES DIVERS : Plusieurs complexes sportifs, gymnases, stades, piscines. Bibliothèques, Base de loisirs. Nombreuses associations culturelles et sportives. Centre Hospitalier René-Dubos (Cergy-Pontoise).\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 878.82,
+  "rentChargeAmount": 189.15,
+  "rentParkingAmount": 73.65,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 878.82,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
