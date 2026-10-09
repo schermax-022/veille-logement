@@ -1,0 +1,282 @@
+{
+ "guid": "435cfd5b-243d-4785-a672-9617bd7041c3",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-09T10:19:06+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-09T10:19:06+02:00",
+ "liste": {
+  "id": 49554,
+  "guid": "435cfd5b-243d-4785-a672-9617bd7041c3",
+  "reference": "49554",
+  "residency": {
+   "id": 316,
+   "guid": "11954c2e-e603-4412-bf24-fb5adac53923",
+   "reference": "316",
+   "name": "BRON F.ROOSEVELT",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57365,
+   "guid": "2cdcc34e-6720-4592-8de9-e5fa95ad47ab",
+   "reference": "57365",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.1,
+   "municipality": {
+    "id": 27363,
+    "postcode": "69500",
+    "code": "69029",
+    "name": "Bron"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-18",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 507.69,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2cdcc34e-6720-4592-8de9-e5fa95ad47ab/medium/5545f775-5654-4a97-ad62-9ad498368c68",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence Franklin ROSSEVELT située avenue du 8 mai 1945, 69500 BRON. \nRésidence proche du centre ville de BRON.\nCommerces, supermarché et Mairie à proximité.\nTransports en commun: Ligne C15 arrêt \"Fort de Bron\".\n\n Appartement meublé et équipé, situé au 3ème étage avec ascenseur.\n Logement disponible à partir du 18/10/2026. \n La redevance mensuelle inclus les charges générales, une provision d’eau chaude et d’eau froide, une provision de chauffage et l’électricité.\n Le mode de chauffage est collectif.\n\nMerci de situer l'environnement avant de postuler à une offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\nAnimaux non admis Garantie VISALE à souscrire (si éligible) Dépôt de garantie à verser dès la signature de bail.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 49554,
+  "guid": "435cfd5b-243d-4785-a672-9617bd7041c3",
+  "reference": "49554",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2cdcc34e-6720-4592-8de9-e5fa95ad47ab/large/c41d0a34-e7fe-407b-8053-458110e11ed8",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57365,
+   "guid": "2cdcc34e-6720-4592-8de9-e5fa95ad47ab",
+   "reference": "57365",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.1,
+   "municipality": {
+    "id": 27363,
+    "postcode": "69500",
+    "code": "69029",
+    "name": "Bron"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 316,
+   "guid": "11954c2e-e603-4412-bf24-fb5adac53923",
+   "reference": "316",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2016,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-18",
+  "endDateOfPublication": "2026-10-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence Franklin ROSSEVELT située avenue du 8 mai 1945, 69500 BRON. \nRésidence proche du centre ville de BRON.\nCommerces, supermarché et Mairie à proximité.\nTransports en commun: Ligne C15 arrêt \"Fort de Bron\".\n\n Appartement meublé et équipé, situé au 3ème étage avec ascenseur.\n Logement disponible à partir du 18/10/2026. \n La redevance mensuelle inclus les charges générales, une provision d’eau chaude et d’eau froide, une provision de chauffage et l’électricité.\n Le mode de chauffage est collectif.\n\nMerci de situer l'environnement avant de postuler à une offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\nAnimaux non admis Garantie VISALE à souscrire (si éligible) Dépôt de garantie à verser dès la signature de bail.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 507.69,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 507.69,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
