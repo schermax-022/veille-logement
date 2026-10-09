@@ -1,0 +1,255 @@
+{
+ "guid": "b9f4edc1-d833-40a1-adbe-2a716c5ff381",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-09T13:46:51+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-09T13:46:51+02:00",
+ "liste": {
+  "id": 51666,
+  "guid": "b9f4edc1-d833-40a1-adbe-2a716c5ff381",
+  "reference": "51666",
+  "residency": {
+   "id": 3871,
+   "guid": "caeb7888-aa71-4bba-9708-cd42f609333b",
+   "reference": "3871",
+   "name": "IKSSO",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59165,
+   "guid": "46275510-f377-4893-b7da-e0f9a99e2df4",
+   "reference": "59165",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 86.0,
+   "municipality": {
+    "id": 12529,
+    "postcode": "33800",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "description": "Nous vous proposons un appartement composé d'une entrée, salle d'eau, WC séparés, cuisine ouverte sur le séjour, 3 chambres dont 1 avec salle d'eau et balcon de 18m².\nPossibilité d'une place de parking sous-sol numérotée"
+  },
+  "availableAt": "2026-10-23",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1189.78,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/46275510-f377-4893-b7da-e0f9a99e2df4/medium/da15ae90-7827-4110-8c13-4e69f1ca3a89",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence est constituée de 4 bâtiments couvrant la rue du Tri Postal et la rue Germaine Cantelaube. Elle se situe au pied du Parc Armagnac, à 400m des TRAM C et D, des bus, de la gare St Jean et du futur Parc de l'Ars. Le pont Simone Veil est à 600m. \nDes commerces de proximités sont installés en rez-de-chaussée des différents projets immobiliers alentours.\n\nNous vous proposons un appartement composé d'une entrée, salle d'eau, WC séparés, cuisine ouverte sur le séjour, 3 chambres dont 1 avec salle d'eau et balcon de 18m².\nPossibilité d'une place de parking sous-sol numérotée\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51666,
+  "guid": "b9f4edc1-d833-40a1-adbe-2a716c5ff381",
+  "reference": "51666",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/46275510-f377-4893-b7da-e0f9a99e2df4/large/d554ba1e-eefe-4af3-8050-3a1f8622f4e5",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/46/46275510-f377-4893-b7da-e0f9a99e2df4/large/f582802b-52c7-416d-aa1a-2e502391ffe8",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59165,
+   "guid": "46275510-f377-4893-b7da-e0f9a99e2df4",
+   "reference": "59165",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 86.0,
+   "municipality": {
+    "id": 12529,
+    "postcode": "33800",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 3871,
+   "guid": "caeb7888-aa71-4bba-9708-cd42f609333b",
+   "reference": "3871",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2025-07-01",
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-23",
+  "endDateOfPublication": "2026-10-19",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "La résidence est constituée de 4 bâtiments couvrant la rue du Tri Postal et la rue Germaine Cantelaube. Elle se situe au pied du Parc Armagnac, à 400m des TRAM C et D, des bus, de la gare St Jean et du futur Parc de l'Ars. Le pont Simone Veil est à 600m. \nDes commerces de proximités sont installés en rez-de-chaussée des différents projets immobiliers alentours.\n\nNous vous proposons un appartement composé d'une entrée, salle d'eau, WC séparés, cuisine ouverte sur le séjour, 3 chambres dont 1 avec salle d'eau et balcon de 18m².\nPossibilité d'une place de parking sous-sol numérotée\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1033.67,
+  "rentChargeAmount": 156.11,
+  "rentParkingAmount": 27.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
