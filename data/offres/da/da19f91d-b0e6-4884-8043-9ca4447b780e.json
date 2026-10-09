@@ -1,0 +1,242 @@
+{
+ "guid": "da19f91d-b0e6-4884-8043-9ca4447b780e",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-09T14:53:19+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-09T14:53:19+02:00",
+ "liste": {
+  "id": 50067,
+  "guid": "da19f91d-b0e6-4884-8043-9ca4447b780e",
+  "reference": "50067",
+  "residency": {
+   "id": 4981,
+   "guid": "9abbe2e9-710b-49c9-a63a-bbf8b08f4e5c",
+   "reference": "4981",
+   "name": "RUE GRANGE HAUTE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57810,
+   "guid": "d444d426-5454-43af-8d0c-780531efb814",
+   "reference": "57810",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 62.93,
+   "municipality": {
+    "id": 27430,
+    "postcode": "69540",
+    "code": "69100",
+    "name": "Irigny"
+   },
+   "description": null
+  },
+  "availableAt": "2026-09-19",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 725.13,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d4/d444d426-5454-43af-8d0c-780531efb814/medium/947eb54e-8449-46f6-99c0-86cbe572d552",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence située rue de Grange Haute à Irigny\nInfrastructures à proximité : commerces, supermarchés et des établissements scolaires.\nTransports en commun : Bus 115 et 118, la gare TER Irigny-Yvours à 6 minutes en voiture.\n \nLe logement situé au 2 ème étage \nIl comprend une cuisine, un séjour, une chambre, une salle de bains et des toilettes.\nChauffage : individuel au gaz.\nCharges incluses : charges générales d’immeuble.\n\nSans frais d’agence.\n\nDisponibilité : logement disponible depuis le 19/09/2026 sous réserve de travaux .\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 50067,
+  "guid": "da19f91d-b0e6-4884-8043-9ca4447b780e",
+  "reference": "50067",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d4/d444d426-5454-43af-8d0c-780531efb814/large/cb869170-c3af-4ad0-826a-38b15d21fb1d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57810,
+   "guid": "d444d426-5454-43af-8d0c-780531efb814",
+   "reference": "57810",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 62.93,
+   "municipality": {
+    "id": 27430,
+    "postcode": "69540",
+    "code": "69100",
+    "name": "Irigny"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 4981,
+   "guid": "9abbe2e9-710b-49c9-a63a-bbf8b08f4e5c",
+   "reference": "4981",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 1990,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-19",
+  "endDateOfPublication": "2026-10-27",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence située rue de Grange Haute à Irigny\nInfrastructures à proximité : commerces, supermarchés et des établissements scolaires.\nTransports en commun : Bus 115 et 118, la gare TER Irigny-Yvours à 6 minutes en voiture.\n \nLe logement situé au 2 ème étage \nIl comprend une cuisine, un séjour, une chambre, une salle de bains et des toilettes.\nChauffage : individuel au gaz.\nCharges incluses : charges générales d’immeuble.\n\nSans frais d’agence.\n\nDisponibilité : logement disponible depuis le 19/09/2026 sous réserve de travaux .\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 653.13,
+  "rentChargeAmount": 72.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 668.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
