@@ -1,0 +1,277 @@
+{
+ "guid": "6fbd8efd-fef6-4038-8df0-8dcbe3832798",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-09T11:18:57+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-09T11:18:57+02:00",
+ "liste": {
+  "id": 41230,
+  "guid": "6fbd8efd-fef6-4038-8df0-8dcbe3832798",
+  "reference": "41230",
+  "residency": {
+   "id": 7279,
+   "guid": "24cdbd68-263a-4884-87b5-3485557dbcbd",
+   "reference": "7279",
+   "name": "LECHAUD-GARDNER",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 50592,
+   "guid": "a37aa06d-16f6-4ca6-81e8-f52af5a26fa3",
+   "reference": "50592",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 38.73,
+   "municipality": {
+    "id": 25700,
+    "postcode": "64230",
+    "code": "64511",
+    "name": "Sauvagnon"
+   },
+   "description": "T1 bis meublé de 39 m² conçu pour deux personnes, proposant une pièce de vie avec coin cuisine équipée ouvert sur le séjour, aménagé avec table, chaises, canapé et meuble TV. \nL’espace nuit, distinct, dispose d’un lit double et d’un placard avec penderie et étagères. "
+  },
+  "availableAt": "2026-08-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 539.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a3/a37aa06d-16f6-4ca6-81e8-f52af5a26fa3/medium/7bd4f356-c2e5-4a53-ae94-dc58fb10aa34",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "À proximité du centre-bourg de Sauvagnon, la maison Lechaud propose 13 appartements de 15 à 37 m², dans un cadre de verdure avec vue sur les Pyrénées. Elle est située à 13 km d’une sortie de l’autoroute A65, à 9km d’une sortie de l’autoroute A64 et  à 8km du nord de Pau. \n\nT1 bis meublé de 39 m² conçu pour deux personnes, proposant une pièce de vie avec coin cuisine équipée ouvert sur le séjour, aménagé avec table, chaises, canapé et meuble TV. \nL’espace nuit, distinct, dispose d’un lit double et d’un placard avec penderie et étagères. \n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 41230,
+  "guid": "6fbd8efd-fef6-4038-8df0-8dcbe3832798",
+  "reference": "41230",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a3/a37aa06d-16f6-4ca6-81e8-f52af5a26fa3/large/0923e5d5-e107-46bb-9dd8-d91ec71b9f77",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a3/a37aa06d-16f6-4ca6-81e8-f52af5a26fa3/large/4e814ec1-462b-4e9d-b356-5765fa8ee434",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 50592,
+   "guid": "a37aa06d-16f6-4ca6-81e8-f52af5a26fa3",
+   "reference": "50592",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 38.73,
+   "municipality": {
+    "id": 25700,
+    "postcode": "64230",
+    "code": "64511",
+    "name": "Sauvagnon"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7279,
+   "guid": "24cdbd68-263a-4884-87b5-3485557dbcbd",
+   "reference": "7279",
+   "livingRules": "",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": "2026-07-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-08-01",
+  "endDateOfPublication": "2026-11-07",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "À proximité du centre-bourg de Sauvagnon, la maison Lechaud propose 13 appartements de 15 à 37 m², dans un cadre de verdure avec vue sur les Pyrénées. Elle est située à 13 km d’une sortie de l’autoroute A65, à 9km d’une sortie de l’autoroute A64 et  à 8km du nord de Pau. \n\nT1 bis meublé de 39 m² conçu pour deux personnes, proposant une pièce de vie avec coin cuisine équipée ouvert sur le séjour, aménagé avec table, chaises, canapé et meuble TV. \nL’espace nuit, distinct, dispose d’un lit double et d’un placard avec penderie et étagères. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 539.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 539.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
