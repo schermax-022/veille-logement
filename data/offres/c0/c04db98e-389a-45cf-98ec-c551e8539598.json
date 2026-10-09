@@ -1,0 +1,296 @@
+{
+ "guid": "c04db98e-389a-45cf-98ec-c551e8539598",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-09T16:50:46+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-09T16:50:46+02:00",
+ "liste": {
+  "id": 51701,
+  "guid": "c04db98e-389a-45cf-98ec-c551e8539598",
+  "reference": "51701",
+  "residency": {
+   "id": 8359,
+   "guid": "68060238-0bae-4664-b141-6a3de8fd4bc7",
+   "reference": "8359",
+   "name": "JULIEN",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59225,
+   "guid": "75228e5c-a65f-4d20-93f0-e1503fe0647f",
+   "reference": "59225",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 54.0,
+   "municipality": {
+    "id": 9253,
+    "postcode": "26200",
+    "code": "26198",
+    "name": "Montélimar"
+   },
+   "description": "Appartement T2 situé au 1er étage, offrant une belle pièce de vie lumineuse avec cuisine ouverte , une chambre ainsi qu’une salle de bain équipée avec meuble vasque et sèche-serviettes.\n\n"
+  },
+  "availableAt": "2026-10-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 425.34,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/75228e5c-a65f-4d20-93f0-e1503fe0647f/medium/348998f9-5b5a-416c-8bc3-87b06e5b3e4d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "RUE PIERRE JULIEN - 26200 MONTELIMAR\n\nRésidence située dans une rue très commerçante de Montélimar. \nElle bénéficie ainsi d’un environnement pratique, à proximité des commodités et des différents pôles d’activité de la ville.\n\n\nAppartement T2 situé au 1er étage, offrant une belle pièce de vie lumineuse avec cuisine ouverte , une chambre ainsi qu’une salle de bain équipée avec meuble vasque et sèche-serviettes.\n\nIl dispose également d'une cave de 4 m2.\n\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51701,
+  "guid": "c04db98e-389a-45cf-98ec-c551e8539598",
+  "reference": "51701",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/75228e5c-a65f-4d20-93f0-e1503fe0647f/large/3439e6de-cf5a-4ef7-8117-8e895d516a78",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/75228e5c-a65f-4d20-93f0-e1503fe0647f/large/cd4c374d-4117-40e9-8b0f-e5fcbe942052",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/75228e5c-a65f-4d20-93f0-e1503fe0647f/large/297e0305-1ff1-4a49-bb1f-e699d1f7d4c6",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/75228e5c-a65f-4d20-93f0-e1503fe0647f/large/4cce3f03-37bd-4be4-bcbd-deb747fcd32a",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/75228e5c-a65f-4d20-93f0-e1503fe0647f/large/49d43323-5a2c-46ff-9512-dfe5dfb8d3e2",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/75228e5c-a65f-4d20-93f0-e1503fe0647f/large/4080e661-054d-4f86-b59f-06f5023dee31",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/75228e5c-a65f-4d20-93f0-e1503fe0647f/large/59d2fd1d-af8d-4a5b-8b05-80d262bfff6b",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/75228e5c-a65f-4d20-93f0-e1503fe0647f/large/991b60fc-828c-47e2-8903-d67b39f6df20",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/75228e5c-a65f-4d20-93f0-e1503fe0647f/large/dde1b789-6d51-4ccd-8f8e-3d045b168532",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/75/75228e5c-a65f-4d20-93f0-e1503fe0647f/large/df97e93c-2c79-4870-a829-5e985e0b0370",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59225,
+   "guid": "75228e5c-a65f-4d20-93f0-e1503fe0647f",
+   "reference": "59225",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 54.0,
+   "municipality": {
+    "id": 9253,
+    "postcode": "26200",
+    "code": "26198",
+    "name": "Montélimar"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8359,
+   "guid": "68060238-0bae-4664-b141-6a3de8fd4bc7",
+   "reference": "8359",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-10-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-01",
+  "endDateOfPublication": "2026-11-07",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "RUE PIERRE JULIEN - 26200 MONTELIMAR\n\nRésidence située dans une rue très commerçante de Montélimar. \nElle bénéficie ainsi d’un environnement pratique, à proximité des commodités et des différents pôles d’activité de la ville.\n\n\nAppartement T2 situé au 1er étage, offrant une belle pièce de vie lumineuse avec cuisine ouverte , une chambre ainsi qu’une salle de bain équipée avec meuble vasque et sèche-serviettes.\n\nIl dispose également d'une cave de 4 m2.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 400.34,
+  "rentChargeAmount": 25.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
