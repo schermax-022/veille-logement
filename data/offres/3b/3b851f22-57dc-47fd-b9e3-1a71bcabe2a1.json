@@ -1,0 +1,263 @@
+{
+ "guid": "3b851f22-57dc-47fd-b9e3-1a71bcabe2a1",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-09T17:17:26+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-09T17:17:26+02:00",
+ "liste": {
+  "id": 51325,
+  "guid": "3b851f22-57dc-47fd-b9e3-1a71bcabe2a1",
+  "reference": "51325",
+  "residency": {
+   "id": 6570,
+   "guid": "daca90d6-545a-475a-861c-a8c8f88359c1",
+   "reference": "6570",
+   "name": "MARSEILLE 09 - ANTOINE FORTUNE MARION",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 58825,
+   "guid": "5843c5dd-0f07-40f7-a1ec-f933ab77f1fe",
+   "reference": "58825",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 43.3,
+   "municipality": {
+    "id": 4464,
+    "postcode": "13009",
+    "code": "13209",
+    "name": "Marseille 9e Arrondissement"
+   },
+   "description": "Un appartement de type 2 comprenant : une entrée avec placard, un séjour cuisine, une chambre, une salle d'eau avec wc, un jardin."
+  },
+  "availableAt": "2026-11-06",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 831.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/58/5843c5dd-0f07-40f7-a1ec-f933ab77f1fe/medium/095b8b01-728b-4ce1-b6a3-633a75079b14",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé rue Antoine Fortune Marion dans le 9ᵉ arrondissement de Marseille, ce logement bénéficie d’un environnement agréable, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nLe 9ᵉ arrondissement offre un cadre de vie recherché, entre quartiers résidentiels, espaces verts et proximité du littoral. Le secteur dispose de nombreux commerces, services et équipements, tout en bénéficiant de la proximité des espaces naturels du massif des Calanques.\n\nLes transports en commun facilitent les déplacements vers le centre-ville, les autres quartiers de Marseille et les principaux pôles d’activités de la métropole, selon les dessertes disponibles.\n\nLa proximité des principaux axes routiers permet de rejoindre facilement le centre de Marseille, Aubagne, Cassis et les différents secteurs de l’agglomération.\n\nCe logement offre ainsi un cadre de vie agréable, alliant proximité des services, mobilité et environnement naturel au sud de Marseille.",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51325,
+  "guid": "3b851f22-57dc-47fd-b9e3-1a71bcabe2a1",
+  "reference": "51325",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/58/5843c5dd-0f07-40f7-a1ec-f933ab77f1fe/large/aad00213-2bed-424b-afbf-7c8ded3142d4",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/58/5843c5dd-0f07-40f7-a1ec-f933ab77f1fe/large/f2698393-d464-4b43-88ba-ccd6bebbc32b",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 58825,
+   "guid": "5843c5dd-0f07-40f7-a1ec-f933ab77f1fe",
+   "reference": "58825",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 43.3,
+   "municipality": {
+    "id": 4464,
+    "postcode": "13009",
+    "code": "13209",
+    "name": "Marseille 9e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 6570,
+   "guid": "daca90d6-545a-475a-861c-a8c8f88359c1",
+   "reference": "6570",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-06",
+  "endDateOfPublication": "2026-12-07",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé rue Antoine Fortune Marion dans le 9ᵉ arrondissement de Marseille, ce logement bénéficie d’un environnement agréable, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nLe 9ᵉ arrondissement offre un cadre de vie recherché, entre quartiers résidentiels, espaces verts et proximité du littoral. Le secteur dispose de nombreux commerces, services et équipements, tout en bénéficiant de la proximité des espaces naturels du massif des Calanques.\n\nLes transports en commun facilitent les déplacements vers le centre-ville, les autres quartiers de Marseille et les principaux pôles d’activités de la métropole, selon les dessertes disponibles.\n\nLa proximité des principaux axes routiers permet de rejoindre facilement le centre de Marseille, Aubagne, Cassis et les différents secteurs de l’agglomération.\n\nCe logement offre ainsi un cadre de vie agréable, alliant proximité des services, mobilité et environnement naturel au sud de Marseille.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 736.0,
+  "rentChargeAmount": 95.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 736.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
