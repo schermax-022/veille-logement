@@ -11,7 +11,7 @@
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-08T15:21:34+02:00",
+ "fiche_recuperee_le": "2026-10-11T19:45:02+02:00",
  "liste": {
   "id": 50630,
   "guid": "6ffa86a7-8368-4735-af07-fa8f1e6622fa",
@@ -70,7 +70,7 @@
    "code": "MSL",
    "label": "Mensuel"
   },
-  "totalRentAmountBaseBound": 1085.08,
+  "totalRentAmountBaseBound": 1150.08,
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
@@ -192,7 +192,7 @@
      "label": "Balcon/Terrasse"
     }
    ],
-   "isParkingMandatory": false,
+   "isParkingMandatory": true,
    "numberOfRoomsHousing": 2
   },
   "residency": {
@@ -233,9 +233,9 @@
   },
   "housingFeeBaseBound": 986.44,
   "rentChargeAmount": 98.64,
-  "rentParkingAmount": 0.0,
+  "rentParkingAmount": 65.0,
   "compulsoryBenefitAmount": null,
-  "securityDepositAmount": 986.44,
+  "securityDepositAmount": 1046.44,
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
