@@ -1,0 +1,252 @@
+{
+ "guid": "c25ddd68-0430-4f1a-a553-f1f3bd3dba82",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-12T15:34:15+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-12T15:34:15+02:00",
+ "liste": {
+  "id": 44649,
+  "guid": "c25ddd68-0430-4f1a-a553-f1f3bd3dba82",
+  "reference": "44649",
+  "residency": {
+   "id": 3709,
+   "guid": "47c7f9ee-d39a-4048-ba6a-bce2a895e3ec",
+   "reference": "3709",
+   "name": "RESIDENCE HERONVAL",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 53457,
+   "guid": "62c9a0c5-ee72-4d93-a3c2-ac835322b367",
+   "reference": "53457",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 88.0,
+   "municipality": {
+    "id": 23886,
+    "postcode": "62000",
+    "code": "62041",
+    "name": "Arras"
+   },
+   "description": "Nous vous proposons à la location un appartement disposant d'une cuisine meublée."
+  },
+  "availableAt": "2026-08-15",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 807.91,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 60.0,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-12",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62c9a0c5-ee72-4d93-a3c2-ac835322b367/medium/0f2fceb9-900d-4e9b-a382-d2257d1b9a12",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A Arras, la rue Héronval se situe dans le centre ville, proche de la principale rue commerçante, des lycées, de la Gare et de la Grand Place.\n\nNous vous proposons à la location un appartement disposant d'une cuisine meublée.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 44649,
+  "guid": "c25ddd68-0430-4f1a-a553-f1f3bd3dba82",
+  "reference": "44649",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62c9a0c5-ee72-4d93-a3c2-ac835322b367/large/04dbefaf-0f32-4794-ba4a-69fd841e0592",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62c9a0c5-ee72-4d93-a3c2-ac835322b367/large/afc05f54-4f29-4568-bcc1-60b05966cf10",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/62c9a0c5-ee72-4d93-a3c2-ac835322b367/large/1f9683a9-23e3-4903-8cca-e4c6cb98fdad",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 53457,
+   "guid": "62c9a0c5-ee72-4d93-a3c2-ac835322b367",
+   "reference": "53457",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 88.0,
+   "municipality": {
+    "id": 23886,
+    "postcode": "62000",
+    "code": "62041",
+    "name": "Arras"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 3709,
+   "guid": "47c7f9ee-d39a-4048-ba6a-bce2a895e3ec",
+   "reference": "3709",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "PHYSICAL",
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-08-15",
+  "endDateOfPublication": "2026-10-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "A Arras, la rue Héronval se situe dans le centre ville, proche de la principale rue commerçante, des lycées, de la Gare et de la Grand Place.\n\nNous vous proposons à la location un appartement disposant d'une cuisine meublée.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 677.91,
+  "rentChargeAmount": 130.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 60.0,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

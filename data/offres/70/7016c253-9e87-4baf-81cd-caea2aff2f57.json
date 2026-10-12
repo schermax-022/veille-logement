@@ -1,0 +1,288 @@
+{
+ "guid": "7016c253-9e87-4baf-81cd-caea2aff2f57",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-12T15:34:15+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-12T15:34:15+02:00",
+ "liste": {
+  "id": 22804,
+  "guid": "7016c253-9e87-4baf-81cd-caea2aff2f57",
+  "reference": "22804",
+  "residency": {
+   "id": 2098,
+   "guid": "636d6887-5977-476e-9296-069a97e6a8df",
+   "reference": "2098",
+   "name": "RESIDENCE JEUNES ACACIAS",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 16718,
+   "guid": "aef203f4-d41e-4f3e-b498-69e703936943",
+   "reference": "16718",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 16849,
+    "postcode": "45000",
+    "code": "45234",
+    "name": "Orléans"
+   },
+   "description": "Appartement de type 1' d'une surface de 22 m2, loyer toutes charges incluses.\nToutes charges incluses dont chauffage. Frais d'inscription et cotisation pour 24€\nPas de présence sur site ; possibilité d'accès aux services collectifs du 28 rue Jacquard 45000 Orléans"
+  },
+  "availableAt": "2025-10-14",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 504.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-12",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ae/aef203f4-d41e-4f3e-b498-69e703936943/medium/726b6d63-c9f1-4a29-b7cc-8378e092d096",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "L'association RJAC propose un ensemble de logements conventionnés APL et services à destination des jeunes de 16 à 30 ans, 2 possibilités :  en centre ville avec la Résidence Colombier et au Nord d'Orléans avec la Résidence Acacias.\n\nIl est proposé également un service de restauration et des salles de réunion. Ainsi que des lieux et des temps de rencontres, une possibilité d'accompagnement individualisé et des facilités de fonctionnement.\nDes résidences avec services intégrés (accueil, restauration, laverie, wifi) et charges énergétiques comprises dans la redevance loyer. \n\nAppartement de type 1' d'une surface de 22 m2, loyer toutes charges incluses.\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 22804,
+  "guid": "7016c253-9e87-4baf-81cd-caea2aff2f57",
+  "reference": "22804",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ae/aef203f4-d41e-4f3e-b498-69e703936943/large/252377e0-478e-4d73-9ae8-e92f03e133c9",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ae/aef203f4-d41e-4f3e-b498-69e703936943/large/565a6111-387e-42f4-bb6f-bc1e7db217bf",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ae/aef203f4-d41e-4f3e-b498-69e703936943/large/b9a9aac5-e00c-40ea-84bc-37021b8221f8",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 16718,
+   "guid": "aef203f4-d41e-4f3e-b498-69e703936943",
+   "reference": "16718",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 16849,
+    "postcode": "45000",
+    "code": "45234",
+    "name": "Orléans"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 2098,
+   "guid": "636d6887-5977-476e-9296-069a97e6a8df",
+   "reference": "2098",
+   "livingRules": "Frais d'inscription de 16 € + 8 € de frais de cotisation",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "RES",
+     "label": "Services de restauration",
+     "isIncluded": true
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    },
+    {
+     "id": 19,
+     "ordering": 20,
+     "code": "SOC",
+     "label": "Référent social",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-10-14",
+  "endDateOfPublication": "2026-10-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "L'association RJAC propose un ensemble de logements conventionnés APL et services à destination des jeunes de 16 à 30 ans, 2 possibilités :  en centre ville avec la Résidence Colombier et au Nord d'Orléans avec la Résidence Acacias.\n\nIl est proposé également un service de restauration et des salles de réunion. Ainsi que des lieux et des temps de rencontres, une possibilité d'accompagnement individualisé et des facilités de fonctionnement.\nDes résidences avec services intégrés (accueil, restauration, laverie, wifi) et charges énergétiques comprises dans la redevance loyer. \n\nAppartement de type 1' d'une surface de 22 m2, loyer toutes charges incluses.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 504.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 520.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
