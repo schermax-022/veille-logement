@@ -10,7 +10,7 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": "ok",
+ "fiche_statut": "erreur : HTTP 410 sur /demands/public/offer-showcase-details : {\"code\":\"DEM44E410\",\"data\":null,\"message\":\"La donnée recherchée n'est plus disponible\"}",
  "fiche_recuperee_le": "2026-10-07T22:17:18+02:00",
  "liste": {
   "id": 38118,
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-04-27",
+  "startDateOfPublication": null,
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/2f/2fa16b52-d0d1-4d6a-8536-22beca9a9615/medium/2884ef26-a63a-44f6-a935-3be97b637cfa",
@@ -297,5 +297,5 @@
   "rentType": "RENT_STANDARD",
   "totalRentAmountMax": null
  },
- "fiche_essais": 0
+ "fiche_essais": 1
 }
