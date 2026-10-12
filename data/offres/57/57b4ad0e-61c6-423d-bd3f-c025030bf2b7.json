@@ -1,0 +1,255 @@
+{
+ "guid": "57b4ad0e-61c6-423d-bd3f-c025030bf2b7",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-12T17:51:21+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-12T17:51:21+02:00",
+ "liste": {
+  "id": 51789,
+  "guid": "57b4ad0e-61c6-423d-bd3f-c025030bf2b7",
+  "reference": "51789",
+  "residency": {
+   "id": 7079,
+   "guid": "a7668da6-c3a6-49b5-92ab-b84ffaa2395f",
+   "reference": "7079",
+   "name": "BOIOS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59392,
+   "guid": "3f4f213f-fc8a-48c8-98c6-beb45ba3fcd8",
+   "reference": "59392",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 65.57,
+   "municipality": {
+    "id": 12513,
+    "postcode": "33380",
+    "code": "33051",
+    "name": "Biganos"
+   },
+   "description": "Nous vous proposons un appartement non meublé composé d'une entrée avec placard, cuisine équipée ouverte sur séjour, balcon, 2 chambres dont 1 avec placard, salle d'eau, WC séparés.\nPossibilité de louer une place de parking de 42€/mois, en supplément."
+  },
+  "availableAt": "2027-01-05",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 949.05,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-12",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f4f213f-fc8a-48c8-98c6-beb45ba3fcd8/medium/a87e4ceb-1e3b-4f87-b917-52daf160c067",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence Boios se situe avenue de la Côte d'Argent au cœur du centre-ville, à proximité des commerces et services : transports en commun (gare SNCF, bus ligne 1), cabinets médicaux, centre commercial, établissements scolaires, accès à la plage du Teich en moins de 15 min en voiture.\nL'ensemble immobilier est composé de bâtiments en R+2.\n\nNous vous proposons un appartement non meublé composé d'une entrée avec placard, cuisine équipée ouverte sur séjour, balcon, 2 chambres dont 1 avec placard, salle d'eau, WC séparés.\nPossibilité de louer une place de parking de 42€/mois, en supplément.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51789,
+  "guid": "57b4ad0e-61c6-423d-bd3f-c025030bf2b7",
+  "reference": "51789",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f4f213f-fc8a-48c8-98c6-beb45ba3fcd8/large/94ceb383-be13-49c1-8f0e-b11b6b1d789f",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3f/3f4f213f-fc8a-48c8-98c6-beb45ba3fcd8/large/e497ddf9-2332-409d-9b34-e50212ddeee4",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59392,
+   "guid": "3f4f213f-fc8a-48c8-98c6-beb45ba3fcd8",
+   "reference": "59392",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 65.57,
+   "municipality": {
+    "id": 12513,
+    "postcode": "33380",
+    "code": "33051",
+    "name": "Biganos"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 7079,
+   "guid": "a7668da6-c3a6-49b5-92ab-b84ffaa2395f",
+   "reference": "7079",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-05",
+  "endDateOfPublication": "2026-11-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence Boios se situe avenue de la Côte d'Argent au cœur du centre-ville, à proximité des commerces et services : transports en commun (gare SNCF, bus ligne 1), cabinets médicaux, centre commercial, établissements scolaires, accès à la plage du Teich en moins de 15 min en voiture.\nL'ensemble immobilier est composé de bâtiments en R+2.\n\nNous vous proposons un appartement non meublé composé d'une entrée avec placard, cuisine équipée ouverte sur séjour, balcon, 2 chambres dont 1 avec placard, salle d'eau, WC séparés.\nPossibilité de louer une place de parking de 42€/mois, en supplément.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 779.21,
+  "rentChargeAmount": 169.84,
+  "rentParkingAmount": 42.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 779.21,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
