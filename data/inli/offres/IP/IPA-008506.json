@@ -1,23 +1,23 @@
 {
  "guid": "IPA-008506",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T22:53:31+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-09T11:51:48+02:00",
- "absente_depuis": "2026-10-09T12:21:44+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-09T12:21:44+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T23:49:43+02:00",
+ "fiche_recuperee_le": "2026-10-12T12:23:13+02:00",
  "liste": {
   "guid": "IPA-008506",
   "ref": "IPA-008506",
   "lien": "/location-appartement-marseille-13009/IPA-008506",
   "url": "https://www.inli.fr/location-appartement-marseille-13009/IPA-008506",
-  "loyer_cc": 834.96,
+  "loyer_cc": 845.0,
   "resume": "3 pièces · 56.77 m²",
   "ville_affichee": "Marseille 9ème",
   "type": "Appartement",
@@ -40,7 +40,7 @@
   "avantages": [
    "Sans frais de dossier"
   ],
-  "loyer_cc_affiche": 835.0,
+  "loyer_cc_affiche": 845.0,
   "lignes_prix": [
    {
     "libelle": "Loyer hors charges",
@@ -49,6 +49,10 @@
    {
     "libelle": "Provisions de charges",
     "valeur": "97 €"
+   },
+   {
+    "libelle": "Loyer stationnement charges comprises",
+    "valeur": "10 €"
    },
    {
     "libelle": "Dépôt de garantie logement et stationnement",
