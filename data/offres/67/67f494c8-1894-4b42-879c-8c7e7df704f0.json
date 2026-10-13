@@ -1,0 +1,248 @@
+{
+ "guid": "67f494c8-1894-4b42-879c-8c7e7df704f0",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-13T19:18:03+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-13T19:18:03+02:00",
+ "liste": {
+  "id": 51965,
+  "guid": "67f494c8-1894-4b42-879c-8c7e7df704f0",
+  "reference": "51965",
+  "residency": {
+   "id": 3361,
+   "guid": "8890d219-ed9c-401a-9288-7bd4e2f3874c",
+   "reference": "3361",
+   "name": "PARIS 61",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59543,
+   "guid": "d0413f58-ea43-49b8-8594-21c690ed1353",
+   "reference": "59543",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 52.0,
+   "municipality": {
+    "id": 29659,
+    "postcode": "75020",
+    "code": "75120",
+    "name": "Paris 20e Arrondissement"
+   },
+   "description": "Exclusivité - appartement 2 pièces de 52.0 m² à Paris  Sans frais d'agence.  Le bien bénéficie d'un séjour et d'une cuisine séparée.  L'immeuble est au premier étage avec ascenseur. Une gardienne est présente.  Chauffage collectif. Un emplacement de parking est inclus.  Quartier vivant desservi par plusieurs lignes de métro dont les stations Porte de Bagnolet, Porte de Montreuil, Maraîchers, Gallieni et Gambetta, ainsi que la ligne de tramway T3b avec la station Marie de Miribel. Commerces à proximité."
+  },
+  "availableAt": "2026-10-13",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1384.73,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d0/d0413f58-ea43-49b8-8594-21c690ed1353/medium/d6eeb2dd-a9cc-47b7-a6f1-77a41b149fc6",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité - appartement 2 pièces de 52.0 m² à Paris  Sans frais d'agence.  Le bien bénéficie d'un séjour et d'une cuisine séparée.  L'immeuble est au premier étage avec ascenseur. Une gardienne est présente.  Chauffage collectif. Un emplacement de parking est inclus.  Quartier vivant desservi par plusieurs lignes de métro dont les stations Porte de Bagnolet, Porte de Montreuil, Maraîchers, Gallieni et Gambetta, ainsi que la ligne de tramway T3b avec la station Marie de Miribel. Commerces à proximité.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51965,
+  "guid": "67f494c8-1894-4b42-879c-8c7e7df704f0",
+  "reference": "51965",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d0/d0413f58-ea43-49b8-8594-21c690ed1353/large/187d1e1d-808f-4fce-9d2a-e465e4ddc5f2",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59543,
+   "guid": "d0413f58-ea43-49b8-8594-21c690ed1353",
+   "reference": "59543",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 52.0,
+   "municipality": {
+    "id": 29659,
+    "postcode": "75020",
+    "code": "75120",
+    "name": "Paris 20e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 3361,
+   "guid": "8890d219-ed9c-401a-9288-7bd4e2f3874c",
+   "reference": "3361",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-13",
+  "endDateOfPublication": "2027-10-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 2 pièces de 52.0 m² à Paris  Sans frais d'agence.  Le bien bénéficie d'un séjour et d'une cuisine séparée.  L'immeuble est au premier étage avec ascenseur. Une gardienne est présente.  Chauffage collectif. Un emplacement de parking est inclus.  Quartier vivant desservi par plusieurs lignes de métro dont les stations Porte de Bagnolet, Porte de Montreuil, Maraîchers, Gallieni et Gambetta, ainsi que la ligne de tramway T3b avec la station Marie de Miribel. Commerces à proximité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1118.0,
+  "rentChargeAmount": 184.1,
+  "rentParkingAmount": 82.63,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1188.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
