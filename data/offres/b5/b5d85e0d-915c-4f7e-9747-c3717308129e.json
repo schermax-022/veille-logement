@@ -1,0 +1,289 @@
+{
+ "guid": "b5d85e0d-915c-4f7e-9747-c3717308129e",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-13T17:20:47+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-13T17:20:47+02:00",
+ "liste": {
+  "id": 51959,
+  "guid": "b5d85e0d-915c-4f7e-9747-c3717308129e",
+  "reference": "51959",
+  "residency": {
+   "id": 8429,
+   "guid": "eeb8b17a-1591-42e4-86d7-3d82aface1d7",
+   "reference": "8429",
+   "name": "FRANÇOIS GUILLET II",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59538,
+   "guid": "2082fab9-6340-4cf1-9288-cff7eca78088",
+   "reference": "59538",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 10.0,
+   "municipality": {
+    "id": 34263,
+    "postcode": "89000",
+    "code": "89024",
+    "name": "Auxerre"
+   },
+   "description": "Les chambres de 10 m² comportent : un lit, un bureau, une armoire, des étagères. \n\nElles se composent également d'une salle d'eau individuelle et WC individuel. "
+  },
+  "availableAt": "2026-12-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 359.96,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/20/2082fab9-6340-4cf1-9288-cff7eca78088/medium/1b9f4299-bae6-4c25-8351-8236bea63b80",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence jeunes François Guillet II propose des logements adaptés aux jeunes de 16 à 25 ans qui débutent dans la vie professionnelle. \nÀ 10 minutes du centre-ville d'Auxerre, les 86 chambres individuelles, toutes meublées et équipées, offrent un cadre pratique avec salle d'eau individuelle, cuisine collective, wifi, laverie et espaces communs. \nLes résidents profitent d'un lieu où rencontres et bien-être se conjuguent au quotidien. \nJardin et animations animent la vie sur place. \nL'équipe socio-éducative accompagne les jeunes tout au long de leur séjour dans leur projet personnalisé pour faciliter leur autonomie.\n\nLes chambres de 10 m² comportent : un lit, un bureau, une armoire, des étagères. \n\nElles se composent également d'une salle d'eau individuelle et WC individuel. \n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51959,
+  "guid": "b5d85e0d-915c-4f7e-9747-c3717308129e",
+  "reference": "51959",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/20/2082fab9-6340-4cf1-9288-cff7eca78088/large/c72e8753-bc7b-4554-b436-bc585b6f6867",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/20/2082fab9-6340-4cf1-9288-cff7eca78088/large/92ac9c11-47e4-4a13-9184-c85197fc04f2",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59538,
+   "guid": "2082fab9-6340-4cf1-9288-cff7eca78088",
+   "reference": "59538",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 10.0,
+   "municipality": {
+    "id": 34263,
+    "postcode": "89000",
+    "code": "89024",
+    "name": "Auxerre"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8429,
+   "guid": "eeb8b17a-1591-42e4-86d7-3d82aface1d7",
+   "reference": "8429",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "RES",
+     "label": "Services de restauration",
+     "isIncluded": true
+    },
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    },
+    {
+     "id": 3,
+     "ordering": 4,
+     "code": "LIG",
+     "label": "Service de lingerie (location de draps et serviettes)",
+     "isIncluded": false
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-31",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence jeunes François Guillet II propose des logements adaptés aux jeunes de 16 à 25 ans qui débutent dans la vie professionnelle. \nÀ 10 minutes du centre-ville d'Auxerre, les 86 chambres individuelles, toutes meublées et équipées, offrent un cadre pratique avec salle d'eau individuelle, cuisine collective, wifi, laverie et espaces communs. \nLes résidents profitent d'un lieu où rencontres et bien-être se conjuguent au quotidien. \nJardin et animations animent la vie sur place. \nL'équipe socio-éducative accompagne les jeunes tout au long de leur séjour dans leur projet personnalisé pour faciliter leur autonomie.\n\nLes chambres de 10 m² comportent : un lit, un bureau, une armoire, des étagères. \n\nElles se composent également d'une salle d'eau individuelle et WC individuel. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 359.96,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 25,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
