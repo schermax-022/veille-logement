@@ -1,0 +1,268 @@
+{
+ "guid": "4a52b54c-5ddc-497a-a6ee-a6aff99305c7",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-13T15:59:12+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-13T15:59:12+02:00",
+ "liste": {
+  "id": 51936,
+  "guid": "4a52b54c-5ddc-497a-a6ee-a6aff99305c7",
+  "reference": "51936",
+  "residency": {
+   "id": 1656,
+   "guid": "a0f7b262-a333-40b0-aee7-18b3780fa8dc",
+   "reference": "1656",
+   "name": "LYON BLANCHISSERIES",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 17280,
+   "guid": "fbd70db4-34ac-4e1e-840c-d3a4f764d3f3",
+   "reference": "17280",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.5,
+   "municipality": {
+    "id": 27612,
+    "postcode": "69006",
+    "code": "69386",
+    "name": "Lyon 6e Arrondissement"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-31",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 628.83,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fbd70db4-34ac-4e1e-840c-d3a4f764d3f3/medium/d087597c-6e75-4224-aabf-f879427ffb89",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence ADOMA BLANCHISSERIE située Rue Sainte Genenvieve 69006 LYON.\nA moins de 10 minutes à pied de la gare Part Dieu.\nTransports en commun: Ligne C3 arrêt \"Thiers Lafayette\".\n\nAppartement meublé et équipé situé au 2ème étage avec ascenseur. \nLogement disponible à partir du 31/10/2026.\nLa redevance inclus  toutes les charges, le chauffage, l'eau chaude, l'eau froide et l'électricité.\nLe mode de chauffage est collectif.\n\n Merci de situer l'environnement avant de postuler à une offre.\n Les animaux sont interdits dans la résidence.\n\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51936,
+  "guid": "4a52b54c-5ddc-497a-a6ee-a6aff99305c7",
+  "reference": "51936",
+  "offerNumber": 3,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fbd70db4-34ac-4e1e-840c-d3a4f764d3f3/large/df168559-516c-4491-8d6a-da7d5cf602aa",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 17280,
+   "guid": "fbd70db4-34ac-4e1e-840c-d3a4f764d3f3",
+   "reference": "17280",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.5,
+   "municipality": {
+    "id": 27612,
+    "postcode": "69006",
+    "code": "69386",
+    "name": "Lyon 6e Arrondissement"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 1656,
+   "guid": "a0f7b262-a333-40b0-aee7-18b3780fa8dc",
+   "reference": "1656",
+   "livingRules": null,
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-31",
+  "endDateOfPublication": "2026-10-20",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence ADOMA BLANCHISSERIE située Rue Sainte Genenvieve 69006 LYON.\nA moins de 10 minutes à pied de la gare Part Dieu.\nTransports en commun: Ligne C3 arrêt \"Thiers Lafayette\".\n\nAppartement meublé et équipé situé au 2ème étage avec ascenseur. \nLogement disponible à partir du 31/10/2026.\nLa redevance inclus  toutes les charges, le chauffage, l'eau chaude, l'eau froide et l'électricité.\nLe mode de chauffage est collectif.\n\n Merci de situer l'environnement avant de postuler à une offre.\n Les animaux sont interdits dans la résidence.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 628.83,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 628.83,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 35,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
