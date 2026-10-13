@@ -1,0 +1,272 @@
+{
+ "guid": "2c5b1bba-d767-431d-a983-5da891001cb6",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-13T08:24:50+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-13T08:24:50+02:00",
+ "liste": {
+  "id": 44039,
+  "guid": "2c5b1bba-d767-431d-a983-5da891001cb6",
+  "reference": "44039",
+  "residency": {
+   "id": 5374,
+   "guid": "009e1c70-5c15-4164-b1e9-32e147681f23",
+   "reference": "5374",
+   "name": "MARLY LE ROI",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 34681,
+   "guid": "26f272ea-f230-4e4d-8dbf-0d097e326af7",
+   "reference": "34681",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 60.0,
+   "municipality": {
+    "id": 31026,
+    "postcode": "78160",
+    "code": "78372",
+    "name": "Marly-le-Roi"
+   },
+   "description": ""
+  },
+  "availableAt": "2025-10-14",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1222.54,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 32.5,
+  "startDateOfPublication": "2026-10-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/26/26f272ea-f230-4e4d-8dbf-0d097e326af7/medium/665cd6a8-dd09-4144-9e33-886435dac44f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Dans une résidence dans la commune de Marly Le Roi (Av. de Saint-Germain), à proximité des commerces et de transports en commun.\nAppartement de 3 pièces d'une superficie de 60m² situé au 2ème étage. Chauffage collectif avec ascenseur.\nLa gare la plus proche est celle de Marly-le-Roi (Transilien L).\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 44039,
+  "guid": "2c5b1bba-d767-431d-a983-5da891001cb6",
+  "reference": "44039",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/26/26f272ea-f230-4e4d-8dbf-0d097e326af7/large/34eafe79-08e1-454b-860a-89053e470ae7",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/26/26f272ea-f230-4e4d-8dbf-0d097e326af7/large/1b8a5b0b-ff46-4ed8-835f-ead4386db879",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/26/26f272ea-f230-4e4d-8dbf-0d097e326af7/large/7c3858f8-449f-47e8-9fe6-2b66cab959d2",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/26/26f272ea-f230-4e4d-8dbf-0d097e326af7/large/59496d47-2cf3-42be-9f49-ecc3223e2efb",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/26/26f272ea-f230-4e4d-8dbf-0d097e326af7/large/a7c62ad4-1feb-4209-8ffb-934811d6fa96",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 34681,
+   "guid": "26f272ea-f230-4e4d-8dbf-0d097e326af7",
+   "reference": "34681",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 60.0,
+   "municipality": {
+    "id": 31026,
+    "postcode": "78160",
+    "code": "78372",
+    "name": "Marly-le-Roi"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 5374,
+   "guid": "009e1c70-5c15-4164-b1e9-32e147681f23",
+   "reference": "5374",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2025-10-15",
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-10-14",
+  "endDateOfPublication": "2026-10-27",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Dans une résidence dans la commune de Marly Le Roi (Av. de Saint-Germain), à proximité des commerces et de transports en commun.\nAppartement de 3 pièces d'une superficie de 60m² situé au 2ème étage. Chauffage collectif avec ascenseur.\nLa gare la plus proche est celle de Marly-le-Roi (Transilien L).\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 860.44,
+  "rentChargeAmount": 289.18,
+  "rentParkingAmount": 40.42,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 860.44,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 32.5,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
