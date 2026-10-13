@@ -1,0 +1,248 @@
+{
+ "guid": "c587fb9b-5cdc-41a8-beb8-05a470c410bc",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-13T16:55:10+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-13T16:55:10+02:00",
+ "liste": {
+  "id": 51895,
+  "guid": "c587fb9b-5cdc-41a8-beb8-05a470c410bc",
+  "reference": "51895",
+  "residency": {
+   "id": 5658,
+   "guid": "7d51cd01-72d0-44e5-afd8-20a14ec1be9a",
+   "reference": "5658",
+   "name": "LGT 6301",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 37630,
+   "guid": "8d446eac-ed8c-4d5b-bb03-6ce4ffc130a5",
+   "reference": "37630",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 50.0,
+   "municipality": {
+    "id": 34992,
+    "postcode": "92500",
+    "code": "92063",
+    "name": "Rueil-Malmaison"
+   },
+   "description": ""
+  },
+  "availableAt": "2025-10-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1090.23,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "startDateOfPublication": "2026-10-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8d/8d446eac-ed8c-4d5b-bb03-6ce4ffc130a5/medium/7ab2053c-de00-4ed8-a92d-4ee32eb11118",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Découvrez cet appartement à Rueil-Malmaison (Rue Lionel Terray) :\n\nTRANSPORTS : Nombreuses lignes de bus, gare RER A (la Défense en 25 mn) et future gare Rueil-Suresnes Mont-Valérien (Métro ligne 15 du Grand Paris Express). Accès routiers A86 et D913 (Paris en 25 mn).\nECOLES : Crèches, Assistantes Maternelles Agréées, écoles maternelles et primaires, collèges, lycées, établissements d’enseignement supérieur.\nCOMMERCES : Commerces de proximité, plusieurs marchés. Centre commercial de La Défense. \nSERVICES DIVERS : Cinémas, théâtre, conservatoire, médiathèque, nombreuses associations. Centre aquatique, Piscine. Clinique, Centre hospitalier.\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51895,
+  "guid": "c587fb9b-5cdc-41a8-beb8-05a470c410bc",
+  "reference": "51895",
+  "offerNumber": 4,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8d/8d446eac-ed8c-4d5b-bb03-6ce4ffc130a5/large/8d4dbc35-09db-439c-a197-c9c1ed47307a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 37630,
+   "guid": "8d446eac-ed8c-4d5b-bb03-6ce4ffc130a5",
+   "reference": "37630",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 50.0,
+   "municipality": {
+    "id": 34992,
+    "postcode": "92500",
+    "code": "92063",
+    "name": "Rueil-Malmaison"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 5658,
+   "guid": "7d51cd01-72d0-44e5-afd8-20a14ec1be9a",
+   "reference": "5658",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2022-01-01",
+   "constructionYear": 2022,
+   "lastRehabilitatedDate": "2025-11-03"
+  },
+  "availableAt": "2025-10-31",
+  "endDateOfPublication": "2026-11-11",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Découvrez cet appartement à Rueil-Malmaison (Rue Lionel Terray) :\n\nTRANSPORTS : Nombreuses lignes de bus, gare RER A (la Défense en 25 mn) et future gare Rueil-Suresnes Mont-Valérien (Métro ligne 15 du Grand Paris Express). Accès routiers A86 et D913 (Paris en 25 mn).\nECOLES : Crèches, Assistantes Maternelles Agréées, écoles maternelles et primaires, collèges, lycées, établissements d’enseignement supérieur.\nCOMMERCES : Commerces de proximité, plusieurs marchés. Centre commercial de La Défense. \nSERVICES DIVERS : Cinémas, théâtre, conservatoire, médiathèque, nombreuses associations. Centre aquatique, Piscine. Clinique, Centre hospitalier.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 845.88,
+  "rentChargeAmount": 244.35,
+  "rentParkingAmount": 30.31,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 845.88,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
