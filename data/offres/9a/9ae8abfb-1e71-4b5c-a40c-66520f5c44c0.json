@@ -1,17 +1,17 @@
 {
  "guid": "9ae8abfb-1e71-4b5c-a40c-66520f5c44c0",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-09T23:47:11+02:00",
- "absente_depuis": "2026-10-10T00:16:30+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-10T00:16:30+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T19:47:43+02:00",
+ "fiche_recuperee_le": "2026-10-13T14:58:51+02:00",
  "liste": {
   "id": 7830,
   "guid": "9ae8abfb-1e71-4b5c-a40c-66520f5c44c0",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-03-24",
+  "startDateOfPublication": "2026-10-13",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/37/377f87ad-0464-4d42-844e-4593173fb12a/medium/d47cb1d1-89c9-4ab8-8650-0549282e3d71",
@@ -291,7 +291,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2025-05-18",
-  "endDateOfPublication": "2026-10-09",
+  "endDateOfPublication": "2027-03-11",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "La Résidence Habitat Jeunes - CAP JEUNES - ADALI HABITAT vous propose des chambres et T2 meublés, avec accès aux équipements collectifs (TV, billard, babyfoot…). Ce programme est idéalement situé au 36 Avenue Ernest Colin à SAINT-DIE-DES-VOSGES, à proximité immédiate du centre-ville. \n\nStudio d'une surface de 24 m², dont la redevance mensuelle s'élève à 410 €. Ce logement est meublé avec salle d'eau / WC / lit, bureau, chaise et cuisine.\n\n",
@@ -310,7 +310,20 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,

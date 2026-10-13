@@ -1,0 +1,255 @@
+{
+ "guid": "2eb06f07-52c8-4808-a402-2e30300ba5b8",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-13T14:58:51+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-13T14:58:51+02:00",
+ "liste": {
+  "id": 51506,
+  "guid": "2eb06f07-52c8-4808-a402-2e30300ba5b8",
+  "reference": "51506",
+  "residency": {
+   "id": 8336,
+   "guid": "22e79d8f-24b2-4435-af3e-ee97e18c6954",
+   "reference": "8336",
+   "name": "RUEIL MALMAISON ARSENAL",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59001,
+   "guid": "9a43e211-0f03-429c-b9d2-2189dc180dd2",
+   "reference": "59001",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 41.0,
+   "municipality": {
+    "id": 34992,
+    "postcode": "92500",
+    "code": "92063",
+    "name": "Rueil-Malmaison"
+   },
+   "description": "T2 41M² au 4eme étage avec un petit balcon La résidence dispose d'un ascenseur La résidence est située ALLEE PIERRE JOSEPH REDOUTE 92500 RUEIL MALMAISON"
+  },
+  "availableAt": "2026-11-07",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1030.4,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9a43e211-0f03-429c-b9d2-2189dc180dd2/medium/1853fc1a-db26-4067-80b1-c16b96a5d5f3",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La commune de RUEIL MALMAISON bénéficie de commerces, d'établissements scolaires, un accès à la culture, à divers sports, arts et loisirs. Accédez aux transports en commun lignes L, U et Tramway T2 gare de Suresnes par le bus 263.",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51506,
+  "guid": "2eb06f07-52c8-4808-a402-2e30300ba5b8",
+  "reference": "51506",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9a43e211-0f03-429c-b9d2-2189dc180dd2/large/7337503d-6412-4a20-9e27-c4cc2d536439",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59001,
+   "guid": "9a43e211-0f03-429c-b9d2-2189dc180dd2",
+   "reference": "59001",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 41.0,
+   "municipality": {
+    "id": 34992,
+    "postcode": "92500",
+    "code": "92063",
+    "name": "Rueil-Malmaison"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 8336,
+   "guid": "22e79d8f-24b2-4435-af3e-ee97e18c6954",
+   "reference": "8336",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2021-10-18",
+   "constructionYear": 2019,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-07",
+  "endDateOfPublication": "2026-10-17",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La commune de RUEIL MALMAISON bénéficie de commerces, d'établissements scolaires, un accès à la culture, à divers sports, arts et loisirs. Accédez aux transports en commun lignes L, U et Tramway T2 gare de Suresnes par le bus 263.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 881.72,
+  "rentChargeAmount": 148.68,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 881.72,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
