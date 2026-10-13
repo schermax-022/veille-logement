@@ -1,17 +1,17 @@
 {
  "guid": "8042e428-84d3-4dee-852e-aecf0f01b9c5",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-12T11:52:29+02:00",
- "absente_depuis": "2026-10-12T12:20:14+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-12T12:20:14+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-12T08:26:06+02:00",
+ "fiche_recuperee_le": "2026-10-13T12:51:39+02:00",
  "liste": {
   "id": 49023,
   "guid": "8042e428-84d3-4dee-852e-aecf0f01b9c5",
@@ -60,9 +60,9 @@
     "code": "67326",
     "name": "Niederhausbergen"
    },
-   "description": "SANS FRAIS D'AGENCE NI HONORAIRES. Venez découvrir ce T3 de 60,58² situé au 1er étage, composé d’une entrée avec placard, une cuisine ouverte (non équipée) sur salon/séjour donnant sur une terrasse, deux chambres, une salle d’eau et WC séparé. En annexe deux places de stationnement en sous-sol. Chauffage collectif et eau froide compris dans les charges.Vidéo du logement disponible à la demande."
+   "description": "SANS FRAIS D'AGENCE NI HONORAIRES. Venez découvrir ce T3 de 60,58² situé au 1er étage, composé d’une entrée avec placard, une cuisine ouverte (non équipée) sur salon/séjour donnant sur un balcon, deux chambres, une salle d’eau et WC séparé. En annexe deux places de stationnement en sous-sol. Chauffage collectif et eau froide compris dans les charges."
   },
-  "availableAt": "2026-10-12",
+  "availableAt": "2026-10-13",
   "isLodgingFirstTimeAvailable": false,
   "paymentType": {
    "id": 2,
@@ -77,7 +77,7 @@
   "startDateOfPublication": "2026-09-14",
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/84/84c4e258-8e8c-48ef-bdc7-e4eb686dfced/medium/521f21a9-8abb-4d79-82f6-5a0a0a88d23c",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/84c4e258-8e8c-48ef-bdc7-e4eb686dfced/medium/6f2b1a39-911b-46cd-b848-82b4d560eb36",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "MEDIUM"
@@ -102,15 +102,45 @@
   "demandGuid": null,
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/84/84c4e258-8e8c-48ef-bdc7-e4eb686dfced/large/711be31a-9b3f-4124-9a99-95830e6a2f18",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/84c4e258-8e8c-48ef-bdc7-e4eb686dfced/large/f9aae5fc-9bf2-4d35-bddd-71d7e7283878",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/84/84c4e258-8e8c-48ef-bdc7-e4eb686dfced/large/3f36019c-e42c-4c17-a1b2-0028f694f369",
-    "urlContentType": "image/png",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/84c4e258-8e8c-48ef-bdc7-e4eb686dfced/large/73aa0033-953f-4edb-9a66-e879bd908aef",
+    "urlContentType": "image/jpeg",
     "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/84c4e258-8e8c-48ef-bdc7-e4eb686dfced/large/2812ed0f-2e21-4064-ab80-12d61dc1506d",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/84c4e258-8e8c-48ef-bdc7-e4eb686dfced/large/464c205e-19ef-482c-8cc6-0e772a88ac35",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/84c4e258-8e8c-48ef-bdc7-e4eb686dfced/large/dff07bfc-a91e-4c3e-b247-e95e5ee4d439",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/84c4e258-8e8c-48ef-bdc7-e4eb686dfced/large/90dc0341-979a-4a29-9848-4b4c1194ea6c",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/84c4e258-8e8c-48ef-bdc7-e4eb686dfced/large/3db3a623-a240-400f-a281-0956aea10790",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
     "dimension": "LARGE"
    }
   ],
@@ -220,7 +250,7 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-10-12",
+  "availableAt": "2026-10-13",
   "endDateOfPublication": "2027-09-13",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
