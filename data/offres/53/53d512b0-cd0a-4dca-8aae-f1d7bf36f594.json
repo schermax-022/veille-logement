@@ -1,0 +1,270 @@
+{
+ "guid": "53d512b0-cd0a-4dca-8aae-f1d7bf36f594",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-14T16:05:48+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-14T16:05:48+02:00",
+ "liste": {
+  "id": 38987,
+  "guid": "53d512b0-cd0a-4dca-8aae-f1d7bf36f594",
+  "reference": "38987",
+  "residency": {
+   "id": 3226,
+   "guid": "cf2c0e93-35bc-4fe0-9eb7-43e1070e827f",
+   "reference": "3226",
+   "name": "AMBERIEU-EN-BUGEY - ROGER SALENGRO",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 48674,
+   "guid": "448f492d-8713-4811-be27-b898e9a5d592",
+   "reference": "48674",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 45.0,
+   "municipality": {
+    "id": 3,
+    "postcode": "01500",
+    "code": "01004",
+    "name": "Ambérieu-en-Bugey"
+   },
+   "description": "Un appartement de type 2 comprenant : un séjour cuisine, une chambre, une salle d'eau avec wc, un balcon."
+  },
+  "availableAt": "2026-06-08",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 586.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-14",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/44/448f492d-8713-4811-be27-b898e9a5d592/medium/520657a6-cf86-4487-9f09-2dd31fdb104c",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence récente à proximité du centre ville d'Ambérieu en Bugey (1km), proche des commodités et à 3 min à pied de la gare.\nContrôle d'accès avec un interphone.\n\nAppartement de type 2 situé Avenue Roger Salengro comprenant :  un séjour cuisine, une chambre, une salle d'eau avec wc, un balcon. ",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 38987,
+  "guid": "53d512b0-cd0a-4dca-8aae-f1d7bf36f594",
+  "reference": "38987",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/44/448f492d-8713-4811-be27-b898e9a5d592/large/348e4e46-c87c-46b3-ba01-2209d39c1fea",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/44/448f492d-8713-4811-be27-b898e9a5d592/large/15a6cbeb-07c3-47aa-9ba5-ec3399e157a4",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 48674,
+   "guid": "448f492d-8713-4811-be27-b898e9a5d592",
+   "reference": "48674",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 45.0,
+   "municipality": {
+    "id": 3,
+    "postcode": "01500",
+    "code": "01004",
+    "name": "Ambérieu-en-Bugey"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "CEL",
+     "label": "Cellier"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3226,
+   "guid": "cf2c0e93-35bc-4fe0-9eb7-43e1070e827f",
+   "reference": "3226",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-06-08",
+  "endDateOfPublication": "2026-12-02",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence récente à proximité du centre ville d'Ambérieu en Bugey (1km), proche des commodités et à 3 min à pied de la gare.\nContrôle d'accès avec un interphone.\n\nAppartement de type 2 situé Avenue Roger Salengro comprenant :  un séjour cuisine, une chambre, une salle d'eau avec wc, un balcon. ",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 515.0,
+  "rentChargeAmount": 71.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 515.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

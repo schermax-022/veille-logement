@@ -11,7 +11,7 @@
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
+ "fiche_recuperee_le": "2026-10-14T16:05:48+02:00",
  "liste": {
   "id": 51435,
   "guid": "8a1abbba-ba8b-4b5c-83d6-6feebac71f05",
@@ -42,11 +42,11 @@
    "lodgingType": "IDENTIFIED",
    "lodgingCategory": null,
    "lodgingTypology": {
-    "id": 3,
-    "ordering": 2,
-    "code": "T1",
-    "label": "T1",
-    "commercialLabel": "T1"
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
    },
    "area": 25.0,
    "municipality": {
@@ -110,11 +110,11 @@
    "lodgingType": "IDENTIFIED",
    "lodgingCategory": null,
    "lodgingTypology": {
-    "id": 3,
-    "ordering": 2,
-    "code": "T1",
-    "label": "T1",
-    "commercialLabel": "T1"
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
    },
    "area": 25.0,
    "municipality": {
@@ -225,7 +225,20 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 24,
+    "listValues": []
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
