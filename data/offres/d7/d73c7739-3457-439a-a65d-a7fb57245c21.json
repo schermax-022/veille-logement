@@ -1,0 +1,250 @@
+{
+ "guid": "d73c7739-3457-439a-a65d-a7fb57245c21",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-14T15:10:59+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-14T15:10:59+02:00",
+ "liste": {
+  "id": 51916,
+  "guid": "d73c7739-3457-439a-a65d-a7fb57245c21",
+  "reference": "51916",
+  "residency": {
+   "id": 3756,
+   "guid": "54c8131d-f346-4c1b-91a6-65cb5f5d1507",
+   "reference": "3756",
+   "name": "LILLE - RUE DE L'ASIE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 45870,
+   "guid": "55d2c9c5-150f-49b4-81a8-72be4f7ece52",
+   "reference": "45870",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 77.12,
+   "municipality": {
+    "id": 22449,
+    "postcode": "59000",
+    "code": "59350",
+    "name": "Lille"
+   },
+   "description": "Un appartement de type 3 comprenant : un séjour simple, une cuisine ouverte equipée, un dégagement, 2 chambres avec placards, un wc séparé, une sdb, une buanderie"
+  },
+  "availableAt": "2026-04-20",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 845.7,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-14",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/55/55d2c9c5-150f-49b4-81a8-72be4f7ece52/medium/00a83cf6-3f29-4704-bc37-114903978d46",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A Lille, situé rue de l'Asie, à proximité de l'école maternelle Briqueterie et de la médiathèque Lille Sud.\n\nNous vous proposons  appartement comprenant : un séjour simple, une cuisine ouverte equipée, un dégagement, 2 chambres avec placards, un wc séparé, une sdb, une buanderie \n\nLe loyer charges comprises inclus une place de stationnement en box. \n\nCondition d'éligibilité d’attribution :\nCatégorie de ménage - 2 personnes dont le plancher de ressources mensuelles dépasse 2 920€.\nCatégorie de ménage - 3 personnes dont le plancher de ressources mensuelles dépasse 3 511€.\n\nEn cas d'instruction, un conseiller prendra contact avec vous afin de vous indiquer l’éligibilité de votre dossier.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51916,
+  "guid": "d73c7739-3457-439a-a65d-a7fb57245c21",
+  "reference": "51916",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/55/55d2c9c5-150f-49b4-81a8-72be4f7ece52/large/dfca5ffc-c10c-4323-af2b-0e6b0a8d1fdd",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 45870,
+   "guid": "55d2c9c5-150f-49b4-81a8-72be4f7ece52",
+   "reference": "45870",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 77.12,
+   "municipality": {
+    "id": 22449,
+    "postcode": "59000",
+    "code": "59350",
+    "name": "Lille"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3756,
+   "guid": "54c8131d-f346-4c1b-91a6-65cb5f5d1507",
+   "reference": "3756",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2016,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-04-20",
+  "endDateOfPublication": "2026-11-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A Lille, situé rue de l'Asie, à proximité de l'école maternelle Briqueterie et de la médiathèque Lille Sud.\n\nNous vous proposons  appartement comprenant : un séjour simple, une cuisine ouverte equipée, un dégagement, 2 chambres avec placards, un wc séparé, une sdb, une buanderie \n\nLe loyer charges comprises inclus une place de stationnement en box. \n\nCondition d'éligibilité d’attribution :\nCatégorie de ménage - 2 personnes dont le plancher de ressources mensuelles dépasse 2 920€.\nCatégorie de ménage - 3 personnes dont le plancher de ressources mensuelles dépasse 3 511€.\n\nEn cas d'instruction, un conseiller prendra contact avec vous afin de vous indiquer l’éligibilité de votre dossier.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 695.7,
+  "rentChargeAmount": 150.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 695.7,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

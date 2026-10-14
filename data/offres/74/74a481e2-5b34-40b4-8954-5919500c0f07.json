@@ -1,0 +1,260 @@
+{
+ "guid": "74a481e2-5b34-40b4-8954-5919500c0f07",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-14T15:10:59+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-14T15:10:59+02:00",
+ "liste": {
+  "id": 52048,
+  "guid": "74a481e2-5b34-40b4-8954-5919500c0f07",
+  "reference": "52048",
+  "residency": {
+   "id": 7663,
+   "guid": "3af5421d-9944-4e48-bb13-0bdb60ed2a8a",
+   "reference": "7663",
+   "name": "RESIDENCE LAVALANCE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59590,
+   "guid": "192044fb-657b-46f6-a77a-f06f2f7d1f95",
+   "reference": "59590",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 126.0,
+   "municipality": {
+    "id": 12527,
+    "postcode": "33200",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "description": "Nous vous proposons un appartement non meublé composé d'un séjour,  cuisine non équipée, 4 chambres, salle d'eau avec WC. \nPossibilité de louer un garage ou une place de parking suivant disponibilité. \n"
+  },
+  "availableAt": "2026-10-14",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1089.23,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-14",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/19/192044fb-657b-46f6-a77a-f06f2f7d1f95/medium/456dbec7-2d9d-4e10-9576-d6a08ab82da4",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence Lavalance se situe rue Pasteur, à proximité des commerces et services : transports en commun (ligne de bus 16), supermarché, boulangerie, cabinets médicaux, parc de Lussy, Stade Bel Air...\nL'ensemble immobilier est composé d'un seul bâtiment de 4 étages. \n\nNous vous proposons un appartement non meublé composé d'un séjour,  cuisine non équipée, 4 chambres, salle d'eau avec WC. \nPossibilité de louer un garage ou une place de parking suivant disponibilité. \n\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52048,
+  "guid": "74a481e2-5b34-40b4-8954-5919500c0f07",
+  "reference": "52048",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/19/192044fb-657b-46f6-a77a-f06f2f7d1f95/large/cf29fbb6-900c-4d14-8a40-f4cc6a8fa5a3",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/19/192044fb-657b-46f6-a77a-f06f2f7d1f95/large/15ba4f57-df20-4a12-909e-e04e6a751231",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/19/192044fb-657b-46f6-a77a-f06f2f7d1f95/large/45c75fe8-5ea6-4be3-9b0c-10ac69757869",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59590,
+   "guid": "192044fb-657b-46f6-a77a-f06f2f7d1f95",
+   "reference": "59590",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 126.0,
+   "municipality": {
+    "id": 12527,
+    "postcode": "33200",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    },
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 4
+  },
+  "residency": {
+   "id": 7663,
+   "guid": "3af5421d-9944-4e48-bb13-0bdb60ed2a8a",
+   "reference": "7663",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 1978,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-14",
+  "endDateOfPublication": "2026-11-14",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence Lavalance se situe rue Pasteur, à proximité des commerces et services : transports en commun (ligne de bus 16), supermarché, boulangerie, cabinets médicaux, parc de Lussy, Stade Bel Air...\nL'ensemble immobilier est composé d'un seul bâtiment de 4 étages. \n\nNous vous proposons un appartement non meublé composé d'un séjour,  cuisine non équipée, 4 chambres, salle d'eau avec WC. \nPossibilité de louer un garage ou une place de parking suivant disponibilité. \n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 906.47,
+  "rentChargeAmount": 182.76,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 906.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
