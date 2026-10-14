@@ -1,17 +1,17 @@
 {
  "guid": "ed80034d-8787-4643-8011-b1e1171f7dc4",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-13T07:49:59+02:00",
- "absente_depuis": "2026-10-13T08:24:50+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-13T08:24:50+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-12T08:26:06+02:00",
+ "fiche_recuperee_le": "2026-10-14T20:02:20+02:00",
  "liste": {
   "id": 29555,
   "guid": "ed80034d-8787-4643-8011-b1e1171f7dc4",
@@ -62,7 +62,7 @@
    },
    "description": "Exclusivité - appartement 4 pièces de 79 m² à Sèvres avec balcon.  Sans frais d'agence.  L'espace de vie bénéficie d'un salon, d'une cuisine indépendante, de trois chambres et d'une salle de bains. Un WC séparé complète le bien.  Le bâtiment comprend un gardien, un ascenseur, le bien se situe au 9e étage.  Balcon, cave, chauffage collectif au gaz, une place de parking.  Transports en commun : plusieurs gares RER de la ligne C à proximité, notamment les stations Chaville-Vélizy, Viroflay R.G, Meudon-Val-Fleury et autres. Commerces aux alentours. Établissements scolaires accessibles à proximité."
   },
-  "availableAt": "2026-10-12",
+  "availableAt": "2026-10-14",
   "isLodgingFirstTimeAvailable": false,
   "paymentType": {
    "id": 2,
@@ -108,18 +108,6 @@
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c8bd40d3-e562-4ac8-b32d-569fecd97ad0/large/f1e9bd17-d6d6-4f7b-8a79-6fb25666d701",
-    "urlContentType": "image/jpeg",
-    "ordering": 1,
-    "dimension": "LARGE"
-   },
-   {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c8bd40d3-e562-4ac8-b32d-569fecd97ad0/large/404496a5-37f3-49d9-954b-8baf51dd597b",
-    "urlContentType": "image/jpeg",
-    "ordering": 2,
-    "dimension": "LARGE"
-   },
-   {
     "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c8bd40d3-e562-4ac8-b32d-569fecd97ad0/large/4221e140-0216-4f71-8924-cd624f9d8c35",
     "urlContentType": "image/jpeg",
     "ordering": 3,
@@ -129,6 +117,18 @@
     "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c8bd40d3-e562-4ac8-b32d-569fecd97ad0/large/6213dd5b-665f-4b49-994a-98184447de63",
     "urlContentType": "image/jpeg",
     "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c8bd40d3-e562-4ac8-b32d-569fecd97ad0/large/a8dbfaff-c5a0-4d09-ba9d-ff73a5fa851b",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c8bd40d3-e562-4ac8-b32d-569fecd97ad0/large/a424dcf7-3f10-4d8c-852b-e576448d41d1",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
     "dimension": "LARGE"
    },
    {
@@ -259,7 +259,7 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-10-12",
+  "availableAt": "2026-10-14",
   "endDateOfPublication": "2027-01-12",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
