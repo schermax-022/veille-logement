@@ -1,0 +1,241 @@
+{
+ "guid": "38ce2148-3978-443f-b118-a6e2a7fe1bb0",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-14T17:03:03+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-14T17:03:03+02:00",
+ "liste": {
+  "id": 30358,
+  "guid": "38ce2148-3978-443f-b118-a6e2a7fe1bb0",
+  "reference": "30358",
+  "residency": {
+   "id": 2347,
+   "guid": "42b66467-ff34-40c8-8714-8e20f182c313",
+   "reference": "2347",
+   "name": "MOLIERE",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 41376,
+   "guid": "2241f8a1-1c7b-4d0b-bab2-9f16a03df6f6",
+   "reference": "41376",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 16849,
+    "postcode": "45000",
+    "code": "45234",
+    "name": "Orléans"
+   },
+   "description": "T1 de 22 m² meublé \nkitchenette équipée avec plaques électriques et frigo\nchaise et table, lit simple \nToutes charges incluses dont chauffage. Frais d'inscription et cotisation pour 24€\nPas de présence sur site ; possibilité d'accès aux services collectifs du 28 rue Jacquard 45000 Orléans"
+  },
+  "availableAt": "2026-05-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 465.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-14",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/22/2241f8a1-1c7b-4d0b-bab2-9f16a03df6f6/medium/e6f85d86-d4f8-436f-87d0-3849cfd0863a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "T1 de 22 m² meublé \nkitchenette équipée avec plaques électriques et frigo\nlit simple, chaise et table\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 30358,
+  "guid": "38ce2148-3978-443f-b118-a6e2a7fe1bb0",
+  "reference": "30358",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/22/2241f8a1-1c7b-4d0b-bab2-9f16a03df6f6/large/b053a12b-7c27-4161-ab38-1f88adc86243",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/22/2241f8a1-1c7b-4d0b-bab2-9f16a03df6f6/large/a0d08ab9-e32e-4360-a97d-f6487917d135",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 41376,
+   "guid": "2241f8a1-1c7b-4d0b-bab2-9f16a03df6f6",
+   "reference": "41376",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 16849,
+    "postcode": "45000",
+    "code": "45234",
+    "name": "Orléans"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 2347,
+   "guid": "42b66467-ff34-40c8-8714-8e20f182c313",
+   "reference": "2347",
+   "livingRules": "la résidence combine la proximité immédiate de supérettes de quartier et un accès rapide au principal pôle commercial du centre-ville d'Orléans.\n4 mn en voiture du centre commercial place d'Arc\nArrêts de bus proches, Tramway : arrêt « République », à 2 minutes\n\nT1 meublés (lit, placard-penderie, bureau, chaise, commode, frigo), convention APL\nT1 et T1’ meublés (lit 1 ou 2 personnes, table, chaises, commode, cuisine équipée), convention APL\nAccès sécurisé interphonie.",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "RES",
+     "label": "Services de restauration",
+     "isIncluded": true
+    },
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "SPO",
+     "label": "Salle de sport",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-05-01",
+  "endDateOfPublication": "2026-10-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "T1 de 22 m² meublé \nkitchenette équipée avec plaques électriques et frigo\nlit simple, chaise et table\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 465.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 481.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

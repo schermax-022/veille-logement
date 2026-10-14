@@ -1,0 +1,263 @@
+{
+ "guid": "c6bb3af6-8396-4924-85a4-0e5e816e2062",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-14T17:03:03+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-14T17:03:03+02:00",
+ "liste": {
+  "id": 51980,
+  "guid": "c6bb3af6-8396-4924-85a4-0e5e816e2062",
+  "reference": "51980",
+  "residency": {
+   "id": 4393,
+   "guid": "a9e3f75d-9fe7-43f8-a8df-8cd160252f29",
+   "reference": "4393",
+   "name": "BONDY - BLANQUI",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 48688,
+   "guid": "6b99c8fb-78e1-48a7-a315-96e9b9d9e8df",
+   "reference": "48688",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 31.87,
+   "municipality": {
+    "id": 35006,
+    "postcode": "93140",
+    "code": "93010",
+    "name": "Bondy"
+   },
+   "description": "Un appartement de type 1 comprenant : un séjour cuisine, une salle d'eau avec wc, un balcon."
+  },
+  "availableAt": "2026-09-11",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 696.34,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-14",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6b/6b99c8fb-78e1-48a7-a315-96e9b9d9e8df/medium/6f245040-ed27-4d48-b415-d1c5b58226d5",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A BONDY (Rue Louis Auguste Blanqui), nous vous y proposons un appartement type T1, d’une superficie de 31,87 m² au 2ème étage avec ascenseur.\n\nUn appartement comprenant : un séjour cuisine, une salle d'eau avec wc, un balcon.\n\nChauffage collectif gaz\nDisponibilité prévisionnelle 11/09/2026\nLe bien est géré par une agence immobilière locale qui réalisera l'étude du dossier, la visite, la signature de bail et l'entrée dans les lieux. \nAucuns frais d'agence ne vous sera demandé\n\n  \nPour accéder à ce logement, à la demande du bailleur, la composition familiale à respecter est :\n\n1 couple sans enfant\n1 adulte sans enfant",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51980,
+  "guid": "c6bb3af6-8396-4924-85a4-0e5e816e2062",
+  "reference": "51980",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6b/6b99c8fb-78e1-48a7-a315-96e9b9d9e8df/large/4edaed93-c67e-4bd0-94fc-31247d1fd50b",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6b/6b99c8fb-78e1-48a7-a315-96e9b9d9e8df/large/573f7e43-6787-4187-86f1-b18e48673d13",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 48688,
+   "guid": "6b99c8fb-78e1-48a7-a315-96e9b9d9e8df",
+   "reference": "48688",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 31.87,
+   "municipality": {
+    "id": 35006,
+    "postcode": "93140",
+    "code": "93010",
+    "name": "Bondy"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 4393,
+   "guid": "a9e3f75d-9fe7-43f8-a8df-8cd160252f29",
+   "reference": "4393",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2024,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-11",
+  "endDateOfPublication": "2026-11-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A BONDY (Rue Louis Auguste Blanqui), nous vous y proposons un appartement type T1, d’une superficie de 31,87 m² au 2ème étage avec ascenseur.\n\nUn appartement comprenant : un séjour cuisine, une salle d'eau avec wc, un balcon.\n\nChauffage collectif gaz\nDisponibilité prévisionnelle 11/09/2026\nLe bien est géré par une agence immobilière locale qui réalisera l'étude du dossier, la visite, la signature de bail et l'entrée dans les lieux. \nAucuns frais d'agence ne vous sera demandé\n\n  \nPour accéder à ce logement, à la demande du bailleur, la composition familiale à respecter est :\n\n1 couple sans enfant\n1 adulte sans enfant",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 616.34,
+  "rentChargeAmount": 80.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 616.34,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
