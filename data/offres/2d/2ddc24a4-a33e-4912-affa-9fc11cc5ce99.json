@@ -1,0 +1,255 @@
+{
+ "guid": "2ddc24a4-a33e-4912-affa-9fc11cc5ce99",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-15T09:38:58+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-15T09:38:58+02:00",
+ "liste": {
+  "id": 48684,
+  "guid": "2ddc24a4-a33e-4912-affa-9fc11cc5ce99",
+  "reference": "48684",
+  "residency": {
+   "id": 8035,
+   "guid": "9be22a3c-cfb1-4b73-8f44-40c6a71f4dd2",
+   "reference": "8035",
+   "name": "EKKLESIA",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 56705,
+   "guid": "ac69375c-c15e-445a-8f54-eab7985a6a2e",
+   "reference": "56705",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 43.08,
+   "municipality": {
+    "id": 13000,
+    "postcode": "33140",
+    "code": "33550",
+    "name": "Villenave-d'Ornon"
+   },
+   "description": "Avenue du septième Art - Résidence EKKLESIA\n\nNous vous proposons un appartement composée d'une entrée, d'une cuisine ouverte sur le séjour avec loggia, 1 chambre avec placard, salle d'eau et WC séparés."
+  },
+  "availableAt": "2026-12-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 675.67,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-15",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ac/ac69375c-c15e-445a-8f54-eab7985a6a2e/medium/5dc75a8e-4452-49d2-bf43-142b14467286",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence EKKLESIA se situe Avenue du septième art à proximité des centres commerciaux et services : transports en commun (lignes 23 et 73)\n\nAvenue du septième Art - Résidence EKKLESIA\n\nNous vous proposons un appartement composée d'une entrée, d'une cuisine ouverte sur le séjour avec loggia, 1 chambre avec placard, salle d'eau et WC séparés.\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 48684,
+  "guid": "2ddc24a4-a33e-4912-affa-9fc11cc5ce99",
+  "reference": "48684",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ac/ac69375c-c15e-445a-8f54-eab7985a6a2e/large/ca8762fd-79a7-40a4-b40a-6c69267db559",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ac/ac69375c-c15e-445a-8f54-eab7985a6a2e/large/7321ddb5-4c4a-4273-944b-476285f6bbcf",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56705,
+   "guid": "ac69375c-c15e-445a-8f54-eab7985a6a2e",
+   "reference": "56705",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 43.08,
+   "municipality": {
+    "id": 13000,
+    "postcode": "33140",
+    "code": "33550",
+    "name": "Villenave-d'Ornon"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 8035,
+   "guid": "9be22a3c-cfb1-4b73-8f44-40c6a71f4dd2",
+   "reference": "8035",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-12-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-01",
+  "endDateOfPublication": "2026-12-01",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence EKKLESIA se situe Avenue du septième art à proximité des centres commerciaux et services : transports en commun (lignes 23 et 73)\n\nAvenue du septième Art - Résidence EKKLESIA\n\nNous vous proposons un appartement composée d'une entrée, d'une cuisine ouverte sur le séjour avec loggia, 1 chambre avec placard, salle d'eau et WC séparés.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 594.51,
+  "rentChargeAmount": 81.16,
+  "rentParkingAmount": 33.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 594.51,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
