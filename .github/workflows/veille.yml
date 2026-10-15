@@ -52,6 +52,8 @@ jobs:
       SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
       EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
       EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      EMAIL_TO_ANGOULEME: ${{ secrets.EMAIL_TO_ANGOULEME }}
+      ANGOULEME_MAX_RENT: ${{ vars.ANGOULEME_MAX_RENT }}
 
     steps:
       - uses: actions/checkout@v4
