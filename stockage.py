@@ -54,6 +54,29 @@ def clean(obj: Any) -> Any:
     return obj
 
 
+# Adresses mail nominatives (prenom.nom@…) parfois écrites par les bailleurs dans leurs annonces :
+# masquées avant tout enregistrement, puisque le dépôt et les Excel sont publics.
+PERSON_EMAIL = re.compile(r"\b[A-Za-zÀ-ÿ]+(?:[.\-_][A-Za-zÀ-ÿ]+)+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b")
+MASK = "[adresse masquée]"
+
+
+def mask_people(obj: Any) -> Any:
+    """Masque en place les adresses nominatives dans toutes les chaînes d'une offre."""
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            if isinstance(v, str):
+                obj[k] = PERSON_EMAIL.sub(MASK, v)
+            else:
+                mask_people(v)
+    elif isinstance(obj, list):
+        for i, v in enumerate(obj):
+            if isinstance(v, str):
+                obj[i] = PERSON_EMAIL.sub(MASK, v)
+            else:
+                mask_people(v)
+    return obj
+
+
 def comparable(offer: dict) -> dict:
     return {k: v for k, v in offer.items() if k not in VOLATILE}
 
@@ -115,6 +138,7 @@ class Store:
         """Écrit ce qui a changé ; renvoie True si les données des offres ont changé."""
         data_changed = bool(self._dirty or self._events)
         for guid in sorted(self._dirty):
+            mask_people(self.records[guid])
             path = self._path(guid)
             path.parent.mkdir(parents=True, exist_ok=True)
             tmp = path.with_suffix(".tmp")
@@ -178,7 +202,7 @@ class Store:
 
     def update_listing(self, rec: dict, offer: dict, when: str) -> list[str]:
         """Met à jour la version « liste » si elle a changé ; renvoie les modifications notables."""
-        offer = clean(offer)
+        offer = mask_people(clean(offer))   # comparée à la version enregistrée, déjà masquée
         old = rec.get("liste") or {}
         if comparable(old) == comparable(offer):
             return []
