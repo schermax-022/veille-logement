@@ -1,0 +1,254 @@
+{
+ "guid": "bebf42a0-72d4-498d-9459-52dce48fc568",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-15T10:31:06+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-15T10:31:06+02:00",
+ "liste": {
+  "id": 51893,
+  "guid": "bebf42a0-72d4-498d-9459-52dce48fc568",
+  "reference": "51893",
+  "residency": {
+   "id": 3007,
+   "guid": "377bc1f9-c737-4fb9-9f14-a51d08e22744",
+   "reference": "3007",
+   "name": "MASSY",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59502,
+   "guid": "1a29c3fe-8e26-4197-86d1-8acfe02ea10c",
+   "reference": "59502",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 68.0,
+   "municipality": {
+    "id": 34872,
+    "postcode": "91300",
+    "code": "91377",
+    "name": "Massy"
+   },
+   "description": "TRANSPORTS :\nGare de Massy-Palaiseau direction Aeroport Charles de Gaulle : RER B et\r\n direction Pontoise : RER D\r\nGare de Massy TGV \r\nBus lignes : 119,199,319,399..\r\nECOLES :\n5 crèches de 230 berceaux\r\n3 multi-accueils\r\nAssistantes maternelles agréées indépendantes\r\n28 écoles maternelles et élémentaires\r\n3 collèges \r\n3 lycées \r\n2 établissements d'enseignement supérieue\nCOMMERCES :\nCentre commercial CORA\r\nCommerces de proximité \r\n4 marchés de proximité \nSERVICES DIVERS :\nCentre hospitalier Jacques Cartier \r\nCentre hospitalier d'Orsay \r\nHôpital de Longjumeau \r\n2 Médiathèques\r\nCentre culturel Paul B \r\nOpéra\r\nConservatoire\r\nCinéMassy\r\nPlus de 350 associations \r\n2 piscines"
+  },
+  "availableAt": "2026-09-08",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1040.49,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "startDateOfPublication": "2026-10-15",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1a/1a29c3fe-8e26-4197-86d1-8acfe02ea10c/medium/78b144ae-921d-43c5-89ed-2a165152f59b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La ville de Massy est dotée de nombreux commerces et services de proximité, de marchés, d'établissements scolaires, un espace culturel et sportif. Bénéficiez des transports en commun en gare de Massy-Palaiseau RER B, Tramway T12, TGV et un réseau de bus.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51893,
+  "guid": "bebf42a0-72d4-498d-9459-52dce48fc568",
+  "reference": "51893",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1a/1a29c3fe-8e26-4197-86d1-8acfe02ea10c/large/28e3d917-90a5-46b2-84f5-d37d60aa5d5e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1a/1a29c3fe-8e26-4197-86d1-8acfe02ea10c/large/8fc039a6-1673-4988-9f30-f8d26ad2a00b",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59502,
+   "guid": "1a29c3fe-8e26-4197-86d1-8acfe02ea10c",
+   "reference": "59502",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 68.0,
+   "municipality": {
+    "id": 34872,
+    "postcode": "91300",
+    "code": "91377",
+    "name": "Massy"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3007,
+   "guid": "377bc1f9-c737-4fb9-9f14-a51d08e22744",
+   "reference": "3007",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2018-01-01",
+   "constructionYear": 2018,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-08",
+  "endDateOfPublication": "2026-11-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La ville de Massy est dotée de nombreux commerces et services de proximité, de marchés, d'établissements scolaires, un espace culturel et sportif. Bénéficiez des transports en commun en gare de Massy-Palaiseau RER B, Tramway T12, TGV et un réseau de bus.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 895.9,
+  "rentChargeAmount": 144.59,
+  "rentParkingAmount": 28.62,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 895.9,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

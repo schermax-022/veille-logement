@@ -1,0 +1,262 @@
+{
+ "guid": "863bc3bb-f33b-4fbb-973d-12a214dd516e",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-15T10:31:06+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-15T10:31:06+02:00",
+ "liste": {
+  "id": 52111,
+  "guid": "863bc3bb-f33b-4fbb-973d-12a214dd516e",
+  "reference": "52111",
+  "residency": {
+   "id": 791,
+   "guid": "2b8fb8b6-ece2-4f82-a60f-256d8b9c6a34",
+   "reference": "791",
+   "name": "RILLIEUX LECLERC RS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59659,
+   "guid": "6522ff42-7f58-4b4d-b271-64b93e64e7a4",
+   "reference": "59659",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 18.7,
+   "municipality": {
+    "id": 27592,
+    "postcode": "69140",
+    "code": "69286",
+    "name": "Rillieux-la-Pape"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-22",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 485.92,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-15",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/6522ff42-7f58-4b4d-b271-64b93e64e7a4/medium/a57c9a69-fa78-46b7-b95f-f6faa8a3cef3",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence avec toutes les commodités, située avenue du général LECLERC au coeur de RILLIEUX. \nLes commerces, supermarché sont à proximité.\nLes transports en commun sont à deux pas, lignes de bus 59 / C5, arrêt : LECLERC.\nLe logement meublé et équipé se situe au 3ème étage,  \nLe montant de la redevance comprend toutes les charges chauffage, eau chaude, eau froide.\nLa disponibilité est fixée au 22/10/2026 (sous réserve d'éventuels travaux).\nMerci de bien situer l'environnement avant de vous positionner sur cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\nLes animaux sont interdits dans la résidence.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52111,
+  "guid": "863bc3bb-f33b-4fbb-973d-12a214dd516e",
+  "reference": "52111",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/6522ff42-7f58-4b4d-b271-64b93e64e7a4/large/e4d4c28d-050b-4555-b29d-e6c0ae7ea148",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59659,
+   "guid": "6522ff42-7f58-4b4d-b271-64b93e64e7a4",
+   "reference": "59659",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 18.7,
+   "municipality": {
+    "id": 27592,
+    "postcode": "69140",
+    "code": "69286",
+    "name": "Rillieux-la-Pape"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 791,
+   "guid": "2b8fb8b6-ece2-4f82-a60f-256d8b9c6a34",
+   "reference": "791",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-22",
+  "endDateOfPublication": "2026-10-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence avec toutes les commodités, située avenue du général LECLERC au coeur de RILLIEUX. \nLes commerces, supermarché sont à proximité.\nLes transports en commun sont à deux pas, lignes de bus 59 / C5, arrêt : LECLERC.\nLe logement meublé et équipé se situe au 3ème étage,  \nLe montant de la redevance comprend toutes les charges chauffage, eau chaude, eau froide.\nLa disponibilité est fixée au 22/10/2026 (sous réserve d'éventuels travaux).\nMerci de bien situer l'environnement avant de vous positionner sur cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\nLes animaux sont interdits dans la résidence.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 485.92,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 485.92,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
