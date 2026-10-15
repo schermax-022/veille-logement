@@ -1,0 +1,294 @@
+{
+ "guid": "aa423984-428a-4002-9999-b1fc388f5853",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-15T12:27:28+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-15T12:27:28+02:00",
+ "liste": {
+  "id": 52123,
+  "guid": "aa423984-428a-4002-9999-b1fc388f5853",
+  "reference": "52123",
+  "residency": {
+   "id": 8445,
+   "guid": "48260eac-0272-44a7-85d3-e97cd23c3f26",
+   "reference": "8445",
+   "name": "BARDOULAT",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59661,
+   "guid": "0d1c1533-e6ed-457f-bd9c-222e884214b2",
+   "reference": "59661",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 60.0,
+   "municipality": {
+    "id": 1089,
+    "postcode": "02200",
+    "code": "02722",
+    "name": "Soissons"
+   },
+   "description": "Secteur Soissons, nous vous proposons à la location un appartement 1 chambre, situé rue Charpentier.\n\nA deux des transports en commun, commerces, restaurants, parcs, axes routiers.\n\n\n"
+  },
+  "availableAt": "2026-12-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 830.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-15",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0d1c1533-e6ed-457f-bd9c-222e884214b2/medium/109c4d76-3660-47bb-812f-1188999b1d7b",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "\n\nSecteur Soissons, nous vous proposons à la location un appartement 1 chambre, situé rue Charpentier.\n\nA deux des transports en commun, commerces, restaurants, parcs, axes routiers.\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52123,
+  "guid": "aa423984-428a-4002-9999-b1fc388f5853",
+  "reference": "52123",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0d1c1533-e6ed-457f-bd9c-222e884214b2/large/6916ce57-e3f6-4d18-916e-2667bd77cbaf",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0d1c1533-e6ed-457f-bd9c-222e884214b2/large/43281061-53db-45ec-bc5b-7450ce04c107",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0d1c1533-e6ed-457f-bd9c-222e884214b2/large/1cd9aa90-ec4a-498e-ae2b-0722b0cb5c8d",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0d1c1533-e6ed-457f-bd9c-222e884214b2/large/1db54930-e8d3-4c10-9231-1943671180ae",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0d1c1533-e6ed-457f-bd9c-222e884214b2/large/63291c3d-28a7-40e9-8d2e-cb681c8378db",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0d1c1533-e6ed-457f-bd9c-222e884214b2/large/e7e5bb00-d8f3-4e4c-836b-9cbe6f3fc8c7",
+    "urlContentType": "image/png",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0d1c1533-e6ed-457f-bd9c-222e884214b2/large/8043fff0-eba4-4e9c-9526-b97481759845",
+    "urlContentType": "image/png",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0d1c1533-e6ed-457f-bd9c-222e884214b2/large/bb83005d-bdf8-4916-92c8-da5044e5f595",
+    "urlContentType": "image/png",
+    "ordering": 7,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59661,
+   "guid": "0d1c1533-e6ed-457f-bd9c-222e884214b2",
+   "reference": "59661",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 60.0,
+   "municipality": {
+    "id": 1089,
+    "postcode": "02200",
+    "code": "02722",
+    "name": "Soissons"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 8445,
+   "guid": "48260eac-0272-44a7-85d3-e97cd23c3f26",
+   "reference": "8445",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "RES",
+     "label": "Services de restauration",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "VISALE"
+   ],
+   "deliveredAt": "2026-12-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-01",
+  "endDateOfPublication": "2026-11-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "\n\nSecteur Soissons, nous vous proposons à la location un appartement 1 chambre, situé rue Charpentier.\n\nA deux des transports en commun, commerces, restaurants, parcs, axes routiers.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 790.0,
+  "rentChargeAmount": 40.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 750.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

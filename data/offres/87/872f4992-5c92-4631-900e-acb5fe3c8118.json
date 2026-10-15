@@ -1,0 +1,237 @@
+{
+ "guid": "872f4992-5c92-4631-900e-acb5fe3c8118",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-15T12:27:28+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-15T12:27:28+02:00",
+ "liste": {
+  "id": 52044,
+  "guid": "872f4992-5c92-4631-900e-acb5fe3c8118",
+  "reference": "52044",
+  "residency": {
+   "id": 8435,
+   "guid": "44a18bfc-471c-4aa3-8254-aa9a9af48bc2",
+   "reference": "8435",
+   "name": "RESIDENCE LES VAGUES",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59581,
+   "guid": "47e34f76-85eb-4d9e-a0d2-197848c727b5",
+   "reference": "59581",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 87.85,
+   "municipality": {
+    "id": 4463,
+    "postcode": "13008",
+    "code": "13208",
+    "name": "Marseille 8e Arrondissement"
+   },
+   "description": "A Marseille (13008) - dans la résidence \"Les Vagues\" située Boulevard des Vagues.\nDisponibilité du logement : 01/11/2026 (sous réserve de travaux)\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n'est pas contractuelle."
+  },
+  "availableAt": "2026-11-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1556.22,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-15",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/47/47e34f76-85eb-4d9e-a0d2-197848c727b5/medium/f620162b-f0c2-4d86-9162-792712a0be01",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A Marseille (13008) - dans la résidence \"Les Vagues\" située Boulevard des Vagues.\nDisponibilité du logement : 01/11/2026 (sous réserve de travaux)\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n'est pas contractuelle.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52044,
+  "guid": "872f4992-5c92-4631-900e-acb5fe3c8118",
+  "reference": "52044",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/47/47e34f76-85eb-4d9e-a0d2-197848c727b5/large/1f468d00-b76a-41de-8f81-ad596d6ad06e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59581,
+   "guid": "47e34f76-85eb-4d9e-a0d2-197848c727b5",
+   "reference": "59581",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 87.85,
+   "municipality": {
+    "id": 4463,
+    "postcode": "13008",
+    "code": "13208",
+    "name": "Marseille 8e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8435,
+   "guid": "44a18bfc-471c-4aa3-8254-aa9a9af48bc2",
+   "reference": "8435",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "NONE"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-01",
+  "endDateOfPublication": "2026-10-17",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A Marseille (13008) - dans la résidence \"Les Vagues\" située Boulevard des Vagues.\nDisponibilité du logement : 01/11/2026 (sous réserve de travaux)\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n'est pas contractuelle.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1160.69,
+  "rentChargeAmount": 385.63,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 385.63,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": 9.9,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
