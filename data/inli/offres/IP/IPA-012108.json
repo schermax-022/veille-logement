@@ -1,23 +1,23 @@
 {
  "guid": "IPA-012108",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T22:53:31+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-09T11:51:48+02:00",
- "absente_depuis": "2026-10-09T12:21:44+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-09T12:21:44+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T22:53:31+02:00",
+ "fiche_recuperee_le": "2026-10-15T19:08:28+02:00",
  "liste": {
   "guid": "IPA-012108",
   "ref": "IPA-012108",
   "lien": "/location-appartement-lambesc-13410/IPA-012108",
   "url": "https://www.inli.fr/location-appartement-lambesc-13410/IPA-012108",
-  "loyer_cc": 923.1,
+  "loyer_cc": 990.68,
   "resume": "3 pièces · 67.9 m²",
   "ville_affichee": "Lambesc",
   "type": "Appartement",
@@ -29,7 +29,7 @@
   "latitude": 43.65322,
   "longitude": 5.27128,
   "badge": "Neuf",
-  "photo": "/images/placeholder.png",
+  "photo": "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20012108/01-compressed.jpg",
   "programme": "2075"
  },
  "fiche": {
@@ -41,7 +41,7 @@
   "avantages": [
    "Sans frais de dossier"
   ],
-  "loyer_cc_affiche": 923.0,
+  "loyer_cc_affiche": 991.0,
   "lignes_prix": [
    {
     "libelle": "Loyer hors charges",
@@ -52,8 +52,12 @@
     "valeur": "127 €"
    },
    {
+    "libelle": "Loyer stationnement charges comprises",
+    "valeur": "68 €"
+   },
+   {
     "libelle": "Dépôt de garantie logement et stationnement",
-    "valeur": "796 €"
+    "valeur": "852 €"
    }
   ],
   "caracteristiques": {
@@ -80,7 +84,16 @@
    "classe": "B",
    "valeur": 8.0
   },
-  "photos": []
+  "photos": [
+   "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20012108/01-compressed.jpg",
+   "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20012108/02PLAN%20T3%20A201-compressed.jpg",
+   "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20012108/1-compressed.jpg",
+   "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20012108/2-compressed.jpg",
+   "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20012108/4-compressed.jpg",
+   "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20012108/5-compressed.jpg",
+   "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20012108/6-compressed.jpg",
+   "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20012108/7-compressed.jpg"
+  ]
  },
  "fiche_essais": 0
 }
