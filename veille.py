@@ -27,6 +27,7 @@ from al_api import ApiBlocked, ApiClient, ApiError, fetch_all_offers, fetch_deta
 from annonce import fmt, is_in_zone, photo_urls, pick, title
 from stockage import Store, clean, now_iso
 from suivi import bilan, detail_queue, handle_failure, pending_alerts, reconcile
+import profils
 
 
 def zone_of_offer(offer: dict) -> bool:
@@ -70,8 +71,24 @@ def housing_in_zone(offer: dict) -> bool:
     return zone_of_offer(offer) and not excluded_product(offer)
 
 
+def municipality(offer: dict) -> str | None:
+    return ((offer.get("lodging") or {}).get("municipality") or {}).get("code")
+
+
+def angouleme(offer: dict) -> bool:
+    """Profil GrandAngoulême (autre destinataire), hors logements temporaires."""
+    return profils.by_insee(municipality(offer)) and not excluded_product(offer)
+
+
+def recipients(rec: dict) -> list[str] | None:
+    """Adresse du profil GrandAngoulême pour ses offres ; sinon l'adresse habituelle (None)."""
+    return profils.TO if profils.by_insee(pick(rec, "lodging.municipality.code")) else None
+
+
 def wants_alert(offer: dict) -> bool:
     """Alerte = dans une ville suivie, pas un logement temporaire, ET loyer sous le plafond."""
+    if angouleme(offer):
+        return profils.rent_ok(offer_rent(offer))
     if not housing_in_zone(offer):
         return False
     rent = offer_rent(offer)
@@ -162,7 +179,7 @@ def run_check() -> int:
                 photos = alertes.download_photos(client, urls)
                 relisted = rec["alerte"] == "a_envoyer_remise"
                 try:
-                    alertes.send_offer_alert(rec, photos, relisted)
+                    alertes.send_offer_alert(rec, photos, relisted, to=recipients(rec))
                 except Exception as exc:
                     log(f"⚠️  Alerte non envoyée ({title(rec)}) : {exc} — nouvel essai au prochain passage.")
                     exit_code = 1
@@ -170,7 +187,7 @@ def run_check() -> int:
                 rec.update(alerte="envoyee", alerte_envoyee_le=now_iso())
                 store.touch(rec["guid"])
                 sent += 1
-                log(f"✉️  Alerte envoyée : {title(rec)} — "
+                log(f"✉️  Alerte envoyée{' (GrandAngoulême)' if recipients(rec) else ''} : {title(rec)} — "
                     f"{fmt(pick(rec, 'totalRentAmountBaseBound'), 'money') or 'loyer non indiqué'}")
             changed |= store.save()
 
@@ -256,6 +273,18 @@ def main() -> int:
         ("CDC Habitat", "cdc", cdc.ENABLED, {"check": cdc.run, "test_email": cdc.run_test_email, "export": cdc.run_export}),
     ]
     codes = []
+    if mode == "test_email" and profils.ENABLED and config.EMAIL_ENABLED:
+        def angouleme_test() -> int:
+            import alertes
+            plafond = f"à {profils.MAX_RENT:.0f} € par mois maximum" if profils.MAX_RENT else "sans plafond de loyer"
+            alertes.send_simple(f"Test — Veille {profils.NAME}",
+                                f"Les e-mails fonctionnent 👍\n\nCette adresse recevra les nouvelles offres des "
+                                f"{len(profils.COMMUNES)} communes de {profils.NAME}, {plafond}, "
+                                "sur Action Logement, In'li et CDC Habitat.",
+                                sender_name=f"Veille {profils.NAME}", to=profils.TO)
+            log(f"E-mail de test {profils.NAME} envoyé.")
+            return 0
+        codes.append(_safe(profils.NAME, angouleme_test))
     for label, key, enabled, fns in sites:
         if args.site in ("tous", key) and enabled:
             codes.append(_safe(label, fns[mode]))

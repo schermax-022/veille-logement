@@ -25,6 +25,7 @@ from al_api import log
 from annonce import Field, fmt, parse_dt
 from stockage import Store, clean, now_iso
 from suivi import bilan, detail_queue, handle_failure, pending_alerts, reconcile
+import profils
 
 SITE = "In'li"
 BASE = config.env("INLI_BASE", "https://www.inli.fr").rstrip("/")
@@ -445,7 +446,14 @@ def offer_in_zone(offer: dict) -> bool:
     return in_zone_cp(offer.get("code_postal"))
 
 
+def angouleme(d: dict) -> bool:
+    """Profil GrandAngoulême (autre destinataire) ; d = offre de la liste."""
+    return profils.by_place(d.get("code_postal"), d.get("ville") or d.get("ville_affichee"))
+
+
 def wants_alert(offer: dict) -> bool:
+    if angouleme(offer):
+        return profils.rent_ok(offer.get("loyer_cc"))
     if not offer_in_zone(offer):
         return False
     rent = offer.get("loyer_cc")
@@ -660,7 +668,8 @@ def photo_urls(rec: dict) -> list[str]:
 def send_alert(client: HtmlClient, rec: dict, relisted: bool = False) -> None:
     import alertes
     photos = alertes.download_photos(client, photo_urls(rec))
-    alertes.send_rendered(lambda cids: render(rec, cids, relisted), photos, sender_name="Veille In'li")
+    alertes.send_rendered(lambda cids: render(rec, cids, relisted), photos, sender_name="Veille In'li",
+                          to=profils.TO if angouleme(rec.get("liste") or {}) else None)
 
 
 # -----------------------------------------------------------------------------------------

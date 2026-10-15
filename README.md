@@ -78,6 +78,18 @@ des logements à louer de toute la France (environ 830) : numéro de lot, loyer 
 
 Un problème sur un site n'empêche jamais les autres de tourner.
 
+## Second profil : GrandAngoulême
+
+Les nouvelles offres des **38 communes de GrandAngoulême** (liste Insee de la communauté d'agglomération), à
+**600 € par mois maximum**, sont envoyées à **une autre adresse**, sur les trois sites (Action Logement, In'li,
+CDC Habitat). Les logements temporaires et les parkings en sont exclus, comme pour le profil principal.
+
+- Adresse : secret `EMAIL_TO_ANGOULEME` (plusieurs adresses possibles, séparées par des virgules). Sans ce
+  secret, le profil est désactivé.
+- Plafond : variable `ANGOULEME_MAX_RENT` (défaut `600`).
+- Le bouton `test-email` envoie aussi un mail de test à cette adresse.
+- La liste des communes est dans `profils.py`.
+
 ## Format de stockage (et pourquoi)
 
 | Fichier | Rôle |

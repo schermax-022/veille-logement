@@ -29,6 +29,7 @@ from al_api import log
 from annonce import Field, fmt, parse_dt
 from stockage import Store, now_iso
 from suivi import bilan, detail_queue, handle_failure, pending_alerts, reconcile
+import profils
 
 SITE = "CDC Habitat"
 SENDER = "Veille CDC Habitat"
@@ -439,7 +440,14 @@ def offer_in_zone(offer: dict) -> bool:
     return in_zone_cp(offer["code_postal"]) if offer.get("code_postal") else near(offer)
 
 
+def angouleme(d: dict) -> bool:
+    """Profil GrandAngoulême (autre destinataire) ; d = offre de la liste (vignette lue)."""
+    return not no_alert_category(d) and profils.by_place(d.get("code_postal"), d.get("ville"))
+
+
 def wants_alert(offer: dict) -> bool:
+    if angouleme(offer):
+        return profils.rent_ok(offer.get("loyer_cc"))
     return offer_in_zone(offer) and rent_ok(offer.get("loyer_cc"))
 
 
@@ -448,6 +456,9 @@ def alert_confirmed(rec: dict) -> bool | None:
     cp = known_cp(rec)
     if not cp:
         return None
+    liste = rec.get("liste") or {}
+    if profils.by_place(cp, liste.get("ville") or Fi(rec, "ville")):
+        return not no_alert_category(liste) and profils.rent_ok(rent_cc(rec))
     return not no_alert_category(rec.get("liste") or {}) and in_zone_cp(cp) and rent_ok(rent_cc(rec))
 
 
@@ -819,7 +830,9 @@ def photo_urls(rec: dict) -> list[str]:
 def send_alert(client: Client, rec: dict, relisted: bool = False) -> None:
     import alertes
     photos = alertes.download_photos(client, photo_urls(rec))
-    alertes.send_rendered(lambda cids: render(rec, cids, relisted), photos, sender_name=SENDER)
+    liste = rec.get("liste") or {}
+    to = profils.TO if profils.by_place(known_cp(rec), liste.get("ville") or Fi(rec, "ville")) else None
+    alertes.send_rendered(lambda cids: render(rec, cids, relisted), photos, sender_name=SENDER, to=to)
 
 
 # -----------------------------------------------------------------------------------------
