@@ -1,17 +1,17 @@
 {
  "guid": "57e51e62-1d3c-4c5e-901f-6e055f1e30d4",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-08T10:19:25+02:00",
- "absente_depuis": "2026-10-08T10:49:27+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-08T10:49:27+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T18:07:27+02:00",
+ "fiche_recuperee_le": "2026-10-15T19:58:31+02:00",
  "liste": {
   "id": 44766,
   "guid": "57e51e62-1d3c-4c5e-901f-6e055f1e30d4",
@@ -60,9 +60,9 @@
     "code": "94002",
     "name": "Alfortville"
    },
-   "description": "Exclusivité - appartement 3 pièces de 57 m² à Alfortville.\n\n\n\n\nLe logement comprend notamment un séjour, une cuisine indépendante, deux chambres, une salle de bains et un WC séparé.\n\n\n\n\nChauffage collectif. Place de parking incluse. Gardienne présente.\n\n\n"
+   "description": "Exclusivité - appartement 3 pièces de 57 m² à Alfortville.   Le logement comprend notamment un séjour, une cuisine indépendante, deux chambres, une salle de bains et un WC séparé.  L’immeuble révèle la présence d’un gardien et d’un ascenseur. Le bien se situe au 10e étage.  Chauffage collectif. Place de parking incluse. Gardienne présente.  Transports en commun à proximité avec une station RER D à Maisons-Alfort-Alfortville et une station de métro ligne 8 à Maisons-Alfort - Stade. Commerces dans les alentours."
   },
-  "availableAt": "2026-10-07",
+  "availableAt": "2026-10-15",
   "isLodgingFirstTimeAvailable": false,
   "paymentType": {
    "id": 2,
@@ -114,15 +114,63 @@
     "dimension": "LARGE"
    },
    {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7eef5a74-9623-4ff7-8ca7-5e57fed4022e/large/2873d010-608e-4d8b-9415-8fa80d79e64f",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
     "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7eef5a74-9623-4ff7-8ca7-5e57fed4022e/large/d317b019-e3a4-412d-9bbc-501a06abb4a6",
     "urlContentType": "image/jpeg",
     "ordering": 2,
     "dimension": "LARGE"
    },
    {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7eef5a74-9623-4ff7-8ca7-5e57fed4022e/large/823e5ff5-b7bc-43e2-a80e-dc881eab0d09",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
     "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7eef5a74-9623-4ff7-8ca7-5e57fed4022e/large/9aa3b381-33e2-47f5-9c92-6a00be7b5f5c",
     "urlContentType": "image/jpeg",
     "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7eef5a74-9623-4ff7-8ca7-5e57fed4022e/large/c7410612-aa17-45b9-99d9-a052d2f17427",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7eef5a74-9623-4ff7-8ca7-5e57fed4022e/large/7b9c549b-8ab1-4076-b556-8f0829d8164b",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7eef5a74-9623-4ff7-8ca7-5e57fed4022e/large/8891d0e5-b7c7-4918-9a21-d887f335e6b6",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7eef5a74-9623-4ff7-8ca7-5e57fed4022e/large/2a190ef6-a137-42e5-86b5-f9f37fce162c",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7eef5a74-9623-4ff7-8ca7-5e57fed4022e/large/b950572c-39e0-40a0-b78a-76178b063f08",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/7e/7eef5a74-9623-4ff7-8ca7-5e57fed4022e/large/0f6fefe2-1da1-4470-9b17-aa4d19f0b646",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
     "dimension": "LARGE"
    }
   ],
@@ -233,7 +281,7 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-10-07",
+  "availableAt": "2026-10-15",
   "endDateOfPublication": "2027-07-22",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
