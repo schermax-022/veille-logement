@@ -1,0 +1,286 @@
+{
+ "guid": "d9bed358-ea51-4b0e-b67c-7d83b9d0e5a7",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-15T14:00:33+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-15T14:00:33+02:00",
+ "liste": {
+  "id": 2367,
+  "guid": "d9bed358-ea51-4b0e-b67c-7d83b9d0e5a7",
+  "reference": "2367",
+  "residency": {
+   "id": 1736,
+   "guid": "5ef4b0f0-363b-4c42-a5f5-36d4955df2a5",
+   "reference": "1736",
+   "name": "RHÔNE 2",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 14397,
+   "guid": "c1ec7180-1825-4d37-b1d0-11b622512b2f",
+   "reference": "14397",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 27253,
+    "postcode": "68300",
+    "code": "68297",
+    "name": "Saint-Louis"
+   },
+   "description": "T1 entièrement rénové, meublé avec kitchenette équipée d'une plaque vitrocéramique 2 feux et frigo.\nCe logement est accessible PMR."
+  },
+  "availableAt": "2024-11-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 480.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-15",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c1/c1ec7180-1825-4d37-b1d0-11b622512b2f/medium/524705eb-9236-40dd-b72f-0419492418a3",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Située à Saint-Louis-Huningue, la Résidence du Rhône est très proche de la ville de Bâle et de l'EuroAirport. Ce Bâtiment collectif avec ascenseur entièrement rénové vous propose un confort optimum avec des T1 aux équipements modernes et fonctionnels.\n\nT1 entièrement rénové, meublé avec kitchenette équipée d'une plaque vitrocéramique 2 feux et frigo.\nCe logement est accessible PMR.\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 2367,
+  "guid": "d9bed358-ea51-4b0e-b67c-7d83b9d0e5a7",
+  "reference": "2367",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c1/c1ec7180-1825-4d37-b1d0-11b622512b2f/large/01e21187-f377-48f2-8513-ce0aea63bc18",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c1/c1ec7180-1825-4d37-b1d0-11b622512b2f/large/2829026e-ff49-4448-b13d-18178ec524b1",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 14397,
+   "guid": "c1ec7180-1825-4d37-b1d0-11b622512b2f",
+   "reference": "14397",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 27253,
+    "postcode": "68300",
+    "code": "68297",
+    "name": "Saint-Louis"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 1736,
+   "guid": "5ef4b0f0-363b-4c42-a5f5-36d4955df2a5",
+   "reference": "1736",
+   "livingRules": "Les résidents assurent la propreté et l'entretien locatif des logements, les animaux domestiques ne sont pas admis à la résidence. Pour la tranquillité de la collectivité, il est demandé aux résidents de limiter toutes les activités entrainant des nuisances. ",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 3,
+     "ordering": 4,
+     "code": "LIG",
+     "label": "Service de lingerie (location de draps et serviettes)",
+     "isIncluded": true
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2024-11-01",
+  "endDateOfPublication": "2026-12-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Située à Saint-Louis-Huningue, la Résidence du Rhône est très proche de la ville de Bâle et de l'EuroAirport. Ce Bâtiment collectif avec ascenseur entièrement rénové vous propose un confort optimum avec des T1 aux équipements modernes et fonctionnels.\n\nT1 entièrement rénové, meublé avec kitchenette équipée d'une plaque vitrocéramique 2 feux et frigo.\nCe logement est accessible PMR.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 480.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 480.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
