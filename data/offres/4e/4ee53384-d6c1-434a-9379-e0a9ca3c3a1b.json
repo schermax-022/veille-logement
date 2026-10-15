@@ -1,0 +1,266 @@
+{
+ "guid": "4ee53384-d6c1-434a-9379-e0a9ca3c3a1b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-15T15:15:20+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-15T15:15:20+02:00",
+ "liste": {
+  "id": 45809,
+  "guid": "4ee53384-d6c1-434a-9379-e0a9ca3c3a1b",
+  "reference": "45809",
+  "residency": {
+   "id": 7780,
+   "guid": "347fa45d-1dac-421b-b7db-79200cf73f1c",
+   "reference": "7780",
+   "name": "COTE PINEDE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 54388,
+   "guid": "64188523-b93a-4b52-a7db-4d3ad3bbcb94",
+   "reference": "54388",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 84.8,
+   "municipality": {
+    "id": 13037,
+    "postcode": "34500",
+    "code": "34032",
+    "name": "Béziers"
+   },
+   "description": "Le loyer du garage est compris dans le loyer mensuel et sa location est obligatoire. "
+  },
+  "availableAt": "2027-01-05",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 932.87,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-15",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/64/64188523-b93a-4b52-a7db-4d3ad3bbcb94/medium/2c60c109-b622-4162-a1a6-76b440531da5",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Une maison individuelle neuve, située Rue Mathilde Bellaud-Dessalles à Béziers (34500), vous est proposée à la location. \nLivraison prévisionnelle le 05/01/2027 (sous réserve de l’avancée des travaux). Les montants des loyers et des charges sont donnés à titre prévisionnel et indicatif.           \nBéziers dispose d’une offre complète de commerces, d’établissements scolaires, de services administratifs, d’équipements publics et d’infrastructures de transport.\nLes établissements scolaires comprenant maternelles, élémentaires, collèges, lycées et structures pour la petite enfance, les commerces ainsi que les équipements sportifs dédiées sont accessibles à distance proche.\nLe secteur est desservi par des lignes de bus permettant de rejoindre le centre-ville, la gare et les différents quartiers de Béziers.\nLe loyer du garage est compris dans le loyer mensuel et sa location est obligatoire. \n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 45809,
+  "guid": "4ee53384-d6c1-434a-9379-e0a9ca3c3a1b",
+  "reference": "45809",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/64/64188523-b93a-4b52-a7db-4d3ad3bbcb94/large/114bc23d-bf09-49e8-8e3f-43ccb5d3f6fc",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/64/64188523-b93a-4b52-a7db-4d3ad3bbcb94/large/f61e8669-e25e-40b0-be4b-e3c0ed6ceaa6",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 54388,
+   "guid": "64188523-b93a-4b52-a7db-4d3ad3bbcb94",
+   "reference": "54388",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 84.8,
+   "municipality": {
+    "id": 13037,
+    "postcode": "34500",
+    "code": "34032",
+    "name": "Béziers"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": {
+    "id": 1,
+    "ordering": 1,
+    "code": "D",
+    "label": "Duplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    },
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 7780,
+   "guid": "347fa45d-1dac-421b-b7db-79200cf73f1c",
+   "reference": "7780",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2027-01-05",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-05",
+  "endDateOfPublication": "2026-10-29",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Une maison individuelle neuve, située Rue Mathilde Bellaud-Dessalles à Béziers (34500), vous est proposée à la location. \nLivraison prévisionnelle le 05/01/2027 (sous réserve de l’avancée des travaux). Les montants des loyers et des charges sont donnés à titre prévisionnel et indicatif.           \nBéziers dispose d’une offre complète de commerces, d’établissements scolaires, de services administratifs, d’équipements publics et d’infrastructures de transport.\nLes établissements scolaires comprenant maternelles, élémentaires, collèges, lycées et structures pour la petite enfance, les commerces ainsi que les équipements sportifs dédiées sont accessibles à distance proche.\nLe secteur est desservi par des lignes de bus permettant de rejoindre le centre-ville, la gare et les différents quartiers de Béziers.\nLe loyer du garage est compris dans le loyer mensuel et sa location est obligatoire. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 835.2,
+  "rentChargeAmount": 97.67,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 835.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
