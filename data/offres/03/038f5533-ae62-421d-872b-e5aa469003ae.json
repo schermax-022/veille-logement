@@ -1,17 +1,17 @@
 {
  "guid": "038f5533-ae62-421d-872b-e5aa469003ae",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-16T17:59:46+02:00",
- "absente_depuis": "2026-10-16T18:29:26+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-16T18:29:26+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T18:14:49+02:00",
+ "fiche_recuperee_le": "2026-10-16T21:10:22+02:00",
  "liste": {
   "id": 51120,
   "guid": "038f5533-ae62-421d-872b-e5aa469003ae",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-05",
+  "startDateOfPublication": "2026-10-16",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/21/2177d424-9994-4f74-9122-9d44b406000c/medium/9af436fa-5636-4230-aca6-b157b3cd1ed6",
@@ -220,7 +220,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-11-02",
-  "endDateOfPublication": "2026-10-16",
+  "endDateOfPublication": "2026-10-19",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "Située dans un quartier résidentiel et entourée d’espaces verts, cette résidence offre un cadre de vie agréable.\nPour vos déplacements, des transports en commun sont à proximité. Un arrêt de bus se trouve au pied de la résidence et vous permettra de rejoindre la gare de Cesson en une dizaine de minutes.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n",
@@ -239,20 +239,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": 29,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
