@@ -1,0 +1,255 @@
+{
+ "guid": "1108ec14-9885-49dd-b2b8-fa9d90e8d9a5",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-16T14:26:44+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-16T14:26:44+02:00",
+ "liste": {
+  "id": 52276,
+  "guid": "1108ec14-9885-49dd-b2b8-fa9d90e8d9a5",
+  "reference": "52276",
+  "residency": {
+   "id": 8452,
+   "guid": "41d6c0c9-43a6-42c6-b87d-74c72c189cb9",
+   "reference": "8452",
+   "name": "NEXT TEP",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59781,
+   "guid": "c6499b7c-e0dc-47f5-948d-048556df6177",
+   "reference": "59781",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 67.36,
+   "municipality": {
+    "id": 12529,
+    "postcode": "33800",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "description": "Nous vous proposons un appartement composé d’une entrée avec placard, cuisine meublée et  équipée ouverte sur un séjour avec balcon de 25.03m², 2 chambres et salle de bain avec WC séparés. Le bien est complété d'une place de parking  (facultatif)."
+  },
+  "availableAt": "2026-11-04",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1199.21,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-16",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c6499b7c-e0dc-47f5-948d-048556df6177/medium/e83e9d5b-25a2-447c-bfae-a626f1d3855b",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence NEXT TEP se situe Place d'Armagnac à proximité des commerces et services : transports en commun (lignes C, D, E et F du tramway) établissements scolaires,pharmacies, cabinet médicaux et centre commercial...\n\nNous vous proposons un appartement composé d’une entrée avec placard, cuisine meublée et  équipée ouverte sur un séjour avec balcon de 25.03m², 2 chambres et salle de bain avec WC séparés. Le bien est complété d'une place de parking  (facultatif).\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52276,
+  "guid": "1108ec14-9885-49dd-b2b8-fa9d90e8d9a5",
+  "reference": "52276",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c6499b7c-e0dc-47f5-948d-048556df6177/large/ed2dca27-fbc6-4c2d-a6b0-6a460c58a3a8",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c6499b7c-e0dc-47f5-948d-048556df6177/large/153ab9ed-f82d-48ee-8d0a-3c5f51887beb",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59781,
+   "guid": "c6499b7c-e0dc-47f5-948d-048556df6177",
+   "reference": "59781",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 67.36,
+   "municipality": {
+    "id": 12529,
+    "postcode": "33800",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 8452,
+   "guid": "41d6c0c9-43a6-42c6-b87d-74c72c189cb9",
+   "reference": "8452",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-11-03",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-04",
+  "endDateOfPublication": "2026-10-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "La résidence NEXT TEP se situe Place d'Armagnac à proximité des commerces et services : transports en commun (lignes C, D, E et F du tramway) établissements scolaires,pharmacies, cabinet médicaux et centre commercial...\n\nNous vous proposons un appartement composé d’une entrée avec placard, cuisine meublée et  équipée ouverte sur un séjour avec balcon de 25.03m², 2 chambres et salle de bain avec WC séparés. Le bien est complété d'une place de parking  (facultatif).\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 959.22,
+  "rentChargeAmount": 239.99,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 959.22,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
