@@ -1,0 +1,254 @@
+{
+ "guid": "d7a7b9af-db14-41b7-a762-54285392f405",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-16T16:59:11+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-16T16:59:11+02:00",
+ "liste": {
+  "id": 41385,
+  "guid": "d7a7b9af-db14-41b7-a762-54285392f405",
+  "reference": "41385",
+  "residency": {
+   "id": 7292,
+   "guid": "d3dfa324-2d02-4933-98bb-c1ae254d6721",
+   "reference": "7292",
+   "name": "DUO D'ALYS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 50783,
+   "guid": "886ff4cb-4789-4831-848c-896ead6b0c6e",
+   "reference": "50783",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 42.0,
+   "municipality": {
+    "id": 22242,
+    "postcode": "59930",
+    "code": "59143",
+    "name": "La Chapelle-d'Armentières"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-09-15",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 599.47,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-16",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/88/886ff4cb-4789-4831-848c-896ead6b0c6e/medium/8afeb461-c7a2-40b7-8e33-61dde52f2df9",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé à La Chapelle-D'armentières, à proximité de commerces et de la D933, l'arrêt de bus le plus proche est desservi par les lignes B, 938 et L99.\n\nNous vous proposons un appartement comprenant une entrée, un séjour, une cuisine ouverte équipée, une chambre, une salle d'eau et un jardin.\n\nPossibilité en sus d'un emplacement de parking pour 22 €/mois.\n\nEn cas d'instruction, un conseiller prendra contact avec vous afin de vous indiquer l'éligibilité de votre dossier. \n\nLa date limite de dépôt de candidature n'est pas contractuelle. \n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 41385,
+  "guid": "d7a7b9af-db14-41b7-a762-54285392f405",
+  "reference": "41385",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/88/886ff4cb-4789-4831-848c-896ead6b0c6e/large/0ccee319-92fa-461a-b14c-edda66556aee",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/88/886ff4cb-4789-4831-848c-896ead6b0c6e/large/afba9c94-9382-4a41-aae0-f27ed2b0f931",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/88/886ff4cb-4789-4831-848c-896ead6b0c6e/large/bb4dd808-06b8-4421-8899-eb7453ee18d4",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 50783,
+   "guid": "886ff4cb-4789-4831-848c-896ead6b0c6e",
+   "reference": "50783",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 42.0,
+   "municipality": {
+    "id": 22242,
+    "postcode": "59930",
+    "code": "59143",
+    "name": "La Chapelle-d'Armentières"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 7292,
+   "guid": "d3dfa324-2d02-4933-98bb-c1ae254d6721",
+   "reference": "7292",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-09-15",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-15",
+  "endDateOfPublication": "2026-11-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Situé à La Chapelle-D'armentières, à proximité de commerces et de la D933, l'arrêt de bus le plus proche est desservi par les lignes B, 938 et L99.\n\nNous vous proposons un appartement comprenant une entrée, un séjour, une cuisine ouverte équipée, une chambre, une salle d'eau et un jardin.\n\nPossibilité en sus d'un emplacement de parking pour 22 €/mois.\n\nEn cas d'instruction, un conseiller prendra contact avec vous afin de vous indiquer l'éligibilité de votre dossier. \n\nLa date limite de dépôt de candidature n'est pas contractuelle. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 527.25,
+  "rentChargeAmount": 72.22,
+  "rentParkingAmount": 22.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 527.25,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

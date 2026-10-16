@@ -1,17 +1,17 @@
 {
  "guid": "47584b79-f1bd-441b-818d-a40d818e3581",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-15T09:38:58+02:00",
- "absente_depuis": "2026-10-15T10:31:06+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-15T10:31:06+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T20:52:02+02:00",
+ "fiche_recuperee_le": "2026-10-16T16:59:11+02:00",
  "liste": {
   "id": 49829,
   "guid": "47584b79-f1bd-441b-818d-a40d818e3581",
@@ -74,16 +74,16 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-09-22",
+  "startDateOfPublication": "2026-10-16",
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/medium/fd0d8535-43d2-476b-b9bb-220eb07f90e5",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/medium/fee8b7fc-17ed-4f0e-8faa-987139f5f955",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "MEDIUM"
    }
   ],
-  "description": "Résidence NOVA située allée Maryse Bastié à Communay\nLa résidence bénéficie d’un emplacement privilégié au calme.\nTransports en commun : Lignes de Bus 211, 213 et Bus Junior.\n \nLa maison en duplex\nElle comprend au RDC : une cuisine ouverte sur un séjour donnant sur une terrasse avec un jardin \nAu 1 er étage : 3 chambres, une salle de bains et des toilettes séparées.\nUn garage est rattaché à la maison.\nChauffage : individuel au gaz\nCharges incluses : charges générales.\nSans frais d’agence.\nDisponibilité : logement disponible à partir du 09/10/2026 sous réserve de travaux.\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "description": "Résidence NOVA située allée Maryse Bastié à Communay\nLa résidence bénéficie d’un emplacement privilégié au calme.\nTransports en commun : Lignes de Bus 211, 213 et Bus Junior.\n \nLa maison en duplex\nElle comprend au RDC : une cuisine ouverte sur un séjour donnant sur une terrasse avec un jardin \nAu 1 er étage : 3 chambres, une salle de bains et des toilettes séparées.\nUn garage \nChauffage : individuel au gaz\nCharges incluses : charges générales.\nSans frais d’agence.\nDisponibilité : logement disponible à partir du 09/10/2026 sous réserve de travaux.\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
   "isRecent": false,
   "isNewLodging": false,
   "candidacy": null,
@@ -102,15 +102,69 @@
   "demandGuid": null,
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/e20edca0-e5d1-4814-bc26-6c311531040d",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/1cc458e3-ffb7-426e-ba5b-5f967875093f",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/ec9092c3-884a-4c7a-af09-11cf28fa5978",
-    "urlContentType": "image/png",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/99b35ca9-a81f-4c75-a153-e156ada34241",
+    "urlContentType": "image/jpeg",
     "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/c6c02ee3-e2da-4d8b-9251-0a59ab57bd91",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/58b79e3b-6ae2-485f-8889-31bedf7617e7",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/bca106f3-9385-4252-987b-54b847327bcf",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/418a25e1-2578-4634-8cc1-d67657512f0b",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/c24fb731-2d21-441e-80eb-8b0a190469ba",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/d5eebe3f-c793-4d6e-96e6-3b300a94fe64",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/4632446f-fc9d-4843-8cda-40dd8c4de279",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/313a840a-3cbf-489d-a669-68996db551f5",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ef6fbc-de63-4ed2-a6f1-01c2a26d33ce/large/4c6578f1-f05f-4f67-af4e-c4a91c6069cd",
+    "urlContentType": "image/jpeg",
+    "ordering": 10,
     "dimension": "LARGE"
    }
   ],
@@ -224,10 +278,10 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-10-09",
-  "endDateOfPublication": "2026-10-19",
+  "endDateOfPublication": "2026-11-14",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
-  "description": "Résidence NOVA située allée Maryse Bastié à Communay\nLa résidence bénéficie d’un emplacement privilégié au calme.\nTransports en commun : Lignes de Bus 211, 213 et Bus Junior.\n \nLa maison en duplex\nElle comprend au RDC : une cuisine ouverte sur un séjour donnant sur une terrasse avec un jardin \nAu 1 er étage : 3 chambres, une salle de bains et des toilettes séparées.\nUn garage est rattaché à la maison.\nChauffage : individuel au gaz\nCharges incluses : charges générales.\nSans frais d’agence.\nDisponibilité : logement disponible à partir du 09/10/2026 sous réserve de travaux.\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "description": "Résidence NOVA située allée Maryse Bastié à Communay\nLa résidence bénéficie d’un emplacement privilégié au calme.\nTransports en commun : Lignes de Bus 211, 213 et Bus Junior.\n \nLa maison en duplex\nElle comprend au RDC : une cuisine ouverte sur un séjour donnant sur une terrasse avec un jardin \nAu 1 er étage : 3 chambres, une salle de bains et des toilettes séparées.\nUn garage \nChauffage : individuel au gaz\nCharges incluses : charges générales.\nSans frais d’agence.\nDisponibilité : logement disponible à partir du 09/10/2026 sous réserve de travaux.\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
   "paymentType": {
    "id": 2,
    "ordering": 1,
