@@ -1,0 +1,235 @@
+{
+ "guid": "8c0ec01c-bc3c-439c-abe1-e7db56bfd814",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-16T15:12:39+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-16T15:12:39+02:00",
+ "liste": {
+  "id": 52311,
+  "guid": "8c0ec01c-bc3c-439c-abe1-e7db56bfd814",
+  "reference": "52311",
+  "residency": {
+   "id": 3355,
+   "guid": "1e50d9b9-33ae-4bc8-8f66-c75166b23ba4",
+   "reference": "3355",
+   "name": "LE KENTRO",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59808,
+   "guid": "fb52c4b9-66a3-498a-b6ca-979917dae68b",
+   "reference": "59808",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 59.0,
+   "municipality": {
+    "id": 4457,
+    "postcode": "13002",
+    "code": "13202",
+    "name": "Marseille 2e Arrondissement"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-04",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 914.38,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-16",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb52c4b9-66a3-498a-b6ca-979917dae68b/medium/a9377597-45d7-47d4-95ba-0e8c280c68fb",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé 1 Rue d'Anthoine, cet ensemble immobilier est proche de toutes les commodités ainsi que des transports en commun. ",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52311,
+  "guid": "8c0ec01c-bc3c-439c-abe1-e7db56bfd814",
+  "reference": "52311",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb52c4b9-66a3-498a-b6ca-979917dae68b/large/4a3960c4-7672-4b54-a196-64d348fd1655",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59808,
+   "guid": "fb52c4b9-66a3-498a-b6ca-979917dae68b",
+   "reference": "59808",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 59.0,
+   "municipality": {
+    "id": 4457,
+    "postcode": "13002",
+    "code": "13202",
+    "name": "Marseille 2e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 10,
+    "ordering": 10,
+    "code": "7",
+    "label": "7"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 3355,
+   "guid": "1e50d9b9-33ae-4bc8-8f66-c75166b23ba4",
+   "reference": "3355",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-04",
+  "endDateOfPublication": "2026-10-29",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Situé 1 Rue d'Anthoine, cet ensemble immobilier est proche de toutes les commodités ainsi que des transports en commun. ",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 755.33,
+  "rentChargeAmount": 159.05,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
