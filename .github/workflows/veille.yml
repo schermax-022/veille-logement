@@ -2,7 +2,7 @@ name: Veille annonces Action Logement
 
 on:
   schedule:
-    # Toutes les 30 minutes (heure UTC). GitHub peut retarder de quelques minutes.
+    # Toutes les 10 minutes (heure UTC).
     # Dépôt public : minutes illimitées. GitHub retarde parfois les passages programmés.
     - cron: "*/10 * * * *"
   workflow_dispatch:
