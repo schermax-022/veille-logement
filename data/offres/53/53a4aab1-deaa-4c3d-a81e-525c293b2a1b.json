@@ -10,7 +10,7 @@
  "remises_en_ligne": 0,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": "ok",
+ "fiche_statut": "erreur : HTTP 410 sur /demands/public/offer-showcase-details : {\"code\":\"DEM44E410\",\"data\":null,\"message\":\"La donnée recherchée n'est plus disponible\"}",
  "fiche_recuperee_le": "2026-10-13T07:19:00+02:00",
  "liste": {
   "id": 39319,
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-08",
+  "startDateOfPublication": null,
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/94/949b82d0-bd3c-4fc6-8a1f-7ff2119025c8/medium/ccd8c494-1583-4c94-b361-5bc905692e56",
@@ -84,7 +84,7 @@
    }
   ],
   "description": "Appartement neuf de type 2 au rez-de-chaussée, d'une superficie de 40 m² et situé rue Angélique Vignon à LOUVIERS.\n\nIl comprend une entrée avec placard, un séjour avec cuisine aménagée, une chambre, une salle d'eau avec wc et un jardin de 7 m². \n\nLe loyer est de 534 euros dont 54 euros de charges.\n\nLe chauffage est individuel électrique.\n\nLe programme est situé en centre-ville à 500m de la Mairie et sur la rive gauche de l’Eure. Il dispose de la proximité de tous les commerces, ainsi que des structures d’éducation de l’école élémentaire au lycée. Le secteur dispose également d’un ensemble industriel diversifié avec des entrepôts et des sociétés de transport. \n\nAccessibilité du site :  \nBus : Ligne H située à 500m reliant l’hôpital de Louviers à hôpital d’Elbeuf \nFerroviaire : Gare de Val de Reuil à 5mn par bus permettant de relier la zone d’emploi de Val de Reuil, Rouen en 20 mn, et Paris en 1h10. \nRoutiers : moins de 1 km de la A154 reliant l’A13  \n\nLivraison prévue en septembre.",
-  "isRecent": false,
+  "isRecent": true,
   "isNewLodging": false,
   "candidacy": null,
   "orientationCode": null,
@@ -259,5 +259,5 @@
   "rentType": "RENT_STANDARD",
   "totalRentAmountMax": null
  },
- "fiche_essais": 0
+ "fiche_essais": 1
 }
