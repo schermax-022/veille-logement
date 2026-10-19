@@ -1,0 +1,246 @@
+{
+ "guid": "dd39de87-b9f0-4d69-8a46-4f77cf2ce3fd",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-19T19:55:03+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-19T19:55:03+02:00",
+ "liste": {
+  "id": 44689,
+  "guid": "dd39de87-b9f0-4d69-8a46-4f77cf2ce3fd",
+  "reference": "44689",
+  "residency": {
+   "id": 3699,
+   "guid": "a70b5659-67e9-4fc8-af4d-4b5e5c2cd6b3",
+   "reference": "3699",
+   "name": "LES LUMIERES DE BEZON",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 53485,
+   "guid": "7073dd3e-45f8-458f-8bd8-5dfcbcba3121",
+   "reference": "53485",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 63.4,
+   "municipality": {
+    "id": 35115,
+    "postcode": "95870",
+    "code": "95063",
+    "name": "Bezons"
+   },
+   "description": "Appartement de 3 pièces de 63,40m², au 2ème étage avec ascenseur, chauffage collectif. Il comprend une entrée avec rangement, une cuisine ouverte sur le salon de 30,20m² avec accès à une loggia de 8,20m² exposée Sud/Ouest, deux chambres avec placard de 11,60m² et 11,10m², une salle de bains de 4m² et des WC séparés. Une place de stationnement est comprise dans le loyer."
+  },
+  "availableAt": "2026-10-19",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1254.62,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-07-22",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/7073dd3e-45f8-458f-8bd8-5dfcbcba3121/medium/fb68c023-7fb9-4457-84e9-af5c31ddef98",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Appartement de 3 pièces de 63,40m², au 2ème étage avec ascenseur, chauffage collectif. Il comprend une entrée avec rangement, une cuisine ouverte sur le salon de 30,20m² avec accès à une loggia de 8,20m² exposée Sud/Ouest, deux chambres avec placard de 11,60m² et 11,10m², une salle de bains de 4m² et des WC séparés. Une place de stationnement est comprise dans le loyer.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 44689,
+  "guid": "dd39de87-b9f0-4d69-8a46-4f77cf2ce3fd",
+  "reference": "44689",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/7073dd3e-45f8-458f-8bd8-5dfcbcba3121/large/2de1fee8-ede0-4831-b4b0-fda7704205ba",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/7073dd3e-45f8-458f-8bd8-5dfcbcba3121/large/21bc6c49-6b62-45fe-812c-8d2a5037440e",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 53485,
+   "guid": "7073dd3e-45f8-458f-8bd8-5dfcbcba3121",
+   "reference": "53485",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 63.4,
+   "municipality": {
+    "id": 35115,
+    "postcode": "95870",
+    "code": "95063",
+    "name": "Bezons"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3699,
+   "guid": "a70b5659-67e9-4fc8-af4d-4b5e5c2cd6b3",
+   "reference": "3699",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-19",
+  "endDateOfPublication": "2027-07-21",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Appartement de 3 pièces de 63,40m², au 2ème étage avec ascenseur, chauffage collectif. Il comprend une entrée avec rangement, une cuisine ouverte sur le salon de 30,20m² avec accès à une loggia de 8,20m² exposée Sud/Ouest, deux chambres avec placard de 11,60m² et 11,10m², une salle de bains de 4m² et des WC séparés. Une place de stationnement est comprise dans le loyer.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 940.55,
+  "rentChargeAmount": 220.9,
+  "rentParkingAmount": 93.17,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1015.55,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
