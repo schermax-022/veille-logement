@@ -1,0 +1,242 @@
+{
+ "guid": "c38a7c37-5c20-4006-9a6d-ca0febe47914",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-19T10:43:29+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-19T10:43:29+02:00",
+ "liste": {
+  "id": 52432,
+  "guid": "c38a7c37-5c20-4006-9a6d-ca0febe47914",
+  "reference": "52432",
+  "residency": {
+   "id": 6223,
+   "guid": "fee29ff2-8116-4313-94c4-3c6f05e777bb",
+   "reference": "6223",
+   "name": "BONNEUIL",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59913,
+   "guid": "fef97132-fc19-49f2-9c37-214707a3ec74",
+   "reference": "59913",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 16.23,
+   "municipality": {
+    "id": 35046,
+    "postcode": "94380",
+    "code": "94011",
+    "name": "Bonneuil-sur-Marne"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-16",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 499.97,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fef97132-fc19-49f2-9c37-214707a3ec74/medium/b0bac22a-cf73-4771-94e6-00cdfa7233bf",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "À 15 min à pied du métro (M8), 10 min en bus du RER A et 10 min en voiture de Créteil, la Résidence est à proximité de plusieurs arrêts de bus et du centre-ville de Bonneuil-sur-Marne. Cette Résidence agréable bénéficie d’un environnement paisible, dans un quartier pavillonnaire.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52432,
+  "guid": "c38a7c37-5c20-4006-9a6d-ca0febe47914",
+  "reference": "52432",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fef97132-fc19-49f2-9c37-214707a3ec74/large/3b533484-4fb3-4c6e-bf07-28d9c326508f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fef97132-fc19-49f2-9c37-214707a3ec74/large/0ee205b5-0aa7-46a5-990f-bf7333cbcdb0",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fef97132-fc19-49f2-9c37-214707a3ec74/large/60eb8833-6d8b-47b2-bdcb-1c2fb7359db4",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59913,
+   "guid": "fef97132-fc19-49f2-9c37-214707a3ec74",
+   "reference": "59913",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 16.23,
+   "municipality": {
+    "id": 35046,
+    "postcode": "94380",
+    "code": "94011",
+    "name": "Bonneuil-sur-Marne"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 6223,
+   "guid": "fee29ff2-8116-4313-94c4-3c6f05e777bb",
+   "reference": "6223",
+   "livingRules": "Pas d'animal au sein de la résidence",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-16",
+  "endDateOfPublication": "2026-11-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "À 15 min à pied du métro (M8), 10 min en bus du RER A et 10 min en voiture de Créteil, la Résidence est à proximité de plusieurs arrêts de bus et du centre-ville de Bonneuil-sur-Marne. Cette Résidence agréable bénéficie d’un environnement paisible, dans un quartier pavillonnaire.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 499.97,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

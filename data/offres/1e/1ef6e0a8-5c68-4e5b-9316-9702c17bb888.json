@@ -1,0 +1,252 @@
+{
+ "guid": "1ef6e0a8-5c68-4e5b-9316-9702c17bb888",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-19T10:43:29+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-19T10:43:29+02:00",
+ "liste": {
+  "id": 47192,
+  "guid": "1ef6e0a8-5c68-4e5b-9316-9702c17bb888",
+  "reference": "47192",
+  "residency": {
+   "id": 63,
+   "guid": "9566d525-4d1f-4ec1-af42-86b751fcce36",
+   "reference": "63",
+   "name": "THÉODORE MONOD - RS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 55535,
+   "guid": "99e6eba5-8d6b-41bd-a44a-fef0c9f5aa03",
+   "reference": "55535",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 19.64,
+   "municipality": {
+    "id": 35089,
+    "postcode": "94400",
+    "code": "94081",
+    "name": "Vitry-sur-Seine"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-09-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 466.13,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/99/99e6eba5-8d6b-41bd-a44a-fef0c9f5aa03/medium/cd116776-f144-4164-87a1-78c9cc5879da",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence est située à proximité immédiate du parc départemental des Lilas, des commerces et des transports en commun du Grand Paris (bus 132 et 185 arrêt Julien Grimau – voie verte, ligne 7 du tramway).\nA une dizaine de minutes de la Station Louis Aragon (ligne 7 du métro). Studios équipés éligibles APL.\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 47192,
+  "guid": "1ef6e0a8-5c68-4e5b-9316-9702c17bb888",
+  "reference": "47192",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/99/99e6eba5-8d6b-41bd-a44a-fef0c9f5aa03/large/b96f078e-acb6-42bd-99ee-5dc0fe153503",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/99/99e6eba5-8d6b-41bd-a44a-fef0c9f5aa03/large/c46d083e-5d1b-4945-a689-e9613852fb53",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/99/99e6eba5-8d6b-41bd-a44a-fef0c9f5aa03/large/cd153736-72b4-43b7-a7c8-a092b2f0aa42",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 55535,
+   "guid": "99e6eba5-8d6b-41bd-a44a-fef0c9f5aa03",
+   "reference": "55535",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 19.64,
+   "municipality": {
+    "id": 35089,
+    "postcode": "94400",
+    "code": "94081",
+    "name": "Vitry-sur-Seine"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 63,
+   "guid": "9566d525-4d1f-4ec1-af42-86b751fcce36",
+   "reference": "63",
+   "livingRules": "Règlement intérieur au sein de la résidence : \n- Pas d'animal\n- Pas d'hébergement",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-01",
+  "endDateOfPublication": "2026-11-02",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Cette résidence est située à proximité immédiate du parc départemental des Lilas, des commerces et des transports en commun du Grand Paris (bus 132 et 185 arrêt Julien Grimau – voie verte, ligne 7 du tramway).\nA une dizaine de minutes de la Station Louis Aragon (ligne 7 du métro). Studios équipés éligibles APL.\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 462.77,
+  "rentChargeAmount": 3.36,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 462.77,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
