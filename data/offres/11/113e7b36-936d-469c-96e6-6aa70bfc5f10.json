@@ -1,17 +1,17 @@
 {
  "guid": "113e7b36-936d-469c-96e6-6aa70bfc5f10",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-12T23:47:51+02:00",
- "absente_depuis": "2026-10-13T00:15:53+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-13T00:15:53+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
+ "fiche_recuperee_le": "2026-10-19T14:12:36+02:00",
  "liste": {
   "id": 44122,
   "guid": "113e7b36-936d-469c-96e6-6aa70bfc5f10",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-09-28",
+  "startDateOfPublication": "2026-10-19",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/8f/8f8aa685-32b8-4d88-8fb5-22e6fd5681ce/medium/ea7a2df8-f7ff-4933-8a48-4e034f470a9e",
@@ -236,7 +236,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-08-31",
-  "endDateOfPublication": "2026-10-12",
+  "endDateOfPublication": "2026-11-01",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": true,
   "description": "Située au coeur du campus de SACLAY, cette résidence neuve est à proximité des établissements d’enseignement supérieur. Elle offre un cadre de vie confortable et fonctionnel, pensé pour accompagner les étudiants au quotidien.\nBus :\nLignes 14, 91-06, 91-08, N63 – arrêt Ferme de la Vauve (4 min à pied)\n\nRER :\nLigne B – gare de Lozère (19 min à pied)\n\n",
@@ -255,32 +255,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": null,
-    "intEndValue": 30,
-    "listValues": []
-   },
-   {
-    "id": 1,
-    "ordering": 2,
-    "code": "ETU",
-    "label": "Etudiant",
-    "type": "BOOLEAN",
-    "group": "PROFILE",
-    "boolValue": true,
-    "intStartValue": null,
-    "intEndValue": null,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": true,
