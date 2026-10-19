@@ -1,0 +1,262 @@
+{
+ "guid": "8bfe3490-2435-49fd-acb1-e3cf15fd9af1",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-19T10:02:06+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-19T10:02:06+02:00",
+ "liste": {
+  "id": 52334,
+  "guid": "8bfe3490-2435-49fd-acb1-e3cf15fd9af1",
+  "reference": "52334",
+  "residency": {
+   "id": 5891,
+   "guid": "42487ddb-c4ed-43b1-b1b9-8e05e877e7ca",
+   "reference": "5891",
+   "name": "HARMONIE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 53168,
+   "guid": "9a7ec8b2-9f6c-4e8a-9493-c71f55eb1d5a",
+   "reference": "53168",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 63.81,
+   "municipality": {
+    "id": 28885,
+    "postcode": "72000",
+    "code": "72181",
+    "name": "Le Mans"
+   },
+   "description": "Appartement de type 3 comprenant un séjour avec cuisine, un cellier, 2 chambres, une salle d'eau, WC, une terrasse."
+  },
+  "availableAt": "2026-10-16",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 617.1,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9a7ec8b2-9f6c-4e8a-9493-c71f55eb1d5a/medium/eb0edf14-127c-4483-a876-566d15b6a909",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence neuve HARMONIE située dans le quartier de la Boussinière s'intègre parfaitement dans un secteur calme et résidentiel qui ne manque pas de vie. Commerces et services sont tous accessibles à pied (boulangerie, boucherie, supermarché mais également pharmacie, médecin ou cabinet infirmier). On rejoint également toutes les structures scolaires de la maternelle au lycée à pied ou en bus. Les bords de Sarthe se trouvent à quelques pas pour d'agréables promenades sur ses berges aménagées.\nLa résidence est desservie par le bus avec à 300 mètres, l'arrêt de bus \"Calandre\" ligne 20 et la ligne de tramway T1 station \"Lafayette\".\n\nAppartement de type 3 comprenant un séjour avec cuisine, un cellier, 2 chambres, une salle d'eau, WC, une terrasse.\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52334,
+  "guid": "8bfe3490-2435-49fd-acb1-e3cf15fd9af1",
+  "reference": "52334",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9a7ec8b2-9f6c-4e8a-9493-c71f55eb1d5a/large/e501721a-7bb6-4b31-ace4-39fd61da607b",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9a7ec8b2-9f6c-4e8a-9493-c71f55eb1d5a/large/1983dd1d-f5db-4113-bcd6-7b4ba8aa9a09",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 53168,
+   "guid": "9a7ec8b2-9f6c-4e8a-9493-c71f55eb1d5a",
+   "reference": "53168",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 63.81,
+   "municipality": {
+    "id": 28885,
+    "postcode": "72000",
+    "code": "72181",
+    "name": "Le Mans"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "CEL",
+     "label": "Cellier"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 5891,
+   "guid": "42487ddb-c4ed-43b1-b1b9-8e05e877e7ca",
+   "reference": "5891",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-05-20",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-16",
+  "endDateOfPublication": "2026-11-08",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "La résidence neuve HARMONIE située dans le quartier de la Boussinière s'intègre parfaitement dans un secteur calme et résidentiel qui ne manque pas de vie. Commerces et services sont tous accessibles à pied (boulangerie, boucherie, supermarché mais également pharmacie, médecin ou cabinet infirmier). On rejoint également toutes les structures scolaires de la maternelle au lycée à pied ou en bus. Les bords de Sarthe se trouvent à quelques pas pour d'agréables promenades sur ses berges aménagées.\nLa résidence est desservie par le bus avec à 300 mètres, l'arrêt de bus \"Calandre\" ligne 20 et la ligne de tramway T1 station \"Lafayette\".\n\nAppartement de type 3 comprenant un séjour avec cuisine, un cellier, 2 chambres, une salle d'eau, WC, une terrasse.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 542.39,
+  "rentChargeAmount": 74.71,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 542.39,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
