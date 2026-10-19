@@ -1,17 +1,17 @@
 {
  "guid": "53a4aab1-deaa-4c3d-a81e-525c293b2a1b",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-08T16:20:31+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-17T23:57:55+02:00",
- "absente_depuis": "2026-10-18T00:18:12+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-18T00:18:12+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": "erreur : HTTP 410 sur /demands/public/offer-showcase-details : {\"code\":\"DEM44E410\",\"data\":null,\"message\":\"La donnée recherchée n'est plus disponible\"}",
- "fiche_recuperee_le": "2026-10-13T07:19:00+02:00",
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-19T07:48:36+02:00",
  "liste": {
   "id": 39319,
   "guid": "53a4aab1-deaa-4c3d-a81e-525c293b2a1b",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": null,
+  "startDateOfPublication": "2026-10-19",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/94/949b82d0-bd3c-4fc6-8a1f-7ff2119025c8/medium/ccd8c494-1583-4c94-b361-5bc905692e56",
@@ -227,11 +227,11 @@
    ],
    "requiredWarrantyTypes": [],
    "deliveredAt": null,
-   "constructionYear": null,
+   "constructionYear": 2026,
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-11-30",
-  "endDateOfPublication": "2026-10-17",
+  "endDateOfPublication": "2026-10-28",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "Appartement neuf de type 2 au rez-de-chaussée, d'une superficie de 40 m² et situé rue Angélique Vignon à LOUVIERS.\n\nIl comprend une entrée avec placard, un séjour avec cuisine aménagée, une chambre, une salle d'eau avec wc et un jardin de 7 m². \n\nLe loyer est de 534 euros dont 54 euros de charges.\n\nLe chauffage est individuel électrique.\n\nLe programme est situé en centre-ville à 500m de la Mairie et sur la rive gauche de l’Eure. Il dispose de la proximité de tous les commerces, ainsi que des structures d’éducation de l’école élémentaire au lycée. Le secteur dispose également d’un ensemble industriel diversifié avec des entrepôts et des sociétés de transport. \n\nAccessibilité du site :  \nBus : Ligne H située à 500m reliant l’hôpital de Louviers à hôpital d’Elbeuf \nFerroviaire : Gare de Val de Reuil à 5mn par bus permettant de relier la zone d’emploi de Val de Reuil, Rouen en 20 mn, et Paris en 1h10. \nRoutiers : moins de 1 km de la A154 reliant l’A13  \n\nLivraison prévue en septembre.",
@@ -252,12 +252,12 @@
   "rentAnnexChargesIncluded": null,
   "offerTargetPopulations": [],
   "isOfferAvailable": true,
-  "isRecent": false,
+  "isRecent": true,
   "isNewLodging": false,
   "isOfferRentReferenceIncreased": false,
   "rentReferenceIncreased": null,
   "rentType": "RENT_STANDARD",
   "totalRentAmountMax": null
  },
- "fiche_essais": 1
+ "fiche_essais": 0
 }
