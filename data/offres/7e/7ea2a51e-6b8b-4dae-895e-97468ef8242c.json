@@ -1,0 +1,242 @@
+{
+ "guid": "7ea2a51e-6b8b-4dae-895e-97468ef8242c",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-19T17:06:04+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-19T17:06:04+02:00",
+ "liste": {
+  "id": 52482,
+  "guid": "7ea2a51e-6b8b-4dae-895e-97468ef8242c",
+  "reference": "52482",
+  "residency": {
+   "id": 3340,
+   "guid": "2f2011ec-c94f-4900-9c25-4e70c98fc8ab",
+   "reference": "3340",
+   "name": "LA SALONENQUE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60032,
+   "guid": "03c7623e-2024-47f8-aee4-645ea7132948",
+   "reference": "60032",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 47.0,
+   "municipality": {
+    "id": 4329,
+    "postcode": "13090",
+    "code": "13001",
+    "name": "Aix-en-Provence"
+   },
+   "description": "Les charges comprennent le chauffage, l'eau froide et chaude"
+  },
+  "availableAt": "2026-09-12",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 818.22,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/03/03c7623e-2024-47f8-aee4-645ea7132948/medium/61ec6d47-6ee9-4f91-87a1-2469da165233",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence \" LA SALONENQUE \" est située  RUE JEAN DARET À AIX-EN-PROVENCE (13090). \n\nIdéalement située, cette résidence offre tous les avantages : elle avoisine toutes les commodités (commerces, établissements scolaires, transports en communs : bus) ainsi que les axes routiers et les autoroutes A8/A51.\n\nLes charges comprennent le chauffage, l'eau froide et chaude\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52482,
+  "guid": "7ea2a51e-6b8b-4dae-895e-97468ef8242c",
+  "reference": "52482",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/03/03c7623e-2024-47f8-aee4-645ea7132948/large/a57cfd30-0112-43a4-806f-8765a837516e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60032,
+   "guid": "03c7623e-2024-47f8-aee4-645ea7132948",
+   "reference": "60032",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 47.0,
+   "municipality": {
+    "id": 4329,
+    "postcode": "13090",
+    "code": "13001",
+    "name": "Aix-en-Provence"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 3340,
+   "guid": "2f2011ec-c94f-4900-9c25-4e70c98fc8ab",
+   "reference": "3340",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-12",
+  "endDateOfPublication": "2026-11-03",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence \" LA SALONENQUE \" est située  RUE JEAN DARET À AIX-EN-PROVENCE (13090). \n\nIdéalement située, cette résidence offre tous les avantages : elle avoisine toutes les commodités (commerces, établissements scolaires, transports en communs : bus) ainsi que les axes routiers et les autoroutes A8/A51.\n\nLes charges comprennent le chauffage, l'eau froide et chaude\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 585.03,
+  "rentChargeAmount": 139.66,
+  "rentParkingAmount": 93.53,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
