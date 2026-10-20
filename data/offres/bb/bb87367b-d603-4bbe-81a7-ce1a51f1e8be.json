@@ -1,0 +1,220 @@
+{
+ "guid": "bb87367b-d603-4bbe-81a7-ce1a51f1e8be",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-20T11:13:11+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-20T11:13:11+02:00",
+ "liste": {
+  "id": 52556,
+  "guid": "bb87367b-d603-4bbe-81a7-ce1a51f1e8be",
+  "reference": "52556",
+  "residency": {
+   "id": 1206,
+   "guid": "b777221d-727e-43a2-944b-617ae504d328",
+   "reference": "1206",
+   "name": "RESIDEIS FRESNES",
+   "type": {
+    "id": 3,
+    "ordering": 7,
+    "code": "RHV",
+    "label": "Résidence hôtelière à vocation sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60097,
+   "guid": "c4c90344-050e-4cf4-a951-b6eeda746e87",
+   "reference": "60097",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 19.0,
+   "municipality": {
+    "id": 35056,
+    "postcode": "94260",
+    "code": "94034",
+    "name": "Fresnes"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 870.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-20",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c4/c4c90344-050e-4cf4-a951-b6eeda746e87/medium/39c34881-10f2-4601-abf1-c7233ee5b207",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence propose de véritables « lieux de vie » ! Des appartements et des services de qualité pour garantir des séjours en toute autonomie et en sécurité, des espaces communs résidentiels en accès libre et une offre d’activités collectives et  solidaires pour favoriser le bien-être et le vivre ensemble.\nMairie et Centre commercial à proximité\nTVM à 5 minutes de la résidence pour rejoindre la ligne 14\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52556,
+  "guid": "bb87367b-d603-4bbe-81a7-ce1a51f1e8be",
+  "reference": "52556",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c4/c4c90344-050e-4cf4-a951-b6eeda746e87/large/c438b20e-4bf1-4024-bd56-d980c926c4f8",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60097,
+   "guid": "c4c90344-050e-4cf4-a951-b6eeda746e87",
+   "reference": "60097",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 19.0,
+   "municipality": {
+    "id": 35056,
+    "postcode": "94260",
+    "code": "94034",
+    "name": "Fresnes"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1206,
+   "guid": "b777221d-727e-43a2-944b-617ae504d328",
+   "reference": "1206",
+   "livingRules": "Pas d'animal au sein de la résidence",
+   "type": {
+    "id": 3,
+    "ordering": 7,
+    "code": "RHV",
+    "label": "Résidence hôtelière à vocation sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-31",
+  "endDateOfPublication": "2026-10-28",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Cette résidence propose de véritables « lieux de vie » ! Des appartements et des services de qualité pour garantir des séjours en toute autonomie et en sécurité, des espaces communs résidentiels en accès libre et une offre d’activités collectives et  solidaires pour favoriser le bien-être et le vivre ensemble.\nMairie et Centre commercial à proximité\nTVM à 5 minutes de la résidence pour rejoindre la ligne 14\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 870.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
