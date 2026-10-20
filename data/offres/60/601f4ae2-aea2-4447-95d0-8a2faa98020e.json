@@ -1,0 +1,254 @@
+{
+ "guid": "601f4ae2-aea2-4447-95d0-8a2faa98020e",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-20T12:49:12+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-20T12:49:12+02:00",
+ "liste": {
+  "id": 52562,
+  "guid": "601f4ae2-aea2-4447-95d0-8a2faa98020e",
+  "reference": "52562",
+  "residency": {
+   "id": 3886,
+   "guid": "a2450ad9-cf0c-4bdd-b618-427bab7330bb",
+   "reference": "3886",
+   "name": "PIERREFITTE SUR SEINE 04",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 36430,
+   "guid": "9643026f-37e8-4f99-9923-1ff16be752d4",
+   "reference": "36430",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 62.0,
+   "municipality": {
+    "id": 35618,
+    "postcode": "93380",
+    "code": "93066",
+    "name": "Saint-Denis"
+   },
+   "description": "EXCLUSIVITÉ SANS FRAIS DE DOSSIER  A louer 3 pièces de 62 m² situé 9e étage avec ascenseur. Il est composé d'un séjour, deux chambres et une cuisine. Le chauffage est individuel électrique. Il est loué avec une place de parking. Résidence avec gardien. A proximité des écoles, commerces et transports RER D, T11 et T5 à 10mn de Paris."
+  },
+  "availableAt": "2026-10-20",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1082.69,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-20",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/96/9643026f-37e8-4f99-9923-1ff16be752d4/medium/95cb7eac-24c6-4cbe-bd48-d9eb708613ba",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "EXCLUSIVITÉ SANS FRAIS DE DOSSIER  A louer 3 pièces de 62 m² situé 9e étage avec ascenseur. Il est composé d'un séjour, deux chambres et une cuisine. Le chauffage est individuel électrique. Il est loué avec une place de parking. Résidence avec gardien. A proximité des écoles, commerces et transports RER D, T11 et T5 à 10mn de Paris.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52562,
+  "guid": "601f4ae2-aea2-4447-95d0-8a2faa98020e",
+  "reference": "52562",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/96/9643026f-37e8-4f99-9923-1ff16be752d4/large/52dacda9-4b2e-44f3-a4a4-97d8e67e073e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/96/9643026f-37e8-4f99-9923-1ff16be752d4/large/2021b63e-a2c3-4327-9dfd-f960464de0bf",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 36430,
+   "guid": "9643026f-37e8-4f99-9923-1ff16be752d4",
+   "reference": "36430",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 62.0,
+   "municipality": {
+    "id": 35618,
+    "postcode": "93380",
+    "code": "93066",
+    "name": "Saint-Denis"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 12,
+    "ordering": 12,
+    "code": "9",
+    "label": "9"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3886,
+   "guid": "a2450ad9-cf0c-4bdd-b618-427bab7330bb",
+   "reference": "3886",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-20",
+  "endDateOfPublication": "2027-10-19",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "EXCLUSIVITÉ SANS FRAIS DE DOSSIER  A louer 3 pièces de 62 m² situé 9e étage avec ascenseur. Il est composé d'un séjour, deux chambres et une cuisine. Le chauffage est individuel électrique. Il est loué avec une place de parking. Résidence avec gardien. A proximité des écoles, commerces et transports RER D, T11 et T5 à 10mn de Paris.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 842.58,
+  "rentChargeAmount": 180.11,
+  "rentParkingAmount": 60.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 902.58,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
