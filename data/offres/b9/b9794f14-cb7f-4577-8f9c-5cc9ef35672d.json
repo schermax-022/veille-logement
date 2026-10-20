@@ -1,17 +1,17 @@
 {
  "guid": "b9794f14-cb7f-4577-8f9c-5cc9ef35672d",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-19T12:30:15+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-19T15:02:25+02:00",
- "absente_depuis": "2026-10-19T15:50:11+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-19T15:50:11+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-19T12:30:15+02:00",
+ "fiche_recuperee_le": "2026-10-20T11:49:31+02:00",
  "liste": {
   "id": 52442,
   "guid": "b9794f14-cb7f-4577-8f9c-5cc9ef35672d",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-19",
+  "startDateOfPublication": "2026-10-20",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/80/80b55d6e-614f-4382-a571-1fdb2ca1bf9d/medium/4957bd1d-94f1-4f06-90c7-8ce3e5b0eee4",
@@ -254,7 +254,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-11-03",
-  "endDateOfPublication": "2026-10-26",
+  "endDateOfPublication": "2026-10-29",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
   "description": "Résidence CAMPUS 45, livrée en Octobre 2025 située  Avenue Jean François RACLET 69007 LYON.\nIdéalement située à Lyon 7ème. Secteur Debourg.\nCommerces, supermarché et établissements scolaires à proximité.\nTransports en commun:  Métro B station: \"Debourg\", Ligne 64 arrêt :\"André Bollier\".\n\nAppartement meublé et équipé, situé au  rez-de-chaussée de la résidence.\nLogement disponible à partir du 03/11/26 (sous réserve de travaux) pour une redevance mensuelle incluant les charges générales, une provision d’eau chaude et d’eau froide et une provision de chauffage.\nLe mode de chauffage est collectif.\n\nMerci de situer l'environnement avant de postuler à une offre.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.\n\n\n",
@@ -273,32 +273,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": 28,
-    "listValues": []
-   },
-   {
-    "id": 1,
-    "ordering": 2,
-    "code": "ETU",
-    "label": "Etudiant",
-    "type": "BOOLEAN",
-    "group": "PROFILE",
-    "boolValue": true,
-    "intStartValue": null,
-    "intEndValue": null,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": true,
   "isNewLodging": false,
