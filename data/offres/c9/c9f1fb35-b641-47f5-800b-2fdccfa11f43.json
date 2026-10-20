@@ -1,0 +1,230 @@
+{
+ "guid": "c9f1fb35-b641-47f5-800b-2fdccfa11f43",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-20T18:00:43+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-20T18:00:43+02:00",
+ "liste": {
+  "id": 52134,
+  "guid": "c9f1fb35-b641-47f5-800b-2fdccfa11f43",
+  "reference": "52134",
+  "residency": {
+   "id": 2122,
+   "guid": "ceb75ef4-8001-4a6c-a4fb-d68bb8ccfbe2",
+   "reference": "2122",
+   "name": "SITE ESCEM",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59669,
+   "guid": "9667eeeb-b879-493b-b40b-a4f0a3bec56e",
+   "reference": "59669",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 14187,
+    "postcode": "37200",
+    "code": "37261",
+    "name": "Tours"
+   },
+   "description": "T1' meublé de 21 m²\n•\tkitchenette avec plaques électriques et frigo \n•\tLit 1 place avec tête de lit\n•\tMeuble de rangement\n•\tTable + 2 chaises\n•\tMeuble étagère de rangement \n•\tsalle d'eau avec wc, et meuble sous le lavabo \n•\tplacard de rangement \n\nATTENTION : \nRésidence en cours de construction.\nLa date d'ouverture prévisionnelle de la résidence est prévue début Janvier 2027, en fonction de l'avancée des travaux.\n\nLe loyer prévisionnel 500 euros est à confirmer \n"
+  },
+  "availableAt": "2027-01-11",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 500.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-20",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/96/9667eeeb-b879-493b-b40b-a4f0a3bec56e/medium/232c0a80-44e6-4a65-a310-7c78af22a7b7",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Le quartier des Fontaines est desservi par les transports en commun : 2 lignes de bus ainsi que la future ligne de tramway avec un arrêt de celui-ci au pied du terrain, accès aisé au réseau de transports, positionnement central dans un éco-quartier équipé de services et de commerces, proximité des bassins d’emplois.\n\nT1' meublé de 21 m²\n•\tkitchenette avec plaques électriques et frigo \n•\tLit 1 place avec tête de lit\n•\tMeuble de rangement\n•\tTable + 2 chaises\n•\tMeuble étagère de rangement \n•\tsalle d'eau avec wc, et meuble sous le lavabo \n•\tplacard de rangement \n\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52134,
+  "guid": "c9f1fb35-b641-47f5-800b-2fdccfa11f43",
+  "reference": "52134",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/96/9667eeeb-b879-493b-b40b-a4f0a3bec56e/large/60cd1b9f-ab4c-467e-8c6d-e098eae887df",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59669,
+   "guid": "9667eeeb-b879-493b-b40b-a4f0a3bec56e",
+   "reference": "59669",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 14187,
+    "postcode": "37200",
+    "code": "37261",
+    "name": "Tours"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 2122,
+   "guid": "ceb75ef4-8001-4a6c-a4fb-d68bb8ccfbe2",
+   "reference": "2122",
+   "livingRules": "",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-11",
+  "endDateOfPublication": "2027-06-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Le quartier des Fontaines est desservi par les transports en commun : 2 lignes de bus ainsi que la future ligne de tramway avec un arrêt de celui-ci au pied du terrain, accès aisé au réseau de transports, positionnement central dans un éco-quartier équipé de services et de commerces, proximité des bassins d’emplois.\n\nT1' meublé de 21 m²\n•\tkitchenette avec plaques électriques et frigo \n•\tLit 1 place avec tête de lit\n•\tMeuble de rangement\n•\tTable + 2 chaises\n•\tMeuble étagère de rangement \n•\tsalle d'eau avec wc, et meuble sous le lavabo \n•\tplacard de rangement \n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 500.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 500.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
