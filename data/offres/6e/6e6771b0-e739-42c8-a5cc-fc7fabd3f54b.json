@@ -1,0 +1,262 @@
+{
+ "guid": "6e6771b0-e739-42c8-a5cc-fc7fabd3f54b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-20T10:38:48+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-20T10:38:48+02:00",
+ "liste": {
+  "id": 52500,
+  "guid": "6e6771b0-e739-42c8-a5cc-fc7fabd3f54b",
+  "reference": "52500",
+  "residency": {
+   "id": 706,
+   "guid": "321e0feb-c213-4085-bb82-787f27a724bb",
+   "reference": "706",
+   "name": "NOISY LE SEC",
+   "type": {
+    "id": 12,
+    "ordering": 10,
+    "code": "FTM",
+    "label": "Foyers travailleurs migrants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60047,
+   "guid": "2c32df3a-8e0d-4a30-97c8-f6b7b658fe6f",
+   "reference": "60047",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 12.0,
+   "municipality": {
+    "id": 35024,
+    "postcode": "93130",
+    "code": "93053",
+    "name": "Noisy-le-Sec"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-27",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 507.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-20",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2c32df3a-8e0d-4a30-97c8-f6b7b658fe6f/medium/acc0303b-7753-413a-b623-516e69bcdb7f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Ce logement est proche de toutes commodités (Commerces de proximité, supermarchés et services accessible à pied, restaurants, pharmacies et équipements du quotidien à quelques minutes).\n\nAccès rapide aux transports en commun facilitant les déplacements vers Paris et les environs.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52500,
+  "guid": "6e6771b0-e739-42c8-a5cc-fc7fabd3f54b",
+  "reference": "52500",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2c32df3a-8e0d-4a30-97c8-f6b7b658fe6f/large/fa5144b7-27a3-4687-9379-814f5f10339a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60047,
+   "guid": "2c32df3a-8e0d-4a30-97c8-f6b7b658fe6f",
+   "reference": "60047",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 12.0,
+   "municipality": {
+    "id": 35024,
+    "postcode": "93130",
+    "code": "93053",
+    "name": "Noisy-le-Sec"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 706,
+   "guid": "321e0feb-c213-4085-bb82-787f27a724bb",
+   "reference": "706",
+   "livingRules": null,
+   "type": {
+    "id": 12,
+    "ordering": 10,
+    "code": "FTM",
+    "label": "Foyers travailleurs migrants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 1974,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-27",
+  "endDateOfPublication": "2026-10-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Ce logement est proche de toutes commodités (Commerces de proximité, supermarchés et services accessible à pied, restaurants, pharmacies et équipements du quotidien à quelques minutes).\n\nAccès rapide aux transports en commun facilitant les déplacements vers Paris et les environs.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 507.5,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 507.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

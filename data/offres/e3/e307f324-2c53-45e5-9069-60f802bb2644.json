@@ -1,0 +1,257 @@
+{
+ "guid": "e307f324-2c53-45e5-9069-60f802bb2644",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-20T10:38:48+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-20T10:38:48+02:00",
+ "liste": {
+  "id": 52549,
+  "guid": "e307f324-2c53-45e5-9069-60f802bb2644",
+  "reference": "52549",
+  "residency": {
+   "id": 1055,
+   "guid": "b3b585a6-ee27-42ab-a997-652beba3d5fa",
+   "reference": "1055",
+   "name": "CLJT EMILIENNE MOREAU",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 12077,
+   "guid": "9eda1583-eb9d-4db5-ab4f-f0892a5591c6",
+   "reference": "12077",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 16.0,
+   "municipality": {
+    "id": 34996,
+    "postcode": "92150",
+    "code": "92073",
+    "name": "Suresnes"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-05",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 665.65,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-20",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9e/9eda1583-eb9d-4db5-ab4f-f0892a5591c6/medium/50edd100-fd2f-4867-8d49-0c91237713b9",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cadre calme et verdoyant. Proximité des transports et des commerces pour cette chambre meublée au sein d'une résidence proposant le petit déjeuner, déjeuner et dîner dans son restaurant. Prestation incluse.\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52549,
+  "guid": "e307f324-2c53-45e5-9069-60f802bb2644",
+  "reference": "52549",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9e/9eda1583-eb9d-4db5-ab4f-f0892a5591c6/large/ef6de3cc-7d26-4789-955f-7e68a9e70b8d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9e/9eda1583-eb9d-4db5-ab4f-f0892a5591c6/large/55acc358-851c-4f10-bcaa-5308b543f5e9",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9e/9eda1583-eb9d-4db5-ab4f-f0892a5591c6/large/83730447-50d8-4e63-8c2c-0d981b1ac36e",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 12077,
+   "guid": "9eda1583-eb9d-4db5-ab4f-f0892a5591c6",
+   "reference": "12077",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 1,
+    "ordering": 1,
+    "code": "C",
+    "label": "Chambre",
+    "commercialLabel": "Chambre"
+   },
+   "area": 16.0,
+   "municipality": {
+    "id": 34996,
+    "postcode": "92150",
+    "code": "92073",
+    "name": "Suresnes"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": "COLLECTIVE",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1055,
+   "guid": "b3b585a6-ee27-42ab-a997-652beba3d5fa",
+   "reference": "1055",
+   "livingRules": "Pas d'animal au sein de la résidence.\n\n\nLa date limite de dépôt de candidature n'est pas contractuelle.\n",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-05",
+  "endDateOfPublication": "2026-10-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Cadre calme et verdoyant. Proximité des transports et des commerces pour cette chambre meublée au sein d'une résidence proposant le petit déjeuner, déjeuner et dîner dans son restaurant. Prestation incluse.\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 665.65,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 27,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
