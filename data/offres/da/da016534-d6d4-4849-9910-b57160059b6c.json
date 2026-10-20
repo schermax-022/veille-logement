@@ -1,0 +1,255 @@
+{
+ "guid": "da016534-d6d4-4849-9910-b57160059b6c",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-20T13:15:58+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-20T13:15:58+02:00",
+ "liste": {
+  "id": 52560,
+  "guid": "da016534-d6d4-4849-9910-b57160059b6c",
+  "reference": "52560",
+  "residency": {
+   "id": 6806,
+   "guid": "b4460b61-6a73-403a-aa46-8425e7e4e0dd",
+   "reference": "6806",
+   "name": "GREEN STATION",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60098,
+   "guid": "7076e879-ad21-4fd9-88f1-3c9bb226e3ec",
+   "reference": "60098",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 81.71,
+   "municipality": {
+    "id": 12525,
+    "postcode": "33000",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "description": "Nous vous proposons un appartement composé d'une entrée, cuisine ouverte sur le séjour donnant sur 1 loggia de 4.92m², 1 suite parentale avec salle de douche,WC et dressing, 2 chambres avec placards et salle de bain avec WC séparés."
+  },
+  "availableAt": "2026-11-17",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1136.08,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-20",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/7076e879-ad21-4fd9-88f1-3c9bb226e3ec/medium/37d90393-df92-4b4a-9692-26ab05df101f",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence Green Station se situe rue des Maraichers à proximité des commerces et services : transports en commun (Gare SNCF, lignes de Tram F, C et D, lignes de bus (H1, H2,20,35, ARENA...) supermarchés, établissements scolaires (primaire et secondaire), maison de la santé, clinique, accès direct au pont Simon Veil et au boulevard... \nL'ensemble immobilier comprend deux bâtiments.\n\nNous vous proposons un appartement composé d'une entrée, cuisine ouverte sur le séjour donnant sur 1 loggia de 4.92m², 1 suite parentale avec salle de douche,WC et dressing, 2 chambres avec placards et salle de bain avec WC séparés.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52560,
+  "guid": "da016534-d6d4-4849-9910-b57160059b6c",
+  "reference": "52560",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/7076e879-ad21-4fd9-88f1-3c9bb226e3ec/large/84540c22-cccb-4a05-9d45-98de480f83aa",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/70/7076e879-ad21-4fd9-88f1-3c9bb226e3ec/large/a0efc18c-bebd-4c94-a821-e64a29edf4ea",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60098,
+   "guid": "7076e879-ad21-4fd9-88f1-3c9bb226e3ec",
+   "reference": "60098",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 81.71,
+   "municipality": {
+    "id": 12525,
+    "postcode": "33000",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 10,
+    "ordering": 10,
+    "code": "7",
+    "label": "7"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 6806,
+   "guid": "b4460b61-6a73-403a-aa46-8425e7e4e0dd",
+   "reference": "6806",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-17",
+  "endDateOfPublication": "2026-10-29",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence Green Station se situe rue des Maraichers à proximité des commerces et services : transports en commun (Gare SNCF, lignes de Tram F, C et D, lignes de bus (H1, H2,20,35, ARENA...) supermarchés, établissements scolaires (primaire et secondaire), maison de la santé, clinique, accès direct au pont Simon Veil et au boulevard... \nL'ensemble immobilier comprend deux bâtiments.\n\nNous vous proposons un appartement composé d'une entrée, cuisine ouverte sur le séjour donnant sur 1 loggia de 4.92m², 1 suite parentale avec salle de douche,WC et dressing, 2 chambres avec placards et salle de bain avec WC séparés.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 874.21,
+  "rentChargeAmount": 261.87,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 874.21,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
