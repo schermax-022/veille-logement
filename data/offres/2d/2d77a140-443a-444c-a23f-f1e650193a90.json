@@ -1,17 +1,17 @@
 {
  "guid": "2d77a140-443a-444c-a23f-f1e650193a90",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-18T23:31:36+02:00",
- "absente_depuis": "2026-10-18T23:58:29+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-18T23:58:29+02:00",
- "remises_en_ligne": 1,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 2,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-13T15:59:12+02:00",
+ "fiche_recuperee_le": "2026-10-21T12:00:53+02:00",
  "liste": {
   "id": 50148,
   "guid": "2d77a140-443a-444c-a23f-f1e650193a90",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": true,
   "agencyFeesAmount": 175.0,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-13",
+  "startDateOfPublication": "2026-10-21",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/medium/d5122554-a86c-4827-925a-cc41eb74fd24",
@@ -83,7 +83,7 @@
     "dimension": "MEDIUM"
    }
   ],
-  "description": "Ce bien locatif privé a été entièrement remis à neuf dans le cadre du programme Action Coeur de Ville. \n\nCe bel appartement TYPE 2 d’une superficie de 51.88 m2 totalement rénovée  est idéalement situé Rue du Collège en plein centre-ville de CHINON -  Le chauffage et la production d'eau chaude sont individuels électriques. L'eau chaude est produite par un chauffe-eau thermodynamique – Frais d’agence à la charge du locataire : 175 euros - Pas de parking privé, mais stationnements publics (place Jeanne d'Arc et Rue Jean Jacques Rousseau)\n\n",
+  "description": "Ce bien locatif privé a été entièrement remis à neuf dans le cadre du programme Action Coeur de Ville. \n\nCe bel appartement TYPE 2 d’une superficie de 51.88 m2 totalement rénovée  est idéalement situé Rue du Collège en plein centre-ville de CHINON \nLe chauffage et la production d'eau chaude sont individuels électriques. L'eau chaude est produite par un chauffe-eau thermodynamique \nFrais d’agence à la charge du locataire : 175 euros \nPas de parking privé, mais stationnements publics (place Jeanne d'Arc et Rue Jean Jacques Rousseau)\n\n",
   "isRecent": true,
   "isNewLodging": true,
   "candidacy": null,
@@ -102,33 +102,45 @@
   "demandGuid": null,
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/c09b18f8-a76e-4bfa-b48d-f50c1cd68a65",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/160727dd-4626-450d-a9ef-8942a96a705e",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/870f0463-d84a-41ba-8480-1a005354ed0b",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/e8bb018b-2610-49cd-8f62-b64160a14369",
     "urlContentType": "image/jpeg",
     "ordering": 1,
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/cd31a9b3-910d-4be3-86b3-e5a49970991d",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/c09b18f8-a76e-4bfa-b48d-f50c1cd68a65",
     "urlContentType": "image/jpeg",
     "ordering": 2,
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/d4f78b97-a48f-46b2-900a-bac52028f33d",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/870f0463-d84a-41ba-8480-1a005354ed0b",
     "urlContentType": "image/jpeg",
     "ordering": 3,
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/71c019ab-ef92-48c0-9116-454c497c45e9",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/cd31a9b3-910d-4be3-86b3-e5a49970991d",
     "urlContentType": "image/jpeg",
     "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/d4f78b97-a48f-46b2-900a-bac52028f33d",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/50b24249-4828-4ca2-992d-31714065bdaa/large/71c019ab-ef92-48c0-9116-454c497c45e9",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
     "dimension": "LARGE"
    }
   ],
@@ -243,10 +255,10 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-09-30",
-  "endDateOfPublication": "2026-10-18",
+  "endDateOfPublication": "2026-10-30",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
-  "description": "Ce bien locatif privé a été entièrement remis à neuf dans le cadre du programme Action Coeur de Ville. \n\nCe bel appartement TYPE 2 d’une superficie de 51.88 m2 totalement rénovée  est idéalement situé Rue du Collège en plein centre-ville de CHINON -  Le chauffage et la production d'eau chaude sont individuels électriques. L'eau chaude est produite par un chauffe-eau thermodynamique – Frais d’agence à la charge du locataire : 175 euros - Pas de parking privé, mais stationnements publics (place Jeanne d'Arc et Rue Jean Jacques Rousseau)\n\n",
+  "description": "Ce bien locatif privé a été entièrement remis à neuf dans le cadre du programme Action Coeur de Ville. \n\nCe bel appartement TYPE 2 d’une superficie de 51.88 m2 totalement rénovée  est idéalement situé Rue du Collège en plein centre-ville de CHINON \nLe chauffage et la production d'eau chaude sont individuels électriques. L'eau chaude est produite par un chauffe-eau thermodynamique \nFrais d’agence à la charge du locataire : 175 euros \nPas de parking privé, mais stationnements publics (place Jeanne d'Arc et Rue Jean Jacques Rousseau)\n\n",
   "paymentType": {
    "id": 2,
    "ordering": 1,
