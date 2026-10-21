@@ -1,0 +1,289 @@
+{
+ "guid": "c479c352-52c5-4c9f-8686-91ef908e0349",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-21T10:53:31+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-21T10:53:31+02:00",
+ "liste": {
+  "id": 52727,
+  "guid": "c479c352-52c5-4c9f-8686-91ef908e0349",
+  "reference": "52727",
+  "residency": {
+   "id": 1003,
+   "guid": "6fcad1d2-5670-4e03-88d5-011887795048",
+   "reference": "1003",
+   "name": "LE DIORAMA - RE",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 11197,
+   "guid": "72d177d1-9f45-4dcf-9964-7539e093e65a",
+   "reference": "11197",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 19.65,
+   "municipality": {
+    "id": 35047,
+    "postcode": "94360",
+    "code": "94015",
+    "name": "Bry-sur-Marne"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-20",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 461.16,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-21",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/72/72d177d1-9f45-4dcf-9964-7539e093e65a/medium/8744daaa-887e-461a-8227-e3d85d4d2fb0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "RER A à proximité pour cette résidence avec des commerces à distance de marche : supérette, boulangerie, pharmacie, restaurants, ...\nDes espaces verts sont facilement accessibles\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52727,
+  "guid": "c479c352-52c5-4c9f-8686-91ef908e0349",
+  "reference": "52727",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/72/72d177d1-9f45-4dcf-9964-7539e093e65a/large/b6caa44d-7826-4765-931c-ed2cdd2b25f6",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/72/72d177d1-9f45-4dcf-9964-7539e093e65a/large/11b1e4f9-4599-46d0-9403-1a5417423e37",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/72/72d177d1-9f45-4dcf-9964-7539e093e65a/large/c103d6e5-79f8-4ed8-9132-fa2a0c46c199",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 11197,
+   "guid": "72d177d1-9f45-4dcf-9964-7539e093e65a",
+   "reference": "11197",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 19.65,
+   "municipality": {
+    "id": 35047,
+    "postcode": "94360",
+    "code": "94015",
+    "name": "Bry-sur-Marne"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 1,
+    "ordering": 1,
+    "code": "RDC",
+    "label": "Rez-de-chaussée"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1003,
+   "guid": "6fcad1d2-5670-4e03-88d5-011887795048",
+   "reference": "1003",
+   "livingRules": "Règle de vie au sein de la résidence : \n-Pas d'animal\n-Pas d'hébergement",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-20",
+  "endDateOfPublication": "2026-11-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "RER A à proximité pour cette résidence avec des commerces à distance de marche : supérette, boulangerie, pharmacie, restaurants, ...\nDes espaces verts sont facilement accessibles\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 461.16,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 481.56,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   },
+   {
+    "id": 1,
+    "ordering": 2,
+    "code": "ETU",
+    "label": "Etudiant",
+    "type": "BOOLEAN",
+    "group": "PROFILE",
+    "boolValue": true,
+    "intStartValue": null,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

@@ -1,0 +1,268 @@
+{
+ "guid": "f06b668d-1342-4ebc-bc34-4a2633fb990b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-21T10:53:31+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-21T10:53:31+02:00",
+ "liste": {
+  "id": 52721,
+  "guid": "f06b668d-1342-4ebc-bc34-4a2633fb990b",
+  "reference": "52721",
+  "residency": {
+   "id": 8292,
+   "guid": "50e348a1-b1be-478a-9204-fe1e62705752",
+   "reference": "8292",
+   "name": "JARRIN 5",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60268,
+   "guid": "67f69344-c843-4f1d-b749-ac794440b618",
+   "reference": "60268",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 49,
+    "postcode": "01000",
+    "code": "01053",
+    "name": "Bourg-en-Bresse"
+   },
+   "description": "Appartement de type 1 comprenant : entrée, cuisine ouverte sur la pièce de vie, salle d'eau et WC."
+  },
+  "availableAt": "2026-11-15",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 345.67,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-21",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/67f69344-c843-4f1d-b749-ac794440b618/medium/2d51ac76-dab8-43fd-b1a7-e8da17e526e8",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence rénovée située Rue Charles Jarrin 01000 BOURG  EN BRESSE.\nEmplacement privilégié, à proximité immédiate du centre ville, des écoles, des commerces et des commodités et à seulement 900m de la gare SNCF.\n\nCuisine équipée : T1 et T2 : plaque de cuisson, hotte et frigo et pour les T3 : plaque de cuisson, hotte et four.\nChauffage : fluide caloporteur.\n\nAppartement de type 1 comprenant : entrée, cuisine ouverte sur la pièce de vie, salle d'eau et WC.\n\n",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52721,
+  "guid": "f06b668d-1342-4ebc-bc34-4a2633fb990b",
+  "reference": "52721",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/67f69344-c843-4f1d-b749-ac794440b618/large/67f2cde0-a24f-4de1-bf40-757096024785",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/67f69344-c843-4f1d-b749-ac794440b618/large/31b82f50-31f1-4576-b514-d46a23ce406c",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/67f69344-c843-4f1d-b749-ac794440b618/large/788ae3b4-c96e-49dc-b2fd-a7924cd03325",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/67f69344-c843-4f1d-b749-ac794440b618/large/1bf4e792-64ff-4879-8d08-26566a3b170a",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60268,
+   "guid": "67f69344-c843-4f1d-b749-ac794440b618",
+   "reference": "60268",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 49,
+    "postcode": "01000",
+    "code": "01053",
+    "name": "Bourg-en-Bresse"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8292,
+   "guid": "50e348a1-b1be-478a-9204-fe1e62705752",
+   "reference": "8292",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-15",
+  "endDateOfPublication": "2026-11-19",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence rénovée située Rue Charles Jarrin 01000 BOURG  EN BRESSE.\nEmplacement privilégié, à proximité immédiate du centre ville, des écoles, des commerces et des commodités et à seulement 900m de la gare SNCF.\n\nCuisine équipée : T1 et T2 : plaque de cuisson, hotte et frigo et pour les T3 : plaque de cuisson, hotte et four.\nChauffage : fluide caloporteur.\n\nAppartement de type 1 comprenant : entrée, cuisine ouverte sur la pièce de vie, salle d'eau et WC.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 328.41,
+  "rentChargeAmount": 17.26,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 328.41,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
