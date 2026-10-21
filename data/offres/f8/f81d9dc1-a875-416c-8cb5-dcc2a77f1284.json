@@ -1,0 +1,248 @@
+{
+ "guid": "f81d9dc1-a875-416c-8cb5-dcc2a77f1284",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-21T19:21:50+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-21T19:21:50+02:00",
+ "liste": {
+  "id": 46576,
+  "guid": "f81d9dc1-a875-416c-8cb5-dcc2a77f1284",
+  "reference": "46576",
+  "residency": {
+   "id": 3426,
+   "guid": "ec04e630-7b21-4117-87c9-e80883bf713f",
+   "reference": "3426",
+   "name": "PANTIN 03",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 55030,
+   "guid": "0f3259c4-6920-4631-91d9-944676789e94",
+   "reference": "55030",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 57.0,
+   "municipality": {
+    "id": 35025,
+    "postcode": "93500",
+    "code": "93055",
+    "name": "Pantin"
+   },
+   "description": "A LOUER -- appartement 3 pièces de 57 m2 à Pantin - Situé au 10ème étage.  Sans frais d'agence.  Cet appartement se compose comme suit : un salon, une cuisine, deux chambres.  Chauffage collectif. Un gardien est présent.  Transports Métro ligne 7 station Aubervilliers-Pantin Quatre Chemins.Tramway T3b station Ella Fitzgerald."
+  },
+  "availableAt": "2026-10-21",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1018.13,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-08-11",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0f/0f3259c4-6920-4631-91d9-944676789e94/medium/b6af16d0-1c38-47d5-a3c8-f961abdf3b8d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité - appartement 3 pièces de 57 m² à Pantin  Sans frais d'agence.  Ce bien se décompose en un séjour, une cuisine et deux chambres.  La présence d’un gardien assure la sécurité de l’immeuble. L’appartement se situe au 10e étage.  Chauffage collectif. Gardien présent.  Transports : RER E station Pantin, métro ligne 7 station Aubervilliers-Pantin Quatre Chemins, tramway T3b station Ella Fitzgerald. Commerces autour du bien. Établissements scolaires à proximité.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 46576,
+  "guid": "f81d9dc1-a875-416c-8cb5-dcc2a77f1284",
+  "reference": "46576",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0f/0f3259c4-6920-4631-91d9-944676789e94/large/7e0cbe87-bcea-45e8-a049-934757b96a46",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 55030,
+   "guid": "0f3259c4-6920-4631-91d9-944676789e94",
+   "reference": "55030",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 57.0,
+   "municipality": {
+    "id": 35025,
+    "postcode": "93500",
+    "code": "93055",
+    "name": "Pantin"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 13,
+    "ordering": 13,
+    "code": "10",
+    "label": "10"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3426,
+   "guid": "ec04e630-7b21-4117-87c9-e80883bf713f",
+   "reference": "3426",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-21",
+  "endDateOfPublication": "2027-08-10",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 3 pièces de 57 m² à Pantin  Sans frais d'agence.  Ce bien se décompose en un séjour, une cuisine et deux chambres.  La présence d’un gardien assure la sécurité de l’immeuble. L’appartement se situe au 10e étage.  Chauffage collectif. Gardien présent.  Transports : RER E station Pantin, métro ligne 7 station Aubervilliers-Pantin Quatre Chemins, tramway T3b station Ella Fitzgerald. Commerces autour du bien. Établissements scolaires à proximité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 655.5,
+  "rentChargeAmount": 362.63,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 655.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

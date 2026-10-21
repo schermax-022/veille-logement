@@ -1,17 +1,17 @@
 {
  "guid": "9baa4823-7b9f-4e11-a48d-2fe399612884",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-15T07:32:40+02:00",
- "absente_depuis": "2026-10-15T08:34:51+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-15T08:34:51+02:00",
- "remises_en_ligne": 1,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 2,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-14T08:41:57+02:00",
+ "fiche_recuperee_le": "2026-10-21T19:21:50+02:00",
  "liste": {
   "id": 41455,
   "guid": "9baa4823-7b9f-4e11-a48d-2fe399612884",
@@ -62,7 +62,7 @@
    },
    "description": "Exclusivité - appartement 5 pièces de 93 m² à Levallois-Perret avec balcon.  Sans frais de dossier.  Ce logement propose un séjour avec balcon, une cuisine indépendante, trois chambres, une salle de bains, une salle d'eau et un WC séparé.  Présence d'un ascenseur. Le bien se situe au 13e étage. La présence d'un gardien est assurée.  Chauffage collectif. Un emplacement de parking complète ce bien. Balcon.   RER C à la station Pereire-Levallois. Métro ligne 3 aux stations Louise Michel, Porte de Champerret, Pereire et Anatole France. Tramway T3b aux arrêts Square Sainte-Odile, Porte de Champerret et Marguerite Long. Commerces à proximité. Établissements scolaires accessibles."
   },
-  "availableAt": "2026-10-14",
+  "availableAt": "2026-10-21",
   "isLodgingFirstTimeAvailable": false,
   "paymentType": {
    "id": 2,
@@ -77,7 +77,7 @@
   "startDateOfPublication": "2026-06-11",
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/medium/f4eda9b4-d751-4a06-b1e5-ddc59a31b0ea",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/medium/ab804613-ca2c-49c6-9389-d901a8db6ec9",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "MEDIUM"
@@ -102,9 +102,69 @@
   "demandGuid": null,
   "pictures": [
    {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/large/30042ccc-73a0-46be-9976-81adecf558aa",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
     "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/large/c74ec987-5461-484f-bade-24d68f371a23",
     "urlContentType": "image/jpeg",
     "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/large/af0df82e-bdd9-47ae-817f-76b9a3080a40",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/large/8794b197-9c58-4515-82b1-63278f3a888f",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/large/ff345d6e-c41d-40aa-b48b-05a1f03c5276",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/large/49455ed6-f566-426f-8b8a-3ed5a3378cc3",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/large/76acd0e3-5e54-4068-9b6c-65651ce4f843",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/large/2b7b07db-3d52-46dc-84c6-4ed21494d91c",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/large/3ed4bbde-80cc-4a02-b8e8-bb5735257731",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/large/b27b0a77-12c9-4861-8e37-7e955f5a714f",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/65/652cd8bc-aca9-47ad-8dad-9cc6acf8216c/large/36ba38df-4dbd-490c-9ecb-381aaa66a0fc",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
     "dimension": "LARGE"
    }
   ],
@@ -214,7 +274,7 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-10-14",
+  "availableAt": "2026-10-21",
   "endDateOfPublication": "2027-06-10",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
