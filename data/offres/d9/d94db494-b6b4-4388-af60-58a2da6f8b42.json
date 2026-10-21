@@ -1,17 +1,17 @@
 {
  "guid": "d94db494-b6b4-4388-af60-58a2da6f8b42",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-14T23:00:21+02:00",
- "absente_depuis": "2026-10-14T23:59:41+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-14T23:59:41+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
+ "fiche_recuperee_le": "2026-10-21T11:24:48+02:00",
  "liste": {
   "id": 51350,
   "guid": "d94db494-b6b4-4388-af60-58a2da6f8b42",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-07",
+  "startDateOfPublication": "2026-10-21",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/b5/b532ac43-42bd-4644-acb6-83873c200314/medium/16fd598b-0cb4-4462-9d1d-bbc7dc4bb54e",
@@ -237,7 +237,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-11-05",
-  "endDateOfPublication": "2026-10-14",
+  "endDateOfPublication": "2026-10-27",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "Résidence LA CLAIRIERE située rue du capitaine Franck Labois 69500 BRON.\nIdéalement située à BRON, Proche du quartier Montchat.\nCommerces, supermarché et établissements scolaires à proximité. \nTransports en commun: Ligne C17 arrêt : \"Genas Lacouture\" et ligne 8 arrêt : \"Monge\".\nAccès rapide périphérique et Autoroute A43.\n\n Appartement meublé et équipé, situé au 1er étage avec ascenseur.\nLogement disponible à partir du 05/11/26 (sous réserve de travaux) pour une redevance mensuelle incluant les charges générales, une provision d’eau chaude et d’eau froide, une provision de chauffage et l’électricité.\nLe mode de Chauffage est collectif.\n\nMerci de situer l'environnement avant de postuler à une offre.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.\n\nAnimaux non admis\nGarantie VISALE à souscrire (si éligible)\nDépôt de garantie à verser dès la signature de bail\n\n",
@@ -256,20 +256,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": null,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
