@@ -1,0 +1,240 @@
+{
+ "guid": "df0416b5-8f52-4c71-9d1d-35c383934444",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-22T16:22:09+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-22T16:22:09+02:00",
+ "liste": {
+  "id": 52388,
+  "guid": "df0416b5-8f52-4c71-9d1d-35c383934444",
+  "reference": "52388",
+  "residency": {
+   "id": 8492,
+   "guid": "79f7520b-cc83-4c08-a48b-046105a81562",
+   "reference": "8492",
+   "name": "1.9420",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59877,
+   "guid": "a67cd7a2-528e-4b2a-921e-ca4d3ddd901a",
+   "reference": "59877",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 61.53,
+   "municipality": {
+    "id": 30522,
+    "postcode": "77230",
+    "code": "77153",
+    "name": "Dammartin-en-Goële"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-09-19",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 941.41,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-22",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a6/a67cd7a2-528e-4b2a-921e-ca4d3ddd901a/medium/9974b02f-d186-49c8-ac36-8f49648f3bfb",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A DAMMARTIN EN GOËLE (La Pommeraie, Avenue du Maréchal Leclerc), nous vous proposons un appartement de 3 pièces d'une superficie de 61,53 m² situé au Rez-de-Chaussée avec ascenseur.\nChauffage Individuel Gaz\nTransport : La commune est desservie par la gare de Dammartin - Juilly - Saint-Mard, située à Saint-Mard sur la ligne desservie par les trains de la ligne K du Transilien.\nDisponibilité prévisionnelle à compter du 19/09/2026 (sous toutes réserves).\nLogement soumis au plafond de ressources LLI. \nPour plus de précisions, rendez-vous sur le site https://www.actionlogement.fr/logement-social/dossiers/plafond-de-ressources-calcul\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52388,
+  "guid": "df0416b5-8f52-4c71-9d1d-35c383934444",
+  "reference": "52388",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a6/a67cd7a2-528e-4b2a-921e-ca4d3ddd901a/large/5c0cebdc-e919-4321-8f3e-4db5a0cb4c28",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59877,
+   "guid": "a67cd7a2-528e-4b2a-921e-ca4d3ddd901a",
+   "reference": "59877",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 61.53,
+   "municipality": {
+    "id": 30522,
+    "postcode": "77230",
+    "code": "77153",
+    "name": "Dammartin-en-Goële"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8492,
+   "guid": "79f7520b-cc83-4c08-a48b-046105a81562",
+   "reference": "8492",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2024-09-17",
+   "constructionYear": 2024,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-19",
+  "endDateOfPublication": "2026-10-24",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "A DAMMARTIN EN GOËLE (La Pommeraie, Avenue du Maréchal Leclerc), nous vous proposons un appartement de 3 pièces d'une superficie de 61,53 m² situé au Rez-de-Chaussée avec ascenseur.\nChauffage Individuel Gaz\nTransport : La commune est desservie par la gare de Dammartin - Juilly - Saint-Mard, située à Saint-Mard sur la ligne desservie par les trains de la ligne K du Transilien.\nDisponibilité prévisionnelle à compter du 19/09/2026 (sous toutes réserves).\nLogement soumis au plafond de ressources LLI. \nPour plus de précisions, rendez-vous sur le site https://www.actionlogement.fr/logement-social/dossiers/plafond-de-ressources-calcul\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 871.38,
+  "rentChargeAmount": 70.03,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 871.38,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
