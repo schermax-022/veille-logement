@@ -1,17 +1,17 @@
 {
  "guid": "87c262c2-a28c-4e75-983c-b1eadd33d781",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-14T10:31:40+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-17T23:57:55+02:00",
- "absente_depuis": "2026-10-18T00:18:12+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-18T00:18:12+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-14T10:31:40+02:00",
+ "fiche_recuperee_le": "2026-10-22T10:16:34+02:00",
  "liste": {
   "id": 52009,
   "guid": "87c262c2-a28c-4e75-983c-b1eadd33d781",
@@ -48,14 +48,14 @@
     "label": "T1",
     "commercialLabel": "T1"
    },
-   "area": 20.3,
+   "area": 20.0,
    "municipality": {
     "id": 35096,
     "postcode": "95100",
     "code": "95018",
     "name": "Argenteuil"
    },
-   "description": "RER C à distance de marche et bus au pied de la résidence. A proximité de la Gare du Val d'Argenteuil. Accès Gare Saint-Lazare en 10 min.\nLa résidence est proche d'un espace vert communal et les commerces sont accessibles à moins de 200 m."
+   "description": "RER C à distance de marche et bus au pied de la résidence. A proximité de la Gare du Val d'Argenteuil. Accès Gare Saint-Lazare en 10 min.\nLa résidence est proche d'un espace vert communal et les commerces sont accessibles à moins de 200 m.\n\nLa date limite de dépôt de candidature n'est pas contractuelle"
   },
   "availableAt": "2026-10-09",
   "isLodgingFirstTimeAvailable": null,
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-14",
+  "startDateOfPublication": "2026-10-22",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/5e/5e5577d4-26c6-4986-8a06-58ead66a12df/medium/3e1c7649-3a1d-46ea-8c4b-b4ac5a68c5ed",
@@ -134,7 +134,7 @@
     "label": "T1",
     "commercialLabel": "T1"
    },
-   "area": 20.3,
+   "area": 20.0,
    "municipality": {
     "id": 35096,
     "postcode": "95100",
@@ -256,7 +256,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-10-09",
-  "endDateOfPublication": "2026-10-17",
+  "endDateOfPublication": "2026-10-30",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "RER C à distance de marche et bus au pied de la résidence. A proximité de la Gare du Val d'Argenteuil. Accès Gare Saint-Lazare en 10 min.\nLa résidence est proche d'un espace vert communal et les commerces sont accessibles à moins de 200 m.\n\n\n\n\n\n\n\n\nRER C à distance de marche et bus au pied de la résidence. A proximité de la Gare du Val d'Argenteuil. Accès Gare Saint-Lazare en 10 min.\nLa résidence est proche d'un espace vert communal et les commerces sont accessibles à moins de 200 m.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n",
@@ -275,20 +275,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": 24,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
