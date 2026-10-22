@@ -1,0 +1,248 @@
+{
+ "guid": "93832199-c3e5-42a0-9a1a-ff0410b0f5bd",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-22T12:38:23+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-22T12:38:23+02:00",
+ "liste": {
+  "id": 51952,
+  "guid": "93832199-c3e5-42a0-9a1a-ff0410b0f5bd",
+  "reference": "51952",
+  "residency": {
+   "id": 4840,
+   "guid": "5829e25d-ea25-4848-81ad-a486c4e0f1aa",
+   "reference": "4840",
+   "name": "PARME",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59534,
+   "guid": "3edb51f2-15a3-4979-8f33-cfeb12668e87",
+   "reference": "59534",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.0,
+   "municipality": {
+    "id": 35032,
+    "postcode": "93200",
+    "code": "93066",
+    "name": "Saint-Denis"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-20",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 497.68,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-22",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3edb51f2-15a3-4979-8f33-cfeb12668e87/medium/a0f9f1a4-51d2-45f8-bb29-5b1730748169",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Logement situé dans un bon quartier , à proximité des transports en commun , commerces , écoles et d'autres services utiles .\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51952,
+  "guid": "93832199-c3e5-42a0-9a1a-ff0410b0f5bd",
+  "reference": "51952",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3edb51f2-15a3-4979-8f33-cfeb12668e87/large/330a5808-7eea-49d4-b501-a55dd8bee6a2",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3edb51f2-15a3-4979-8f33-cfeb12668e87/large/fcea6d36-e7ac-4e7e-a865-2997cf57ed66",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3edb51f2-15a3-4979-8f33-cfeb12668e87/large/1916b167-a370-4d66-9945-e8e9810e533f",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3e/3edb51f2-15a3-4979-8f33-cfeb12668e87/large/2186fc64-b057-4f78-b6cb-c072bed09c53",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59534,
+   "guid": "3edb51f2-15a3-4979-8f33-cfeb12668e87",
+   "reference": "59534",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.0,
+   "municipality": {
+    "id": 35032,
+    "postcode": "93200",
+    "code": "93066",
+    "name": "Saint-Denis"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 9,
+    "ordering": 9,
+    "code": "6",
+    "label": "6"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 4840,
+   "guid": "5829e25d-ea25-4848-81ad-a486c4e0f1aa",
+   "reference": "4840",
+   "livingRules": "",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-20",
+  "endDateOfPublication": "2026-10-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Logement situé dans un bon quartier , à proximité des transports en commun , commerces , écoles et d'autres services utiles .\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 497.68,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
