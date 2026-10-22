@@ -1,0 +1,269 @@
+{
+ "guid": "1fa6b308-3197-44d2-b3a4-a68a615703c6",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-22T18:12:44+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-22T18:12:44+02:00",
+ "liste": {
+  "id": 52779,
+  "guid": "1fa6b308-3197-44d2-b3a4-a68a615703c6",
+  "reference": "52779",
+  "residency": {
+   "id": 1872,
+   "guid": "29e3b937-6dd0-455c-a471-b9ac1333c911",
+   "reference": "1872",
+   "name": "LA GARDE LES SAVELS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60330,
+   "guid": "90a85dde-cc75-49ba-890b-7d9fbc11ad2d",
+   "reference": "60330",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 18.7,
+   "municipality": {
+    "id": 32755,
+    "postcode": "83130",
+    "code": "83062",
+    "name": "La Garde"
+   },
+   "description": null
+  },
+  "availableAt": "2026-11-12",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 494.74,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-22",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/90/90a85dde-cc75-49ba-890b-7d9fbc11ad2d/medium/ac6f9778-dfef-4434-99fd-275364f2af06",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé rue Jacques Prévert à La Garde, ce logement bénéficie d’un environnement agréable, à proximité des commerces, des établissements scolaires, des services de santé et des commodités nécessaires au quotidien.\n\nLa commune de La Garde offre un cadre de vie apprécié, entre dynamisme urbain et proximité du littoral varois. Elle dispose de nombreux commerces, services et équipements sportifs et culturels, tout en bénéficiant de la proximité de Toulon et des communes environnantes.\n\nLes transports en commun permettent de rejoindre les différents quartiers de La Garde, Toulon et les autres communes de la métropole, selon les dessertes disponibles.\n\nLes principaux axes routiers facilitent les déplacements vers Toulon, La Valette-du-Var, Le Pradet et Hyères. La proximité des grands axes de circulation permet également de rejoindre les principaux pôles d’activité du secteur.\n\nCe logement offre ainsi un cadre de vie pratique et agréable, alliant proximité des services, mobilité et accessibilité au cœur de la métropole toulonnaise.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52779,
+  "guid": "1fa6b308-3197-44d2-b3a4-a68a615703c6",
+  "reference": "52779",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/90/90a85dde-cc75-49ba-890b-7d9fbc11ad2d/large/ce5e7841-3675-4927-9342-7b88e401e9ab",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60330,
+   "guid": "90a85dde-cc75-49ba-890b-7d9fbc11ad2d",
+   "reference": "60330",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 18.7,
+   "municipality": {
+    "id": 32755,
+    "postcode": "83130",
+    "code": "83062",
+    "name": "La Garde"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 1872,
+   "guid": "29e3b937-6dd0-455c-a471-b9ac1333c911",
+   "reference": "1872",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2012,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-12",
+  "endDateOfPublication": "2026-10-29",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé rue Jacques Prévert à La Garde, ce logement bénéficie d’un environnement agréable, à proximité des commerces, des établissements scolaires, des services de santé et des commodités nécessaires au quotidien.\n\nLa commune de La Garde offre un cadre de vie apprécié, entre dynamisme urbain et proximité du littoral varois. Elle dispose de nombreux commerces, services et équipements sportifs et culturels, tout en bénéficiant de la proximité de Toulon et des communes environnantes.\n\nLes transports en commun permettent de rejoindre les différents quartiers de La Garde, Toulon et les autres communes de la métropole, selon les dessertes disponibles.\n\nLes principaux axes routiers facilitent les déplacements vers Toulon, La Valette-du-Var, Le Pradet et Hyères. La proximité des grands axes de circulation permet également de rejoindre les principaux pôles d’activité du secteur.\n\nCe logement offre ainsi un cadre de vie pratique et agréable, alliant proximité des services, mobilité et accessibilité au cœur de la métropole toulonnaise.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 494.74,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 494.74,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

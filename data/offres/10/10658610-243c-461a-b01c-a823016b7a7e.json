@@ -1,0 +1,262 @@
+{
+ "guid": "10658610-243c-461a-b01c-a823016b7a7e",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-22T18:12:44+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-22T18:12:44+02:00",
+ "liste": {
+  "id": 52880,
+  "guid": "10658610-243c-461a-b01c-a823016b7a7e",
+  "reference": "52880",
+  "residency": {
+   "id": 1848,
+   "guid": "efc5c797-7371-430c-8b7e-5d4a6910a776",
+   "reference": "1848",
+   "name": "LE PONTET A. DAUDET",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60440,
+   "guid": "a78d2cd7-2cc9-4db9-9638-cf9fabeff679",
+   "reference": "60440",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 26.19,
+   "municipality": {
+    "id": 32944,
+    "postcode": "84130",
+    "code": "84092",
+    "name": "Le Pontet"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 569.1,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-22",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a7/a78d2cd7-2cc9-4db9-9638-cf9fabeff679/medium/387ffed7-60ef-45d4-9bda-f41a002ec013",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé avenue Alphonse Daudet au Pontet, ce logement bénéficie d’un emplacement pratique dans un secteur urbain, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nLa commune du Pontet offre un cadre de vie fonctionnel, avec de nombreux commerces, services et équipements accessibles aux habitants. Sa proximité avec Avignon constitue un véritable atout pour profiter d’une offre élargie en matière de loisirs, de culture, d’emploi et de services.\n\nLes transports en commun permettent de rejoindre Avignon et les communes voisines, selon les lignes et les dessertes disponibles.\n\nLes principaux axes routiers facilitent les déplacements vers Avignon, Sorgues, Vedène et les autres communes du Vaucluse. La proximité des grands axes de circulation permet également de rejoindre les autoroutes et les principaux pôles d’activité de la région.\n\nCe logement offre ainsi un cadre de vie pratique, alliant proximité des services, mobilité et accessibilité au sein du Grand Avignon.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52880,
+  "guid": "10658610-243c-461a-b01c-a823016b7a7e",
+  "reference": "52880",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a7/a78d2cd7-2cc9-4db9-9638-cf9fabeff679/large/2502bdb2-abb5-408d-8701-c292df768347",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60440,
+   "guid": "a78d2cd7-2cc9-4db9-9638-cf9fabeff679",
+   "reference": "60440",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 26.19,
+   "municipality": {
+    "id": 32944,
+    "postcode": "84130",
+    "code": "84092",
+    "name": "Le Pontet"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 1848,
+   "guid": "efc5c797-7371-430c-8b7e-5d4a6910a776",
+   "reference": "1848",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2002,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-31",
+  "endDateOfPublication": "2026-10-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé avenue Alphonse Daudet au Pontet, ce logement bénéficie d’un emplacement pratique dans un secteur urbain, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nLa commune du Pontet offre un cadre de vie fonctionnel, avec de nombreux commerces, services et équipements accessibles aux habitants. Sa proximité avec Avignon constitue un véritable atout pour profiter d’une offre élargie en matière de loisirs, de culture, d’emploi et de services.\n\nLes transports en commun permettent de rejoindre Avignon et les communes voisines, selon les lignes et les dessertes disponibles.\n\nLes principaux axes routiers facilitent les déplacements vers Avignon, Sorgues, Vedène et les autres communes du Vaucluse. La proximité des grands axes de circulation permet également de rejoindre les autoroutes et les principaux pôles d’activité de la région.\n\nCe logement offre ainsi un cadre de vie pratique, alliant proximité des services, mobilité et accessibilité au sein du Grand Avignon.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 569.1,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 569.1,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

@@ -1,0 +1,262 @@
+{
+ "guid": "02918ab2-7d42-45b7-95d3-5698b6140df1",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-22T18:12:44+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-22T18:12:44+02:00",
+ "liste": {
+  "id": 52572,
+  "guid": "02918ab2-7d42-45b7-95d3-5698b6140df1",
+  "reference": "52572",
+  "residency": {
+   "id": 267,
+   "guid": "23620ec4-7d95-4bd5-ace6-5bea82430edc",
+   "reference": "267",
+   "name": "BEAUSOLEIL BELLEVUE",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60106,
+   "guid": "761b0330-1525-424a-8b1d-068fa20f3a3a",
+   "reference": "60106",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 15.0,
+   "municipality": {
+    "id": 1894,
+    "postcode": "06240",
+    "code": "06012",
+    "name": "Beausoleil"
+   },
+   "description": null
+  },
+  "availableAt": "2026-10-10",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 433.86,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-22",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/76/761b0330-1525-424a-8b1d-068fa20f3a3a/medium/8b535a41-98bd-4db7-8f38-b04b7741b3b1",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé avenue des Combattants en Afrique du Nord à Beausoleil, ce logement bénéficie d’un environnement urbain et résidentiel, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nBeausoleil offre un cadre de vie méditerranéen, marqué par sa proximité avec Monaco et le littoral azuréen. La commune dispose de commerces et de services de proximité, tout en bénéficiant de l’attractivité économique et culturelle de la Principauté et des communes voisines.\n\nLes transports en commun facilitent les déplacements vers le centre de Beausoleil, Monaco, les quartiers environnants et les autres communes du littoral, selon les dessertes disponibles.\n\nLa proximité des principaux axes routiers, notamment l’A8 et les routes reliant Monaco aux communes voisines, permet de rejoindre facilement Nice, Menton et les différents secteurs de la Côte d’Azur.\n\nCe logement offre ainsi un cadre de vie pratique, alliant proximité des services, mobilité et accessibilité au cœur du bassin monégasque.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52572,
+  "guid": "02918ab2-7d42-45b7-95d3-5698b6140df1",
+  "reference": "52572",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/76/761b0330-1525-424a-8b1d-068fa20f3a3a/large/3368c8c9-bbdd-4a27-8136-0111ff4ee945",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60106,
+   "guid": "761b0330-1525-424a-8b1d-068fa20f3a3a",
+   "reference": "60106",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 15.0,
+   "municipality": {
+    "id": 1894,
+    "postcode": "06240",
+    "code": "06012",
+    "name": "Beausoleil"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 267,
+   "guid": "23620ec4-7d95-4bd5-ace6-5bea82430edc",
+   "reference": "267",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2016,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-10",
+  "endDateOfPublication": "2026-10-28",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé avenue des Combattants en Afrique du Nord à Beausoleil, ce logement bénéficie d’un environnement urbain et résidentiel, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nBeausoleil offre un cadre de vie méditerranéen, marqué par sa proximité avec Monaco et le littoral azuréen. La commune dispose de commerces et de services de proximité, tout en bénéficiant de l’attractivité économique et culturelle de la Principauté et des communes voisines.\n\nLes transports en commun facilitent les déplacements vers le centre de Beausoleil, Monaco, les quartiers environnants et les autres communes du littoral, selon les dessertes disponibles.\n\nLa proximité des principaux axes routiers, notamment l’A8 et les routes reliant Monaco aux communes voisines, permet de rejoindre facilement Nice, Menton et les différents secteurs de la Côte d’Azur.\n\nCe logement offre ainsi un cadre de vie pratique, alliant proximité des services, mobilité et accessibilité au cœur du bassin monégasque.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 433.86,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 433.86,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
