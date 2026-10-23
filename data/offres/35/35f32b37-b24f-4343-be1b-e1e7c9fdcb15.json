@@ -1,0 +1,254 @@
+{
+ "guid": "35f32b37-b24f-4343-be1b-e1e7c9fdcb15",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T19:21:39+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T19:21:39+02:00",
+ "liste": {
+  "id": 53028,
+  "guid": "35f32b37-b24f-4343-be1b-e1e7c9fdcb15",
+  "reference": "53028",
+  "residency": {
+   "id": 3473,
+   "guid": "ebeea05a-9beb-4713-acbd-9c3addc270e8",
+   "reference": "3473",
+   "name": "PUTEAUX DE GAULLE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60577,
+   "guid": "ab7c413c-cfdb-47cf-a054-d45ff4f8b2ac",
+   "reference": "60577",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 33.0,
+   "municipality": {
+    "id": 34991,
+    "postcode": "92800",
+    "code": "92062",
+    "name": "Puteaux"
+   },
+   "description": "Exclusivité - appartement 1 pièce de 33.0 m² à Puteaux  Sans frais d'agence.  Ce bien comprend une pièce à vivre et une cuisine.  La présence d'un gardien assure un suivi régulier de l'immeuble.  Chauffage collectif. Une place de parking est incluse.  Quartier dynamique avec commerces à proximité. Transports en commun à disposition : RER ligne A à La Défense-Grande Arche, métro ligne 1 à La Défense (Grande Arche), tramway ligne T2 aux stations Puteaux et La Défense (Grande Arche)."
+  },
+  "availableAt": "2026-10-23",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 752.21,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ab/ab7c413c-cfdb-47cf-a054-d45ff4f8b2ac/medium/fdd1e3e7-eadd-4fd9-ae78-e139e1ad18ee",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité - appartement 1 pièce de 33.0 m² à Puteaux  Sans frais d'agence.  Ce bien comprend une pièce à vivre et une cuisine.  La présence d'un gardien assure un suivi régulier de l'immeuble.  Chauffage collectif. Une place de parking est incluse.  Quartier dynamique avec commerces à proximité. Transports en commun à disposition : RER ligne A à La Défense-Grande Arche, métro ligne 1 à La Défense (Grande Arche), tramway ligne T2 aux stations Puteaux et La Défense (Grande Arche).",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53028,
+  "guid": "35f32b37-b24f-4343-be1b-e1e7c9fdcb15",
+  "reference": "53028",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ab/ab7c413c-cfdb-47cf-a054-d45ff4f8b2ac/large/abba33fe-c163-45a6-86d8-5356c090032b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ab/ab7c413c-cfdb-47cf-a054-d45ff4f8b2ac/large/1afee82b-33b7-4f28-9a75-a9bf4174734b",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60577,
+   "guid": "ab7c413c-cfdb-47cf-a054-d45ff4f8b2ac",
+   "reference": "60577",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 33.0,
+   "municipality": {
+    "id": 34991,
+    "postcode": "92800",
+    "code": "92062",
+    "name": "Puteaux"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 3473,
+   "guid": "ebeea05a-9beb-4713-acbd-9c3addc270e8",
+   "reference": "3473",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-23",
+  "endDateOfPublication": "2027-10-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 1 pièce de 33.0 m² à Puteaux  Sans frais d'agence.  Ce bien comprend une pièce à vivre et une cuisine.  La présence d'un gardien assure un suivi régulier de l'immeuble.  Chauffage collectif. Une place de parking est incluse.  Quartier dynamique avec commerces à proximité. Transports en commun à disposition : RER ligne A à La Défense-Grande Arche, métro ligne 1 à La Défense (Grande Arche), tramway ligne T2 aux stations Puteaux et La Défense (Grande Arche).",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 530.87,
+  "rentChargeAmount": 94.15,
+  "rentParkingAmount": 127.19,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 650.87,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

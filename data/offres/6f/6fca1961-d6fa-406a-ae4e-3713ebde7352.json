@@ -1,0 +1,247 @@
+{
+ "guid": "6fca1961-d6fa-406a-ae4e-3713ebde7352",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T19:21:39+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T19:21:39+02:00",
+ "liste": {
+  "id": 53031,
+  "guid": "6fca1961-d6fa-406a-ae4e-3713ebde7352",
+  "reference": "53031",
+  "residency": {
+   "id": 4688,
+   "guid": "6b115452-11fc-49a8-abea-bb950613061a",
+   "reference": "4688",
+   "name": "RUEIL VOLTAIRE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60578,
+   "guid": "fb47aab7-1464-4aa0-a502-fefd9bb10875",
+   "reference": "60578",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 90.22,
+   "municipality": {
+    "id": 34992,
+    "postcode": "92500",
+    "code": "92063",
+    "name": "Rueil-Malmaison"
+   },
+   "description": "Exclusivité - appartement 4 pièces de 90.22 m² à Rueil Malmaison avec balcon et terrasse.  Sans frais d'agence.  L'espace de vie se compose d'un séjour, d'une cuisine indépendante, de trois chambres, d'une salle de bains et d'un WC séparé.  Le bien se situe au rez-de-chaussée d’un immeuble de 4 étages avec ascenseur. La présence d’un gardien assure la sécurité.  Balcon, terrasse, local à vélos, chauffage collectif au gaz, une place de parking.  Transports en commun : plusieurs lignes de RER desservent la zone via les gares de Nanterre-Ville, Rueil-Malmaison et Nanterre-Préfecture. Établissements scolaires de tous niveaux et commerces variés autour du bien."
+  },
+  "availableAt": "2026-10-23",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 2159.08,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb47aab7-1464-4aa0-a502-fefd9bb10875/medium/5386a01c-3627-4c80-9397-277700660f33",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité - appartement 4 pièces de 90.22 m² à Rueil Malmaison avec balcon et terrasse.  Sans frais d'agence.  L'espace de vie se compose d'un séjour, d'une cuisine indépendante, de trois chambres, d'une salle de bains et d'un WC séparé.  Le bien se situe au rez-de-chaussée d’un immeuble de 4 étages avec ascenseur. La présence d’un gardien assure la sécurité.  Balcon, terrasse, local à vélos, chauffage collectif au gaz, une place de parking.  Transports en commun : plusieurs lignes de RER desservent la zone via les gares de Nanterre-Ville, Rueil-Malmaison et Nanterre-Préfecture. Établissements scolaires de tous niveaux et commerces variés autour du bien.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53031,
+  "guid": "6fca1961-d6fa-406a-ae4e-3713ebde7352",
+  "reference": "53031",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fb/fb47aab7-1464-4aa0-a502-fefd9bb10875/large/df1747b9-7633-4407-becd-3e99692566ec",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60578,
+   "guid": "fb47aab7-1464-4aa0-a502-fefd9bb10875",
+   "reference": "60578",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 90.22,
+   "municipality": {
+    "id": 34992,
+    "postcode": "92500",
+    "code": "92063",
+    "name": "Rueil-Malmaison"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 4688,
+   "guid": "6b115452-11fc-49a8-abea-bb950613061a",
+   "reference": "4688",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-23",
+  "endDateOfPublication": "2027-10-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Exclusivité - appartement 4 pièces de 90.22 m² à Rueil Malmaison avec balcon et terrasse.  Sans frais d'agence.  L'espace de vie se compose d'un séjour, d'une cuisine indépendante, de trois chambres, d'une salle de bains et d'un WC séparé.  Le bien se situe au rez-de-chaussée d’un immeuble de 4 étages avec ascenseur. La présence d’un gardien assure la sécurité.  Balcon, terrasse, local à vélos, chauffage collectif au gaz, une place de parking.  Transports en commun : plusieurs lignes de RER desservent la zone via les gares de Nanterre-Ville, Rueil-Malmaison et Nanterre-Préfecture. Établissements scolaires de tous niveaux et commerces variés autour du bien.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1844.94,
+  "rentChargeAmount": 195.35,
+  "rentParkingAmount": 118.79,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1934.81,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
