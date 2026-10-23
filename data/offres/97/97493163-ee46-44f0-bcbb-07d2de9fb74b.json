@@ -1,0 +1,263 @@
+{
+ "guid": "97493163-ee46-44f0-bcbb-07d2de9fb74b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T17:04:34+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T17:04:34+02:00",
+ "liste": {
+  "id": 52963,
+  "guid": "97493163-ee46-44f0-bcbb-07d2de9fb74b",
+  "reference": "52963",
+  "residency": {
+   "id": 5974,
+   "guid": "9f3f1c90-af1a-4f85-b550-881ce64afb89",
+   "reference": "5974",
+   "name": "MARYSE BASTIE",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60535,
+   "guid": "058a68e5-fcd0-4ef3-bd67-cb0a7afdaf36",
+   "reference": "60535",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 23.3,
+   "municipality": {
+    "id": 12541,
+    "postcode": "33520",
+    "code": "33075",
+    "name": "Bruges"
+   },
+   "description": "Nous vous proposons un logement meublé composé d'une pièce de vie (cuisine séparée, lit, bureau...) salle d'eau avec WC. \n\nLogement ouvert aux APL. \nPas de frais de dossier. "
+  },
+  "availableAt": "2026-11-03",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 482.85,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/05/058a68e5-fcd0-4ef3-bd67-cb0a7afdaf36/medium/d1719191-0ddf-4678-97fd-1084650a67b4",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence se situe Avenue Maryse Bastie à proximité des commerces et services : transports en commun (Tram C, lignes de 35,72...Gare SNCF) supermarchés, cliniques, établissements scolaires,  accès à l'autoroute. \n\nNous vous proposons un logement meublé composé d'une pièce de vie (cuisine séparée, lit, bureau...) salle d'eau avec WC. \n\nLogement ouvert aux APL. \nPas de frais de dossier. \n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52963,
+  "guid": "97493163-ee46-44f0-bcbb-07d2de9fb74b",
+  "reference": "52963",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/05/058a68e5-fcd0-4ef3-bd67-cb0a7afdaf36/large/7cefc70f-e119-4af1-b5f3-c89718e80319",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60535,
+   "guid": "058a68e5-fcd0-4ef3-bd67-cb0a7afdaf36",
+   "reference": "60535",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 23.3,
+   "municipality": {
+    "id": 12541,
+    "postcode": "33520",
+    "code": "33075",
+    "name": "Bruges"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "COR",
+    "label": "Collectif radiateur",
+    "commercialLabel": "Chauffage collectif radiateur compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 5974,
+   "guid": "9f3f1c90-af1a-4f85-b550-881ce64afb89",
+   "reference": "5974",
+   "livingRules": "Les animaux ne sont pas admis.\n\nUn règlement intérieur est à respecter au sein de la résidence.",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-03",
+  "endDateOfPublication": "2026-11-01",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence se situe Avenue Maryse Bastie à proximité des commerces et services : transports en commun (Tram C, lignes de 35,72...Gare SNCF) supermarchés, cliniques, établissements scolaires,  accès à l'autoroute. \n\nNous vous proposons un logement meublé composé d'une pièce de vie (cuisine séparée, lit, bureau...) salle d'eau avec WC. \n\nLogement ouvert aux APL. \nPas de frais de dossier. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 475.11,
+  "rentChargeAmount": 7.74,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 482.85,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

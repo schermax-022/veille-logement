@@ -1,0 +1,312 @@
+{
+ "guid": "0564115b-aa52-4bf1-8bc7-5b915cf88290",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T17:04:34+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T17:04:34+02:00",
+ "liste": {
+  "id": 52962,
+  "guid": "0564115b-aa52-4bf1-8bc7-5b915cf88290",
+  "reference": "52962",
+  "residency": {
+   "id": 1280,
+   "guid": "7fd91f6d-3bb3-46b6-b1bd-238a05c1a368",
+   "reference": "1280",
+   "name": "LE LEVAIN BASSINS A FLOT",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60534,
+   "guid": "67a2eaf7-75d2-4db2-b5d6-8c00be2fedde",
+   "reference": "60534",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.7,
+   "municipality": {
+    "id": 12528,
+    "postcode": "33300",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "description": "Nous vous proposons un logement meublé composé d'une pièce de vie équipée (kitchenette, lit, bureau...) salle d'eau avec WC. \n\nCe logement est ouvert aux APL\nPas de frais de dossier. "
+  },
+  "availableAt": "2026-11-11",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 551.56,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/67a2eaf7-75d2-4db2-b5d6-8c00be2fedde/medium/c1cb6e4c-3ac1-484b-a22f-ffbe774b33b3",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence se situe Quai du Sénégal, à proximité des commerces et services : transports en commun (Tram B, lignes de bus 7,27,53,H1...) Supermarchés, établissements scolaires, restaurants, boulangeries, cabinets médicaux..\n\nNous vous proposons un logement meublé composé d'une pièce de vie équipée (kitchenette, lit, bureau...) salle d'eau avec WC. \n\nCe logement est ouvert aux APL\nPas de frais de dossier. \n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52962,
+  "guid": "0564115b-aa52-4bf1-8bc7-5b915cf88290",
+  "reference": "52962",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/67a2eaf7-75d2-4db2-b5d6-8c00be2fedde/large/62882db1-a96b-4b83-af1f-3599706cf04f",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60534,
+   "guid": "67a2eaf7-75d2-4db2-b5d6-8c00be2fedde",
+   "reference": "60534",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.7,
+   "municipality": {
+    "id": 12528,
+    "postcode": "33300",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1280,
+   "guid": "7fd91f6d-3bb3-46b6-b1bd-238a05c1a368",
+   "reference": "1280",
+   "livingRules": "Logement situé au sein d'une résidence Habitats Jeunes (logement accompagné qui proposent aux jeunes en activité ou en voie d'insertion sociale et professionnelle des logements abordables et un accompagnement adapté) pour parcours de transition vers logement autonome de deux ans maximum.\n\nParticipation des résidents via la représentation au sein d'un Conseil de Vie Sociale (élections en octobre chaque année). \n\nAfin d’assurer un accompagnement de qualité et permettre aux jeunes résidents d’effectuer un séjour de manière sereine, une équipe socio-éducative propose des programmes d'animations collectives dans et hors les murs tout le long de l'année et est présente 6j/7 au sein de la résidence sur une plage horaire large. \nUne équipe d’agents d’accueil est également disponible et à l’écoute des résidents, de jour comme de nuit.\n\nUn règlement intérieur permet d'assurer les meilleures conditions de vie personnelle et collective et de garantir le bon fonctionnement de la résidence  (savoir être et vivre ensemble, accueil par nuitée d'une tierce personne limité à 24 nuits/trimestre+4€/nuit, l'accueil des personnes mineurs n'est pas autorisé).\n\nLes animaux ne sont pas admis.",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    },
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 12,
+     "ordering": 13,
+     "code": "INF",
+     "label": "Salle informatique",
+     "isIncluded": true
+    },
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-11",
+  "endDateOfPublication": "2026-10-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence se situe Quai du Sénégal, à proximité des commerces et services : transports en commun (Tram B, lignes de bus 7,27,53,H1...) Supermarchés, établissements scolaires, restaurants, boulangeries, cabinets médicaux..\n\nNous vous proposons un logement meublé composé d'une pièce de vie équipée (kitchenette, lit, bureau...) salle d'eau avec WC. \n\nCe logement est ouvert aux APL\nPas de frais de dossier. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 551.56,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 600.56,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

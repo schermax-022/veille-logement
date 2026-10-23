@@ -1,0 +1,240 @@
+{
+ "guid": "67cd1f93-0b7c-4bc3-b9c9-9f7e34763f98",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T17:04:34+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T17:04:34+02:00",
+ "liste": {
+  "id": 52676,
+  "guid": "67cd1f93-0b7c-4bc3-b9c9-9f7e34763f98",
+  "reference": "52676",
+  "residency": {
+   "id": 8495,
+   "guid": "3e8520af-3935-4b66-b610-0e16ba618101",
+   "reference": "8495",
+   "name": "1.2982",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60212,
+   "guid": "e1febf93-0671-4d6e-b3c0-c2d10fcd4c2f",
+   "reference": "60212",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 44.1,
+   "municipality": {
+    "id": 31428,
+    "postcode": "80000",
+    "code": "80021",
+    "name": "Amiens"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-19",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 691.24,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e1/e1febf93-0671-4d6e-b3c0-c2d10fcd4c2f/medium/688167bb-067f-4322-a780-6e66699337f9",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "À la recherche d’un logement agréable et fonctionnel à Amiens ? \nDécouvrez ce logement à louer, idéal pour une personne seule ou un couple souhaitant profiter d’un cadre de vie pratique au quotidien.\n\nSitué boulevard du Port, à Amiens, ce logement bénéficie d’une localisation en ville, permettant de profiter des commerces, des services et des commodités à proximité.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52676,
+  "guid": "67cd1f93-0b7c-4bc3-b9c9-9f7e34763f98",
+  "reference": "52676",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e1/e1febf93-0671-4d6e-b3c0-c2d10fcd4c2f/large/2a53d420-7a59-47ff-a4b5-5c93898cfed6",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60212,
+   "guid": "e1febf93-0671-4d6e-b3c0-c2d10fcd4c2f",
+   "reference": "60212",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 44.1,
+   "municipality": {
+    "id": 31428,
+    "postcode": "80000",
+    "code": "80021",
+    "name": "Amiens"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8495,
+   "guid": "3e8520af-3935-4b66-b610-0e16ba618101",
+   "reference": "8495",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "1974-01-01",
+   "constructionYear": 1974,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-19",
+  "endDateOfPublication": "2026-11-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "À la recherche d’un logement agréable et fonctionnel à Amiens ? \nDécouvrez ce logement à louer, idéal pour une personne seule ou un couple souhaitant profiter d’un cadre de vie pratique au quotidien.\n\nSitué boulevard du Port, à Amiens, ce logement bénéficie d’une localisation en ville, permettant de profiter des commerces, des services et des commodités à proximité.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 514.82,
+  "rentChargeAmount": 176.42,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 514.82,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
