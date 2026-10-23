@@ -1,0 +1,246 @@
+{
+ "guid": "b09c767a-7f3d-4b86-88ed-a747e2a2e6aa",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T11:05:06+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T11:05:06+02:00",
+ "liste": {
+  "id": 52806,
+  "guid": "b09c767a-7f3d-4b86-88ed-a747e2a2e6aa",
+  "reference": "52806",
+  "residency": {
+   "id": 8587,
+   "guid": "d0f27cac-0ee5-476d-8839-ca75573fcf15",
+   "reference": "8587",
+   "name": "1.9961",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60357,
+   "guid": "13a1644f-5e00-4529-9876-4ce0ad8dbab5",
+   "reference": "60357",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.51,
+   "municipality": {
+    "id": 22917,
+    "postcode": "60200",
+    "code": "60159",
+    "name": "Compiègne"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-12-08",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 702.66,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/13/13a1644f-5e00-4529-9876-4ce0ad8dbab5/medium/b5f01406-6edf-4bcd-ae00-8b577e91333f",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé à Compiègne dans un quartier pratique et fonctionnel.\n\nNous vous proposons un appartement comprenant : une entrée, un séjour, une cuisine équipée (plaques de cuisson, four et hotte), un cellier, une chambre PMR, une salle de bain (douche) et une terrasse.\n\nEn cas d'instruction, un conseiller prendra contact avec vous afin de vous indiquer l'éligibilité de votre dossier. \n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52806,
+  "guid": "b09c767a-7f3d-4b86-88ed-a747e2a2e6aa",
+  "reference": "52806",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/13/13a1644f-5e00-4529-9876-4ce0ad8dbab5/large/b4c788f2-3ba5-4e9f-8116-ba35fb9db1af",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/13/13a1644f-5e00-4529-9876-4ce0ad8dbab5/large/165880d2-d79e-4650-9bd4-7593fa178f42",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60357,
+   "guid": "13a1644f-5e00-4529-9876-4ce0ad8dbab5",
+   "reference": "60357",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.51,
+   "municipality": {
+    "id": 22917,
+    "postcode": "60200",
+    "code": "60159",
+    "name": "Compiègne"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8587,
+   "guid": "d0f27cac-0ee5-476d-8839-ca75573fcf15",
+   "reference": "8587",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-08",
+  "endDateOfPublication": "2026-11-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Situé à Compiègne dans un quartier pratique et fonctionnel.\n\nNous vous proposons un appartement comprenant : une entrée, un séjour, une cuisine équipée (plaques de cuisson, four et hotte), un cellier, une chambre PMR, une salle de bain (douche) et une terrasse.\n\nEn cas d'instruction, un conseiller prendra contact avec vous afin de vous indiquer l'éligibilité de votre dossier. \n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 505.13,
+  "rentChargeAmount": 197.53,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 594.27,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
