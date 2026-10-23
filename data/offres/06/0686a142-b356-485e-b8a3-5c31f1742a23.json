@@ -1,0 +1,246 @@
+{
+ "guid": "0686a142-b356-485e-b8a3-5c31f1742a23",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T09:15:34+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T09:15:34+02:00",
+ "liste": {
+  "id": 41130,
+  "guid": "0686a142-b356-485e-b8a3-5c31f1742a23",
+  "reference": "41130",
+  "residency": {
+   "id": 6599,
+   "guid": "032484a1-9c7d-4509-b842-9107c841f11e",
+   "reference": "6599",
+   "name": "RESIDENCE HARMONIE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 50501,
+   "guid": "ad9bf6af-d879-4985-90f3-536f3f22a149",
+   "reference": "50501",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 83.84,
+   "municipality": {
+    "id": 4468,
+    "postcode": "13013",
+    "code": "13213",
+    "name": "Marseille 13e Arrondissement"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-04-22",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1251.72,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad9bf6af-d879-4985-90f3-536f3f22a149/medium/f688a9d3-779e-4c03-a663-2cc2c7607f6d",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A MARSEILLE (13013) - dans la RESIDENCE NEUVE \"HARMONIE\" située 25 RUE ETIENNE MIEGE.\n\nSitué dans le 13° arrondissement de Marseille, le secteur offre un cadre de vie agréable avec une ambiance résidentiel et familial.\nLe quartier bénéficie de la proximité immédiate des commerces, écoles, transports et du technopôle universitaire, tout en restant à quelques minutes des grands axes permettant de rejoindre facilement le centre-ville et les zones d'activités environnantes.\nUn environnement recherché pour sa praticité et sa qualité de vie.\n\nPossibilité de louer un parking selon les disponibilités.",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 41130,
+  "guid": "0686a142-b356-485e-b8a3-5c31f1742a23",
+  "reference": "41130",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad9bf6af-d879-4985-90f3-536f3f22a149/large/2d2104d2-18fe-416e-8ee4-2ee88d749298",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad9bf6af-d879-4985-90f3-536f3f22a149/large/4210be91-c2ba-4470-b9fb-73fb0ad33f87",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 50501,
+   "guid": "ad9bf6af-d879-4985-90f3-536f3f22a149",
+   "reference": "50501",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 83.84,
+   "municipality": {
+    "id": 4468,
+    "postcode": "13013",
+    "code": "13213",
+    "name": "Marseille 13e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "COR",
+    "label": "Collectif radiateur",
+    "commercialLabel": "Chauffage collectif radiateur compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 4
+  },
+  "residency": {
+   "id": 6599,
+   "guid": "032484a1-9c7d-4509-b842-9107c841f11e",
+   "reference": "6599",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-04-22",
+  "endDateOfPublication": "2026-11-18",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A MARSEILLE (13013) - dans la RESIDENCE NEUVE \"HARMONIE\" située 25 RUE ETIENNE MIEGE.\n\nSitué dans le 13° arrondissement de Marseille, le secteur offre un cadre de vie agréable avec une ambiance résidentiel et familial.\nLe quartier bénéficie de la proximité immédiate des commerces, écoles, transports et du technopôle universitaire, tout en restant à quelques minutes des grands axes permettant de rejoindre facilement le centre-ville et les zones d'activités environnantes.\nUn environnement recherché pour sa praticité et sa qualité de vie.\n\nPossibilité de louer un parking selon les disponibilités.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1002.89,
+  "rentChargeAmount": 248.83,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1002.89,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
