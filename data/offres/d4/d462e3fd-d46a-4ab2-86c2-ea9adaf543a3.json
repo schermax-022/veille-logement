@@ -1,0 +1,288 @@
+{
+ "guid": "d462e3fd-d46a-4ab2-86c2-ea9adaf543a3",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T12:48:16+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T12:48:16+02:00",
+ "liste": {
+  "id": 52964,
+  "guid": "d462e3fd-d46a-4ab2-86c2-ea9adaf543a3",
+  "reference": "52964",
+  "residency": {
+   "id": 5185,
+   "guid": "92b1197a-dab3-44d9-8c04-784e43e6520f",
+   "reference": "5185",
+   "name": "BATELIERS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 37580,
+   "guid": "8ce9c9c1-d733-4968-90c2-911058d04195",
+   "reference": "37580",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.02,
+   "municipality": {
+    "id": 27182,
+    "postcode": "68100",
+    "code": "68224",
+    "name": "Mulhouse"
+   },
+   "description": "SANS FRAIS D'AGENCE NI HONORAIRES. A saisir logement dans programme neuf rue des Bateliers à Mulhouse.      F2 avec jardin à louer. Entrée avec placard, espace séjour / cuisine ouverte équipée, terrasse et espace extérieur jardin, chambre, SDB avec baignoire, WC séparé. Chauffage et eau chaude collectif gaz. Parking privatif inclus."
+  },
+  "availableAt": "2025-12-22",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 685.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8ce9c9c1-d733-4968-90c2-911058d04195/medium/b2d47fa4-a611-4588-b96c-56a8edfdd6e6",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "SANS FRAIS D'AGENCE NI HONORAIRES. A saisir logement dans programme neuf rue des Bateliers à Mulhouse.      F2 avec jardin à louer. Entrée avec placard, espace séjour / cuisine ouverte équipée, terrasse et espace extérieur jardin, chambre, SDB avec baignoire, WC séparé. Chauffage et eau chaude collectif gaz. Parking privatif inclus.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52964,
+  "guid": "d462e3fd-d46a-4ab2-86c2-ea9adaf543a3",
+  "reference": "52964",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8ce9c9c1-d733-4968-90c2-911058d04195/large/ad898316-14c6-442b-bc23-1fa75c9dee85",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8ce9c9c1-d733-4968-90c2-911058d04195/large/0a1f2939-29af-4b86-9eb3-73685745c0a3",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8ce9c9c1-d733-4968-90c2-911058d04195/large/ffdc5b45-0b74-4d80-a165-c91f34bd43b5",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8ce9c9c1-d733-4968-90c2-911058d04195/large/c3af77a9-f52d-4aed-a304-93f6b96918dd",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8ce9c9c1-d733-4968-90c2-911058d04195/large/ddf5a783-35aa-40af-a0cb-5376b981de50",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8ce9c9c1-d733-4968-90c2-911058d04195/large/3310228e-34d5-4fcc-bebb-e2c800031923",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8ce9c9c1-d733-4968-90c2-911058d04195/large/df9532e0-cdf3-4c03-b317-24eaf939e289",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8ce9c9c1-d733-4968-90c2-911058d04195/large/b299f5ed-3fb2-430e-a842-561fb64d8f02",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8c/8ce9c9c1-d733-4968-90c2-911058d04195/large/199b3abd-bd94-4fd2-b3d0-4dfa5e013f2e",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 37580,
+   "guid": "8ce9c9c1-d733-4968-90c2-911058d04195",
+   "reference": "37580",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.02,
+   "municipality": {
+    "id": 27182,
+    "postcode": "68100",
+    "code": "68224",
+    "name": "Mulhouse"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 5185,
+   "guid": "92b1197a-dab3-44d9-8c04-784e43e6520f",
+   "reference": "5185",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2025-12-22",
+  "endDateOfPublication": "2027-10-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "SANS FRAIS D'AGENCE NI HONORAIRES. A saisir logement dans programme neuf rue des Bateliers à Mulhouse.      F2 avec jardin à louer. Entrée avec placard, espace séjour / cuisine ouverte équipée, terrasse et espace extérieur jardin, chambre, SDB avec baignoire, WC séparé. Chauffage et eau chaude collectif gaz. Parking privatif inclus.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 540.0,
+  "rentChargeAmount": 120.0,
+  "rentParkingAmount": 25.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 565.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

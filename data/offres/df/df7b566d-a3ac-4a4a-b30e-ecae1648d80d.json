@@ -1,17 +1,17 @@
 {
  "guid": "df7b566d-a3ac-4a4a-b30e-ecae1648d80d",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-20T14:14:52+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-23T08:24:33+02:00",
- "absente_depuis": "2026-10-23T09:15:34+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-23T09:15:34+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-20T14:14:52+02:00",
+ "fiche_recuperee_le": "2026-10-23T12:48:16+02:00",
  "liste": {
   "id": 52587,
   "guid": "df7b566d-a3ac-4a4a-b30e-ecae1648d80d",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-20",
+  "startDateOfPublication": "2026-10-23",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/c1/c10800a9-904d-49bb-bc35-cf7fac84572e/medium/37d0ff3a-e54f-4b78-8aae-1ef827f0035d",
@@ -251,7 +251,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-11-02",
-  "endDateOfPublication": "2026-10-26",
+  "endDateOfPublication": "2026-10-23",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "Résidence proche des transports en commun - À 10 minutes du RER E – Nogent/Le Perreux.\nLogement meublé, toutes charges comprises (eau, électricité, chauffage)\nPas de frais de dossier, éligible APL\nAssurance multirisque habitation à 2,55€ par mois\nGestion locative sociale adaptée et actions de convivialité\n \nLa date limite de dépôt de candidature n'est pas contractuelle\n\n\n\nLa date limite de dépôt de candidature n'est pas contractuelle.\n\n",
@@ -270,20 +270,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": 29,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
