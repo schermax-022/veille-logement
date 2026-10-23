@@ -1,0 +1,263 @@
+{
+ "guid": "319e9350-d207-4e3a-ad1e-55ebd9a885c1",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T10:28:05+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T10:28:05+02:00",
+ "liste": {
+  "id": 52849,
+  "guid": "319e9350-d207-4e3a-ad1e-55ebd9a885c1",
+  "reference": "52849",
+  "residency": {
+   "id": 6205,
+   "guid": "2455008a-e721-4733-b9f5-814118dc1161",
+   "reference": "6205",
+   "name": "CANOPEE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60416,
+   "guid": "8052bdc8-4013-492e-8f99-255cf9908ae5",
+   "reference": "60416",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 44.0,
+   "municipality": {
+    "id": 14159,
+    "postcode": "37700",
+    "code": "37233",
+    "name": "Saint-Pierre-des-Corps"
+   },
+   "description": "Dans résidence récente, appartement T2, de 44 m2, au 1er étage, rue Bel Air 37700 ST PIERRE DES CORPS.\n\nLoyer 510.27 euros et charges 112.71 euros.\nChauffage individuel gaz.\n\n"
+  },
+  "availableAt": "2026-11-12",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 622.98,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/80/8052bdc8-4013-492e-8f99-255cf9908ae5/medium/18a783e7-ba9f-425c-975d-cf2ea39a5e8e",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La Résidence Canopée à Saint-Pierre-des-Corps\n\nComposé de 13 logements, ce programme immobilier offre :\n\n🚗une place de stationnement par logement\n🍽️une cuisine équipée, intégrée\n🌿un parc boisé\n\n📍 A 10 min à pied de la gare Saint-Pierre-des-Corps, à proximité des commerces, des écoles et des autoroutes A 10, A 28 et A5.\n\nDans résidence récente, appartement T2, de 44 m2, au 1er étage, rue Bel Air 37700 ST PIERRE DES CORPS.\n\nLoyer 510.27 euros et charges 112.71 euros.\nChauffage individuel gaz.\n\n\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52849,
+  "guid": "319e9350-d207-4e3a-ad1e-55ebd9a885c1",
+  "reference": "52849",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/80/8052bdc8-4013-492e-8f99-255cf9908ae5/large/a642b474-875b-4671-a9a6-ea6e3f84c99b",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/80/8052bdc8-4013-492e-8f99-255cf9908ae5/large/124a0650-373d-45f3-a0cf-19597f43c370",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60416,
+   "guid": "8052bdc8-4013-492e-8f99-255cf9908ae5",
+   "reference": "60416",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 44.0,
+   "municipality": {
+    "id": 14159,
+    "postcode": "37700",
+    "code": "37233",
+    "name": "Saint-Pierre-des-Corps"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 6205,
+   "guid": "2455008a-e721-4733-b9f5-814118dc1161",
+   "reference": "6205",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-12",
+  "endDateOfPublication": "2026-11-11",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La Résidence Canopée à Saint-Pierre-des-Corps\n\nComposé de 13 logements, ce programme immobilier offre :\n\n🚗une place de stationnement par logement\n🍽️une cuisine équipée, intégrée\n🌿un parc boisé\n\n📍 A 10 min à pied de la gare Saint-Pierre-des-Corps, à proximité des commerces, des écoles et des autoroutes A 10, A 28 et A5.\n\nDans résidence récente, appartement T2, de 44 m2, au 1er étage, rue Bel Air 37700 ST PIERRE DES CORPS.\n\nLoyer 510.27 euros et charges 112.71 euros.\nChauffage individuel gaz.\n\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 510.27,
+  "rentChargeAmount": 112.71,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 510.27,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
