@@ -1,0 +1,273 @@
+{
+ "guid": "66ee297a-4b2e-4e73-a50d-505b83623b35",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T11:36:57+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T11:36:57+02:00",
+ "liste": {
+  "id": 52952,
+  "guid": "66ee297a-4b2e-4e73-a50d-505b83623b35",
+  "reference": "52952",
+  "residency": {
+   "id": 1855,
+   "guid": "d902958c-3b9b-47ea-aa59-bfc93cadda17",
+   "reference": "1855",
+   "name": "CAMPUS RÉGIONAL APPRENTISSAGE",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60529,
+   "guid": "bd4b3705-c12c-4f96-a9c4-fedb4b125182",
+   "reference": "60529",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.85,
+   "municipality": {
+    "id": 1974,
+    "postcode": "06200",
+    "code": "06088",
+    "name": "Nice"
+   },
+   "description": "Dans le loyer est compris eau, internet, électricité et assurance habitation inclus."
+  },
+  "availableAt": "2026-11-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 570.56,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bd/bd4b3705-c12c-4f96-a9c4-fedb4b125182/medium/74602f6b-fdd6-4cd9-9fd9-b32eef7af8a7",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence sociale jeunes actifs située au 11 avenue Simone Veil à Nice avec à proximité tram/bus, commerces de proximité, Palais Nikaia, vélos bleus, sortie autoroute n°51, centre administratif.\nLa résidence est gérée par API PROVENCE.\nPlusieurs appartements T1.\nPlusieurs services inclus : wifi, local vélo, salle polyvalente, contrôle d'accès et service d'accès.\nServices payants : possibilité de parking, espace laverie.\n\n\nDans le loyer est compris eau, internet, électricité et assurance habitation inclus.\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52952,
+  "guid": "66ee297a-4b2e-4e73-a50d-505b83623b35",
+  "reference": "52952",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bd/bd4b3705-c12c-4f96-a9c4-fedb4b125182/large/91e3a34e-f2f2-4c8d-b30a-4ae41f4b419c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60529,
+   "guid": "bd4b3705-c12c-4f96-a9c4-fedb4b125182",
+   "reference": "60529",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.85,
+   "municipality": {
+    "id": 1974,
+    "postcode": "06200",
+    "code": "06088",
+    "name": "Nice"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 16,
+    "ordering": 16,
+    "code": "13",
+    "label": "13"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1855,
+   "guid": "d902958c-3b9b-47ea-aa59-bfc93cadda17",
+   "reference": "1855",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "NONE"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-01",
+  "endDateOfPublication": "2026-10-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence sociale jeunes actifs située au 11 avenue Simone Veil à Nice avec à proximité tram/bus, commerces de proximité, Palais Nikaia, vélos bleus, sortie autoroute n°51, centre administratif.\nLa résidence est gérée par API PROVENCE.\nPlusieurs appartements T1.\nPlusieurs services inclus : wifi, local vélo, salle polyvalente, contrôle d'accès et service d'accès.\nServices payants : possibilité de parking, espace laverie.\n\n\nDans le loyer est compris eau, internet, électricité et assurance habitation inclus.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 570.56,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
