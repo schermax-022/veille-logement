@@ -1,0 +1,240 @@
+{
+ "guid": "ee56ddca-e00a-4cae-8fab-8a319aa845b9",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T16:22:01+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T16:22:01+02:00",
+ "liste": {
+  "id": 52356,
+  "guid": "ee56ddca-e00a-4cae-8fab-8a319aa845b9",
+  "reference": "52356",
+  "residency": {
+   "id": 8466,
+   "guid": "eab0d907-0561-4a9d-8f9d-ce99ddfdf9af",
+   "reference": "8466",
+   "name": "1.7152",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59846,
+   "guid": "166ef168-31aa-40df-81ba-1c0ca3673254",
+   "reference": "59846",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 62.69,
+   "municipality": {
+    "id": 703,
+    "postcode": "02670",
+    "code": "02318",
+    "name": "Folembray"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-02",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 572.85,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/166ef168-31aa-40df-81ba-1c0ca3673254/medium/ad4e4e9f-677c-4e6e-a204-87ada38af1c5",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Idéal pour un couple ou couple avec un enfant, ce logement représente une opportunité pour ceux qui recherchent un cadre de vie agréable dans une commune à taille humaine.\n\nLes atouts du logement :\nAppartement disposant de deux chambres\nLocalisation : rue Bernard Lefèbvre - 02670 Folembray\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52356,
+  "guid": "ee56ddca-e00a-4cae-8fab-8a319aa845b9",
+  "reference": "52356",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/166ef168-31aa-40df-81ba-1c0ca3673254/large/53ea4bec-66ce-4a8e-89c2-f2820de4743f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59846,
+   "guid": "166ef168-31aa-40df-81ba-1c0ca3673254",
+   "reference": "59846",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 62.69,
+   "municipality": {
+    "id": 703,
+    "postcode": "02670",
+    "code": "02318",
+    "name": "Folembray"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8466,
+   "guid": "eab0d907-0561-4a9d-8f9d-ce99ddfdf9af",
+   "reference": "8466",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "1998-01-01",
+   "constructionYear": 1998,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-02",
+  "endDateOfPublication": "2026-11-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Idéal pour un couple ou couple avec un enfant, ce logement représente une opportunité pour ceux qui recherchent un cadre de vie agréable dans une commune à taille humaine.\n\nLes atouts du logement :\nAppartement disposant de deux chambres\nLocalisation : rue Bernard Lefèbvre - 02670 Folembray\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 522.01,
+  "rentChargeAmount": 50.84,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 522.01,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

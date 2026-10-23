@@ -1,0 +1,240 @@
+{
+ "guid": "71a7e08a-8452-4b0f-9336-5d470146022d",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-23T16:22:01+02:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-23T16:22:01+02:00",
+ "liste": {
+  "id": 52668,
+  "guid": "71a7e08a-8452-4b0f-9336-5d470146022d",
+  "reference": "52668",
+  "residency": {
+   "id": 8559,
+   "guid": "d32d05fb-2334-4a92-8adb-7945a685530e",
+   "reference": "8559",
+   "name": "1.7182",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60204,
+   "guid": "622c9063-09d1-4bfc-95aa-a0a99aaec96e",
+   "reference": "60204",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 28.81,
+   "municipality": {
+    "id": 1175,
+    "postcode": "02600",
+    "code": "02810",
+    "name": "Villers-Cotterêts"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-09-02",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 540.18,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/622c9063-09d1-4bfc-95aa-a0a99aaec96e/medium/5fed7346-5ec4-43cb-9031-6d7d2a3188f1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé dans une commune offrant commerces, services et commodités du quotidien, ce logement constitue une solution adaptée pour profiter d’un cadre de vie pratique.\n\nLes informations essentielles :\nLocalisation : rue Alexandre Dumas - 02600 Villers-Cotterêts\nIdéal pour : Personne seule\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52668,
+  "guid": "71a7e08a-8452-4b0f-9336-5d470146022d",
+  "reference": "52668",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/62/622c9063-09d1-4bfc-95aa-a0a99aaec96e/large/bfd43c17-eb3d-420c-aad5-6731b33ce852",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60204,
+   "guid": "622c9063-09d1-4bfc-95aa-a0a99aaec96e",
+   "reference": "60204",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 28.81,
+   "municipality": {
+    "id": 1175,
+    "postcode": "02600",
+    "code": "02810",
+    "name": "Villers-Cotterêts"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8559,
+   "guid": "d32d05fb-2334-4a92-8adb-7945a685530e",
+   "reference": "8559",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "1957-01-01",
+   "constructionYear": 1957,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-02",
+  "endDateOfPublication": "2026-11-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Situé dans une commune offrant commerces, services et commodités du quotidien, ce logement constitue une solution adaptée pour profiter d’un cadre de vie pratique.\n\nLes informations essentielles :\nLocalisation : rue Alexandre Dumas - 02600 Villers-Cotterêts\nIdéal pour : Personne seule\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 394.56,
+  "rentChargeAmount": 145.62,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 394.56,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
