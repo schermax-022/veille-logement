@@ -1,0 +1,240 @@
+{
+ "guid": "eeb86aea-a8f7-4990-9c08-d2dde7694173",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-26T12:31:29+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-26T12:31:29+01:00",
+ "liste": {
+  "id": 52360,
+  "guid": "eeb86aea-a8f7-4990-9c08-d2dde7694173",
+  "reference": "52360",
+  "residency": {
+   "id": 8472,
+   "guid": "8c106dec-bbb0-41d7-97a0-83afc221bfa4",
+   "reference": "8472",
+   "name": "1.0235",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59850,
+   "guid": "e0bae9c6-e0ff-4064-87d2-f2d7062b8c94",
+   "reference": "59850",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 44.73,
+   "municipality": {
+    "id": 22276,
+    "postcode": "59500",
+    "code": "59178",
+    "name": "Douai"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-21",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 498.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e0/e0bae9c6-e0ff-4064-87d2-f2d7062b8c94/medium/0394fbfd-0ef6-41d5-a09a-9eeb04280c13",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "6 min en voiture de la gare de DOUAI  : Lille en 21 min et Paris en 1h02 (Gare du nord)\n35 min en voiture de Valencienne par l'A21\n30 min en voiture de l'aéroport Lesquin par l'A1\n35 min ne voiture de Lille par l'A1\nLigne de Bus à proximité : 6, 15,17 et 113\n\nR+3 de 29 logements avec ascenseur \nTerrasse ou balcon\nCuisine équipée (hotte, plaque vitro céramique, four)\nSalle de bain miroir LED + meuble vasque\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52360,
+  "guid": "eeb86aea-a8f7-4990-9c08-d2dde7694173",
+  "reference": "52360",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/e0/e0bae9c6-e0ff-4064-87d2-f2d7062b8c94/large/7ac27620-baec-4e66-af5e-d1fdd1e3dcc0",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59850,
+   "guid": "e0bae9c6-e0ff-4064-87d2-f2d7062b8c94",
+   "reference": "59850",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 44.73,
+   "municipality": {
+    "id": 22276,
+    "postcode": "59500",
+    "code": "59178",
+    "name": "Douai"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8472,
+   "guid": "8c106dec-bbb0-41d7-97a0-83afc221bfa4",
+   "reference": "8472",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2025-07-17",
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-21",
+  "endDateOfPublication": "2026-11-25",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "6 min en voiture de la gare de DOUAI  : Lille en 21 min et Paris en 1h02 (Gare du nord)\n35 min en voiture de Valencienne par l'A21\n30 min en voiture de l'aéroport Lesquin par l'A1\n35 min ne voiture de Lille par l'A1\nLigne de Bus à proximité : 6, 15,17 et 113\n\nR+3 de 29 logements avec ascenseur \nTerrasse ou balcon\nCuisine équipée (hotte, plaque vitro céramique, four)\nSalle de bain miroir LED + meuble vasque\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 430.35,
+  "rentChargeAmount": 68.15,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 430.35,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
