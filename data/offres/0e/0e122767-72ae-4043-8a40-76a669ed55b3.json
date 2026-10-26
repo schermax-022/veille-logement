@@ -1,0 +1,246 @@
+{
+ "guid": "0e122767-72ae-4043-8a40-76a669ed55b3",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-26T17:28:15+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-26T17:28:15+01:00",
+ "liste": {
+  "id": 52795,
+  "guid": "0e122767-72ae-4043-8a40-76a669ed55b3",
+  "reference": "52795",
+  "residency": {
+   "id": 8475,
+   "guid": "ffd822da-7352-41a6-b8fe-160d8e63951f",
+   "reference": "8475",
+   "name": "1.3874",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60347,
+   "guid": "da3bbe56-d96d-4629-b928-0ed8ff33036f",
+   "reference": "60347",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 43.5,
+   "municipality": {
+    "id": 23355,
+    "postcode": "60300",
+    "code": "60612",
+    "name": "Senlis"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-12-11",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 632.95,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/da/da3bbe56-d96d-4629-b928-0ed8ff33036f/medium/dbb932f1-dfd4-4925-a3f2-a421e7cf8653",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Située au cœur du très prisé écoquartier de Senlis, sur le site historique d'une ancienne école cette résidence à taille humaine est pensée pour votre bien-être au quotidien.\n\nLes atouts majeurs de la résidence :\n• Un environnement verdoyant : Une coulée verte piétonne, une aire de jeux pour vos enfants.\n• Un emplacement stratégique : Le charme et le dynamisme du centre-ville historique de Senlis à seulement quelques minutes, avec tous les commerces, écoles et transports à proximité.",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52795,
+  "guid": "0e122767-72ae-4043-8a40-76a669ed55b3",
+  "reference": "52795",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/da/da3bbe56-d96d-4629-b928-0ed8ff33036f/large/9ccb2541-70fd-47bd-8b97-578913ec87a3",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/da/da3bbe56-d96d-4629-b928-0ed8ff33036f/large/42fdc489-6259-4525-9743-d3388533f1cd",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60347,
+   "guid": "da3bbe56-d96d-4629-b928-0ed8ff33036f",
+   "reference": "60347",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 43.5,
+   "municipality": {
+    "id": 23355,
+    "postcode": "60300",
+    "code": "60612",
+    "name": "Senlis"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8475,
+   "guid": "ffd822da-7352-41a6-b8fe-160d8e63951f",
+   "reference": "8475",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2025-07-04",
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-11",
+  "endDateOfPublication": "2026-11-25",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Située au cœur du très prisé écoquartier de Senlis, sur le site historique d'une ancienne école cette résidence à taille humaine est pensée pour votre bien-être au quotidien.\n\nLes atouts majeurs de la résidence :\n• Un environnement verdoyant : Une coulée verte piétonne, une aire de jeux pour vos enfants.\n• Un emplacement stratégique : Le charme et le dynamisme du centre-ville historique de Senlis à seulement quelques minutes, avec tous les commerces, écoles et transports à proximité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 566.4,
+  "rentChargeAmount": 66.55,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 566.4,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
