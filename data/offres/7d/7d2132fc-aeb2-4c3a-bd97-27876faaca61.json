@@ -1,0 +1,235 @@
+{
+ "guid": "7d2132fc-aeb2-4c3a-bd97-27876faaca61",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-26T16:33:00+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-26T16:33:00+01:00",
+ "liste": {
+  "id": 41327,
+  "guid": "7d2132fc-aeb2-4c3a-bd97-27876faaca61",
+  "reference": "41327",
+  "residency": {
+   "id": 7291,
+   "guid": "bc4938af-fcb7-4d31-9604-a2b794440967",
+   "reference": "7291",
+   "name": "LES PARANQUES",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 50768,
+   "guid": "d1548e93-b977-4e6a-a773-30a5251f4d12",
+   "reference": "50768",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 107.64,
+   "municipality": {
+    "id": 4468,
+    "postcode": "13013",
+    "code": "13213",
+    "name": "Marseille 13e Arrondissement"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-06-29",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1628.48,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d1/d1548e93-b977-4e6a-a773-30a5251f4d12/medium/e6d4432b-a50f-4566-96ac-fd81b54450e6",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Ce logement bénéficie d’un emplacement privilégié offrant un cadre de vie pratique et agréable, à proximité immédiate des commodités et des principaux axes de déplacement.\n\nVous profiterez d’un accès rapide aux commerces, supermarchés, établissements scolaires, services de santé, équipements sportifs et espaces verts. Le secteur dispose de toutes les infrastructures nécessaires pour répondre aux besoins du quotidien, dans un environnement résidentiel apprécié.\n\nLa localisation du bien constitue un véritable atout pour les déplacements. Les grands axes routiers, notamment la L2 (A507), permettent de rejoindre rapidement le centre-ville de Marseille, les quartiers d’affaires, les zones commerciales ainsi que les autoroutes A7 et A50.\n\nLe quartier bénéficie également d’une bonne desserte en transports en commun avec plusieurs lignes de bus et un accès facilité aux stations de métro des environs, offrant une mobilité optimale vers l’ensemble de la métropole marseillaise.\n\nCe logement représente une belle opportunité pour profiter d’un cadre de vie confortable, bien connecté et proche de toutes les commodités essentielles.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 41327,
+  "guid": "7d2132fc-aeb2-4c3a-bd97-27876faaca61",
+  "reference": "41327",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d1/d1548e93-b977-4e6a-a773-30a5251f4d12/large/2417a7c6-1cd9-4133-90eb-f39f4f46f633",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 50768,
+   "guid": "d1548e93-b977-4e6a-a773-30a5251f4d12",
+   "reference": "50768",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 107.64,
+   "municipality": {
+    "id": 4468,
+    "postcode": "13013",
+    "code": "13213",
+    "name": "Marseille 13e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7291,
+   "guid": "bc4938af-fcb7-4d31-9604-a2b794440967",
+   "reference": "7291",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-06-29",
+  "endDateOfPublication": "2026-11-09",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Ce logement bénéficie d’un emplacement privilégié offrant un cadre de vie pratique et agréable, à proximité immédiate des commodités et des principaux axes de déplacement.\n\nVous profiterez d’un accès rapide aux commerces, supermarchés, établissements scolaires, services de santé, équipements sportifs et espaces verts. Le secteur dispose de toutes les infrastructures nécessaires pour répondre aux besoins du quotidien, dans un environnement résidentiel apprécié.\n\nLa localisation du bien constitue un véritable atout pour les déplacements. Les grands axes routiers, notamment la L2 (A507), permettent de rejoindre rapidement le centre-ville de Marseille, les quartiers d’affaires, les zones commerciales ainsi que les autoroutes A7 et A50.\n\nLe quartier bénéficie également d’une bonne desserte en transports en commun avec plusieurs lignes de bus et un accès facilité aux stations de métro des environs, offrant une mobilité optimale vers l’ensemble de la métropole marseillaise.\n\nCe logement représente une belle opportunité pour profiter d’un cadre de vie confortable, bien connecté et proche de toutes les commodités essentielles.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1376.05,
+  "rentChargeAmount": 252.43,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

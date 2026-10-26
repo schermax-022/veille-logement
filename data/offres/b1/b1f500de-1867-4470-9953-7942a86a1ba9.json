@@ -1,0 +1,284 @@
+{
+ "guid": "b1f500de-1867-4470-9953-7942a86a1ba9",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-26T16:33:00+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-26T16:33:00+01:00",
+ "liste": {
+  "id": 53102,
+  "guid": "b1f500de-1867-4470-9953-7942a86a1ba9",
+  "reference": "53102",
+  "residency": {
+   "id": 1457,
+   "guid": "11a66461-13cf-4eb2-a749-cc75a7c5902d",
+   "reference": "1457",
+   "name": "AQUAVELLA",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 12816,
+   "guid": "9b3b5657-3c5c-40d2-a8ef-0cb292d3cba4",
+   "reference": "12816",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 45.71,
+   "municipality": {
+    "id": 5662,
+    "postcode": "17440",
+    "code": "17028",
+    "name": "Aytré"
+   },
+   "description": "Studio dans une résidence située proche des commerces et de toutes commodités, la résidence se situe à proximité du site ALSTOM. Proche des axes structurants, elle dispose d’un accès facile à La Rochelle.\nLe loyer mensuel est toutes charges comprises (chauffage, eau, électricité et wifi inclus). Les démarches administratives sont simplifiées, pas d'ouverture ni de fermeture de compteurs, un préavis réduit à 8 jours."
+  },
+  "availableAt": "2026-11-20",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 452.17,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9b/9b3b5657-3c5c-40d2-a8ef-0cb292d3cba4/medium/3e3caa02-c50d-4080-ac7a-b080a04bdd0c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence Aquavella se situe Boulevard  du commandant Charcot à proximité des commerces et services (transports en commun, supermarché, gare TER, boulangerie, médecin)\nServices associés : accès Internet en haut débit, laverie, salle commune, local vélos, parking sécurisé. \n\n\nStudio dans une résidence située proche des commerces et de toutes commodités, la résidence se situe à proximité du site ALSTOM. Proche des axes structurants, elle dispose d’un accès facile à La Rochelle.\nLe loyer mensuel est toutes charges comprises (chauffage, eau, électricité et wifi inclus). Les démarches administratives sont simplifiées, pas d'ouverture ni de fermeture de compteurs, un préavis réduit à 8 jours.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53102,
+  "guid": "b1f500de-1867-4470-9953-7942a86a1ba9",
+  "reference": "53102",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9b/9b3b5657-3c5c-40d2-a8ef-0cb292d3cba4/large/881f7302-8aa1-4c9c-b2a6-d52e930b2edf",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 12816,
+   "guid": "9b3b5657-3c5c-40d2-a8ef-0cb292d3cba4",
+   "reference": "12816",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 45.71,
+   "municipality": {
+    "id": 5662,
+    "postcode": "17440",
+    "code": "17028",
+    "name": "Aytré"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1457,
+   "guid": "11a66461-13cf-4eb2-a749-cc75a7c5902d",
+   "reference": "1457",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-20",
+  "endDateOfPublication": "2026-11-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence Aquavella se situe Boulevard  du commandant Charcot à proximité des commerces et services (transports en commun, supermarché, gare TER, boulangerie, médecin)\nServices associés : accès Internet en haut débit, laverie, salle commune, local vélos, parking sécurisé. \n\n\nStudio dans une résidence située proche des commerces et de toutes commodités, la résidence se situe à proximité du site ALSTOM. Proche des axes structurants, elle dispose d’un accès facile à La Rochelle.\nLe loyer mensuel est toutes charges comprises (chauffage, eau, électricité et wifi inclus). Les démarches administratives sont simplifiées, pas d'ouverture ni de fermeture de compteurs, un préavis réduit à 8 jours.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 452.17,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 447.42,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

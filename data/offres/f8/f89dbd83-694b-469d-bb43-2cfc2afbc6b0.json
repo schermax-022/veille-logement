@@ -1,0 +1,270 @@
+{
+ "guid": "f89dbd83-694b-469d-bb43-2cfc2afbc6b0",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-26T16:33:00+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-26T16:33:00+01:00",
+ "liste": {
+  "id": 53098,
+  "guid": "f89dbd83-694b-469d-bb43-2cfc2afbc6b0",
+  "reference": "53098",
+  "residency": {
+   "id": 1304,
+   "guid": "4015b56b-82c9-4b08-9899-fd83b0ceb49f",
+   "reference": "1304",
+   "name": "RESIDENCE YELLOME DE L'ECRIN",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60710,
+   "guid": "f96a0d1a-a31f-42fb-9bcf-d7146c3754f9",
+   "reference": "60710",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 45.71,
+   "municipality": {
+    "id": 5360,
+    "postcode": "16100",
+    "code": "16102",
+    "name": "Cognac"
+   },
+   "description": "Nous vous proposons un appartement meublés et équipés composé d'une entrée avec placard, cuisine/séjour( vaisselles, micro-onde plaques de cuissons, frigo top), 1 chambre avec placard (lit et matelas), salle d'eau avec WC et balcon."
+  },
+  "availableAt": "2026-11-09",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 524.1,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f9/f96a0d1a-a31f-42fb-9bcf-d7146c3754f9/medium/b1e16d5b-b333-44e4-964b-ce80c9faa398",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Au cœur de la ville de Cognac, à 500 mètres de la place François 1er, la résidence de l’Écrin se situe  à proximité de l’avenue Victor Hugo et de ses commerces. Elle propose 10 appartements meublés et équipés d'une surface de 30 à 45 m². \nUne laverie, une salle commune, un parking, un local vélos sont à disposition des résidents.\n\nNous vous proposons un appartement meublés et équipés composé d'une entrée avec placard, cuisine/séjour( vaisselles, micro-onde plaques de cuissons, frigo top), 1 chambre avec placard (lit et matelas), salle d'eau avec WC et balcon.\nLa redevance mensuelle inclut l'ensemble des charges (chauffage, eau, électricité et wifi). Les démarches administratives sont simplifiées, pas d'ouverture ni de fermeture de compteurs, un préavis réduit à 8 jours.\n\n\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53098,
+  "guid": "f89dbd83-694b-469d-bb43-2cfc2afbc6b0",
+  "reference": "53098",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f9/f96a0d1a-a31f-42fb-9bcf-d7146c3754f9/large/6af3e5c0-9d44-4a55-bb84-792d54a0e4f8",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60710,
+   "guid": "f96a0d1a-a31f-42fb-9bcf-d7146c3754f9",
+   "reference": "60710",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 45.71,
+   "municipality": {
+    "id": 5360,
+    "postcode": "16100",
+    "code": "16102",
+    "name": "Cognac"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 1304,
+   "guid": "4015b56b-82c9-4b08-9899-fd83b0ceb49f",
+   "reference": "1304",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-09",
+  "endDateOfPublication": "2026-11-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Au cœur de la ville de Cognac, à 500 mètres de la place François 1er, la résidence de l’Écrin se situe  à proximité de l’avenue Victor Hugo et de ses commerces. Elle propose 10 appartements meublés et équipés d'une surface de 30 à 45 m². \nUne laverie, une salle commune, un parking, un local vélos sont à disposition des résidents.\n\nNous vous proposons un appartement meublés et équipés composé d'une entrée avec placard, cuisine/séjour( vaisselles, micro-onde plaques de cuissons, frigo top), 1 chambre avec placard (lit et matelas), salle d'eau avec WC et balcon.\nLa redevance mensuelle inclut l'ensemble des charges (chauffage, eau, électricité et wifi). Les démarches administratives sont simplifiées, pas d'ouverture ni de fermeture de compteurs, un préavis réduit à 8 jours.\n\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 524.1,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 516.9,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
