@@ -1,16 +1,16 @@
 {
  "guid": "1e9db6b5-9f04-430c-b78c-8cdd6c3c94de",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-24T23:52:32+02:00",
- "absente_depuis": "2026-10-25T00:15:17+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-25T00:15:17+02:00",
- "remises_en_ligne": 2,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 3,
  "alerte": null,
  "alerte_envoyee_le": null,
- "fiche_statut": "ok",
+ "fiche_statut": "erreur : HTTP 410 sur /demands/public/offer-showcase-details : {\"code\":\"DEM44E410\",\"data\":null,\"message\":\"La donnée recherchée n'est plus disponible\"}",
  "fiche_recuperee_le": "2026-10-21T08:01:44+02:00",
  "liste": {
   "id": 50356,
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": 156.0,
-  "startDateOfPublication": "2026-10-21",
+  "startDateOfPublication": "2026-10-26",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/e8/e88677a6-6a97-4d37-bf29-a446a792e702/medium/4c869f4a-458e-46bd-8926-2b72aa1ca5f8",
@@ -254,5 +254,5 @@
   "rentType": "RENT_STANDARD",
   "totalRentAmountMax": null
  },
- "fiche_essais": 0
+ "fiche_essais": 1
 }
