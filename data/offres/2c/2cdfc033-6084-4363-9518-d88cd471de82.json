@@ -1,0 +1,246 @@
+{
+ "guid": "2cdfc033-6084-4363-9518-d88cd471de82",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-26T14:58:19+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-26T14:58:19+01:00",
+ "liste": {
+  "id": 52875,
+  "guid": "2cdfc033-6084-4363-9518-d88cd471de82",
+  "reference": "52875",
+  "residency": {
+   "id": 8488,
+   "guid": "daa94331-d2cd-4dbd-bb3c-2141d57bc75e",
+   "reference": "8488",
+   "name": "1.9829",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60436,
+   "guid": "96f22aee-71e6-4fff-9654-2de7286ecd09",
+   "reference": "60436",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.49,
+   "municipality": {
+    "id": 23228,
+    "postcode": "60560",
+    "code": "60482",
+    "name": "Orry-la-Ville"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-08-28",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 774.9,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/96/96f22aee-71e6-4fff-9654-2de7286ecd09/medium/a62d6b92-ea5a-43f9-8d48-dd42532bca4e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Au sein de la commune d'Orry-La-Ville, logement composé d'une chambre dans une résidence récente et une cuisine équipée.\n\nSitué Avenue du 18 Juin 1940. \n\nChauffage individuel Gaz. \n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52875,
+  "guid": "2cdfc033-6084-4363-9518-d88cd471de82",
+  "reference": "52875",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/96/96f22aee-71e6-4fff-9654-2de7286ecd09/large/5a8237d4-3b5f-4940-b172-8daabef8f7f2",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/96/96f22aee-71e6-4fff-9654-2de7286ecd09/large/e549c47f-7986-4920-9357-facb7ac78bbe",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60436,
+   "guid": "96f22aee-71e6-4fff-9654-2de7286ecd09",
+   "reference": "60436",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.49,
+   "municipality": {
+    "id": 23228,
+    "postcode": "60560",
+    "code": "60482",
+    "name": "Orry-la-Ville"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8488,
+   "guid": "daa94331-d2cd-4dbd-bb3c-2141d57bc75e",
+   "reference": "8488",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2018-12-31",
+   "constructionYear": 2018,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-08-28",
+  "endDateOfPublication": "2026-11-25",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Au sein de la commune d'Orry-La-Ville, logement composé d'une chambre dans une résidence récente et une cuisine équipée.\n\nSitué Avenue du 18 Juin 1940. \n\nChauffage individuel Gaz. \n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 702.21,
+  "rentChargeAmount": 72.69,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 702.21,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
