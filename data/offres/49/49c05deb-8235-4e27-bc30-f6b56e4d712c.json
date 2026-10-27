@@ -1,17 +1,17 @@
 {
  "guid": "49c05deb-8235-4e27-bc30-f6b56e4d712c",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-13T19:48:53+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-20T08:08:09+02:00",
- "absente_depuis": "2026-10-20T08:44:47+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-20T08:44:47+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-19T08:17:10+02:00",
+ "fiche_recuperee_le": "2026-10-27T19:50:26+01:00",
  "liste": {
   "id": 51971,
   "guid": "49c05deb-8235-4e27-bc30-f6b56e4d712c",
@@ -60,9 +60,9 @@
     "code": "92060",
     "name": "Le Plessis-Robinson"
    },
-   "description": "Exclusivité - appartement 2 pièces de 63 m² à Le Plessis Robinson avec balcon.  Sans frais d'agence.  Ce logement se compose d'un séjour lumineux et d'une cuisine indépendante.  L'appartement se situe au 1er étage d'un immeuble de 5 étages avec présence d'un ascenseur.  Balcon, cave, chauffage individuel, place de parking.  Transports : RER ligne B station Robinson à proximité. Commerces autour du bien."
+   "description": "Exclusivité - appartement 3 pièces de 63 m² au Plessis Robinson avec balcon.  Sans frais d'agence.  L'appartement comprend notamment un séjour, une cuisine et deux chambres.  Le bâtiment compte cinq étages avec ascenseur et la présence d'un gardien. Le bien se situe au 1er étage.  Un balcon, une cave et un parking complètent ce logement, chauffé individuellement.  Les transports sont assurés par le RER ligne B avec la station Robinson à proximité. Des commerces se trouvent dans les environs."
   },
-  "availableAt": "2026-10-19",
+  "availableAt": "2026-10-27",
   "isLodgingFirstTimeAvailable": false,
   "paymentType": {
    "id": 2,
@@ -77,7 +77,7 @@
   "startDateOfPublication": "2026-10-13",
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/medium/cb33f5a9-2c5b-4d0b-8796-87b6300e0e5d",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/medium/3c0e75dd-61d4-4f54-85ca-27b3a4d912e1",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "MEDIUM"
@@ -108,6 +108,18 @@
     "dimension": "LARGE"
    },
    {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/5f83c848-f3e9-4494-8bd1-b4ba4eb0e5c0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/3cff74d7-e41b-4169-85e1-b49802021112",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
     "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/8bd4c463-8629-4262-86cf-3dad39dc6681",
     "urlContentType": "image/jpeg",
     "ordering": 1,
@@ -120,9 +132,27 @@
     "dimension": "LARGE"
    },
    {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/3d9d836d-0a18-4488-a82b-739f1cd2c135",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/16a6164a-0af5-495e-87b7-3262b40c81d6",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
     "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/63079ebf-31a8-4d46-851b-15989fbf7856",
     "urlContentType": "image/jpeg",
     "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/38b0ec72-7bfe-4542-844b-8251bc43cade",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
     "dimension": "LARGE"
    },
    {
@@ -138,7 +168,19 @@
     "dimension": "LARGE"
    },
    {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/5990ea13-414c-43da-91e7-a008f3f9c419",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
     "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/48d6f212-3788-47be-a88c-49e3cfdac178",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/e999cbd6-f934-4498-aa25-43539f1ae2e6",
     "urlContentType": "image/jpeg",
     "ordering": 6,
     "dimension": "LARGE"
@@ -147,6 +189,18 @@
     "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/71b73da7-8636-4286-a871-5275e8607ef7",
     "urlContentType": "image/jpeg",
     "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/f5efd603-bb14-49ba-ac5e-f93873fd05df",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/10/10e6ee9c-7696-4287-bc82-a0e05220387b/large/a416bbb5-3fde-40e2-a4df-b4e67b87f8ff",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
     "dimension": "LARGE"
    },
    {
@@ -283,7 +337,7 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-10-19",
+  "availableAt": "2026-10-27",
   "endDateOfPublication": "2027-10-12",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
