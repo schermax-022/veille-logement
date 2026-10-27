@@ -1,0 +1,252 @@
+{
+ "guid": "bcbb71cd-f038-4f1e-b4e4-b6a49f0af198",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-27T11:40:53+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-27T11:40:53+01:00",
+ "liste": {
+  "id": 52378,
+  "guid": "bcbb71cd-f038-4f1e-b4e4-b6a49f0af198",
+  "reference": "52378",
+  "residency": {
+   "id": 8484,
+   "guid": "6f4ef117-f7c9-4f1f-818d-ebbbb38f975a",
+   "reference": "8484",
+   "name": "1.9860",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59867,
+   "guid": "2ee2a858-dab0-4d2a-85b1-d46f45404963",
+   "reference": "59867",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 69.95,
+   "municipality": {
+    "id": 23329,
+    "postcode": "60340",
+    "code": "60584",
+    "name": "Saint-Leu-d'Esserent"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-10",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 907.73,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-27",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2e/2ee2a858-dab0-4d2a-85b1-d46f45404963/medium/f586669d-5ff2-478b-be7d-c8a375db4b83",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "De par sa situation géographique, ce logement situé quai d'amont bénéficient de deux chambre et d'un certain nombre d'avantages :\n- un emplacement d'exception au bord de l'Oise\n- un environnement calme au cœur d'un quartier pavillonnaire\n- des logements à proximité de la base de loisirs\n- des logements proches de la gare et des grands axes routiers",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52378,
+  "guid": "bcbb71cd-f038-4f1e-b4e4-b6a49f0af198",
+  "reference": "52378",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2e/2ee2a858-dab0-4d2a-85b1-d46f45404963/large/6636a33c-bb80-43f8-aa0a-efcc6cf37e5b",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2e/2ee2a858-dab0-4d2a-85b1-d46f45404963/large/97be2f74-f171-402b-99cf-160dd636aa88",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2e/2ee2a858-dab0-4d2a-85b1-d46f45404963/large/64a71d4f-c903-4ac8-b1bc-96f30d2d9a65",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59867,
+   "guid": "2ee2a858-dab0-4d2a-85b1-d46f45404963",
+   "reference": "59867",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 69.95,
+   "municipality": {
+    "id": 23329,
+    "postcode": "60340",
+    "code": "60584",
+    "name": "Saint-Leu-d'Esserent"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8484,
+   "guid": "6f4ef117-f7c9-4f1f-818d-ebbbb38f975a",
+   "reference": "8484",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2023-06-27",
+   "constructionYear": 2023,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-10",
+  "endDateOfPublication": "2026-11-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "De par sa situation géographique, ce logement situé quai d'amont bénéficient de deux chambre et d'un certain nombre d'avantages :\n- un emplacement d'exception au bord de l'Oise\n- un environnement calme au cœur d'un quartier pavillonnaire\n- des logements à proximité de la base de loisirs\n- des logements proches de la gare et des grands axes routiers",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 838.46,
+  "rentChargeAmount": 69.27,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 838.46,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
