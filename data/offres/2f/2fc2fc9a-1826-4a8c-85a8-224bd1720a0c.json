@@ -1,0 +1,246 @@
+{
+ "guid": "2fc2fc9a-1826-4a8c-85a8-224bd1720a0c",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-27T12:21:19+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-27T12:21:19+01:00",
+ "liste": {
+  "id": 52798,
+  "guid": "2fc2fc9a-1826-4a8c-85a8-224bd1720a0c",
+  "reference": "52798",
+  "residency": {
+   "id": 8586,
+   "guid": "ab3fbbc0-9520-42fe-b2fd-281b9f5b602e",
+   "reference": "8586",
+   "name": "1.9970",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60349,
+   "guid": "f74cc4c5-7971-4502-b7bb-88d7e2186174",
+   "reference": "60349",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 56.3,
+   "municipality": {
+    "id": 22917,
+    "postcode": "60200",
+    "code": "60159",
+    "name": "Compiègne"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-07-22",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 726.75,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-27",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f74cc4c5-7971-4502-b7bb-88d7e2186174/medium/984e2bd6-d1b3-4f3c-9125-e0a9ea179171",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Sur la commune de Compiègne, au sein d'une résidence récente, nous vous proposons un appartement comprenant une chambre, situé rue Raymonde De Barante.\n\nUne solution de stationnement est disponible grâce à une place de parking à louer au sous-sol.\n\nUne accessibilité stratégique : Le secteur se trouve à seulement 10 minutes de la gare SNCF de Compiègne (permettant de rejoindre Paris en 40 minutes). Il bénéficie également d'un accès routier rapide à l'autoroute A1, facilitant les trajets vers Paris, l'aéroport de Roissy et Lille.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52798,
+  "guid": "2fc2fc9a-1826-4a8c-85a8-224bd1720a0c",
+  "reference": "52798",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f74cc4c5-7971-4502-b7bb-88d7e2186174/large/478358d6-3f25-4d93-a657-0dd6d17b60f2",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f7/f74cc4c5-7971-4502-b7bb-88d7e2186174/large/2d2db14a-1bc2-44ac-a637-a700887cbd46",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60349,
+   "guid": "f74cc4c5-7971-4502-b7bb-88d7e2186174",
+   "reference": "60349",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 56.3,
+   "municipality": {
+    "id": 22917,
+    "postcode": "60200",
+    "code": "60159",
+    "name": "Compiègne"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8586,
+   "guid": "ab3fbbc0-9520-42fe-b2fd-281b9f5b602e",
+   "reference": "8586",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2023-09-26",
+   "constructionYear": 2023,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-07-22",
+  "endDateOfPublication": "2026-11-20",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Sur la commune de Compiègne, au sein d'une résidence récente, nous vous proposons un appartement comprenant une chambre, situé rue Raymonde De Barante.\n\nUne solution de stationnement est disponible grâce à une place de parking à louer au sous-sol.\n\nUne accessibilité stratégique : Le secteur se trouve à seulement 10 minutes de la gare SNCF de Compiègne (permettant de rejoindre Paris en 40 minutes). Il bénéficie également d'un accès routier rapide à l'autoroute A1, facilitant les trajets vers Paris, l'aéroport de Roissy et Lille.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 660.85,
+  "rentChargeAmount": 65.9,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 660.85,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

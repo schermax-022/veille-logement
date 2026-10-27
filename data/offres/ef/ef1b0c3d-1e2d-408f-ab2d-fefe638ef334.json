@@ -1,0 +1,246 @@
+{
+ "guid": "ef1b0c3d-1e2d-408f-ab2d-fefe638ef334",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-27T12:21:19+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-27T12:21:19+01:00",
+ "liste": {
+  "id": 52873,
+  "guid": "ef1b0c3d-1e2d-408f-ab2d-fefe638ef334",
+  "reference": "52873",
+  "residency": {
+   "id": 8480,
+   "guid": "bc5088e1-9768-4462-b92b-7babccde8024",
+   "reference": "8480",
+   "name": "1.9800",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60435,
+   "guid": "66e3d934-1ee5-4016-81c2-b3defcc1d596",
+   "reference": "60435",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 65.57,
+   "municipality": {
+    "id": 23100,
+    "postcode": "60260",
+    "code": "60346",
+    "name": "Lamorlaye"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-05-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1095.45,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-27",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/66/66e3d934-1ee5-4016-81c2-b3defcc1d596/medium/724afb95-d862-44ac-b5e8-1f0511c98b39",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A Lamorlaye, au sein d'une résidence récente, nous vous proposons à la location un appartement composé d'une cuisine équipée, 2 chambres et situé rue Blanche.\n\nUne solution de stationnement est disponible grâce à une place de parking privatif en extérieure.\n\nProximité :\n-> Gare de Chantilly - Gouvieux (10 min en voiture)\n-> Gare d'Orry-La-Ville (12 min en voiture)\n-> Arrêt de bus ( moins de 8 min à pied)\n-> Commerces (10 min à pied ou 5 min en voiture)\n-> Centre-ville (12 min à pied)\n-> Ecoles et collèges (15 min à pied)\n\n🌳 Un Cadre de Vie Calme et Résidentiel\nCe quartier calme de Lamorlaye, offre confort et praticité grâce à la proximité des commerces, des établissements scolaires (écoles, collèges), des espaces verts (à côté de la forêt de Chantilly) et des transports en commun reliant la ville à Paris facilement. \nUn emplacement parfait alliant praticité et confort au quotidien.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 52873,
+  "guid": "ef1b0c3d-1e2d-408f-ab2d-fefe638ef334",
+  "reference": "52873",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/66/66e3d934-1ee5-4016-81c2-b3defcc1d596/large/40867004-04b2-41d2-956d-d45fca705118",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/66/66e3d934-1ee5-4016-81c2-b3defcc1d596/large/316ddca5-9fdd-4a53-ae4f-db4c6a7284f7",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60435,
+   "guid": "66e3d934-1ee5-4016-81c2-b3defcc1d596",
+   "reference": "60435",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 65.57,
+   "municipality": {
+    "id": 23100,
+    "postcode": "60260",
+    "code": "60346",
+    "name": "Lamorlaye"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8480,
+   "guid": "bc5088e1-9768-4462-b92b-7babccde8024",
+   "reference": "8480",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2017-10-17",
+   "constructionYear": 2017,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-05-01",
+  "endDateOfPublication": "2026-11-21",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "A Lamorlaye, au sein d'une résidence récente, nous vous proposons à la location un appartement composé d'une cuisine équipée, 2 chambres et situé rue Blanche.\n\nUne solution de stationnement est disponible grâce à une place de parking privatif en extérieure.\n\nProximité :\n-> Gare de Chantilly - Gouvieux (10 min en voiture)\n-> Gare d'Orry-La-Ville (12 min en voiture)\n-> Arrêt de bus ( moins de 8 min à pied)\n-> Commerces (10 min à pied ou 5 min en voiture)\n-> Centre-ville (12 min à pied)\n-> Ecoles et collèges (15 min à pied)\n\n🌳 Un Cadre de Vie Calme et Résidentiel\nCe quartier calme de Lamorlaye, offre confort et praticité grâce à la proximité des commerces, des établissements scolaires (écoles, collèges), des espaces verts (à côté de la forêt de Chantilly) et des transports en commun reliant la ville à Paris facilement. \nUn emplacement parfait alliant praticité et confort au quotidien.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 983.12,
+  "rentChargeAmount": 112.33,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 983.12,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
