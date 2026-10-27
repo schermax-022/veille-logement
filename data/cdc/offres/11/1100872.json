@@ -1,17 +1,17 @@
 {
  "guid": "1100872",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-15T09:42:45+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-21T14:29:15+02:00",
- "absente_depuis": "2026-10-21T15:18:27+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-21T15:18:27+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-15T09:42:45+02:00",
+ "fiche_recuperee_le": "2026-10-27T09:42:36+01:00",
  "liste": {
   "guid": "1100872",
   "id_lot": "1100872",
@@ -58,15 +58,17 @@
   ],
   "gamme": "Logement intermédiaire",
   "les_plus": [
+   "Ascenseur",
    "Eau froide comprise",
-   "Box",
-   "Visiophonie"
+   "Box"
   ],
   "caracteristiques": {
    "Logement": [
+    "Ascenseur",
     "Eau froide comprise",
     "Box",
     "Visiophonie",
+    "Balcon",
     "TEOM inclus"
    ],
    "Résidence et parties communes": [
@@ -88,12 +90,17 @@
    "classe": "C",
    "valeur": 12.0
   },
-  "description": "SANS HONORAIRES.\nChassieu, 13 avenue du Progrès. Devenez locataire de ce beau T3 de 64 m2 au 1er étage avec balcon au sein d'une résidence sécurisée.\nCe logement se compose d'une entrée, d'un séjour/cuisine (évier, hotte, plaque, quelques meubles) de 27 m2, de 2 chambres de 13,8 m2 et 11 m2 avec placard, d'une salle de bain et un WC séparé.\nUn balcon de 8 m2 et un stationnement en sous-sol complètent ce bien.\nChauffage individuel au gaz. Eau chaude et froide individuelles\nBus et réseau routier et commerces à proximité.\nRéférence à rappeler lors de nos échanges : A852 - 356376\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+  "description": "SANS HONORAIRES.\nChassieu, 13 avenue du Progrès. Devenez locataire de ce beau T3 de 64 m2 au 1er étage avec balcon au sein d'une résidence sécurisée.\nCe logement se compose d'une entrée, d'un séjour/cuisine (évier, hotte, plaque, quelques meubles) de 27 m2, de 2 chambres de 13,8 m2 et 11 m2 avec placard, d'une salle de bain et un WC séparé.\nUn balcon de 8 m2 et un stationnement en sous-sol complètent ce bien.\nChauffage individuel au gaz. Eau froide provisionnée dans le loyer.\nBus et réseau routier et commerces à proximité.\nRéférence à rappeler lors de nos échanges : A852 - 356376\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
   "adresse": "11 AVENUE DU PROGRES",
   "ville": "CHASSIEU",
   "code_postal": "69680",
   "telephone": "0972153171",
-  "photos": [],
+  "photos": [
+   "https://referentiel-photos.cdc-habitat.fr/photos/04A8D2D8F2DE66FDC1258D80006D7DE3.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/06ABE8B9566FAF9BC1258B0E00270AA9.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/CDA10EFA62CC3B74C1258B0E00270D71.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/A00B1E0EEEE9D861C1258E91002648A0.jpg"
+  ],
   "latitude": 45.73734,
   "longitude": 4.96872
  },
