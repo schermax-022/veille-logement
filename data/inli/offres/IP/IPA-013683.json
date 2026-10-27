@@ -1,23 +1,23 @@
 {
  "guid": "IPA-013683",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T22:53:31+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-08T11:51:23+02:00",
- "absente_depuis": "2026-10-08T12:51:49+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-08T12:51:49+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T23:49:43+02:00",
+ "fiche_recuperee_le": "2026-10-27T19:12:21+01:00",
  "liste": {
   "guid": "IPA-013683",
   "ref": "IPA-013683",
   "lien": "/location-appartement-port-st-louis-du-rhone-13230/IPA-013683",
   "url": "https://www.inli.fr/location-appartement-port-st-louis-du-rhone-13230/IPA-013683",
-  "loyer_cc": 934.09,
+  "loyer_cc": 999.8,
   "resume": "3 pièces · 90.35 m²",
   "ville_affichee": "Port St Louis Du Rhone",
   "type": "Appartement",
@@ -41,7 +41,7 @@
   "avantages": [
    "Sans frais de dossier"
   ],
-  "loyer_cc_affiche": 934.0,
+  "loyer_cc_affiche": 1000.0,
   "lignes_prix": [
    {
     "libelle": "Loyer hors charges",
@@ -52,8 +52,12 @@
     "valeur": "166 €"
    },
    {
+    "libelle": "Loyer stationnement charges comprises",
+    "valeur": "66 €"
+   },
+   {
     "libelle": "Dépôt de garantie logement et stationnement",
-    "valeur": "769 €"
+    "valeur": "829 €"
    }
   ],
   "caracteristiques": {
@@ -70,7 +74,7 @@
     "Ascenseur"
    ]
   },
-  "description": "Logement type 3 pièce dans la résidence neuve au 4è étage avec ascenseur avec une belle surface habitable de 90.35m² comprenant Hall d'entrée avec dégagement, séjour sur cuisine ouverte non équipée avec terrasse, 2 grandes chambres, salle de bains et WC indépendant, du rangement.\nLogement loué avec 2 places de stationnement privatives.\nD'autres T3 sont également disponibles",
+  "description": "Logement type 3 pièce dans la résidence neuve au 4è étage avec ascenseur avec une belle surface habitable de 90.35m² comprenant Hall d'entrée avec dégagement, séjour sur cuisine ouverte non équipée avec terrasse, 2 grandes chambres, salle de bains et WC indépendant, du rangement.\nLogement loué avec 2 places de stationnement privatives.",
   "dpe": {
    "classe": "A",
    "valeur": 64.0
@@ -81,6 +85,8 @@
   },
   "photos": [
    "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20013683/Facade%20r%C3%A9sidence-compressed.png",
+   "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20013683/IMG-20250416-WA0003-compressed.jpg",
+   "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20013683/IMG-20250416-WA0004-compressed.jpg",
    "https://prd-azr-photos-cdn-anb8asetcqb3ang2.a01.azurefd.net/paca/IPA%20013683/PLAN%20A401-compressed.png"
   ]
  },
