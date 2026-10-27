@@ -1,17 +1,17 @@
 {
  "guid": "b83d709f-4e0a-45ed-8239-6096c95d5de7",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-24T23:52:32+02:00",
- "absente_depuis": "2026-10-25T00:15:17+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-25T00:15:17+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
+ "fiche_recuperee_le": "2026-10-27T11:00:25+01:00",
  "liste": {
   "id": 43162,
   "guid": "b83d709f-4e0a-45ed-8239-6096c95d5de7",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": true,
   "agencyFeesAmount": 680.44,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-07-01",
+  "startDateOfPublication": "2026-10-27",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/35/35d4b060-e1e4-48bb-bb18-522ac354f3a2/medium/f0b118cc-0ba5-43b2-854b-a09b3b2d5233",
@@ -239,14 +239,22 @@
     }
    },
    "lifeStyles": [],
-   "services": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    }
+   ],
    "requiredWarrantyTypes": [],
    "deliveredAt": "2026-02-02",
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-07-01",
-  "endDateOfPublication": "2026-10-24",
+  "endDateOfPublication": "2026-11-26",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "À VICHY, au 8 Place de la Source de l'Hôpital et 1 Rue de La Porte de la France,  Résidence Le Vert Galant, dans l'ancienne maison de retraite, entièrement refait à neuf, en plein cœur du centre-ville, proche des commerces / services (supermarché, pharmacie, boulangerie, médecins…) et des établissements scolaires.\n\nIl se compose d’une entrée, une cuisine ouverte sur un séjour avec emplacement lave-linge (cuisine équipée d'une hotte et d'une plaque à induction), un dégagement desservant 2 chambres, une salle d'eau avec douche et un WC séparé. Orienté EST. \n\nPossibilité de louer une place de parking à proximité pour les résidents (environ 9 € par mois).",

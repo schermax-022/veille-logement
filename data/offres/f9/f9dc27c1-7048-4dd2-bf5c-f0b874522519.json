@@ -1,17 +1,17 @@
 {
  "guid": "f9dc27c1-7048-4dd2-bf5c-f0b874522519",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-24T23:52:32+02:00",
- "absente_depuis": "2026-10-25T00:15:17+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-25T00:15:17+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
+ "fiche_recuperee_le": "2026-10-27T11:00:25+01:00",
  "liste": {
   "id": 43163,
   "guid": "f9dc27c1-7048-4dd2-bf5c-f0b874522519",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": true,
   "agencyFeesAmount": 991.23,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-07-01",
+  "startDateOfPublication": "2026-10-27",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/c8/c88c8c04-c64d-482c-ad7c-bc416ea92a25/medium/e0dda8c8-7493-4686-9c2f-d9c6f9b2b7ea",
@@ -245,14 +245,22 @@
     }
    },
    "lifeStyles": [],
-   "services": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    }
+   ],
    "requiredWarrantyTypes": [],
    "deliveredAt": "2026-02-02",
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-07-01",
-  "endDateOfPublication": "2026-10-24",
+  "endDateOfPublication": "2026-11-26",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "À VICHY, 5 Rue de La Porte de France, Résidence Le Vert Galant, dans l'ancienne maison de retraite, entièrement refait à neuf, en plein cœur du centre-ville, proche des commerces / services (supermarché, pharmacie, boulangerie, médecins…) et des établissements scolaires.\n\nIl se compose d’une entrée,  un couloir desservant 3 chambres dont une avec une salle de bains privative (baignoire), une deuxième salle d'eau avec douche et emplacement lave-linge, un WC séparé. Partie jour, une cuisine ouverte sur un séjour (cuisine équipée d'une hotte et d'une plaque à induction),  Orientation OUEST/NORD/EST.\n\nPossibilité de louer une place de parking à proximité pour les résidents (environ 9 € par mois).",
