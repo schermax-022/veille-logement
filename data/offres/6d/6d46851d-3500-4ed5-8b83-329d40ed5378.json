@@ -1,17 +1,17 @@
 {
  "guid": "6d46851d-3500-4ed5-8b83-329d40ed5378",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-09T09:48:47+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-25T23:49:01+01:00",
- "absente_depuis": "2026-10-26T00:08:05+01:00",
- "absences": 2,
- "retrait_detecte": "2026-10-26T00:08:05+01:00",
- "remises_en_ligne": 1,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 2,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-16T13:56:53+02:00",
+ "fiche_recuperee_le": "2026-10-28T17:53:44+01:00",
  "liste": {
   "id": 47982,
   "guid": "6d46851d-3500-4ed5-8b83-329d40ed5378",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-16",
+  "startDateOfPublication": "2026-10-28",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/97/97b520a9-0ed1-4942-a57e-6800fbfbe073/medium/741911fd-2cd9-47bd-83a3-54ee8dec4333",
@@ -262,7 +262,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-09-30",
-  "endDateOfPublication": "2026-10-25",
+  "endDateOfPublication": "2026-11-16",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
   "description": "Résidence sociale jeunes actifs CITE DES METIERS  à Pessac.\n\nAvenue de Canéjan, Pessac (33600).\n\nLa résidence Cité des Métiers est située à proximité immédiate de la ligne B du Tramway (accessible en 2 minutes à pied) qui pourra vous mener de Pessac centre ou Alouette à la Place des Quinconces en passant par le quartier des Chartrons, La Cité du Vin et jusqu'aux Berges de la Garonne à Bordeaux.\n\nLes commerces de proximité (boulangerie, pharmacie...) se situent à moins de 20 minutes à pied de cette résidence livrée en 2017, tout comme la zone commerciale de Mérignac Soleil et ses nombreux magasins dont un hypermarché (24 mn en transports en commun).\n\nCe logement de type 1' est équipé d'un lit simple (1 personne), d'un bureau, d'une chaise, d'une kitchenette (frigo, plaques de cuisson) et d'une salle de bain privative.\n\nQue vous soyez étudiant(e) avec un emploi, alternant(e), en CDD, CDI, ou intérimaire ce logement est  idéal pour vous.\n\nPAS DE FRAIS D'AGENCE - PAS DE FRAIS DE DOSSIER.\n\n Logement ouvrant le droit aux APL.\n",
@@ -281,7 +281,20 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
