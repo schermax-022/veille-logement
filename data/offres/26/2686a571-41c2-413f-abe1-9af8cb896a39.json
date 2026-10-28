@@ -1,0 +1,248 @@
+{
+ "guid": "2686a571-41c2-413f-abe1-9af8cb896a39",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-28T15:19:35+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-28T15:19:35+01:00",
+ "liste": {
+  "id": 53340,
+  "guid": "2686a571-41c2-413f-abe1-9af8cb896a39",
+  "reference": "53340",
+  "residency": {
+   "id": 2152,
+   "guid": "52a0ffe7-c3fa-488d-a392-7e46c8d4bfed",
+   "reference": "2152",
+   "name": "FOYER JEUNES TRAVAILLEURS MOULIN D'HABERT",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60979,
+   "guid": "fec7e686-27fb-486b-85c5-763b1cebdfdd",
+   "reference": "60979",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 13995,
+    "postcode": "37110",
+    "code": "37063",
+    "name": "Château-Renault"
+   },
+   "description": "appartement type 1 bis de 30 m² meublé, \nkitchenette avec plaques électriques et frigo \nlit simple \ntable et chaise \nsalle d'eau avec wc."
+  },
+  "availableAt": "2026-10-28",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 530.6,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-28",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fec7e686-27fb-486b-85c5-763b1cebdfdd/medium/821f0635-721e-4dd9-851e-6bc86f1eb38b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Proche du centre-ville et des commerces\nAccès à pieds aux transports en commun, au cinéma ou en encore au centre aquatique.\n\nsécurisée avec gardienne, les logements, conventionnés APL \ndu T1 bis (30m2) au T2 (48m2), meublés et équipés de douche, toilette et cuisine.\n\nBoite à lettres\nEspace Laverie\nSalle de réunion\nParking\nGardienne\nGarage 2 roues\n\nappartement type 1 bis de 30 m² meublé, \nkitchenette avec plaques électriques et frigo \nlit simple \ntable et chaise \nsalle d'eau avec wc.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53340,
+  "guid": "2686a571-41c2-413f-abe1-9af8cb896a39",
+  "reference": "53340",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fe/fec7e686-27fb-486b-85c5-763b1cebdfdd/large/47bff2fe-014a-47ea-8c1e-41db322e7661",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60979,
+   "guid": "fec7e686-27fb-486b-85c5-763b1cebdfdd",
+   "reference": "60979",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 30.0,
+   "municipality": {
+    "id": 13995,
+    "postcode": "37110",
+    "code": "37063",
+    "name": "Château-Renault"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 2152,
+   "guid": "52a0ffe7-c3fa-488d-a392-7e46c8d4bfed",
+   "reference": "2152",
+   "livingRules": "",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-28",
+  "endDateOfPublication": "2027-06-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Proche du centre-ville et des commerces\nAccès à pieds aux transports en commun, au cinéma ou en encore au centre aquatique.\n\nsécurisée avec gardienne, les logements, conventionnés APL \ndu T1 bis (30m2) au T2 (48m2), meublés et équipés de douche, toilette et cuisine.\n\nBoite à lettres\nEspace Laverie\nSalle de réunion\nParking\nGardienne\nGarage 2 roues\n\nappartement type 1 bis de 30 m² meublé, \nkitchenette avec plaques électriques et frigo \nlit simple \ntable et chaise \nsalle d'eau avec wc.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 530.6,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 350.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
