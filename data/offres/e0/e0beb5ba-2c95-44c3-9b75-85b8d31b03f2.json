@@ -1,0 +1,260 @@
+{
+ "guid": "e0beb5ba-2c95-44c3-9b75-85b8d31b03f2",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-28T09:32:56+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-28T09:32:56+01:00",
+ "liste": {
+  "id": 46673,
+  "guid": "e0beb5ba-2c95-44c3-9b75-85b8d31b03f2",
+  "reference": "46673",
+  "residency": {
+   "id": 7855,
+   "guid": "6564d7e2-3310-4c91-a495-a090c5236809",
+   "reference": "7855",
+   "name": "REPUBLIQUE",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 55084,
+   "guid": "71d1bdbf-b65d-4cf4-982a-69a5acdc3905",
+   "reference": "55084",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 34.0,
+   "municipality": {
+    "id": 27469,
+    "postcode": "69250",
+    "code": "69143",
+    "name": "Neuville-sur-Saône"
+   },
+   "description": "Logement de 34 m2 situé au 2ème étage sans ascenseur. \nLe loyer comprend les charges générales, une provision de chauffage, ainsi qu'une provision d'eau chaude et d'eau froide.\nLe mode de chauffage est collectif.\nLe logement est disponible de suite.\nMerci de bien situer l'environnement, avant de vous positionner sur cette offre."
+  },
+  "availableAt": "2026-08-12",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 397.72,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-28",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/71d1bdbf-b65d-4cf4-982a-69a5acdc3905/medium/2960a43e-e823-4714-b2ca-6d17cbec5a52",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence république, située rue de la République, 69250 NEUVILLE SUR SAONE.\nLes commerces sont à proximité.\nLes transports en commun sont à 2 pas, ligne de bus 43, arrêt: PONT DE NEUVILLE.\n\nLogement de 34 m2 non meublé situé au 2ème étage sans ascenseur. \nLe loyer comprend les charges générales, une provision de chauffage, ainsi qu'une provision d'eau chaude et d'eau froide.\nLe mode de chauffage est collectif.\nLe logement est disponible de suite.\n\nMerci de bien situer l'environnement, avant de vous positionner sur cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 46673,
+  "guid": "e0beb5ba-2c95-44c3-9b75-85b8d31b03f2",
+  "reference": "46673",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/71d1bdbf-b65d-4cf4-982a-69a5acdc3905/large/b637b05d-1a39-4d45-8578-53c14f561dd0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 55084,
+   "guid": "71d1bdbf-b65d-4cf4-982a-69a5acdc3905",
+   "reference": "55084",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 34.0,
+   "municipality": {
+    "id": 27469,
+    "postcode": "69250",
+    "code": "69143",
+    "name": "Neuville-sur-Saône"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "NON",
+     "label": "Pas de stationnement"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7855,
+   "guid": "6564d7e2-3310-4c91-a495-a090c5236809",
+   "reference": "7855",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-08-12",
+  "endDateOfPublication": "2026-11-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence république, située rue de la République, 69250 NEUVILLE SUR SAONE.\nLes commerces sont à proximité.\nLes transports en commun sont à 2 pas, ligne de bus 43, arrêt: PONT DE NEUVILLE.\n\nLogement de 34 m2 non meublé situé au 2ème étage sans ascenseur. \nLe loyer comprend les charges générales, une provision de chauffage, ainsi qu'une provision d'eau chaude et d'eau froide.\nLe mode de chauffage est collectif.\nLe logement est disponible de suite.\n\nMerci de bien situer l'environnement, avant de vous positionner sur cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 397.72,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 397.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 28,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
