@@ -1,0 +1,259 @@
+{
+ "guid": "b05466eb-2342-4eb4-b1c9-27b9a2889d47",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-28T10:23:42+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-28T10:23:42+01:00",
+ "liste": {
+  "id": 53309,
+  "guid": "b05466eb-2342-4eb4-b1c9-27b9a2889d47",
+  "reference": "53309",
+  "residency": {
+   "id": 5733,
+   "guid": "54629f31-46e2-45ad-ad30-f0a28a2c685a",
+   "reference": "5733",
+   "name": "RUE DES LÉGOUVÉS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60939,
+   "guid": "0009c5d5-b133-4ff7-b7c4-7539c88eeab4",
+   "reference": "60939",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 71.0,
+   "municipality": {
+    "id": 15971,
+    "postcode": "42600",
+    "code": "42147",
+    "name": "Montbrison"
+   },
+   "description": "En plein cœur de Montbrison au 4bis rue des Légouvé, découvrez cet appartement en duplex de type 3 entièrement refait à neuf de 71 m². Il se compose d'une cuisine équipée (hotte, plaque de cuisson, four) ouverte sur un séjour, un wc. A l'étage, deux chambres et une salle de douche.\nDisponible au 12/01 mais peut être libéré début janvier."
+  },
+  "availableAt": "2027-01-12",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 530.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 100.0,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-28",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/00/0009c5d5-b133-4ff7-b7c4-7539c88eeab4/medium/730d79fb-6285-43d4-baa6-863dd28263bf",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A proximité des commerces et commodités urbaines, cet immeuble de caractère a été entièrement rénové avec des matériaux de qualité. Cuisine moderne entièrement équipée, douche à l'italienne, fibre, interphone, chauffage électrique de dernière génération. \n\nDesservi par les lignes TIL 111 (St Etienne), 114 (Feurs), 302 (St Bonnet le Château), 305 (Montrond les bains - Chazelles sur Lyon). A 11 minutes à pied de la gare, ligne TER 11 Clermont - St Etienne.\n\nEn plein cœur de Montbrison au 4bis rue des Légouvé, découvrez cet appartement en duplex de type 3 entièrement refait à neuf de 71 m². Il se compose d'une cuisine équipée (hotte, plaque de cuisson, four) ouverte sur un séjour, un wc. A l'étage, deux chambres et une salle de douche.\nDisponible au 12/01 mais peut être libéré début janvier.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53309,
+  "guid": "b05466eb-2342-4eb4-b1c9-27b9a2889d47",
+  "reference": "53309",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/00/0009c5d5-b133-4ff7-b7c4-7539c88eeab4/large/86ea3df6-129d-4878-9c8a-96f48ea8e965",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/00/0009c5d5-b133-4ff7-b7c4-7539c88eeab4/large/5de78266-6ae7-44ce-8130-b5d9e75eac05",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/00/0009c5d5-b133-4ff7-b7c4-7539c88eeab4/large/51acc55d-e18f-44fa-847b-d23bd1de0625",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60939,
+   "guid": "0009c5d5-b133-4ff7-b7c4-7539c88eeab4",
+   "reference": "60939",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 71.0,
+   "municipality": {
+    "id": 15971,
+    "postcode": "42600",
+    "code": "42147",
+    "name": "Montbrison"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": {
+    "id": 1,
+    "ordering": 1,
+    "code": "D",
+    "label": "Duplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 5733,
+   "guid": "54629f31-46e2-45ad-ad30-f0a28a2c685a",
+   "reference": "5733",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-12",
+  "endDateOfPublication": "2026-11-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A proximité des commerces et commodités urbaines, cet immeuble de caractère a été entièrement rénové avec des matériaux de qualité. Cuisine moderne entièrement équipée, douche à l'italienne, fibre, interphone, chauffage électrique de dernière génération. \n\nDesservi par les lignes TIL 111 (St Etienne), 114 (Feurs), 302 (St Bonnet le Château), 305 (Montrond les bains - Chazelles sur Lyon). A 11 minutes à pied de la gare, ligne TER 11 Clermont - St Etienne.\n\nEn plein cœur de Montbrison au 4bis rue des Légouvé, découvrez cet appartement en duplex de type 3 entièrement refait à neuf de 71 m². Il se compose d'une cuisine équipée (hotte, plaque de cuisson, four) ouverte sur un séjour, un wc. A l'étage, deux chambres et une salle de douche.\nDisponible au 12/01 mais peut être libéré début janvier.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 495.0,
+  "rentChargeAmount": 35.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 495.0,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 100.0,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

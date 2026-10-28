@@ -1,0 +1,248 @@
+{
+ "guid": "63d1d56d-bd87-4cca-8b0e-8f1219125fa1",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-28T10:23:42+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-28T10:23:42+01:00",
+ "liste": {
+  "id": 48095,
+  "guid": "63d1d56d-bd87-4cca-8b0e-8f1219125fa1",
+  "reference": "48095",
+  "residency": {
+   "id": 7988,
+   "guid": "ad436a84-a832-4ec1-9caf-4ae264dcc351",
+   "reference": "7988",
+   "name": "EMILE BOUVIER",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 56212,
+   "guid": "8ead9f1f-2ef8-47bb-b545-a603c77aaac1",
+   "reference": "56212",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 27573,
+    "postcode": "69100",
+    "code": "69266",
+    "name": "Villeurbanne"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-09-02",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 267.99,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-28",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8ead9f1f-2ef8-47bb-b545-a603c77aaac1/medium/d41ab60d-4c98-4270-8b4d-28abec65ec64",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence EMILE BOUVIER située rue du professeur Emile BOUVIER 69100 VILLEURBANNE.\nLes commerces sont à proximité. \nLes transports en commun sont à 2 pas, ligne de bus 37 69 C17 C26 , Metro ligne A.\n\nLogement de 24 m2 meublé situé au 2ème étage sans ascenseur. \nLe loyer comprend les charges générales, une provision de chauffage, ainsi qu'une provision d'eau chaude et d'eau froide.\nLe mode de chauffage est collectif.\nLe logement est disponible de suite.\n\n Merci de bien situer l'environnement, avant de vous positionner sur cette offre.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 48095,
+  "guid": "63d1d56d-bd87-4cca-8b0e-8f1219125fa1",
+  "reference": "48095",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8ead9f1f-2ef8-47bb-b545-a603c77aaac1/large/94354233-c25e-45e8-b2a7-8be69cdc3497",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56212,
+   "guid": "8ead9f1f-2ef8-47bb-b545-a603c77aaac1",
+   "reference": "56212",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 24.0,
+   "municipality": {
+    "id": 27573,
+    "postcode": "69100",
+    "code": "69266",
+    "name": "Villeurbanne"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7988,
+   "guid": "ad436a84-a832-4ec1-9caf-4ae264dcc351",
+   "reference": "7988",
+   "livingRules": "",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-02",
+  "endDateOfPublication": "2026-11-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence EMILE BOUVIER située rue du professeur Emile BOUVIER 69100 VILLEURBANNE.\nLes commerces sont à proximité. \nLes transports en commun sont à 2 pas, ligne de bus 37 69 C17 C26 , Metro ligne A.\n\nLogement de 24 m2 meublé situé au 2ème étage sans ascenseur. \nLe loyer comprend les charges générales, une provision de chauffage, ainsi qu'une provision d'eau chaude et d'eau froide.\nLe mode de chauffage est collectif.\nLe logement est disponible de suite.\n\n Merci de bien situer l'environnement, avant de vous positionner sur cette offre.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 166.0,
+  "rentChargeAmount": 78.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": 23.99,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 28,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

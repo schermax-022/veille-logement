@@ -1,0 +1,272 @@
+{
+ "guid": "59fdb8a9-2e46-45eb-8bf6-6d84c1f7603a",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-28T10:23:42+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-28T10:23:42+01:00",
+ "liste": {
+  "id": 47194,
+  "guid": "59fdb8a9-2e46-45eb-8bf6-6d84c1f7603a",
+  "reference": "47194",
+  "residency": {
+   "id": 5718,
+   "guid": "75909e3a-6f06-4a38-b106-603ff614bed4",
+   "reference": "5718",
+   "name": "9 RUE JEAN JAURES",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 37539,
+   "guid": "534bae3d-3815-4d1f-9b97-db589b409304",
+   "reference": "37539",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 71.36,
+   "municipality": {
+    "id": 16011,
+    "postcode": "42300",
+    "code": "42187",
+    "name": "Roanne"
+   },
+   "description": "Appartement T3 avec salle d'eau situé au premier étage. Les charges mensuelles comprennent : les charges communes plus ascenseur plus provision eau."
+  },
+  "availableAt": "2026-10-06",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 549.99,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 345.0,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-28",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/53/534bae3d-3815-4d1f-9b97-db589b409304/medium/27b058aa-e1c9-4e9e-a92a-0d8462a41f4c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence de standing entièrement rénovée. Caves individuelles, une place de parking privée pour chaque appartement. Ascenseur. Digicode. Volets roulants électriques. Cour fermée. Grandes terrasses pour trois appartements. Chauffage individuel gaz pour quatre appartements. Climatisation réversible pour deux appartements. Frais d'agence. Les charges comprennent : les charges communes par mois, les charges d'ascenseur et la provision pour eau. \n\nAppartement T3 avec salle d'eau situé au premier étage. Les charges mensuelles comprennent : les charges communes plus ascenseur plus provision eau. Balcon pour ce logement et cave.\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 47194,
+  "guid": "59fdb8a9-2e46-45eb-8bf6-6d84c1f7603a",
+  "reference": "47194",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/53/534bae3d-3815-4d1f-9b97-db589b409304/large/403243aa-96bc-4a93-9bb1-87a63fbe8fcf",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/53/534bae3d-3815-4d1f-9b97-db589b409304/large/08ac047f-5bd2-45c2-ac50-60f99d97958f",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/53/534bae3d-3815-4d1f-9b97-db589b409304/large/7fbb3a7d-a9b3-49e1-9724-4c98bbe14d7b",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/53/534bae3d-3815-4d1f-9b97-db589b409304/large/875a8b21-a59e-4587-b38a-926e3987fcfa",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 37539,
+   "guid": "534bae3d-3815-4d1f-9b97-db589b409304",
+   "reference": "37539",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 71.36,
+   "municipality": {
+    "id": 16011,
+    "postcode": "42300",
+    "code": "42187",
+    "name": "Roanne"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 5718,
+   "guid": "75909e3a-6f06-4a38-b106-603ff614bed4",
+   "reference": "5718",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": "2021-07-05"
+  },
+  "availableAt": "2026-10-06",
+  "endDateOfPublication": "2026-11-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence de standing entièrement rénovée. Caves individuelles, une place de parking privée pour chaque appartement. Ascenseur. Digicode. Volets roulants électriques. Cour fermée. Grandes terrasses pour trois appartements. Chauffage individuel gaz pour quatre appartements. Climatisation réversible pour deux appartements. Frais d'agence. Les charges comprennent : les charges communes par mois, les charges d'ascenseur et la provision pour eau. \n\nAppartement T3 avec salle d'eau situé au premier étage. Les charges mensuelles comprennent : les charges communes plus ascenseur plus provision eau. Balcon pour ce logement et cave.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 484.99,
+  "rentChargeAmount": 65.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 484.99,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 345.0,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
