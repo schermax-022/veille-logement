@@ -1,0 +1,235 @@
+{
+ "guid": "d295d8b3-68f2-4227-99b6-f048bcc7d184",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-28T12:38:04+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-28T12:38:04+01:00",
+ "liste": {
+  "id": 53324,
+  "guid": "d295d8b3-68f2-4227-99b6-f048bcc7d184",
+  "reference": "53324",
+  "residency": {
+   "id": 8682,
+   "guid": "9aa00412-f274-4021-bb18-7b9d60c178d7",
+   "reference": "8682",
+   "name": "MENESVILLIERS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60949,
+   "guid": "d4e007aa-db2c-4672-b0ca-97e520aae172",
+   "reference": "60949",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 88.0,
+   "municipality": {
+    "id": 31996,
+    "postcode": "80290",
+    "code": "80630",
+    "name": "Poix-de-Picardie"
+   },
+   "description": "Sur Poix de Picardie à 30km au sud d'Amiens, proche des écoles et à 11 minutes à pied de la gare, nous vous proposons à la location un appartement  4 chambres situé rue Menesvilliers.\n\nDisponible mi-janvier 2027.\n\nLa date limite de dépôt de candidature n’est pas contractuelle."
+  },
+  "availableAt": "2027-01-21",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 849.12,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-28",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d4/d4e007aa-db2c-4672-b0ca-97e520aae172/medium/afcb08e6-fd86-4af6-aa0a-4f2cbc6a1f7a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Sur Poix de Picardie à 30km au sud d'Amiens, proche des écoles et à 11 minutes à pied de la gare, nous vous proposons à la location un appartement  4 chambres situé rue Menesvilliers.\n\nDisponible mi-janvier 2027.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53324,
+  "guid": "d295d8b3-68f2-4227-99b6-f048bcc7d184",
+  "reference": "53324",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d4/d4e007aa-db2c-4672-b0ca-97e520aae172/large/e480e91c-01e2-4b38-bd54-b27c4f09c79c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60949,
+   "guid": "d4e007aa-db2c-4672-b0ca-97e520aae172",
+   "reference": "60949",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 88.0,
+   "municipality": {
+    "id": 31996,
+    "postcode": "80290",
+    "code": "80630",
+    "name": "Poix-de-Picardie"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 4
+  },
+  "residency": {
+   "id": 8682,
+   "guid": "9aa00412-f274-4021-bb18-7b9d60c178d7",
+   "reference": "8682",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2027-01-21",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-21",
+  "endDateOfPublication": "2026-11-10",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Sur Poix de Picardie à 30km au sud d'Amiens, proche des écoles et à 11 minutes à pied de la gare, nous vous proposons à la location un appartement  4 chambres situé rue Menesvilliers.\n\nDisponible mi-janvier 2027.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 565.4,
+  "rentChargeAmount": 283.72,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 565.4,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
