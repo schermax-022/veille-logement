@@ -1,0 +1,253 @@
+{
+ "guid": "bed40c5a-ffbf-4365-a54e-17101ccdad14",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-29T19:46:12+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-29T19:46:12+01:00",
+ "liste": {
+  "id": 53477,
+  "guid": "bed40c5a-ffbf-4365-a54e-17101ccdad14",
+  "reference": "53477",
+  "residency": {
+   "id": 5339,
+   "guid": "f425e528-eb27-47f3-bc7d-9f7b10e3f6c4",
+   "reference": "5339",
+   "name": "VITRY JARDINS D'ORPHALES",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61104,
+   "guid": "7464cb2c-ba98-44a0-9eeb-2ac3f71cc6be",
+   "reference": "61104",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 26.55,
+   "municipality": {
+    "id": 35089,
+    "postcode": "94400",
+    "code": "94081",
+    "name": "Vitry-sur-Seine"
+   },
+   "description": "Exclusivité - appartement 1 pièce de 26.55 m² à Vitry-sur-Seine avec balcon.  Sans frais d'agence.  L'espace de vie offre un séjour et une cuisine indépendante. Une salle d'eau complète ce bien.  L'appartement est situé au 2e étage d'un immeuble de 4 étages avec ascenseur.  Un balcon aménage un espace supplémentaire. Chauffage collectif au gaz. Une place de parking est incluse."
+  },
+  "availableAt": "2026-10-29",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 763.76,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/74/7464cb2c-ba98-44a0-9eeb-2ac3f71cc6be/medium/a4fc1cf7-83bd-4c56-85c3-d9daed5f32d3",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité - appartement 1 pièce de 26.55 m² à Vitry-sur-Seine avec balcon.  Sans frais d'agence.  L'espace de vie offre un séjour et une cuisine indépendante. Une salle d'eau complète ce bien.  L'appartement est situé au 2e étage d'un immeuble de 4 étages avec ascenseur.  Un balcon aménage un espace supplémentaire. Chauffage collectif au gaz. Une place de parking est incluse.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53477,
+  "guid": "bed40c5a-ffbf-4365-a54e-17101ccdad14",
+  "reference": "53477",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/74/7464cb2c-ba98-44a0-9eeb-2ac3f71cc6be/large/6cd3bbb1-02eb-4b03-aece-378b102871b5",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/74/7464cb2c-ba98-44a0-9eeb-2ac3f71cc6be/large/a0798a5f-dee5-4b6c-9646-12d822f07b39",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61104,
+   "guid": "7464cb2c-ba98-44a0-9eeb-2ac3f71cc6be",
+   "reference": "61104",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 26.55,
+   "municipality": {
+    "id": 35089,
+    "postcode": "94400",
+    "code": "94081",
+    "name": "Vitry-sur-Seine"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 5339,
+   "guid": "f425e528-eb27-47f3-bc7d-9f7b10e3f6c4",
+   "reference": "5339",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-29",
+  "endDateOfPublication": "2027-10-28",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Exclusivité - appartement 1 pièce de 26.55 m² à Vitry-sur-Seine avec balcon.  Sans frais d'agence.  L'espace de vie offre un séjour et une cuisine indépendante. Une salle d'eau complète ce bien.  L'appartement est situé au 2e étage d'un immeuble de 4 étages avec ascenseur.  Un balcon aménage un espace supplémentaire. Chauffage collectif au gaz. Une place de parking est incluse.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 591.69,
+  "rentChargeAmount": 78.57,
+  "rentParkingAmount": 93.5,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 681.69,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
