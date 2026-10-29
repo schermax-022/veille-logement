@@ -1,17 +1,17 @@
 {
  "guid": "c81f7697-bf0f-4ce0-9aff-fefbe251936f",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-09T23:47:11+02:00",
- "absente_depuis": "2026-10-10T00:16:30+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-10T00:16:30+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T18:14:49+02:00",
+ "fiche_recuperee_le": "2026-10-29T09:32:52+01:00",
  "liste": {
   "id": 44168,
   "guid": "c81f7697-bf0f-4ce0-9aff-fefbe251936f",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-09-30",
+  "startDateOfPublication": "2026-10-29",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/00/008d92fb-d70c-4106-883a-2e085dcf7d4e/medium/060a56b0-cb56-4b65-848b-9dd5ea5b2218",
@@ -243,7 +243,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-10-01",
-  "endDateOfPublication": "2026-10-09",
+  "endDateOfPublication": "2026-11-12",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": true,
   "description": "Situé dans le quartier des Ardoines à Vitry, la Résidence Manouchian est à 10 minutes de Paris grâce au RER C et à moins de 15 minutes à pied du centre-ville et de tous les commerces. Elle accueille des personnes seules, des couples et des familles monoparentales avec enfants de moins de 4 ans.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n\n",
@@ -262,7 +262,39 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": null,
+    "intEndValue": 30,
+    "listValues": []
+   },
+   {
+    "id": 5,
+    "ordering": 4,
+    "code": "GEN",
+    "label": "Genre",
+    "type": "UNIQUE_CHOICE_LIST",
+    "group": "GENDER",
+    "boolValue": null,
+    "intStartValue": null,
+    "intEndValue": null,
+    "listValues": [
+     {
+      "id": 2,
+      "ordering": 2,
+      "code": "FEM",
+      "label": "Femme"
+     }
+    ]
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": true,

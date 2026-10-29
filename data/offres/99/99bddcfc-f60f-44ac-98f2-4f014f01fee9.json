@@ -1,0 +1,248 @@
+{
+ "guid": "99bddcfc-f60f-44ac-98f2-4f014f01fee9",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-29T09:32:52+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-29T09:32:52+01:00",
+ "liste": {
+  "id": 48284,
+  "guid": "99bddcfc-f60f-44ac-98f2-4f014f01fee9",
+  "reference": "48284",
+  "residency": {
+   "id": 3023,
+   "guid": "573246d8-4907-4d44-af15-18f9d67c553f",
+   "reference": "3023",
+   "name": "AUBERVILLIERS FAUR",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 56363,
+   "guid": "ec59a277-12a8-481b-9114-12b3ce82859d",
+   "reference": "56363",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 63.0,
+   "municipality": {
+    "id": 35001,
+    "postcode": "93300",
+    "code": "93001",
+    "name": "Aubervilliers"
+   },
+   "description": "TRANSPORTS :\nRER B : La Courneuve-Aubervilliers ? RER / Paris Gare du Nord: 10 mn\r\nServices de bus interurbains\r\nBoulevard périphérique et A86 à proximité\r\nA 18 km de l'aéroport de Roissy\r\nECOLES :\nMaternelles et primaires à proximité (dont 2 privées)\r\nCollèges\t5 dont 1 privé\r\nLycées\t4  dont 1 professionnel\r\nCOMMERCES :\nTous commerces de proximité\r\n8 supermarchés\r\n3 marchés\r\nSERVICES DIVERS :\n2 hôpitaux, cliniques, tous services médicaux\r\n3 stades, 1 piscine, 6 gymnases\r\nEspace culturel, conservatoire de musique\r\nBibliothèques"
+  },
+  "availableAt": "2026-08-17",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 823.31,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "startDateOfPublication": "2026-10-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ec59a277-12a8-481b-9114-12b3ce82859d/medium/c97764b1-e87a-4d26-8495-cce033c2d9e5",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Dans la commune d'AUBERVILLIERS, situé rue Félix Faure, venez découvrir un appartement de 3 pièces, avec ascenseur,  le mode de chauffage est Collectif urbain.\nVous bénéficierez de toutes les commodités à proximité (commerces, infrastructures éducatives, scolaires & sportives), des transports en commun, desservi par le RER B : La Courneuve Aubervilliers , RER / Paris Gare du Nord: 10 mn Services de bus interurbains.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 48284,
+  "guid": "99bddcfc-f60f-44ac-98f2-4f014f01fee9",
+  "reference": "48284",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ec59a277-12a8-481b-9114-12b3ce82859d/large/92f66b2b-9233-4b66-8163-5189a81a6678",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56363,
+   "guid": "ec59a277-12a8-481b-9114-12b3ce82859d",
+   "reference": "56363",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 63.0,
+   "municipality": {
+    "id": 35001,
+    "postcode": "93300",
+    "code": "93001",
+    "name": "Aubervilliers"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 9,
+    "ordering": 9,
+    "code": "6",
+    "label": "6"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3023,
+   "guid": "573246d8-4907-4d44-af15-18f9d67c553f",
+   "reference": "3023",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "1992-01-01",
+   "constructionYear": 1992,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-08-17",
+  "endDateOfPublication": "2026-11-17",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Dans la commune d'AUBERVILLIERS, situé rue Félix Faure, venez découvrir un appartement de 3 pièces, avec ascenseur,  le mode de chauffage est Collectif urbain.\nVous bénéficierez de toutes les commodités à proximité (commerces, infrastructures éducatives, scolaires & sportives), des transports en commun, desservi par le RER B : La Courneuve Aubervilliers , RER / Paris Gare du Nord: 10 mn Services de bus interurbains.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 646.78,
+  "rentChargeAmount": 176.53,
+  "rentParkingAmount": 29.58,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 646.78,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
