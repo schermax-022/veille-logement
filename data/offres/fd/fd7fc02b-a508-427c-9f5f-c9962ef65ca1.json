@@ -1,0 +1,279 @@
+{
+ "guid": "fd7fc02b-a508-427c-9f5f-c9962ef65ca1",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-29T12:03:58+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-29T12:03:58+01:00",
+ "liste": {
+  "id": 45761,
+  "guid": "fd7fc02b-a508-427c-9f5f-c9962ef65ca1",
+  "reference": "45761",
+  "residency": {
+   "id": 7774,
+   "guid": "d1441c36-e994-4568-bbfe-3d3fc704f397",
+   "reference": "7774",
+   "name": "LES PAVILLONS CHELLES",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 54353,
+   "guid": "1b668a3e-3d3e-4630-9ce2-16687b159e21",
+   "reference": "54353",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 24.9,
+   "municipality": {
+    "id": 30478,
+    "postcode": "77500",
+    "code": "77108",
+    "name": "Chelles"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-08-03",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 700.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1b/1b668a3e-3d3e-4630-9ce2-16687b159e21/medium/81891307-1ccf-418b-94a9-c71c9038c6f8",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence étudiante est située à proximité des commerces : supérettes, boulangerie, Centre commercial.\nTransports bus, RER E, Transilien\nEcoles : ENFIP, IFI, Université Gustave Eiffel, ENSG, IFOA, Ecole des Ponts Paris Tech\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 45761,
+  "guid": "fd7fc02b-a508-427c-9f5f-c9962ef65ca1",
+  "reference": "45761",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1b/1b668a3e-3d3e-4630-9ce2-16687b159e21/large/a8caa113-86e6-4d6a-a5e7-cbbabf5fb9d7",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1b/1b668a3e-3d3e-4630-9ce2-16687b159e21/large/5e85fae8-2172-44d1-8c71-24fbb0ced7d0",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1b/1b668a3e-3d3e-4630-9ce2-16687b159e21/large/477d797c-017c-495c-8036-8f2489786f8d",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 54353,
+   "guid": "1b668a3e-3d3e-4630-9ce2-16687b159e21",
+   "reference": "54353",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 24.9,
+   "municipality": {
+    "id": 30478,
+    "postcode": "77500",
+    "code": "77108",
+    "name": "Chelles"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7774,
+   "guid": "d1441c36-e994-4568-bbfe-3d3fc704f397",
+   "reference": "7774",
+   "livingRules": "Pas d'animal au sein de la résidence",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2025-06-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-08-03",
+  "endDateOfPublication": "2026-11-27",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Cette résidence étudiante est située à proximité des commerces : supérettes, boulangerie, Centre commercial.\nTransports bus, RER E, Transilien\nEcoles : ENFIP, IFI, Université Gustave Eiffel, ENSG, IFOA, Ecole des Ponts Paris Tech\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 700.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   },
+   {
+    "id": 1,
+    "ordering": 2,
+    "code": "ETU",
+    "label": "Etudiant",
+    "type": "BOOLEAN",
+    "group": "PROFILE",
+    "boolValue": true,
+    "intStartValue": null,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
