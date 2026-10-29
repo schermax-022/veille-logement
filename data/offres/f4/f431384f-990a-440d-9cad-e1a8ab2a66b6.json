@@ -1,0 +1,238 @@
+{
+ "guid": "f431384f-990a-440d-9cad-e1a8ab2a66b6",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-29T14:32:22+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-29T14:32:22+01:00",
+ "liste": {
+  "id": 53448,
+  "guid": "f431384f-990a-440d-9cad-e1a8ab2a66b6",
+  "reference": "53448",
+  "residency": {
+   "id": 1532,
+   "guid": "f212eaf7-2d44-4ce3-ab0c-d797ac624529",
+   "reference": "1532",
+   "name": "RESIDENCE SOCIALE CHAPELLE",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 29107,
+   "guid": "51d9b2ed-bf8d-4cd0-b41e-c7ef372f5bb6",
+   "reference": "29107",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.7,
+   "municipality": {
+    "id": 29657,
+    "postcode": "75018",
+    "code": "75118",
+    "name": "Paris 18e Arrondissement"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-13",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 592.38,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/51/51d9b2ed-bf8d-4cd0-b41e-c7ef372f5bb6/medium/44d636d0-dfca-4a3c-b211-7072d6e944d1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Métro 12 - Cette résidence récente et située proche de tout commerce avec boulangerie, restaurants, supérette, ... Salle de sports et complexes sportifs à proximité.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53448,
+  "guid": "f431384f-990a-440d-9cad-e1a8ab2a66b6",
+  "reference": "53448",
+  "offerNumber": 3,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/51/51d9b2ed-bf8d-4cd0-b41e-c7ef372f5bb6/large/38d3496a-e34a-4f87-a98e-7bd6cf183733",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 29107,
+   "guid": "51d9b2ed-bf8d-4cd0-b41e-c7ef372f5bb6",
+   "reference": "29107",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.7,
+   "municipality": {
+    "id": 29657,
+    "postcode": "75018",
+    "code": "75118",
+    "name": "Paris 18e Arrondissement"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 9,
+    "ordering": 9,
+    "code": "6",
+    "label": "6"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1532,
+   "guid": "f212eaf7-2d44-4ce3-ab0c-d797ac624529",
+   "reference": "1532",
+   "livingRules": "Pas d'animal au sein de la résidence",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-13",
+  "endDateOfPublication": "2026-11-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Métro 12 - Cette résidence récente et située proche de tout commerce avec boulangerie, restaurants, supérette, ... Salle de sports et complexes sportifs à proximité.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 592.38,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
