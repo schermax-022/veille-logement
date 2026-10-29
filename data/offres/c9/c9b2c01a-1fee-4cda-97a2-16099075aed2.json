@@ -1,0 +1,246 @@
+{
+ "guid": "c9b2c01a-1fee-4cda-97a2-16099075aed2",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-29T15:28:28+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-29T15:28:28+01:00",
+ "liste": {
+  "id": 53281,
+  "guid": "c9b2c01a-1fee-4cda-97a2-16099075aed2",
+  "reference": "53281",
+  "residency": {
+   "id": 8674,
+   "guid": "164dd0b0-3de1-4067-9bfb-ebaa3101ea00",
+   "reference": "8674",
+   "name": "1.3889",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 60898,
+   "guid": "ea309cc9-898e-4d01-946d-37d479e9ec17",
+   "reference": "60898",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 41.35,
+   "municipality": {
+    "id": 23355,
+    "postcode": "60300",
+    "code": "60612",
+    "name": "Senlis"
+   },
+   "description": ""
+  },
+  "availableAt": "2027-02-03",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 584.52,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/ea309cc9-898e-4d01-946d-37d479e9ec17/medium/792cb555-01d7-4282-8957-fbcfc6bf82b9",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "En cours de construction sur la commune Senlis, nous vous proposons à la location un appartement situé avenue de Creil.\n\n Commune desservie par les transports en commun, proche de toutes commodités, à proximité de l’A1, à 12km de Creil et à 31 km de l’aéroport Roissy Charles de Gaulle.\n\nCe logement comprend 1 chambre ainsi qu’une cuisine équipée (four, plaque, hotte) une terrasse et un balcon.\n\nPossibilité de louer une place de parking pour 22€ par mois.\n\n La date limite de dépôt de candidature n’est pas contractuelle.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53281,
+  "guid": "c9b2c01a-1fee-4cda-97a2-16099075aed2",
+  "reference": "53281",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/ea309cc9-898e-4d01-946d-37d479e9ec17/large/f0052da2-d4ee-4cf9-8f7b-f59f21359030",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/ea309cc9-898e-4d01-946d-37d479e9ec17/large/dedfb665-faa4-47b6-a091-2f1f49c75edb",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 60898,
+   "guid": "ea309cc9-898e-4d01-946d-37d479e9ec17",
+   "reference": "60898",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 41.35,
+   "municipality": {
+    "id": 23355,
+    "postcode": "60300",
+    "code": "60612",
+    "name": "Senlis"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8674,
+   "guid": "164dd0b0-3de1-4067-9bfb-ebaa3101ea00",
+   "reference": "8674",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-02-03",
+  "endDateOfPublication": "2026-12-21",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "En cours de construction sur la commune Senlis, nous vous proposons à la location un appartement situé avenue de Creil.\n\n Commune desservie par les transports en commun, proche de toutes commodités, à proximité de l’A1, à 12km de Creil et à 31 km de l’aéroport Roissy Charles de Gaulle.\n\nCe logement comprend 1 chambre ainsi qu’une cuisine équipée (four, plaque, hotte) une terrasse et un balcon.\n\nPossibilité de louer une place de parking pour 22€ par mois.\n\n La date limite de dépôt de candidature n’est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 519.94,
+  "rentChargeAmount": 64.58,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 519.94,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
