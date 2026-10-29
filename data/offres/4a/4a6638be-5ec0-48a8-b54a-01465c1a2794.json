@@ -1,17 +1,17 @@
 {
  "guid": "4a6638be-5ec0-48a8-b54a-01465c1a2794",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-28T23:29:55+01:00",
- "absente_depuis": "2026-10-29T00:09:09+01:00",
- "absences": 2,
- "retrait_detecte": "2026-10-29T00:09:09+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T20:20:21+02:00",
+ "fiche_recuperee_le": "2026-10-29T16:21:49+01:00",
  "liste": {
   "id": 4894,
   "guid": "4a6638be-5ec0-48a8-b54a-01465c1a2794",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2025-10-29",
+  "startDateOfPublication": "2026-10-29",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/7f/7ffb05f7-9d61-46e4-b37d-1040d8ad03b7/medium/1582236f-5850-4aec-85cc-3cf62c240ccd",
@@ -265,7 +265,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2024-12-18",
-  "endDateOfPublication": "2026-10-28",
+  "endDateOfPublication": "2027-10-28",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
   "description": "La résidence propose 20 logements meublés équipés d’une kitchenette, d’une salle d’eau, d’un mobilier sur mesure très fonctionnel. L’immeuble est situé à Treillières à proximité des équipements sportifs, des commerces, des services administratifs de la commune et des équipements culturels. Elle s’anime au sein des espaces de convivialité spécifiquement dédiés à la rencontre et à l’échange au rythme des soirées régulièrement proposées.\n\nLogement T1 meublé de 18.29m²  comprenant lit, table, chaises, coin cuisine avec 2 plaques de cuisson, évier petit réfrigérateur et des rangements.\nSalle d'eau privative avec WC et lavabo.  \n\nPossibilité place de parking pour 25 € par mois.",
@@ -284,20 +284,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 16,
-    "intEndValue": 30,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": true,
   "isNewLodging": false,

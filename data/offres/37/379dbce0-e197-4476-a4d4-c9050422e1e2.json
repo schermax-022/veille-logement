@@ -1,0 +1,289 @@
+{
+ "guid": "379dbce0-e197-4476-a4d4-c9050422e1e2",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-29T16:21:49+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-29T16:21:49+01:00",
+ "liste": {
+  "id": 53462,
+  "guid": "379dbce0-e197-4476-a4d4-c9050422e1e2",
+  "reference": "53462",
+  "residency": {
+   "id": 1489,
+   "guid": "ab16944c-0c96-4c78-86a0-2c72a08f32d7",
+   "reference": "1489",
+   "name": "RESIDENCE JACQUES-HENRI LARTIGUE",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 41256,
+   "guid": "0e2364d4-a07d-4c6f-8abe-2754224d1adb",
+   "reference": "41256",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 34976,
+    "postcode": "92400",
+    "code": "92026",
+    "name": "Courbevoie"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-12-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 665.38,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0e2364d4-a07d-4c6f-8abe-2754224d1adb/medium/cded596f-6f7b-473f-9100-6f701d703f84",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Au cœur du quartier animé de la Défense, cette résidence vous offre un cadre de vie idéal. \n\nDans la ville de Courbevoie, vous pourrez profiter des nombreux commerces, cafés et restaurants à proximité. \n\nPour vos déplacements, plusieurs moyens de transport (Métro ligne 1 et RER A) se trouvent à moins de 10 minutes à pied !\n\n\nLa date limite de dépôt de candidature n'est pas contractuelle.\n\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53462,
+  "guid": "379dbce0-e197-4476-a4d4-c9050422e1e2",
+  "reference": "53462",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0e2364d4-a07d-4c6f-8abe-2754224d1adb/large/4cc84d05-bb23-4350-8223-02f3387dad06",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0e2364d4-a07d-4c6f-8abe-2754224d1adb/large/2150a1f6-92ab-44a6-bb96-55db646e20b0",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0e/0e2364d4-a07d-4c6f-8abe-2754224d1adb/large/3acd1911-16d8-44e5-9c5d-526e6aa46feb",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 41256,
+   "guid": "0e2364d4-a07d-4c6f-8abe-2754224d1adb",
+   "reference": "41256",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 22.0,
+   "municipality": {
+    "id": 34976,
+    "postcode": "92400",
+    "code": "92026",
+    "name": "Courbevoie"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 11,
+    "ordering": 11,
+    "code": "8",
+    "label": "8"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1489,
+   "guid": "ab16944c-0c96-4c78-86a0-2c72a08f32d7",
+   "reference": "1489",
+   "livingRules": "Règlement intérieur au sein de cette résidence :\n- Pas d'animal\n- Pas d'hébergement",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-01",
+  "endDateOfPublication": "2026-11-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Au cœur du quartier animé de la Défense, cette résidence vous offre un cadre de vie idéal. \n\nDans la ville de Courbevoie, vous pourrez profiter des nombreux commerces, cafés et restaurants à proximité. \n\nPour vos déplacements, plusieurs moyens de transport (Métro ligne 1 et RER A) se trouvent à moins de 10 minutes à pied !\n\n\nLa date limite de dépôt de candidature n'est pas contractuelle.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 665.38,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   },
+   {
+    "id": 1,
+    "ordering": 2,
+    "code": "ETU",
+    "label": "Etudiant",
+    "type": "BOOLEAN",
+    "group": "PROFILE",
+    "boolValue": true,
+    "intStartValue": null,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

@@ -1,0 +1,240 @@
+{
+ "guid": "8fd0e7bb-8c7c-46e1-a1e5-e5ee88107f08",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-29T16:21:49+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-29T16:21:49+01:00",
+ "liste": {
+  "id": 53369,
+  "guid": "8fd0e7bb-8c7c-46e1-a1e5-e5ee88107f08",
+  "reference": "53369",
+  "residency": {
+   "id": 8687,
+   "guid": "b4177489-f93f-4de2-a529-58930d72f828",
+   "reference": "8687",
+   "name": "LES CAPUCINES",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61005,
+   "guid": "0d330058-c1c8-41da-b5d1-40acda2ce13b",
+   "reference": "61005",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 11,
+    "ordering": 10,
+    "code": "T6",
+    "label": "T6",
+    "commercialLabel": "T6"
+   },
+   "area": 119.98,
+   "municipality": {
+    "id": 32766,
+    "postcode": "83340",
+    "code": "83073",
+    "name": "Le Luc"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-28",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1190.53,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0d330058-c1c8-41da-b5d1-40acda2ce13b/medium/26fec116-1f7c-46d3-9c20-a3cda49a2894",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé avenue Vincent Van Gogh au Luc, ce logement bénéficie d’un environnement résidentiel agréable, à proximité des commerces, des établissements scolaires, des services de santé et des commodités du quotidien.\n\nLe Luc offre un cadre de vie provençal au cœur du Var, avec un centre-ville animé, des commerces de proximité et différents équipements sportifs et culturels. Sa situation permet également de profiter des paysages naturels et des villages environnants.\n\nLes transports en commun facilitent les déplacements au sein de la commune et vers les villes voisines, selon les dessertes disponibles.\n\nLa proximité de l’autoroute A8 et des principaux axes routiers permet de rejoindre notamment Brignoles, Draguignan, Le Cannet-des-Maures et les autres communes du département.\n\nCe logement offre un cadre de vie pratique, alliant proximité des services, environnement provençal et accessibilité.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53369,
+  "guid": "8fd0e7bb-8c7c-46e1-a1e5-e5ee88107f08",
+  "reference": "53369",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0d330058-c1c8-41da-b5d1-40acda2ce13b/large/f58f9fc1-ed69-498a-b3f7-f7b804977629",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61005,
+   "guid": "0d330058-c1c8-41da-b5d1-40acda2ce13b",
+   "reference": "61005",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 11,
+    "ordering": 10,
+    "code": "T6",
+    "label": "T6",
+    "commercialLabel": "T6"
+   },
+   "area": 119.98,
+   "municipality": {
+    "id": 32766,
+    "postcode": "83340",
+    "code": "83073",
+    "name": "Le Luc"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": {
+    "id": 1,
+    "ordering": 1,
+    "code": "D",
+    "label": "Duplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8687,
+   "guid": "b4177489-f93f-4de2-a529-58930d72f828",
+   "reference": "8687",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-28",
+  "endDateOfPublication": "2026-11-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé avenue Vincent Van Gogh au Luc, ce logement bénéficie d’un environnement résidentiel agréable, à proximité des commerces, des établissements scolaires, des services de santé et des commodités du quotidien.\n\nLe Luc offre un cadre de vie provençal au cœur du Var, avec un centre-ville animé, des commerces de proximité et différents équipements sportifs et culturels. Sa situation permet également de profiter des paysages naturels et des villages environnants.\n\nLes transports en commun facilitent les déplacements au sein de la commune et vers les villes voisines, selon les dessertes disponibles.\n\nLa proximité de l’autoroute A8 et des principaux axes routiers permet de rejoindre notamment Brignoles, Draguignan, Le Cannet-des-Maures et les autres communes du département.\n\nCe logement offre un cadre de vie pratique, alliant proximité des services, environnement provençal et accessibilité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1048.57,
+  "rentChargeAmount": 141.96,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

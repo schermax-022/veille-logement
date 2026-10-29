@@ -1,0 +1,262 @@
+{
+ "guid": "1cd66898-95b5-471a-9be2-2a5eb3090f0e",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-29T16:21:49+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-29T16:21:49+01:00",
+ "liste": {
+  "id": 53459,
+  "guid": "1cd66898-95b5-471a-9be2-2a5eb3090f0e",
+  "reference": "53459",
+  "residency": {
+   "id": 1576,
+   "guid": "cad8189a-07b5-4242-a119-c3f5dee85dfd",
+   "reference": "1576",
+   "name": "THONON LES CLARINES",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 51111,
+   "guid": "23834b6e-90b4-4742-a3af-5e0f432e2255",
+   "reference": "51111",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.2,
+   "municipality": {
+    "id": 29604,
+    "postcode": "74200",
+    "code": "74281",
+    "name": "Thonon-les-Bains"
+   },
+   "description": null
+  },
+  "availableAt": "2026-11-18",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 543.88,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/23/23834b6e-90b4-4742-a3af-5e0f432e2255/medium/06d915d9-3b2e-405a-967d-3f7fd2c4172c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "L’établissement Adoma Résidence Sociale Les Clarines, situé à Thonon-les-Bains (74200), est une résidence sociale qui propose plus de 156 logements meublés, tous publics, à proximité du centre ville des services et commerces.\n\nT1' de 21,2 m² –à Thonon-les-Bains !  \n\nDécouvrez ce T1', dans la résidence Les Clarines à Thonon, au 8 Chemin des Cités, à seulement 10 minutes à pied du lac Léman ! \n\n À l’intérieur :\n Une kitchenette fonctionnelle\n Une salle d’eau individuelle\n Un espace de vie agréable\n\nSous réserve d'éventuels travaux de remise en état, le logement sera disponible à compter du 18/11/2026.  ",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53459,
+  "guid": "1cd66898-95b5-471a-9be2-2a5eb3090f0e",
+  "reference": "53459",
+  "offerNumber": 3,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/23/23834b6e-90b4-4742-a3af-5e0f432e2255/large/f33192e3-93e9-4761-98d8-ce80005cc384",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 51111,
+   "guid": "23834b6e-90b4-4742-a3af-5e0f432e2255",
+   "reference": "51111",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.2,
+   "municipality": {
+    "id": 29604,
+    "postcode": "74200",
+    "code": "74281",
+    "name": "Thonon-les-Bains"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 1576,
+   "guid": "cad8189a-07b5-4242-a119-c3f5dee85dfd",
+   "reference": "1576",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2022,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-18",
+  "endDateOfPublication": "2026-11-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "L’établissement Adoma Résidence Sociale Les Clarines, situé à Thonon-les-Bains (74200), est une résidence sociale qui propose plus de 156 logements meublés, tous publics, à proximité du centre ville des services et commerces.\n\nT1' de 21,2 m² –à Thonon-les-Bains !  \n\nDécouvrez ce T1', dans la résidence Les Clarines à Thonon, au 8 Chemin des Cités, à seulement 10 minutes à pied du lac Léman ! \n\n À l’intérieur :\n Une kitchenette fonctionnelle\n Une salle d’eau individuelle\n Un espace de vie agréable\n\nSous réserve d'éventuels travaux de remise en état, le logement sera disponible à compter du 18/11/2026.  ",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 543.88,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 543.88,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
