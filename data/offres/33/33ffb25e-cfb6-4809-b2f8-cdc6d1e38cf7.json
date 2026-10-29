@@ -1,0 +1,310 @@
+{
+ "guid": "33ffb25e-cfb6-4809-b2f8-cdc6d1e38cf7",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-29T17:19:55+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-29T17:19:55+01:00",
+ "liste": {
+  "id": 53446,
+  "guid": "33ffb25e-cfb6-4809-b2f8-cdc6d1e38cf7",
+  "reference": "53446",
+  "residency": {
+   "id": 2280,
+   "guid": "c3dd01d1-e675-40c5-8eb9-17c7e6f81945",
+   "reference": "2280",
+   "name": "PARMENTIER",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61078,
+   "guid": "6c35dc34-28e7-48a7-b3b1-167252d8032a",
+   "reference": "61078",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 31.0,
+   "municipality": {
+    "id": 27613,
+    "postcode": "69007",
+    "code": "69387",
+    "name": "Lyon 7e Arrondissement"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-29",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 630.17,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-29",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6c/6c35dc34-28e7-48a7-b3b1-167252d8032a/medium/69160ca9-be5d-4364-b50c-782e8cff88a8",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence PARMENTIER située rue d'Anvers 69007 LYON.\nIdéalement située secteur Jean Macé.\nCommerces, supermarché, Mairie et établissements scolaires à proximité.\nTransports en commun: Métro B, Ligne 64 et C7 station: \"Jean Macé\".\n\nAppartement meublé et équipé, situé au 3ème étage avec ascenseur.\nLe logement est disponible au 29/10/26.\nLa redevance mensuelle inclus les charges générales, une provision d’eau chaude et d’eau froide, ainsi qu' une provision de chauffage et l’électricité.\nLe mode de chauffage est collectif.\n\n Merci de situer l'environnement avant de postuler à cette offre.\n Animaux non admis Garantie VISALE à souscrire (si éligible).\n Dépôt de garantie à verser dès la signature de bail.\n\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53446,
+  "guid": "33ffb25e-cfb6-4809-b2f8-cdc6d1e38cf7",
+  "reference": "53446",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6c/6c35dc34-28e7-48a7-b3b1-167252d8032a/large/386f97ff-64ad-4cf8-a084-60a9a1aab165",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61078,
+   "guid": "6c35dc34-28e7-48a7-b3b1-167252d8032a",
+   "reference": "61078",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 31.0,
+   "municipality": {
+    "id": 27613,
+    "postcode": "69007",
+    "code": "69387",
+    "name": "Lyon 7e Arrondissement"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 2280,
+   "guid": "c3dd01d1-e675-40c5-8eb9-17c7e6f81945",
+   "reference": "2280",
+   "livingRules": "Animaux non admis\nGarantie VISALE à souscrire\nDépôt de garantie à verser dès la signature de bail",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    },
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    },
+    {
+     "id": 19,
+     "ordering": 20,
+     "code": "SOC",
+     "label": "Référent social",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-29",
+  "endDateOfPublication": "2026-11-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence PARMENTIER située rue d'Anvers 69007 LYON.\nIdéalement située secteur Jean Macé.\nCommerces, supermarché, Mairie et établissements scolaires à proximité.\nTransports en commun: Métro B, Ligne 64 et C7 station: \"Jean Macé\".\n\nAppartement meublé et équipé, situé au 3ème étage avec ascenseur.\nLe logement est disponible au 29/10/26.\nLa redevance mensuelle inclus les charges générales, une provision d’eau chaude et d’eau froide, ainsi qu' une provision de chauffage et l’électricité.\nLe mode de chauffage est collectif.\n\n Merci de situer l'environnement avant de postuler à cette offre.\n Animaux non admis Garantie VISALE à souscrire (si éligible).\n Dépôt de garantie à verser dès la signature de bail.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 630.17,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 630.17,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   },
+   {
+    "id": 4,
+    "ordering": 3,
+    "code": "FMO",
+    "label": "Famille monoparentale",
+    "type": "BOOLEAN",
+    "group": "PROFILE",
+    "boolValue": true,
+    "intStartValue": null,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
