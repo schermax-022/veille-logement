@@ -1,0 +1,255 @@
+{
+ "guid": "8678eb49-1c59-47ca-92b4-e653ee266404",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-30T20:03:22+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-30T20:03:22+01:00",
+ "liste": {
+  "id": 53559,
+  "guid": "8678eb49-1c59-47ca-92b4-e653ee266404",
+  "reference": "53559",
+  "residency": {
+   "id": 3530,
+   "guid": "58f64141-a9e5-4e48-bcd1-dd8cd612c392",
+   "reference": "3530",
+   "name": "L'HAY LES ROSES 01",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61199,
+   "guid": "f9ebcd01-b19e-48e0-9497-d7323ac21d52",
+   "reference": "61199",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 54.0,
+   "municipality": {
+    "id": 35058,
+    "postcode": "94240",
+    "code": "94038",
+    "name": "L'Haÿ-les-Roses"
+   },
+   "description": "Exclusivité - appartement 3 pièces de 54 m² à L Hay les Roses avec balcon.  Sans frais d'agence.  L'appartement se compose d'un séjour, d'une cuisine, de deux chambres, d'une salle de bains et d'un WC séparé.  La présence d'un gardien et d'un ascenseur apporte un plus à ce bien situé au 5e étage.  Balcon. Chauffage collectif. Une place de parking.  Une station de métro (ligne 14) est accessible à proximité. Commerces autour du bien. Des établissements scolaires sont présents à proximité."
+  },
+  "availableAt": "2026-10-30",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1054.48,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-30",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f9/f9ebcd01-b19e-48e0-9497-d7323ac21d52/medium/f09a2d29-883e-4760-a776-97ba2c2b61a5",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité - appartement 3 pièces de 54 m² à L Hay les Roses avec balcon.  Sans frais d'agence.  L'appartement se compose d'un séjour, d'une cuisine, de deux chambres, d'une salle de bains et d'un WC séparé.  La présence d'un gardien et d'un ascenseur apporte un plus à ce bien situé au 5e étage.  Balcon. Chauffage collectif. Une place de parking.  Une station de métro (ligne 14) est accessible à proximité. Commerces autour du bien. Des établissements scolaires sont présents à proximité.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53559,
+  "guid": "8678eb49-1c59-47ca-92b4-e653ee266404",
+  "reference": "53559",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f9/f9ebcd01-b19e-48e0-9497-d7323ac21d52/large/7b322a90-d425-4629-998d-580fd6ab9af9",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61199,
+   "guid": "f9ebcd01-b19e-48e0-9497-d7323ac21d52",
+   "reference": "61199",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 54.0,
+   "municipality": {
+    "id": 35058,
+    "postcode": "94240",
+    "code": "94038",
+    "name": "L'Haÿ-les-Roses"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 3530,
+   "guid": "58f64141-a9e5-4e48-bcd1-dd8cd612c392",
+   "reference": "3530",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-30",
+  "endDateOfPublication": "2027-10-29",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 3 pièces de 54 m² à L Hay les Roses avec balcon.  Sans frais d'agence.  L'appartement se compose d'un séjour, d'une cuisine, de deux chambres, d'une salle de bains et d'un WC séparé.  La présence d'un gardien et d'un ascenseur apporte un plus à ce bien situé au 5e étage.  Balcon. Chauffage collectif. Une place de parking.  Une station de métro (ligne 14) est accessible à proximité. Commerces autour du bien. Des établissements scolaires sont présents à proximité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 838.84,
+  "rentChargeAmount": 160.64,
+  "rentParkingAmount": 55.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 893.84,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
