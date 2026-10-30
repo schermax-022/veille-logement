@@ -1,0 +1,225 @@
+{
+ "guid": "6d022f71-8b6c-4707-94e8-e08d42ec5522",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-30T15:25:49+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-30T15:25:49+01:00",
+ "liste": {
+  "id": 53539,
+  "guid": "6d022f71-8b6c-4707-94e8-e08d42ec5522",
+  "reference": "53539",
+  "residency": {
+   "id": 1361,
+   "guid": "feb36425-9497-40a1-b064-789a4ad84cfe",
+   "reference": "1361",
+   "name": "MANOUKIAN",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 45892,
+   "guid": "b28b62eb-bbb0-4093-8291-2f647e0d72c8",
+   "reference": "45892",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 13.35,
+   "municipality": {
+    "id": 35004,
+    "postcode": "93150",
+    "code": "93007",
+    "name": "Le Blanc-Mesnil"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-10-30",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 426.99,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-30",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b2/b28b62eb-bbb0-4093-8291-2f647e0d72c8/medium/63966980-79ba-4edc-b566-9ac8d4cf9882",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "AEROPORT DU BOURGET - Cette résidence est proche de commerces pour faciliter votre quotidien : boulangerie, restaurants, ...\nParcs à proximité\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53539,
+  "guid": "6d022f71-8b6c-4707-94e8-e08d42ec5522",
+  "reference": "53539",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b2/b28b62eb-bbb0-4093-8291-2f647e0d72c8/large/c9803b97-b5b6-46cd-92c1-6a2e2c24cf9d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 45892,
+   "guid": "b28b62eb-bbb0-4093-8291-2f647e0d72c8",
+   "reference": "45892",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 13.35,
+   "municipality": {
+    "id": 35004,
+    "postcode": "93150",
+    "code": "93007",
+    "name": "Le Blanc-Mesnil"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1361,
+   "guid": "feb36425-9497-40a1-b064-789a4ad84cfe",
+   "reference": "1361",
+   "livingRules": "Pas d'animal au sein de la résidence",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-30",
+  "endDateOfPublication": "2026-11-17",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "AEROPORT DU BOURGET - Cette résidence est proche de commerces pour faciliter votre quotidien : boulangerie, restaurants, ...\nParcs à proximité\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 406.99,
+  "rentChargeAmount": 20.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

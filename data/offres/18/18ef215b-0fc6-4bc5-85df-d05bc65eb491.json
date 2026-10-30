@@ -1,17 +1,17 @@
 {
  "guid": "18ef215b-0fc6-4bc5-85df-d05bc65eb491",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-22T10:16:34+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-28T15:19:35+01:00",
- "absente_depuis": "2026-10-28T16:12:53+01:00",
- "absences": 2,
- "retrait_detecte": "2026-10-28T16:12:53+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-22T10:16:34+02:00",
+ "fiche_recuperee_le": "2026-10-30T15:25:49+01:00",
  "liste": {
   "id": 52833,
   "guid": "18ef215b-0fc6-4bc5-85df-d05bc65eb491",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-22",
+  "startDateOfPublication": "2026-10-30",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/e6/e6ab4a69-b004-4705-ad17-62466234f775/medium/7908ce3b-578f-4dbd-9028-46d7dd79a3df",
@@ -258,7 +258,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-10-29",
-  "endDateOfPublication": "2026-11-03",
+  "endDateOfPublication": "2026-11-06",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "Résidence proche des transports en commun - Au pied du Métro ligne 13 (Mairie de St Ouen)\nLogement meublé, toutes charges comprises (eau, électricité, chauffage)\nPas de frais de dossier, éligible APL\nAssurance multirisque habitation à 2,55€ par mois\nAccompagnement individuel et actions collectives\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n",
@@ -277,20 +277,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": 29,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,

@@ -1,0 +1,235 @@
+{
+ "guid": "4357fb6b-f931-499c-a318-4f7c18e15497",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-30T15:25:49+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-30T15:25:49+01:00",
+ "liste": {
+  "id": 53537,
+  "guid": "4357fb6b-f931-499c-a318-4f7c18e15497",
+  "reference": "53537",
+  "residency": {
+   "id": 7264,
+   "guid": "4bca3d26-df50-46af-92fb-aa16214078ac",
+   "reference": "7264",
+   "name": "LESIOUR",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61169,
+   "guid": "ad6f3253-4a0c-4e81-a8d7-26782e49cb4c",
+   "reference": "61169",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 82.0,
+   "municipality": {
+    "id": 23166,
+    "postcode": "60160",
+    "code": "60414",
+    "name": "Montataire"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-13",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 757.46,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-30",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad6f3253-4a0c-4e81-a8d7-26782e49cb4c/medium/32528533-830d-4887-82f4-ee1a5e0866d4",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A Montataire, nous vous proposons à la location un appartement situé rue Lesiour.\n\nCommune desservie par les transports en commun et la gare, à deux pas des écoles, collèges et lycées.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53537,
+  "guid": "4357fb6b-f931-499c-a318-4f7c18e15497",
+  "reference": "53537",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad6f3253-4a0c-4e81-a8d7-26782e49cb4c/large/acbc5054-ac1f-4273-a10f-07f8d5d9d2a2",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61169,
+   "guid": "ad6f3253-4a0c-4e81-a8d7-26782e49cb4c",
+   "reference": "61169",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 82.0,
+   "municipality": {
+    "id": 23166,
+    "postcode": "60160",
+    "code": "60414",
+    "name": "Montataire"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 7264,
+   "guid": "4bca3d26-df50-46af-92fb-aa16214078ac",
+   "reference": "7264",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-08-29",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-13",
+  "endDateOfPublication": "2026-11-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "A Montataire, nous vous proposons à la location un appartement situé rue Lesiour.\n\nCommune desservie par les transports en commun et la gare, à deux pas des écoles, collèges et lycées.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 667.57,
+  "rentChargeAmount": 89.89,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 667.57,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
