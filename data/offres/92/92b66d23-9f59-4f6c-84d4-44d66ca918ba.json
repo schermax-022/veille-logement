@@ -1,17 +1,17 @@
 {
  "guid": "92b66d23-9f59-4f6c-84d4-44d66ca918ba",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-10T23:45:09+02:00",
- "absente_depuis": "2026-10-11T00:15:07+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-11T00:15:07+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T19:24:23+02:00",
+ "fiche_recuperee_le": "2026-10-30T09:34:30+01:00",
  "liste": {
   "id": 50931,
   "guid": "92b66d23-9f59-4f6c-84d4-44d66ca918ba",
@@ -55,7 +55,7 @@
     "code": "33063",
     "name": "Bordeaux"
    },
-   "description": ""
+   "description": "Nous vous proposons ce studio meublé et équipé (meuble kitchenette avec évier, cadre de lit, sommier et matelas pour un lit simple, bureau, chaise…) avec salle de bain privative.\n"
   },
   "availableAt": "2026-10-01",
   "isLodgingFirstTimeAvailable": false,
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-01",
+  "startDateOfPublication": "2026-10-30",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/06/0690198e-5cdc-4bf4-b810-10bddbe7c312/medium/f854eeea-b2f6-439f-8312-21d893cb6671",
@@ -78,7 +78,7 @@
     "dimension": "MEDIUM"
    }
   ],
-  "description": "Résidence sociale jeunes actifs EDOUARD VAILLANT à Bordeaux.\n\nCours Edouard Vaillant, Bordeaux (33300).\n\nLa résidence est localisée à 7 mn à pied de la ligne de bus 7 (arrêt Cité Chantecrit) qui vous mènera du Centre Commercial du Lac jusqu'à la place Ravezies où se situe l' arrêt de tramway ligne C qui pourra vous conduire à la Place des Quinconces en passant par la gare Saint Jean et jusqu'à Villenave d'Ornon.\n\nLa Place du Marché des Chartrons à Bordeaux avec ses brasseries et commerces de proximité (boulangerie, médecin…) est accessible en 20 mn à pied tout comme la zone commerciale de Bordeaux Lac et ses nombreux commerces dont un hypermarché (30 mn en transports en commun).\n\n\n",
+  "description": "La résidence située cours Edouard Vaillant est à proximité des transports en commun (ligne C, Bus 7), médecins, pharmacies, boulangeries, supermarchés. \n\n\n\n",
   "isRecent": false,
   "isNewLodging": false,
   "candidacy": null,
@@ -148,9 +148,9 @@
     "code": "2",
     "label": "2"
    },
-   "kitchenType": null,
-   "toiletType": null,
-   "bathroomType": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
    "heatingMode": {
     "id": 12,
     "ordering": 12,
@@ -158,9 +158,9 @@
     "label": "Non concerné",
     "commercialLabel": ""
    },
-   "hotWaterType": null,
-   "coldWaterType": null,
-   "electricityType": null,
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": "INDIVIDUAL",
    "greenhouseGasCertificate": {
     "id": 2,
     "ordering": 2,
@@ -239,10 +239,10 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-10-01",
-  "endDateOfPublication": "2026-10-10",
+  "endDateOfPublication": "2026-11-15",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
-  "description": "Résidence sociale jeunes actifs EDOUARD VAILLANT à Bordeaux.\n\nCours Edouard Vaillant, Bordeaux (33300).\n\nLa résidence est localisée à 7 mn à pied de la ligne de bus 7 (arrêt Cité Chantecrit) qui vous mènera du Centre Commercial du Lac jusqu'à la place Ravezies où se situe l' arrêt de tramway ligne C qui pourra vous conduire à la Place des Quinconces en passant par la gare Saint Jean et jusqu'à Villenave d'Ornon.\n\nLa Place du Marché des Chartrons à Bordeaux avec ses brasseries et commerces de proximité (boulangerie, médecin…) est accessible en 20 mn à pied tout comme la zone commerciale de Bordeaux Lac et ses nombreux commerces dont un hypermarché (30 mn en transports en commun).\n\n\n",
+  "description": "La résidence située cours Edouard Vaillant est à proximité des transports en commun (ligne C, Bus 7), médecins, pharmacies, boulangeries, supermarchés. \n\n\n\n",
   "paymentType": {
    "id": 2,
    "ordering": 1,
