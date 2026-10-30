@@ -1,0 +1,267 @@
+{
+ "guid": "4badaaf1-5d9c-44ab-8959-ffefccbed30a",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-30T12:00:41+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-30T12:00:41+01:00",
+ "liste": {
+  "id": 53406,
+  "guid": "4badaaf1-5d9c-44ab-8959-ffefccbed30a",
+  "reference": "53406",
+  "residency": {
+   "id": 8696,
+   "guid": "92f2e548-6571-43bc-87b4-670764b57973",
+   "reference": "8696",
+   "name": "RUE DES VIOLETTES - RUE RAPHAEL - TOULOUSE 3100",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61049,
+   "guid": "59ebbc35-ecba-44ff-8e49-f9768ea97a4a",
+   "reference": "61049",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 79.5,
+   "municipality": {
+    "id": 11960,
+    "postcode": "31200",
+    "code": "31555",
+    "name": "Toulouse"
+   },
+   "description": "Logement comprenant une entrée, une cuisine ouverte sur le séjour, un WC, un balcon. A l'étage :  une salle de bain avec WC, trois chambres dont une avec un balcon."
+  },
+  "availableAt": "2027-03-24",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 967.3,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-30",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59ebbc35-ecba-44ff-8e49-f9768ea97a4a/medium/7a1554c3-bf9e-48d4-bee8-f3f335f95df0",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence composée de villas et d’appartements, est située rue des Violettes à Toulouse (31200), à proximité des commerces et services du quotidien. Les transports en commun sont accessibles avec le réseau de bus (dont la ligne de bus 41) et le métro, ligne B.\n\nLa résidence dispose de locaux annexes (local vélos, ménage, poubelles et fibre optique), mais ne comporte pas d’ascenseur. Des stationnements aériens ainsi que des places en sous-sol sont disponibles en supplément (à convenir avec le bailleur).\n\nLes logements sont équipés d’un chauffage individuel électrique ainsi que d’un mode de cuisson électrique.\n\nBien comprenant une entrée, une cuisine ouverte sur le séjour, un WC, un balcon. A l'étage :  une salle de bain avec WC, trois chambres dont une avec un balcon.\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53406,
+  "guid": "4badaaf1-5d9c-44ab-8959-ffefccbed30a",
+  "reference": "53406",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59ebbc35-ecba-44ff-8e49-f9768ea97a4a/large/26145ca9-548f-4bc0-97c8-d7e7a2ae1056",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59ebbc35-ecba-44ff-8e49-f9768ea97a4a/large/d8c8af16-215c-4f86-91cb-f01d69ee5f01",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59ebbc35-ecba-44ff-8e49-f9768ea97a4a/large/5f37e547-8ae6-4abf-b1e1-9123527b168f",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61049,
+   "guid": "59ebbc35-ecba-44ff-8e49-f9768ea97a4a",
+   "reference": "61049",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 79.5,
+   "municipality": {
+    "id": 11960,
+    "postcode": "31200",
+    "code": "31555",
+    "name": "Toulouse"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 8,
+    "ordering": 8,
+    "code": "IPE",
+    "label": "Individuel pompe à chaleur",
+    "commercialLabel": "Pompe à chaleur électrique individuelle non comprise dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": {
+    "id": 1,
+    "ordering": 1,
+    "code": "D",
+    "label": "Duplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 8696,
+   "guid": "92f2e548-6571-43bc-87b4-670764b57973",
+   "reference": "8696",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2027-03-24",
+   "constructionYear": 2027,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-03-24",
+  "endDateOfPublication": "2026-12-29",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence composée de villas et d’appartements, est située rue des Violettes à Toulouse (31200), à proximité des commerces et services du quotidien. Les transports en commun sont accessibles avec le réseau de bus (dont la ligne de bus 41) et le métro, ligne B.\n\nLa résidence dispose de locaux annexes (local vélos, ménage, poubelles et fibre optique), mais ne comporte pas d’ascenseur. Des stationnements aériens ainsi que des places en sous-sol sont disponibles en supplément (à convenir avec le bailleur).\n\nLes logements sont équipés d’un chauffage individuel électrique ainsi que d’un mode de cuisson électrique.\n\nBien comprenant une entrée, une cuisine ouverte sur le séjour, un WC, un balcon. A l'étage :  une salle de bain avec WC, trois chambres dont une avec un balcon.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 848.75,
+  "rentChargeAmount": 118.55,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 848.75,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
