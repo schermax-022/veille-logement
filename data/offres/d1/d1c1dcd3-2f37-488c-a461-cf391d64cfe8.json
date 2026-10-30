@@ -1,0 +1,263 @@
+{
+ "guid": "d1c1dcd3-2f37-488c-a461-cf391d64cfe8",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-10-30T10:26:30+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-10-30T10:26:30+01:00",
+ "liste": {
+  "id": 45701,
+  "guid": "d1c1dcd3-2f37-488c-a461-cf391d64cfe8",
+  "reference": "45701",
+  "residency": {
+   "id": 7770,
+   "guid": "d4f7bca1-8ea2-472a-8548-8dabf8df374e",
+   "reference": "7770",
+   "name": "SAINT-CHAMOND - JEAN MACE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 54291,
+   "guid": "fd8c1536-a6b8-447f-b70e-395056bdcdb0",
+   "reference": "54291",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 59.49,
+   "municipality": {
+    "id": 16030,
+    "postcode": "42400",
+    "code": "42207",
+    "name": "Saint-Chamond"
+   },
+   "description": "Un appartement de type 2 comprenant : une entrée avec placard, un séjour cuisine équipée, une chambre, une salle de bains, un wc séparé, un balcon."
+  },
+  "availableAt": "2026-10-07",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 674.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-10-30",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fd/fd8c1536-a6b8-447f-b70e-395056bdcdb0/medium/32192f54-ce04-43d6-a59a-4affccc65590",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Programme neuf livré fin 2026. Toutes les commodités sont proches avec des écoles, collèges et lycées à moins de cinq minutes ainsi que les services et commerces. Très proche de la gare de Saint-Chamond. Stationnements privatifs possibles. Performance environnementale RE 2020. Garantie visale possible, www.visale.fr \n\nJournée portes ouvertes le 30 septembre de 10h à 18h, venez nombreux rencontrer nos équipes et découvrir la résidence. Logements témoins.",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 45701,
+  "guid": "d1c1dcd3-2f37-488c-a461-cf391d64cfe8",
+  "reference": "45701",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fd/fd8c1536-a6b8-447f-b70e-395056bdcdb0/large/95e8f045-4f56-41b4-afb8-6dbbbf55404e",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fd/fd8c1536-a6b8-447f-b70e-395056bdcdb0/large/d8cff7fd-f461-4905-a1bc-652a0b38772e",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 54291,
+   "guid": "fd8c1536-a6b8-447f-b70e-395056bdcdb0",
+   "reference": "54291",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 59.49,
+   "municipality": {
+    "id": 16030,
+    "postcode": "42400",
+    "code": "42207",
+    "name": "Saint-Chamond"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 7770,
+   "guid": "d4f7bca1-8ea2-472a-8548-8dabf8df374e",
+   "reference": "7770",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-07",
+  "endDateOfPublication": "2026-11-28",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Programme neuf livré fin 2026. Toutes les commodités sont proches avec des écoles, collèges et lycées à moins de cinq minutes ainsi que les services et commerces. Très proche de la gare de Saint-Chamond. Stationnements privatifs possibles. Performance environnementale RE 2020. Garantie visale possible, www.visale.fr \n\nJournée portes ouvertes le 30 septembre de 10h à 18h, venez nombreux rencontrer nos équipes et découvrir la résidence. Logements témoins.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 582.0,
+  "rentChargeAmount": 92.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 582.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
