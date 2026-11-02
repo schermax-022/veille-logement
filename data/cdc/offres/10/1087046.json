@@ -1,17 +1,17 @@
 {
  "guid": "1087046",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T23:55:34+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-30T14:32:15+01:00",
- "absente_depuis": "2026-10-30T16:22:57+01:00",
- "absences": 2,
- "retrait_detecte": "2026-10-30T16:22:57+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-08T02:29:16+02:00",
+ "fiche_recuperee_le": "2026-11-02T19:36:07+01:00",
  "liste": {
   "guid": "1087046",
   "id_lot": "1087046",
@@ -57,10 +57,17 @@
   ],
   "gamme": "Logement intermédiaire",
   "les_plus": [
-   "Espaces verts"
+   "Exposition Sud / Est",
+   "Visiophonie",
+   "Gaz"
   ],
   "caracteristiques": {
    "Logement": [
+    "Exposition Sud / Est",
+    "Visiophonie",
+    "Gaz",
+    "Terrasse",
+    "TEOM inclus",
     "Espaces verts"
    ],
    "Résidence et parties communes": [
@@ -78,11 +85,18 @@
    "classe": "C",
    "valeur": 13.0
   },
+  "description": "SANS HONORAIRES.\nVenez découvrir cet appartement T3 d?une surface totale de 65m². Un séjour cuisine de 34 m² donnant sur une terrasse de 24m². Deux chambres de 12 et 10m ², une salle d'eau de 4.5m² avec douche et meuble vasque et des WC séparés complètent ce bien ainsi qu?une place de parking. Les charges comprennent l?ensemble de l?entretien des parties communes, la Taxe OM et l?entretien chaudière. Chauffage gaz et production d'eau chaude par chaudière gaz également.\nRéférence à rappeler lors de nos échanges : A364 - 350645\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
   "adresse": "182 RUE VICTOR HUGO",
   "ville": "ROUBAIX",
   "code_postal": "59100",
   "telephone": "0972153300",
-  "photos": [],
+  "photos": [
+   "https://referentiel-photos.cdc-habitat.fr/photos/E28F1BEDF09DF628C1258E9C00542B5D.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/7AE7360F58B6F5D9C1258E9C00542B4A.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/58E3C9A7F67FA586C1258E9C00542B20.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/97E95760FD23FABFC1258E9C00542B0B.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/0154433119BB0A61C1258E9C00542B32.jpg"
+  ],
   "latitude": 50.68551,
   "longitude": 3.19882
  },
