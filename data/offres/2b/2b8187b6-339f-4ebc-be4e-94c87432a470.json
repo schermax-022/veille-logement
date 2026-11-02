@@ -1,0 +1,254 @@
+{
+ "guid": "2b8187b6-339f-4ebc-be4e-94c87432a470",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-02T12:37:52+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-02T12:37:52+01:00",
+ "liste": {
+  "id": 53643,
+  "guid": "2b8187b6-339f-4ebc-be4e-94c87432a470",
+  "reference": "53643",
+  "residency": {
+   "id": 5080,
+   "guid": "7d438948-ac92-4ef4-b364-379219fa9e93",
+   "reference": "5080",
+   "name": "BEZONS 02",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61339,
+   "guid": "25b3baa4-2d47-424f-a05a-62dbcb71dbfb",
+   "reference": "61339",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 51.0,
+   "municipality": {
+    "id": 35115,
+    "postcode": "95870",
+    "code": "95063",
+    "name": "Bezons"
+   },
+   "description": "Exclusivité - appartement 3 pièces de 51 m² à Bezons  Sans frais d'agence.  Le logement comprend un salon, une cuisine et deux chambres.  Le bâtiment bénéficie de la présence d'un gardien. L'appartement se situe au 1er étage.  Chauffage individuel au gaz. Gardien présent.  Transports en commun, commerces et établissements scolaires variés à proximité. Gare RER ligne A accessible depuis plusieurs stations dont Houilles-Carrières-Sur-Seine et Sartrouville."
+  },
+  "availableAt": "2026-11-02",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 669.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-02",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/25/25b3baa4-2d47-424f-a05a-62dbcb71dbfb/medium/21180c6e-75e2-4cfc-ae5f-7e7b26efd928",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité - appartement 3 pièces de 51 m² à Bezons  Sans frais d'agence.  Le logement comprend un salon, une cuisine et deux chambres.  Le bâtiment bénéficie de la présence d'un gardien. L'appartement se situe au 1er étage.  Chauffage individuel au gaz. Gardien présent.  Transports en commun, commerces et établissements scolaires variés à proximité. Gare RER ligne A accessible depuis plusieurs stations dont Houilles-Carrières-Sur-Seine et Sartrouville.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53643,
+  "guid": "2b8187b6-339f-4ebc-be4e-94c87432a470",
+  "reference": "53643",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/25/25b3baa4-2d47-424f-a05a-62dbcb71dbfb/large/3734ae75-d9a9-405e-b30d-a0e4a328d214",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/25/25b3baa4-2d47-424f-a05a-62dbcb71dbfb/large/c8340570-0aa7-47cd-815f-17676208dbfe",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61339,
+   "guid": "25b3baa4-2d47-424f-a05a-62dbcb71dbfb",
+   "reference": "61339",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 51.0,
+   "municipality": {
+    "id": 35115,
+    "postcode": "95870",
+    "code": "95063",
+    "name": "Bezons"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 5080,
+   "guid": "7d438948-ac92-4ef4-b364-379219fa9e93",
+   "reference": "5080",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-02",
+  "endDateOfPublication": "2027-11-01",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 3 pièces de 51 m² à Bezons  Sans frais d'agence.  Le logement comprend un salon, une cuisine et deux chambres.  Le bâtiment bénéficie de la présence d'un gardien. L'appartement se situe au 1er étage.  Chauffage individuel au gaz. Gardien présent.  Transports en commun, commerces et établissements scolaires variés à proximité. Gare RER ligne A accessible depuis plusieurs stations dont Houilles-Carrières-Sur-Seine et Sartrouville.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 569.53,
+  "rentChargeAmount": 99.97,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 569.53,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

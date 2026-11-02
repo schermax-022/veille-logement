@@ -1,0 +1,248 @@
+{
+ "guid": "105f54c5-e5c4-4180-af25-9ee336252806",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-02T12:37:52+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-02T12:37:52+01:00",
+ "liste": {
+  "id": 53639,
+  "guid": "105f54c5-e5c4-4180-af25-9ee336252806",
+  "reference": "53639",
+  "residency": {
+   "id": 3535,
+   "guid": "9125c6f9-52da-4ea8-8d6a-22d54362bd25",
+   "reference": "3535",
+   "name": "AUBERVILLIERS 06",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61335,
+   "guid": "671d58b0-99fe-424c-a9a7-3fd7352942ee",
+   "reference": "61335",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 70.0,
+   "municipality": {
+    "id": 35001,
+    "postcode": "93300",
+    "code": "93001",
+    "name": "Aubervilliers"
+   },
+   "description": "Exclusivité - appartement 4 pièces de 70.0 m² à Aubervilliers  Sans frais d'agence.  Ce bien bénéficie d'un salon et d'une cuisine séparée, ainsi que d'une salle de bains.  L'immeuble propose la présence d'un gardien et un ascenseur facilite l'accès. Le logement se situe au 8e étage.  Chauffage collectif. Gardien présent.  Transports à proximité : ligne B du RER station La Courneuve-Aubervilliers, ligne 12 du métro station Mairie d'Aubervilliers. Commerces dans le secteur."
+  },
+  "availableAt": "2026-11-02",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 984.94,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-02",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/671d58b0-99fe-424c-a9a7-3fd7352942ee/medium/50dc2551-da14-4b54-bd99-29f2aa171198",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité - appartement 4 pièces de 70.0 m² à Aubervilliers  Sans frais d'agence.  Ce bien bénéficie d'un salon et d'une cuisine séparée, ainsi que d'une salle de bains.  L'immeuble propose la présence d'un gardien et un ascenseur facilite l'accès. Le logement se situe au 8e étage.  Chauffage collectif. Gardien présent.  Transports à proximité : ligne B du RER station La Courneuve-Aubervilliers, ligne 12 du métro station Mairie d'Aubervilliers. Commerces dans le secteur.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53639,
+  "guid": "105f54c5-e5c4-4180-af25-9ee336252806",
+  "reference": "53639",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/67/671d58b0-99fe-424c-a9a7-3fd7352942ee/large/b181f6f2-bc2c-4f5f-b8da-c2fa0b2cd731",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61335,
+   "guid": "671d58b0-99fe-424c-a9a7-3fd7352942ee",
+   "reference": "61335",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 70.0,
+   "municipality": {
+    "id": 35001,
+    "postcode": "93300",
+    "code": "93001",
+    "name": "Aubervilliers"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 11,
+    "ordering": 11,
+    "code": "8",
+    "label": "8"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "energyPerformanceCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 3535,
+   "guid": "9125c6f9-52da-4ea8-8d6a-22d54362bd25",
+   "reference": "3535",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-02",
+  "endDateOfPublication": "2027-11-01",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 4 pièces de 70.0 m² à Aubervilliers  Sans frais d'agence.  Ce bien bénéficie d'un salon et d'une cuisine séparée, ainsi que d'une salle de bains.  L'immeuble propose la présence d'un gardien et un ascenseur facilite l'accès. Le logement se situe au 8e étage.  Chauffage collectif. Gardien présent.  Transports à proximité : ligne B du RER station La Courneuve-Aubervilliers, ligne 12 du métro station Mairie d'Aubervilliers. Commerces dans le secteur.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 763.0,
+  "rentChargeAmount": 221.94,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 763.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
