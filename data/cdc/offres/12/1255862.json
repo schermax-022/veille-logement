@@ -1,17 +1,17 @@
 {
  "guid": "1255862",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T23:55:34+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-23T15:09:05+02:00",
- "absente_depuis": "2026-10-23T15:47:11+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-23T15:47:11+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T23:55:34+02:00",
+ "fiche_recuperee_le": "2026-11-02T13:36:04+01:00",
  "liste": {
   "guid": "1255862",
   "id_lot": "1255862",
@@ -58,11 +58,17 @@
   ],
   "gamme": "Logement intermédiaire",
   "les_plus": [
-   "Ascenseur"
+   "Ascenseur",
+   "Eau froide comprise",
+   "Parking"
   ],
   "caracteristiques": {
    "Logement": [
-    "Ascenseur"
+    "Ascenseur",
+    "Eau froide comprise",
+    "Parking",
+    "Visiophonie",
+    "Electrique"
    ],
    "Résidence et parties communes": [
     "Année de construction : 2026"
@@ -77,13 +83,13 @@
   "code_postal": "92700",
   "telephone": "0972153143",
   "photos": [
-   "https://referentiel-photos.cdc-habitat.fr/photos/D7DDEC0286F04858C1258D3000447E30.jpg",
    "https://referentiel-photos.cdc-habitat.fr/photos/A9077B7168CC9068C1258E3A00590916.jpeg",
    "https://referentiel-photos.cdc-habitat.fr/photos/BF6DB360840C0F21C1258E3A0058677E.jpeg",
    "https://referentiel-photos.cdc-habitat.fr/photos/C0EF0D9FA7AAEF66C1258E3A00586A4E.jpeg",
    "https://referentiel-photos.cdc-habitat.fr/photos/2A5430B74E1CDF6AC1258E3A005815B5.jpeg",
    "https://referentiel-photos.cdc-habitat.fr/photos/C5D59CFB8A783615C1258E3A005817EA.jpeg",
-   "https://referentiel-photos.cdc-habitat.fr/photos/33A55DE6C84FA972C1258E3A00582EC8.jpeg"
+   "https://referentiel-photos.cdc-habitat.fr/photos/33A55DE6C84FA972C1258E3A00582EC8.jpeg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/D7DDEC0286F04858C1258D3000447E30.jpg"
   ],
   "latitude": 48.91586,
   "longitude": 2.2333

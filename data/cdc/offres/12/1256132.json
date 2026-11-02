@@ -1,23 +1,23 @@
 {
  "guid": "1256132",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T23:55:34+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-23T15:09:05+02:00",
- "absente_depuis": "2026-10-23T15:47:11+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-23T15:47:11+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T23:55:34+02:00",
+ "fiche_recuperee_le": "2026-11-02T13:36:04+01:00",
  "liste": {
   "guid": "1256132",
   "id_lot": "1256132",
   "id_article": "1280180",
   "categorie": "intermediaire",
-  "loyer_cc": 1670.49,
+  "loyer_cc": 1599.49,
   "latitude": 48.91586,
   "longitude": 2.2333,
   "url": "https://www.cdc-habitat.fr/annonces-immobilieres/location/ile-de-france/hauts-de-seine/colombes/1256132",
@@ -33,14 +33,14 @@
   "titre": "4 pièces - 2ème étage - 77m²",
   "reference": "A949-379433",
   "adresse_complete": "419 RUE GABRIEL PERI - COLOMBES (92700)",
-  "loyer_cc_affiche": 1670.49,
+  "loyer_cc_affiche": 1599.49,
   "avantages": [
    "Sans honoraires"
   ],
   "lignes_prix": [
    {
     "libelle": "Loyer charges comprises",
-    "valeur": "1 670,49 € / mois"
+    "valeur": "1 599,49 € / mois"
    },
    {
     "libelle": "Charges générales",
@@ -48,7 +48,7 @@
    },
    {
     "libelle": "Dépôt de garantie",
-    "valeur": "1 535,26 €"
+    "valeur": "1 464,26 €"
    },
    {
     "libelle": "Facture d'énergie estimée",
@@ -56,8 +56,19 @@
    }
   ],
   "gamme": "Logement intermédiaire",
-  "les_plus": [],
+  "les_plus": [
+   "Ascenseur",
+   "Eau froide comprise",
+   "Parking"
+  ],
   "caracteristiques": {
+   "Logement": [
+    "Ascenseur",
+    "Eau froide comprise",
+    "Parking",
+    "Visiophonie",
+    "Electrique"
+   ],
    "Résidence et parties communes": [
     "Année de construction : 2026"
    ],
@@ -71,13 +82,13 @@
   "code_postal": "92700",
   "telephone": "0972153143",
   "photos": [
-   "https://referentiel-photos.cdc-habitat.fr/photos/15D13281B1E731BDC1258D30004441E1.jpg",
    "https://referentiel-photos.cdc-habitat.fr/photos/33A55DE6C84FA972C1258E3A00582EC8.jpeg",
    "https://referentiel-photos.cdc-habitat.fr/photos/5DB16B4BD4ED7AD8C1258E3A00581662.jpeg",
    "https://referentiel-photos.cdc-habitat.fr/photos/E5F11AB280E95AF6C1258E3A0058193C.jpeg",
    "https://referentiel-photos.cdc-habitat.fr/photos/98D34131104E496DC1258E3A005813FC.jpeg",
    "https://referentiel-photos.cdc-habitat.fr/photos/C5D59CFB8A783615C1258E3A005817EA.jpeg",
-   "https://referentiel-photos.cdc-habitat.fr/photos/2A5430B74E1CDF6AC1258E3A005815B5.jpeg"
+   "https://referentiel-photos.cdc-habitat.fr/photos/2A5430B74E1CDF6AC1258E3A005815B5.jpeg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/15D13281B1E731BDC1258D30004441E1.jpg"
   ],
   "latitude": 48.91586,
   "longitude": 2.2333
