@@ -11,7 +11,7 @@
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-02T14:45:49+01:00",
+ "fiche_recuperee_le": "2026-11-02T17:40:30+01:00",
  "liste": {
   "id": 53591,
   "guid": "dc23a035-e5bd-48f5-96de-16c57c632c8d",
@@ -70,7 +70,7 @@
    "code": "MSL",
    "label": "Mensuel"
   },
-  "totalRentAmountBaseBound": 1235.85,
+  "totalRentAmountBaseBound": 1248.77,
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
@@ -163,11 +163,11 @@
    "toiletType": null,
    "bathroomType": null,
    "heatingMode": {
-    "id": 10,
-    "ordering": 10,
-    "code": "IAU",
-    "label": "Individuel autre",
-    "commercialLabel": "Chauffage individuel non compris dans les charges"
+    "id": 8,
+    "ordering": 8,
+    "code": "IPE",
+    "label": "Individuel pompe à chaleur",
+    "commercialLabel": "Pompe à chaleur électrique individuelle non comprise dans les charges"
    },
    "hotWaterType": null,
    "coldWaterType": null,
@@ -185,9 +185,16 @@
     "label": "Non communiqué"
    },
    "annualEnergyExpenditure": 0.0,
-   "elevatorPresence": "UNKNOWN",
-   "parkingCapacity": null,
-   "parkingTypes": [],
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
    "isKitchenEquipped": null,
    "apartmentType": null,
    "lodgingAnnexTypes": [],
@@ -199,7 +206,7 @@
      "label": "Balcon/Terrasse"
     }
    ],
-   "isParkingMandatory": null,
+   "isParkingMandatory": true,
    "numberOfRoomsHousing": 3
   },
   "residency": {
@@ -240,7 +247,7 @@
   },
   "housingFeeBaseBound": 1124.36,
   "rentChargeAmount": 111.49,
-  "rentParkingAmount": null,
+  "rentParkingAmount": 12.92,
   "compulsoryBenefitAmount": null,
   "securityDepositAmount": 1124.36,
   "areAgencyFeesRequested": false,
