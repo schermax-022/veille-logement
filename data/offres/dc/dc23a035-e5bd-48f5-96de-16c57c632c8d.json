@@ -1,0 +1,260 @@
+{
+ "guid": "dc23a035-e5bd-48f5-96de-16c57c632c8d",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-02T14:45:49+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-02T14:45:49+01:00",
+ "liste": {
+  "id": 53591,
+  "guid": "dc23a035-e5bd-48f5-96de-16c57c632c8d",
+  "reference": "53591",
+  "residency": {
+   "id": 8743,
+   "guid": "1cb9b853-39ef-4228-9abc-1e642b12a67a",
+   "reference": "8743",
+   "name": "QUERCIA",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61302,
+   "guid": "59be02ac-5e66-44a7-8586-732637102311",
+   "reference": "61302",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 81.38,
+   "municipality": {
+    "id": 11525,
+    "postcode": "31780",
+    "code": "31116",
+    "name": "Castelginest"
+   },
+   "description": ""
+  },
+  "availableAt": "2027-01-10",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1235.85,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-02",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59be02ac-5e66-44a7-8586-732637102311/medium/1f3ea899-d16b-404e-88a9-b794627a6c2b",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence située à l’angle des Rues Saint-Supery et Castelviel à Castelginest, dans un environnement résidentiel. À proximité des commerces, des établissements scolaires et des transports en commun (dont les lignes de bus n°60 et n°113).\n\nAccès au périphérique et à l'autoroute A62 (direction Montauban).\n\nPlan non contractuel fourni à titre informatif. L'agencement, les surfaces et la disposition des pièces peuvent-être modifiés.\n\nLes montants des loyers et des charges sont donnés à titre prévisionnel et indicatif. \n\nLivraison prévue le 12 janvier 2027 (sous réserve de l’avancée des travaux). \n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53591,
+  "guid": "dc23a035-e5bd-48f5-96de-16c57c632c8d",
+  "reference": "53591",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59be02ac-5e66-44a7-8586-732637102311/large/bf434961-de37-48e2-9617-8c6cb7460218",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59be02ac-5e66-44a7-8586-732637102311/large/f9b98400-62a1-4914-a12c-9d5d2fa73d9d",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59be02ac-5e66-44a7-8586-732637102311/large/e49bbe6b-02a0-4b1d-8a28-b932bd76d846",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59be02ac-5e66-44a7-8586-732637102311/large/6fb88841-0b25-44fa-b07f-08b375f52c6e",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61302,
+   "guid": "59be02ac-5e66-44a7-8586-732637102311",
+   "reference": "61302",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 81.38,
+   "municipality": {
+    "id": 11525,
+    "postcode": "31780",
+    "code": "31116",
+    "name": "Castelginest"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 8743,
+   "guid": "1cb9b853-39ef-4228-9abc-1e642b12a67a",
+   "reference": "8743",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2027-01-11",
+   "constructionYear": 2027,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-10",
+  "endDateOfPublication": "2026-12-10",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence située à l’angle des Rues Saint-Supery et Castelviel à Castelginest, dans un environnement résidentiel. À proximité des commerces, des établissements scolaires et des transports en commun (dont les lignes de bus n°60 et n°113).\n\nAccès au périphérique et à l'autoroute A62 (direction Montauban).\n\nPlan non contractuel fourni à titre informatif. L'agencement, les surfaces et la disposition des pièces peuvent-être modifiés.\n\nLes montants des loyers et des charges sont donnés à titre prévisionnel et indicatif. \n\nLivraison prévue le 12 janvier 2027 (sous réserve de l’avancée des travaux). \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1124.36,
+  "rentChargeAmount": 111.49,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1124.36,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
