@@ -1,17 +1,17 @@
 {
  "guid": "f8ce9148-2d03-4257-b93d-8efee4c402c8",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-19T17:06:04+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-30T16:19:19+01:00",
- "absente_depuis": "2026-10-30T17:07:25+01:00",
- "absences": 2,
- "retrait_detecte": "2026-10-30T17:07:25+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-19T17:06:04+02:00",
+ "fiche_recuperee_le": "2026-11-03T14:25:13+01:00",
  "liste": {
   "id": 52250,
   "guid": "f8ce9148-2d03-4257-b93d-8efee4c402c8",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-19",
+  "startDateOfPublication": "2026-11-03",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c65794b5-6ea4-4090-87bb-6452c83a23ba/medium/40a3d2bc-7b20-4da5-b680-0d55a6fdc289",
@@ -102,9 +102,15 @@
   "demandGuid": null,
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c65794b5-6ea4-4090-87bb-6452c83a23ba/large/dc853e07-bd89-490e-8a0c-45b7a7d6b0d3",
-    "urlContentType": "image/jpeg",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c65794b5-6ea4-4090-87bb-6452c83a23ba/large/1a9c2418-18b5-4875-a6b1-3a1a1b5c5eea",
+    "urlContentType": "image/png",
     "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c6/c65794b5-6ea4-4090-87bb-6452c83a23ba/large/9f71d331-4ffb-40c8-b7c1-4ea62007b381",
+    "urlContentType": "image/png",
+    "ordering": 1,
     "dimension": "LARGE"
    }
   ],
@@ -180,7 +186,7 @@
    "lodgingAnnexTypes": [],
    "outdoorTypes": [],
    "isParkingMandatory": null,
-   "numberOfRoomsHousing": 4
+   "numberOfRoomsHousing": null
   },
   "residency": {
    "id": 8457,
