@@ -1,0 +1,235 @@
+{
+ "guid": "85bd0686-150a-4a66-b104-b9d2e2bddb1c",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-03T08:49:16+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-03T08:49:16+01:00",
+ "liste": {
+  "id": 53689,
+  "guid": "85bd0686-150a-4a66-b104-b9d2e2bddb1c",
+  "reference": "53689",
+  "residency": {
+   "id": 4105,
+   "guid": "a6b2dc41-5c65-4786-b065-71722d29bf2d",
+   "reference": "4105",
+   "name": "COSTEBELLE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 32269,
+   "guid": "9d672a48-f1ca-42f6-8c75-3cfa476e42cc",
+   "reference": "32269",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 40.0,
+   "municipality": {
+    "id": 4463,
+    "postcode": "13008",
+    "code": "13208",
+    "name": "Marseille 8e Arrondissement"
+   },
+   "description": "Nous vous proposons un appartement de Type 1 complété par une place de stationnement."
+  },
+  "availableAt": "2026-12-04",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 801.16,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-03",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9d/9d672a48-f1ca-42f6-8c75-3cfa476e42cc/medium/db831b0f-bd61-4ec8-a992-e9dae84b0e12",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé boulevard Périer à Marseille, dans le 8ᵉ arrondissement, ce logement bénéficie d’un environnement urbain recherché, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nLe secteur offre un cadre de vie agréable, avec des commerces de proximité, des restaurants, des équipements sportifs et différents services. La situation dans le sud de Marseille permet également de profiter des espaces verts et des quartiers animés de la ville.\n\nLes transports en commun facilitent les déplacements vers le centre-ville, le Vieux-Port, la gare Saint-Charles et les autres quartiers marseillais, selon les dessertes disponibles.\n\nLes principaux axes routiers permettent de rejoindre les différents secteurs de Marseille ainsi que les autoroutes desservant l’agglomération et les communes environnantes.\n\nCe logement offre un cadre de vie pratique, alliant proximité des services, dynamisme urbain et accessibilité au cœur de Marseille.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53689,
+  "guid": "85bd0686-150a-4a66-b104-b9d2e2bddb1c",
+  "reference": "53689",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9d/9d672a48-f1ca-42f6-8c75-3cfa476e42cc/large/f2008d95-bcdd-40d6-aa3a-edd4200bc61a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 32269,
+   "guid": "9d672a48-f1ca-42f6-8c75-3cfa476e42cc",
+   "reference": "32269",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 40.0,
+   "municipality": {
+    "id": 4463,
+    "postcode": "13008",
+    "code": "13208",
+    "name": "Marseille 8e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 4105,
+   "guid": "a6b2dc41-5c65-4786-b065-71722d29bf2d",
+   "reference": "4105",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-04",
+  "endDateOfPublication": "2026-11-17",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé boulevard Périer à Marseille, dans le 8ᵉ arrondissement, ce logement bénéficie d’un environnement urbain recherché, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nLe secteur offre un cadre de vie agréable, avec des commerces de proximité, des restaurants, des équipements sportifs et différents services. La situation dans le sud de Marseille permet également de profiter des espaces verts et des quartiers animés de la ville.\n\nLes transports en commun facilitent les déplacements vers le centre-ville, le Vieux-Port, la gare Saint-Charles et les autres quartiers marseillais, selon les dessertes disponibles.\n\nLes principaux axes routiers permettent de rejoindre les différents secteurs de Marseille ainsi que les autoroutes desservant l’agglomération et les communes environnantes.\n\nCe logement offre un cadre de vie pratique, alliant proximité des services, dynamisme urbain et accessibilité au cœur de Marseille.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 683.03,
+  "rentChargeAmount": 84.34,
+  "rentParkingAmount": 33.79,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

@@ -1,0 +1,240 @@
+{
+ "guid": "171ec5fd-91f2-4029-8324-b12d6f371ce5",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-03T08:49:16+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-03T08:49:16+01:00",
+ "liste": {
+  "id": 53556,
+  "guid": "171ec5fd-91f2-4029-8324-b12d6f371ce5",
+  "reference": "53556",
+  "residency": {
+   "id": 7323,
+   "guid": "e793398e-d91d-4f5d-9dcb-46251bd42e52",
+   "reference": "7323",
+   "name": "RESIDENCE LES JARDINS CITADINS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61192,
+   "guid": "bd1217ad-06b9-46f9-8390-ca668935a752",
+   "reference": "61192",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 35.85,
+   "municipality": {
+    "id": 4460,
+    "postcode": "13005",
+    "code": "13205",
+    "name": "Marseille 5e Arrondissement"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-30",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 645.35,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-03",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bd/bd1217ad-06b9-46f9-8390-ca668935a752/medium/671312c9-f0f1-4786-9e30-30044bbdb6b1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé boulevard Jeanne d’Arc dans le 5ᵉ arrondissement de Marseille, ce logement bénéficie d’un environnement urbain, à proximité des commerces, des établissements scolaires, des services de santé et des commodités du quotidien.\n\nLe 5ᵉ arrondissement offre un cadre de vie dynamique, avec de nombreux commerces de proximité, des infrastructures de santé, des établissements d’enseignement et des équipements culturels. Sa situation centrale permet également de profiter des services et des activités proposés dans les quartiers environnants.\n\nLes transports en commun facilitent les déplacements vers le centre-ville, la gare Saint-Charles et les autres secteurs de Marseille, selon les dessertes disponibles.\n\nLes principaux axes routiers permettent de rejoindre les différents quartiers de la ville ainsi que les grands axes de la métropole.\n\nCe logement offre un cadre de vie pratique, alliant proximité des services, dynamisme urbain et accessibilité.",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53556,
+  "guid": "171ec5fd-91f2-4029-8324-b12d6f371ce5",
+  "reference": "53556",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/bd/bd1217ad-06b9-46f9-8390-ca668935a752/large/0eec52da-ca12-4fba-8022-bfa92f663062",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61192,
+   "guid": "bd1217ad-06b9-46f9-8390-ca668935a752",
+   "reference": "61192",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 35.85,
+   "municipality": {
+    "id": 4460,
+    "postcode": "13005",
+    "code": "13205",
+    "name": "Marseille 5e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 7323,
+   "guid": "e793398e-d91d-4f5d-9dcb-46251bd42e52",
+   "reference": "7323",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-30",
+  "endDateOfPublication": "2026-11-28",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé boulevard Jeanne d’Arc dans le 5ᵉ arrondissement de Marseille, ce logement bénéficie d’un environnement urbain, à proximité des commerces, des établissements scolaires, des services de santé et des commodités du quotidien.\n\nLe 5ᵉ arrondissement offre un cadre de vie dynamique, avec de nombreux commerces de proximité, des infrastructures de santé, des établissements d’enseignement et des équipements culturels. Sa situation centrale permet également de profiter des services et des activités proposés dans les quartiers environnants.\n\nLes transports en commun facilitent les déplacements vers le centre-ville, la gare Saint-Charles et les autres secteurs de Marseille, selon les dessertes disponibles.\n\nLes principaux axes routiers permettent de rejoindre les différents quartiers de la ville ainsi que les grands axes de la métropole.\n\nCe logement offre un cadre de vie pratique, alliant proximité des services, dynamisme urbain et accessibilité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 536.42,
+  "rentChargeAmount": 108.93,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 536.42,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
