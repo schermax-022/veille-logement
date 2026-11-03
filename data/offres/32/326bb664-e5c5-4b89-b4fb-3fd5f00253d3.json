@@ -1,17 +1,17 @@
 {
  "guid": "326bb664-e5c5-4b89-b4fb-3fd5f00253d3",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-26T17:28:15+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-02T23:21:36+01:00",
- "absente_depuis": "2026-11-03T00:04:45+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-03T00:04:45+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-26T17:28:15+01:00",
+ "fiche_recuperee_le": "2026-11-03T17:59:36+01:00",
  "liste": {
   "id": 52725,
   "guid": "326bb664-e5c5-4b89-b4fb-3fd5f00253d3",
@@ -70,11 +70,11 @@
    "code": "MSL",
    "label": "Mensuel"
   },
-  "totalRentAmountBaseBound": 528.44,
+  "totalRentAmountBaseBound": 519.94,
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-26",
+  "startDateOfPublication": "2026-11-03",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/95/95c5bec3-9ef9-462a-8bf9-2bcad58243bd/medium/712d6fcd-907f-4c80-ba27-a9b44e4041f1",
@@ -150,19 +150,19 @@
    "coldWaterType": "COLLECTIVE",
    "electricityType": "COLLECTIVE",
    "greenhouseGasCertificate": {
-    "id": 8,
-    "ordering": 8,
-    "code": "NC",
-    "label": "Non communiqué"
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
    },
    "energyPerformanceCertificate": {
-    "id": 8,
-    "ordering": 8,
-    "code": "NC",
-    "label": "Non communiqué"
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
    },
    "annualEnergyExpenditure": 0.0,
-   "elevatorPresence": "UNKNOWN",
+   "elevatorPresence": "YES",
    "parkingCapacity": null,
    "parkingTypes": [],
    "isKitchenEquipped": null,
@@ -215,7 +215,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-10-23",
-  "endDateOfPublication": "2026-11-02",
+  "endDateOfPublication": "2026-11-17",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
   "description": "La résidence située rue Abel est à proximité des commerces et services: transports en commun (tramway ligne C; lignes de bus), médecins, pharmacies, supermarchés, boulangeries. \n\n\nNous vous proposons un appartement non meublé composé d'une kitchenette avec évier, lit, salle d'eau avec WC et d'une mezzanine. \n\n",
@@ -225,29 +225,16 @@
    "code": "MSL",
    "label": "Mensuel"
   },
-  "housingFeeBaseBound": 519.96,
-  "rentChargeAmount": 8.48,
+  "housingFeeBaseBound": 518.18,
+  "rentChargeAmount": 1.76,
   "rentParkingAmount": null,
   "compulsoryBenefitAmount": null,
-  "securityDepositAmount": 519.96,
+  "securityDepositAmount": 518.18,
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": 30,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,

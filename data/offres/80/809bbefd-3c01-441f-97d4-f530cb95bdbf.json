@@ -1,0 +1,220 @@
+{
+ "guid": "809bbefd-3c01-441f-97d4-f530cb95bdbf",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-03T17:59:36+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-03T17:59:36+01:00",
+ "liste": {
+  "id": 53627,
+  "guid": "809bbefd-3c01-441f-97d4-f530cb95bdbf",
+  "reference": "53627",
+  "residency": {
+   "id": 2177,
+   "guid": "348b63be-ca1a-42bf-a44b-147dd6981333",
+   "reference": "2177",
+   "name": "RESIDENCE DE GIEN",
+   "type": {
+    "id": 6,
+    "ordering": 9,
+    "code": "PF",
+    "label": "Pensions de famille/Maisons relais",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61322,
+   "guid": "ea4b00ca-3b51-4a5e-a2fb-e5e7c32691c9",
+   "reference": "61322",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.0,
+   "municipality": {
+    "id": 16775,
+    "postcode": "45500",
+    "code": "45155",
+    "name": "Gien"
+   },
+   "description": "Studio meublé de 18 m², \navec kitchenette plaques électriques et frigo,\nlit simple,\nchaise et table \nplacard de rangement.\n\nRésidence récente de logements meublés.\nstudios de 18 à 23 m².\nsupermarchés à 5 mn en voiture.\nlaverie, parking.\nvaisselle non fournie.\ndraps fournis et possibilité de les échanger avec draps propres tous les 15 jours."
+  },
+  "availableAt": "2026-11-02",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 395.9,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-03",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/ea4b00ca-3b51-4a5e-a2fb-e5e7c32691c9/medium/b8c3cc20-c0b1-409d-a7e4-2f8da60ebffd",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence propose divers équipements et prestations afin de faciliter la vie des résidents :\n•\nAide administrative et médiation vers les services de droit commun\n•\nSalle polyvalente\n•\nLaverie\n•\nLocal 2 roues\n•\nEntretien des locaux et travaux de maintenance\n•\nBlanchissage des draps\n\nRésidence récente de logements meublés.\nstudios de 18 à 23 m².\nsupermarchés à 5 mn en voiture.\nlaverie, parking.\nvaisselle non fournie.\ndraps fournis et possibilité de les échanger avec draps propres tous les 15 jours.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53627,
+  "guid": "809bbefd-3c01-441f-97d4-f530cb95bdbf",
+  "reference": "53627",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ea/ea4b00ca-3b51-4a5e-a2fb-e5e7c32691c9/large/ffc69732-1347-4560-befc-c14604ed842b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61322,
+   "guid": "ea4b00ca-3b51-4a5e-a2fb-e5e7c32691c9",
+   "reference": "61322",
+   "lodgingType": "TYPE",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.0,
+   "municipality": {
+    "id": 16775,
+    "postcode": "45500",
+    "code": "45155",
+    "name": "Gien"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 2177,
+   "guid": "348b63be-ca1a-42bf-a44b-147dd6981333",
+   "reference": "2177",
+   "livingRules": "",
+   "type": {
+    "id": 6,
+    "ordering": 9,
+    "code": "PF",
+    "label": "Pensions de famille/Maisons relais",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-02",
+  "endDateOfPublication": "2027-06-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence propose divers équipements et prestations afin de faciliter la vie des résidents :\n•\nAide administrative et médiation vers les services de droit commun\n•\nSalle polyvalente\n•\nLaverie\n•\nLocal 2 roues\n•\nEntretien des locaux et travaux de maintenance\n•\nBlanchissage des draps\n\nRésidence récente de logements meublés.\nstudios de 18 à 23 m².\nsupermarchés à 5 mn en voiture.\nlaverie, parking.\nvaisselle non fournie.\ndraps fournis et possibilité de les échanger avec draps propres tous les 15 jours.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 395.9,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 395.9,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
