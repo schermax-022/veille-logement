@@ -1,0 +1,242 @@
+{
+ "guid": "c5582408-6f08-4f97-99eb-09c6aeb49db2",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-04T17:25:41+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-04T17:25:41+01:00",
+ "liste": {
+  "id": 51763,
+  "guid": "c5582408-6f08-4f97-99eb-09c6aeb49db2",
+  "reference": "51763",
+  "residency": {
+   "id": 8392,
+   "guid": "52405cc3-5d01-4ffc-9279-23d65cb2698a",
+   "reference": "8392",
+   "name": "RUMBEA",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59365,
+   "guid": "54fd8ecd-2a9b-44b9-acf3-aeb0d4dd36d4",
+   "reference": "59365",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 49.9,
+   "municipality": {
+    "id": 29558,
+    "postcode": "74150",
+    "code": "74225",
+    "name": "Rumilly"
+   },
+   "description": null
+  },
+  "availableAt": "2026-11-20",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 695.32,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-04",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/54/54fd8ecd-2a9b-44b9-acf3-aeb0d4dd36d4/medium/4b38d1e7-e192-4972-ab53-6c0a3ac0ddd5",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence RUMBEA – Rumilly (74150)\n\nSituée à Rumilly, au cœur de la Haute-Savoie, la résidence RUMBEA bénéficie d'un emplacement agréable dans une commune dynamique offrant un cadre de vie alliant nature et commodités. À proximité des commerces, établissements scolaires, services et équipements du quotidien, elle permet de profiter d'un environnement pratique et convivial.\n\nRumilly séduit également par sa situation géographique privilégiée, entre les lacs d'Annecy et du Bourget et au pied du massif des Bauges.\n\nCôté transports, la gare SNCF de Rumilly permet de rejoindre Annecy en environ 15 minutes, Aix-les-Bains en 17 minutes et Chambéry en 35 minutes. En voiture, Annecy est accessible en 25 à 30 minutes, Aix-les-Bains en 25 minutes et Chambéry en 35 à 40 minutes.\n\nGrâce à sa proximité avec les principaux axes routiers, notamment l'A41, la résidence bénéficie d'une situation intéressante pour rejoindre les grands pôles économiques de la région.\n\n\n\nAppartement de Type 2 de 49.9 m² au 2eme étage d’un immeuble sécurisé.\n\nCe logement dispose d’une cuisine, ainsi que d'une place de parking.  \n\n\n\nDisponible le 20/11/2027\nIMPORTANT : il s’agit d’un programme neuf et la date de livraison est prévisionnelle.",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51763,
+  "guid": "c5582408-6f08-4f97-99eb-09c6aeb49db2",
+  "reference": "51763",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/54/54fd8ecd-2a9b-44b9-acf3-aeb0d4dd36d4/large/a33b6ef4-086d-4842-87c0-e55d924a4f22",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59365,
+   "guid": "54fd8ecd-2a9b-44b9-acf3-aeb0d4dd36d4",
+   "reference": "59365",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 49.9,
+   "municipality": {
+    "id": 29558,
+    "postcode": "74150",
+    "code": "74225",
+    "name": "Rumilly"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 8392,
+   "guid": "52405cc3-5d01-4ffc-9279-23d65cb2698a",
+   "reference": "8392",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-20",
+  "endDateOfPublication": "2026-12-03",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence RUMBEA – Rumilly (74150)\n\nSituée à Rumilly, au cœur de la Haute-Savoie, la résidence RUMBEA bénéficie d'un emplacement agréable dans une commune dynamique offrant un cadre de vie alliant nature et commodités. À proximité des commerces, établissements scolaires, services et équipements du quotidien, elle permet de profiter d'un environnement pratique et convivial.\n\nRumilly séduit également par sa situation géographique privilégiée, entre les lacs d'Annecy et du Bourget et au pied du massif des Bauges.\n\nCôté transports, la gare SNCF de Rumilly permet de rejoindre Annecy en environ 15 minutes, Aix-les-Bains en 17 minutes et Chambéry en 35 minutes. En voiture, Annecy est accessible en 25 à 30 minutes, Aix-les-Bains en 25 minutes et Chambéry en 35 à 40 minutes.\n\nGrâce à sa proximité avec les principaux axes routiers, notamment l'A41, la résidence bénéficie d'une situation intéressante pour rejoindre les grands pôles économiques de la région.\n\n\n\nAppartement de Type 2 de 49.9 m² au 2eme étage d’un immeuble sécurisé.\n\nCe logement dispose d’une cuisine, ainsi que d'une place de parking.  \n\n\n\nDisponible le 20/11/2027\nIMPORTANT : il s’agit d’un programme neuf et la date de livraison est prévisionnelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 641.4,
+  "rentChargeAmount": 53.92,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 656.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
