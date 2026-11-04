@@ -1,17 +1,17 @@
 {
  "guid": "849990",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-28T10:27:46+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-03T16:18:37+01:00",
- "absente_depuis": "2026-11-03T17:11:55+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-03T17:11:55+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-28T10:27:46+01:00",
+ "fiche_recuperee_le": "2026-11-04T14:42:35+01:00",
  "liste": {
   "guid": "849990",
   "id_lot": "849990",
@@ -58,11 +58,16 @@
   ],
   "gamme": "Logement à loyer libre",
   "les_plus": [
-   "Ascenseur"
+   "Ascenseur",
+   "Exposition Sud",
+   "Terrasse"
   ],
   "caracteristiques": {
    "Logement": [
-    "Ascenseur"
+    "Ascenseur",
+    "Exposition Sud",
+    "Terrasse",
+    "TEOM inclus"
    ],
    "Résidence et parties communes": [
     "Année de construction : 2010"
@@ -92,8 +97,8 @@
    "https://referentiel-photos.cdc-habitat.fr/photos/6F37970BAEBE60BCC12586790039132D.jpg",
    "https://referentiel-photos.cdc-habitat.fr/photos/1292523F29F20D1DC12588BE004AE682.jpg"
   ],
-  "latitude": 43.58735,
-  "longitude": 7.09974
+  "latitude": 43.58715,
+  "longitude": 7.09942
  },
  "fiche_essais": 0
 }
