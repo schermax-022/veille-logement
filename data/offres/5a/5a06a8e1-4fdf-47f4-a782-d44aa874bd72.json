@@ -1,0 +1,254 @@
+{
+ "guid": "5a06a8e1-4fdf-47f4-a782-d44aa874bd72",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-04T12:38:53+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-04T12:38:53+01:00",
+ "liste": {
+  "id": 44692,
+  "guid": "5a06a8e1-4fdf-47f4-a782-d44aa874bd72",
+  "reference": "44692",
+  "residency": {
+   "id": 5610,
+   "guid": "d5aed2f9-3ca2-440e-9b10-00ea7c04f5d3",
+   "reference": "5610",
+   "name": "VIRY POIRIER PIQUET",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 36717,
+   "guid": "2c362805-2d42-46d5-bb04-5e7609a67b28",
+   "reference": "36717",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 66.43,
+   "municipality": {
+    "id": 34960,
+    "postcode": "91170",
+    "code": "91687",
+    "name": "Viry-Châtillon"
+   },
+   "description": "A louer T4 de 66,43m² situé au 3eme étage comprenant un séjour avec une cuisine séparée, trois chambres, une salle de bain avec WC séparés. Chauffage collectif. Parking inclus."
+  },
+  "availableAt": "2026-11-04",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 935.74,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-07-22",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2c362805-2d42-46d5-bb04-5e7609a67b28/medium/8e358224-f0c3-41c2-95db-c475a3579cb5",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A louer T4 de 66,43m² situé au 3eme étage comprenant un séjour avec une cuisine séparée, trois chambres, une salle de bain avec WC séparés. Chauffage collectif. Parking inclus. Sans frais de dossier!",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 44692,
+  "guid": "5a06a8e1-4fdf-47f4-a782-d44aa874bd72",
+  "reference": "44692",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2c362805-2d42-46d5-bb04-5e7609a67b28/large/e3db004c-3c97-4534-a42e-994410014897",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2c/2c362805-2d42-46d5-bb04-5e7609a67b28/large/eb1741eb-ed89-4a6b-bb8a-d00908593bc0",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 36717,
+   "guid": "2c362805-2d42-46d5-bb04-5e7609a67b28",
+   "reference": "36717",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 66.43,
+   "municipality": {
+    "id": 34960,
+    "postcode": "91170",
+    "code": "91687",
+    "name": "Viry-Châtillon"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 6,
+    "ordering": 6,
+    "code": "3",
+    "label": "3"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 5610,
+   "guid": "d5aed2f9-3ca2-440e-9b10-00ea7c04f5d3",
+   "reference": "5610",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-04",
+  "endDateOfPublication": "2027-07-21",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "A louer T4 de 66,43m² situé au 3eme étage comprenant un séjour avec une cuisine séparée, trois chambres, une salle de bain avec WC séparés. Chauffage collectif. Parking inclus. Sans frais de dossier!",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 615.81,
+  "rentChargeAmount": 319.93,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 615.81,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

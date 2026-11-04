@@ -1,0 +1,240 @@
+{
+ "guid": "69799a33-ecc9-4018-abae-5c2180f0b4e6",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-04T12:38:53+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-04T12:38:53+01:00",
+ "liste": {
+  "id": 53869,
+  "guid": "69799a33-ecc9-4018-abae-5c2180f0b4e6",
+  "reference": "53869",
+  "residency": {
+   "id": 3700,
+   "guid": "c380ce1e-3def-4e37-bbd2-4b029d4ec830",
+   "reference": "3700",
+   "name": "JOINVILLE LE PONT 08",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61579,
+   "guid": "b7ac15cb-7b8d-46c0-a266-0dee117835e0",
+   "reference": "61579",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 49.0,
+   "municipality": {
+    "id": 35060,
+    "postcode": "94340",
+    "code": "94042",
+    "name": "Joinville-le-Pont"
+   },
+   "description": "Exclusivité - appartement 2 pièces de 49 m² à Joinville-le-Pont  Sans frais d'agence.  Le bien comprend notamment un salon et une chambre ainsi qu’une cuisine.  L’appartement se trouve au rez-de-chaussée d’un immeuble de 3 étages.  Chauffage individuel. Une place de parking est incluse.  Le quartier est desservi par la ligne A du RER à la station Joinville-Le-Pont. Commerces à proximité."
+  },
+  "availableAt": "2026-11-04",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1223.55,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-04",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b7/b7ac15cb-7b8d-46c0-a266-0dee117835e0/medium/da99c3f2-9b96-4718-a356-fb231c10b005",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité - appartement 2 pièces de 49 m² à Joinville-le-Pont  Sans frais d'agence.  Le bien comprend notamment un salon et une chambre ainsi qu’une cuisine.  L’appartement se trouve au rez-de-chaussée d’un immeuble de 3 étages.  Chauffage individuel. Une place de parking est incluse.  Le quartier est desservi par la ligne A du RER à la station Joinville-Le-Pont. Commerces à proximité.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53869,
+  "guid": "69799a33-ecc9-4018-abae-5c2180f0b4e6",
+  "reference": "53869",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b7/b7ac15cb-7b8d-46c0-a266-0dee117835e0/large/28c17afd-397e-45a1-b541-5838ab41e219",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61579,
+   "guid": "b7ac15cb-7b8d-46c0-a266-0dee117835e0",
+   "reference": "61579",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 49.0,
+   "municipality": {
+    "id": 35060,
+    "postcode": "94340",
+    "code": "94042",
+    "name": "Joinville-le-Pont"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 3700,
+   "guid": "c380ce1e-3def-4e37-bbd2-4b029d4ec830",
+   "reference": "3700",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-04",
+  "endDateOfPublication": "2027-11-03",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 2 pièces de 49 m² à Joinville-le-Pont  Sans frais d'agence.  Le bien comprend notamment un salon et une chambre ainsi qu’une cuisine.  L’appartement se trouve au rez-de-chaussée d’un immeuble de 3 étages.  Chauffage individuel. Une place de parking est incluse.  Le quartier est desservi par la ligne A du RER à la station Joinville-Le-Pont. Commerces à proximité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1037.56,
+  "rentChargeAmount": 93.94,
+  "rentParkingAmount": 92.05,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1127.56,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
