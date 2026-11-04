@@ -1,0 +1,261 @@
+{
+ "guid": "fe99c02b-69a5-45bd-afda-4af8f1ce0124",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-04T15:38:35+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-04T15:38:35+01:00",
+ "liste": {
+  "id": 53680,
+  "guid": "fe99c02b-69a5-45bd-afda-4af8f1ce0124",
+  "reference": "53680",
+  "residency": {
+   "id": 8750,
+   "guid": "02d07816-4bd7-47c7-a2b2-95c5650ea9d2",
+   "reference": "8750",
+   "name": "HARMONIA",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61372,
+   "guid": "2d974bc0-5feb-4f51-85ef-be043a962090",
+   "reference": "61372",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 43.8,
+   "municipality": {
+    "id": 1886,
+    "postcode": "06600",
+    "code": "06004",
+    "name": "Antibes"
+   },
+   "description": ""
+  },
+  "availableAt": "2027-02-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 873.08,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-04",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2d/2d974bc0-5feb-4f51-85ef-be043a962090/medium/6008993a-87db-4f86-92eb-0bdbc6875d18",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé avenue de Nice à Antibes, ce logement bénéficie d’un emplacement pratique, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nAntibes offre un cadre de vie agréable entre mer et ville, avec un centre historique plein de charme, des commerces variés, des équipements sportifs et culturels ainsi que de nombreux espaces de promenade. La commune profite également de sa proximité avec les principaux pôles d’activité de la Côte d’Azur.\n\nLes transports en commun et la gare d’Antibes permettent de rejoindre différents secteurs de la commune ainsi que les villes voisines, notamment Nice et Cannes, selon les dessertes disponibles.\n\nLa proximité des principaux axes routiers, notamment l’autoroute A8 et la route départementale D6007, facilite les déplacements vers Nice, Cannes, Sophia Antipolis et les communes environnantes.\n\nCe logement offre un cadre de vie attractif, alliant proximité des services, mobilité et qualité de vie sur la Côte d’Azur.\n\nPossibilité de louer un stationnement simple pour 68€ par mois hors charge ou double 85€ HC par mois, en plus du loyer sur demande.\n\n",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53680,
+  "guid": "fe99c02b-69a5-45bd-afda-4af8f1ce0124",
+  "reference": "53680",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2d/2d974bc0-5feb-4f51-85ef-be043a962090/large/c56845cd-7086-4c2e-875d-a934a237f8b5",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2d/2d974bc0-5feb-4f51-85ef-be043a962090/large/0f1865ee-945d-4b80-8c0d-f8dc927a3584",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/2d/2d974bc0-5feb-4f51-85ef-be043a962090/large/68ee233c-2c4f-4ab2-929e-dcb555f33f27",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61372,
+   "guid": "2d974bc0-5feb-4f51-85ef-be043a962090",
+   "reference": "61372",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 43.8,
+   "municipality": {
+    "id": 1886,
+    "postcode": "06600",
+    "code": "06004",
+    "name": "Antibes"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8750,
+   "guid": "02d07816-4bd7-47c7-a2b2-95c5650ea9d2",
+   "reference": "8750",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-02-01",
+  "endDateOfPublication": "2027-02-21",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Situé avenue de Nice à Antibes, ce logement bénéficie d’un emplacement pratique, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nAntibes offre un cadre de vie agréable entre mer et ville, avec un centre historique plein de charme, des commerces variés, des équipements sportifs et culturels ainsi que de nombreux espaces de promenade. La commune profite également de sa proximité avec les principaux pôles d’activité de la Côte d’Azur.\n\nLes transports en commun et la gare d’Antibes permettent de rejoindre différents secteurs de la commune ainsi que les villes voisines, notamment Nice et Cannes, selon les dessertes disponibles.\n\nLa proximité des principaux axes routiers, notamment l’autoroute A8 et la route départementale D6007, facilite les déplacements vers Nice, Cannes, Sophia Antipolis et les communes environnantes.\n\nCe logement offre un cadre de vie attractif, alliant proximité des services, mobilité et qualité de vie sur la Côte d’Azur.\n\nPossibilité de louer un stationnement simple pour 68€ par mois hors charge ou double 85€ HC par mois, en plus du loyer sur demande.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 782.46,
+  "rentChargeAmount": 90.62,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
