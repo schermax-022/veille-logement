@@ -1,17 +1,17 @@
 {
  "guid": "1337383",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-16T09:37:58+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-20T15:05:47+02:00",
- "absente_depuis": "2026-10-20T15:48:59+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-20T15:48:59+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-16T09:37:58+02:00",
+ "fiche_recuperee_le": "2026-11-04T09:42:56+01:00",
  "liste": {
   "guid": "1337383",
   "id_lot": "1337383",
@@ -20,6 +20,7 @@
   "loyer_cc": 1666.43,
   "latitude": 48.86907,
   "longitude": 2.19568,
+  "programme": "19656",
   "url": "https://www.cdc-habitat.fr/annonces-immobilieres/location/ile-de-france/hauts-de-seine/rueil-malmaison/1337383",
   "resume": "3 pièces - 3ème étage - 75m²",
   "type": "Appartement",
@@ -33,7 +34,7 @@
   "rubrique": "Location appartement",
   "titre": "3 pièces - 3ème étage - 75m²",
   "reference": "B073-393459",
-  "adresse_complete": "RUE JULES MASSENET - RUEIL MALMAISON (92500)",
+  "adresse_complete": "Résidence ARBOREAL - RUE JULES MASSENET - RUEIL MALMAISON (92500)",
   "loyer_cc_affiche": 1666.43,
   "avantages": [
    "Sans honoraires"
@@ -70,7 +71,10 @@
     "Balcon"
    ],
    "Résidence et parties communes": [
-    "Année de construction : 2026"
+    "Ascenseur",
+    "Espaces verts",
+    "Parking",
+    "Année de construction : 2027"
    ],
    "Chauffage et énergie": [
     "Collectif Chauffage urbain"

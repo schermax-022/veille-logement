@@ -1,0 +1,243 @@
+{
+ "guid": "c035d2ac-0eb3-431b-9c39-0edfb91bace6",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-04T09:39:48+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-04T09:39:48+01:00",
+ "liste": {
+  "id": 53663,
+  "guid": "c035d2ac-0eb3-431b-9c39-0edfb91bace6",
+  "reference": "53663",
+  "residency": {
+   "id": 6251,
+   "guid": "8d5311fc-2d07-4d07-9808-7b2809c803cb",
+   "reference": "6251",
+   "name": "APPT 21",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61353,
+   "guid": "a0bad023-e8c3-43a9-bfe1-2154218354ca",
+   "reference": "61353",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 51.0,
+   "municipality": {
+    "id": 14331,
+    "postcode": "38460",
+    "code": "38138",
+    "name": "Crémieu"
+   },
+   "description": "TRANSPORTS :\nBUS\r\nECOLES :\nMATERNELLE, PRIMAIRE ET COLLEGE\nCOMMERCES :\nA PROXIMITE\nSERVICES DIVERS :\nAU COEUR D'UN VILLAGE MEDIEVALE TOURISTIQUE"
+  },
+  "availableAt": "2027-01-19",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 615.58,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 149.2,
+  "startDateOfPublication": "2026-11-04",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a0/a0bad023-e8c3-43a9-bfe1-2154218354ca/medium/c8ae8fbf-75c5-4158-a3ef-c84c47b0d75b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Logement situé au coeur d'un village médiévale touristique.\nAppartement situé au 2ème étage sans ascenseur, chauffage : individuel électrique.\nInfrastructure à proximité : écoles, commerces et services divers\nLogement disponible à partir du 19 Janvier 2027, sous réserve de travaux.\nMerci de situer l'environnement avant de postuler à cette offre. La date limite de dépôt de candidature n'est pas contractuelle.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53663,
+  "guid": "c035d2ac-0eb3-431b-9c39-0edfb91bace6",
+  "reference": "53663",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a0/a0bad023-e8c3-43a9-bfe1-2154218354ca/large/20bd1461-93e6-4140-abf8-1f19e88fd0c1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61353,
+   "guid": "a0bad023-e8c3-43a9-bfe1-2154218354ca",
+   "reference": "61353",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 51.0,
+   "municipality": {
+    "id": 14331,
+    "postcode": "38460",
+    "code": "38138",
+    "name": "Crémieu"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 6251,
+   "guid": "8d5311fc-2d07-4d07-9808-7b2809c803cb",
+   "reference": "6251",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "1986-01-01",
+   "constructionYear": 1986,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-19",
+  "endDateOfPublication": "2026-12-03",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Logement situé au coeur d'un village médiévale touristique.\nAppartement situé au 2ème étage sans ascenseur, chauffage : individuel électrique.\nInfrastructure à proximité : écoles, commerces et services divers\nLogement disponible à partir du 19 Janvier 2027, sous réserve de travaux.\nMerci de situer l'environnement avant de postuler à cette offre. La date limite de dépôt de candidature n'est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 407.77,
+  "rentChargeAmount": 58.61,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 407.77,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 149.2,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
