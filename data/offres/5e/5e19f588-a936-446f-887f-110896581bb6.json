@@ -1,0 +1,275 @@
+{
+ "guid": "5e19f588-a936-446f-887f-110896581bb6",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-05T09:13:50+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-05T09:13:50+01:00",
+ "liste": {
+  "id": 53534,
+  "guid": "5e19f588-a936-446f-887f-110896581bb6",
+  "reference": "53534",
+  "residency": {
+   "id": 395,
+   "guid": "8d9a7885-f469-4ff9-9c26-9d8883c91683",
+   "reference": "395",
+   "name": "DIJON VIARDOT RS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 45148,
+   "guid": "44befc24-4d7b-4f9a-bfc7-4a528c1f2a1a",
+   "reference": "45148",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 19.34,
+   "municipality": {
+    "id": 6895,
+    "postcode": "21000",
+    "code": "21231",
+    "name": "Dijon"
+   },
+   "description": null
+  },
+  "availableAt": "2026-11-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 523.94,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-05",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/44/44befc24-4d7b-4f9a-bfc7-4a528c1f2a1a/medium/268100f6-ed96-44d5-9cd1-7a28f74f50ac",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Rue Louis Viardot à DIJON\n\nAu sein d'une résidence récente, proche de la place de la République, des transports et des commerces. Studio meublé comprenant un lit, une table chevet, une table + chaise , un meuble TV ainsi qu'une salle de douche et d'une kitchenette équipée de plaques électriques et d'un frigo.  \n\nUne salle collective d’animation se trouve au sous-sol d’un bâtiment (intervention de partenaires pour les résidents et évènements de convivialité)",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53534,
+  "guid": "5e19f588-a936-446f-887f-110896581bb6",
+  "reference": "53534",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/44/44befc24-4d7b-4f9a-bfc7-4a528c1f2a1a/large/07a831cd-1c83-455b-9b12-38b6c0b5056c",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/44/44befc24-4d7b-4f9a-bfc7-4a528c1f2a1a/large/0dffec6d-dcf3-4b9c-9d7e-ef5b3d0395b7",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 45148,
+   "guid": "44befc24-4d7b-4f9a-bfc7-4a528c1f2a1a",
+   "reference": "45148",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 19.34,
+   "municipality": {
+    "id": 6895,
+    "postcode": "21000",
+    "code": "21231",
+    "name": "Dijon"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 395,
+   "guid": "8d9a7885-f469-4ff9-9c26-9d8883c91683",
+   "reference": "395",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2019,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-01",
+  "endDateOfPublication": "2026-11-07",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Rue Louis Viardot à DIJON\n\nAu sein d'une résidence récente, proche de la place de la République, des transports et des commerces. Studio meublé comprenant un lit, une table chevet, une table + chaise , un meuble TV ainsi qu'une salle de douche et d'une kitchenette équipée de plaques électriques et d'un frigo.  \n\nUne salle collective d’animation se trouve au sous-sol d’un bâtiment (intervention de partenaires pour les résidents et évènements de convivialité)",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 523.94,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 523.94,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
