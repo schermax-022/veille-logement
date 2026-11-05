@@ -1,0 +1,269 @@
+{
+ "guid": "97574ed8-3952-4a60-a187-4ea96bdebfa3",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-05T19:20:07+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-05T19:20:07+01:00",
+ "liste": {
+  "id": 53922,
+  "guid": "97574ed8-3952-4a60-a187-4ea96bdebfa3",
+  "reference": "53922",
+  "residency": {
+   "id": 606,
+   "guid": "7a5a4110-e4f5-40bb-8ed2-dd0034b1082c",
+   "reference": "606",
+   "name": "MARTIGUES BOUDEME",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61620,
+   "guid": "d59891e3-921d-4130-8db1-8d2dfe243147",
+   "reference": "61620",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 15.0,
+   "municipality": {
+    "id": 4392,
+    "postcode": "13500",
+    "code": "13056",
+    "name": "Martigues"
+   },
+   "description": null
+  },
+  "availableAt": "2026-11-30",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 432.08,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-05",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d5/d59891e3-921d-4130-8db1-8d2dfe243147/medium/5416d178-56ac-45ae-a84c-610de7ffe94b",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé rue Sylvia de Luca à Martigues, ce logement bénéficie d’un environnement agréable, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nMartigues, surnommée la « Venise provençale », offre un cadre de vie entre étangs et Méditerranée. La commune dispose de nombreux commerces, marchés, équipements sportifs et culturels ainsi que de services de proximité. Son patrimoine, ses ports et ses espaces naturels contribuent à son attractivité.\n\nLes transports en commun permettent de rejoindre les différents quartiers de Martigues ainsi que les communes voisines, notamment Istres, Port-de-Bouc et Fos-sur-Mer, selon les dessertes disponibles. La gare de Martigues facilite également certains déplacements régionaux.\n\nLa proximité des principaux axes routiers, notamment l’autoroute A55 et les routes départementales, permet de rejoindre facilement Marseille, Istres, Salon-de-Provence et les autres communes du territoire.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53922,
+  "guid": "97574ed8-3952-4a60-a187-4ea96bdebfa3",
+  "reference": "53922",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d5/d59891e3-921d-4130-8db1-8d2dfe243147/large/de45a6b0-1f30-47c9-add9-33131c34d2b5",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61620,
+   "guid": "d59891e3-921d-4130-8db1-8d2dfe243147",
+   "reference": "61620",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 15.0,
+   "municipality": {
+    "id": 4392,
+    "postcode": "13500",
+    "code": "13056",
+    "name": "Martigues"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 606,
+   "guid": "7a5a4110-e4f5-40bb-8ed2-dd0034b1082c",
+   "reference": "606",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2015,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-30",
+  "endDateOfPublication": "2026-11-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé rue Sylvia de Luca à Martigues, ce logement bénéficie d’un environnement agréable, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nMartigues, surnommée la « Venise provençale », offre un cadre de vie entre étangs et Méditerranée. La commune dispose de nombreux commerces, marchés, équipements sportifs et culturels ainsi que de services de proximité. Son patrimoine, ses ports et ses espaces naturels contribuent à son attractivité.\n\nLes transports en commun permettent de rejoindre les différents quartiers de Martigues ainsi que les communes voisines, notamment Istres, Port-de-Bouc et Fos-sur-Mer, selon les dessertes disponibles. La gare de Martigues facilite également certains déplacements régionaux.\n\nLa proximité des principaux axes routiers, notamment l’autoroute A55 et les routes départementales, permet de rejoindre facilement Marseille, Istres, Salon-de-Provence et les autres communes du territoire.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 432.08,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 432.08,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
