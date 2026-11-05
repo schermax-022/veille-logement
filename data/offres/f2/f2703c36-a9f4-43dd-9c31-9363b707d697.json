@@ -1,17 +1,17 @@
 {
  "guid": "f2703c36-a9f4-43dd-9c31-9363b707d697",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-08T15:21:34+02:00",
- "absente_depuis": "2026-10-08T15:49:00+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-08T15:49:00+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-08T10:49:27+02:00",
+ "fiche_recuperee_le": "2026-11-05T11:23:34+01:00",
  "liste": {
   "id": 42786,
   "guid": "f2703c36-a9f4-43dd-9c31-9363b707d697",
@@ -62,7 +62,7 @@
    },
    "description": "Entre mer et massifs, découvrez Terre Carmin à Puget-sur-Argens. Implantée dans le quartier résidentiel et arboré du Picoton, cette résidence à taille humaine d'inspiration provençale offre un cadre de vie privilégié à proximité immédiate des commerces et du centre-ville. Ses logements spacieux et lumineux, ouverts sur l'extérieur, s'intègrent harmonieusement dans un environnement naturel préservé      A louer, maison neuve T3 d’une surface de 62 m² offrant tout le confort moderne.Elle se compose d’espaces lumineux et bien agencés, idéals pour une vie agréable au quotidien.? 2 places de stationnement privatives ? Terrasse et jardin privatif ? Climatisation ?? N’hésitez pas à nous contacter et déposer votre dossier pour plus d’informations ou organiser une visite ! www.georisques.gouv.fr"
   },
-  "availableAt": "2026-10-19",
+  "availableAt": "2026-10-27",
   "isLodgingFirstTimeAvailable": true,
   "paymentType": {
    "id": 2,
@@ -70,11 +70,11 @@
    "code": "MSL",
    "label": "Mensuel"
   },
-  "totalRentAmountBaseBound": 879.83,
+  "totalRentAmountBaseBound": 911.59,
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-09-24",
+  "startDateOfPublication": "2026-11-05",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/5f/5f62dd2d-7e03-462e-9489-9f3b6ca448b4/medium/cd3b18ef-c6f6-4113-9b1d-55ab1da1f438",
@@ -209,7 +209,7 @@
      "label": "Jardin"
     }
    ],
-   "isParkingMandatory": false,
+   "isParkingMandatory": true,
    "numberOfRoomsHousing": 2
   },
   "residency": {
@@ -237,8 +237,8 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-10-19",
-  "endDateOfPublication": "2026-10-08",
+  "availableAt": "2026-10-27",
+  "endDateOfPublication": "2026-11-19",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": true,
   "description": "Situé au chemin du Petit Lac à Puget-sur-Argens, cette maison bénéficie d’un environnement résidentiel agréable, à proximité des commerces, des services et des commodités du quotidien.\nElle se compose d’espaces lumineux et bien agencés, idéals pour une vie agréable au quotidien, 2 places de stationnement privatives, une Terrasse et jardin privatif et dispose d'une climatisation.\nLa commune offre un cadre de vie recherché entre mer et arrière-pays varois, avec des établissements scolaires, des équipements sportifs et de nombreuses zones commerciales accessibles rapidement.\nL’emplacement profite d’un accès rapide à l’autoroute A8 et aux principaux axes reliant Fréjus, Saint-Raphaël, Cannes et Draguignan, facilitant les déplacements dans toute la région.\nLes transports en commun assurent une bonne desserte de la commune et permettent de rejoindre facilement les villes voisines et les principaux pôles d’activité.\nUn emplacement idéal, alliant qualité de vie, proximité des services et excellente accessibilité.",
@@ -250,9 +250,9 @@
   },
   "housingFeeBaseBound": 845.91,
   "rentChargeAmount": 33.92,
-  "rentParkingAmount": 0.0,
+  "rentParkingAmount": 31.76,
   "compulsoryBenefitAmount": null,
-  "securityDepositAmount": 845.91,
+  "securityDepositAmount": 875.91,
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
