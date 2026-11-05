@@ -1,0 +1,253 @@
+{
+ "guid": "118d4bf1-a220-42c2-8dc8-2632076c1b5f",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-05T12:23:13+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-05T12:23:13+01:00",
+ "liste": {
+  "id": 54019,
+  "guid": "118d4bf1-a220-42c2-8dc8-2632076c1b5f",
+  "reference": "54019",
+  "residency": {
+   "id": 5626,
+   "guid": "3855abe3-8050-435c-bb5c-4e3a770ffc9e",
+   "reference": "5626",
+   "name": "TRAPPES VAILLANT",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61700,
+   "guid": "844b8d25-37a6-4c9a-acd0-210893a6f10c",
+   "reference": "61700",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 35.55,
+   "municipality": {
+    "id": 31123,
+    "postcode": "78190",
+    "code": "78621",
+    "name": "Trappes"
+   },
+   "description": "Exclusivité - appartement 1 pièce de 35.55 m² à Trappes avec jardin\n\n\n\n\nCe bien dispose d'un séjour et d'une chambre, ainsi qu'une cuisine ouverte. La salle d'eau inclut un WC.\n\n\n\n\nJardin privatif de 28 m². Local à vélos et local à poussettes. Chauffage individuel au gaz.\n\n\n\n\n"
+  },
+  "availableAt": "2026-11-05",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 666.48,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-05",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/844b8d25-37a6-4c9a-acd0-210893a6f10c/medium/ac23fc8f-4cb3-45c3-b9fc-18e2dccb817b",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Exclusivité - appartement 1 pièce de 35.55 m² à Trappes avec jardin\n\n\n\n\nCe bien dispose d'un séjour et d'une chambre, ainsi qu'une cuisine ouverte. La salle d'eau inclut un WC.\n\n\n\n\nJardin privatif de 28 m². Local à vélos et local à poussettes. Chauffage individuel au gaz.\n\n\n\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54019,
+  "guid": "118d4bf1-a220-42c2-8dc8-2632076c1b5f",
+  "reference": "54019",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/844b8d25-37a6-4c9a-acd0-210893a6f10c/large/c9565148-31ef-4082-bd2a-314a0084ef27",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/84/844b8d25-37a6-4c9a-acd0-210893a6f10c/large/32ed2b19-bb7e-4148-bf81-1755ca162dbd",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61700,
+   "guid": "844b8d25-37a6-4c9a-acd0-210893a6f10c",
+   "reference": "61700",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 35.55,
+   "municipality": {
+    "id": 31123,
+    "postcode": "78190",
+    "code": "78621",
+    "name": "Trappes"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 5626,
+   "guid": "3855abe3-8050-435c-bb5c-4e3a770ffc9e",
+   "reference": "5626",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-05",
+  "endDateOfPublication": "2027-11-04",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Exclusivité - appartement 1 pièce de 35.55 m² à Trappes avec jardin\n\n\n\n\nCe bien dispose d'un séjour et d'une chambre, ainsi qu'une cuisine ouverte. La salle d'eau inclut un WC.\n\n\n\n\nJardin privatif de 28 m². Local à vélos et local à poussettes. Chauffage individuel au gaz.\n\n\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 613.6,
+  "rentChargeAmount": 52.88,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 598.6,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
