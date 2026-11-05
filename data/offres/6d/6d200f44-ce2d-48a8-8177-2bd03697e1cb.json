@@ -1,0 +1,283 @@
+{
+ "guid": "6d200f44-ce2d-48a8-8177-2bd03697e1cb",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-05T15:37:10+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-05T15:37:10+01:00",
+ "liste": {
+  "id": 54013,
+  "guid": "6d200f44-ce2d-48a8-8177-2bd03697e1cb",
+  "reference": "54013",
+  "residency": {
+   "id": 1261,
+   "guid": "f28e029b-de37-45be-85f6-7ffc3a2d54fd",
+   "reference": "1261",
+   "name": "ARAGO",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61694,
+   "guid": "be198c30-8b38-44e8-89e3-bcb51d847957",
+   "reference": "61694",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 23.5,
+   "municipality": {
+    "id": 12776,
+    "postcode": "33600",
+    "code": "33318",
+    "name": "Pessac"
+   },
+   "description": "Nous vous proposons un appartement meublé composé d'une pièce de vie équipée (kitchenette, cadre de lit, bureau...)\n\nPhotos non contractuelles\n\nPAS DE FRAIS D'AGENCE - PAS DE FRAIS DE DOSSIER.\n Logement ouvrant le droit aux APL.\n"
+  },
+  "availableAt": "2026-11-15",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 575.98,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-05",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/be/be198c30-8b38-44e8-89e3-bcb51d847957/medium/bb098347-1c44-4a86-8b58-64a9f680afc4",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence sociale ARAGO située rue du Romarin à Pessac est à proximité des transports en commun (tramway ligne B, Bus ligne 34), supermarchés, boulangeries, médecins, pharmacies. \n\n\nNous vous proposons un appartement meublé composé d'une pièce de vie équipée (kitchenette, cadre de lit, bureau...)\n\nPhotos non contractuelles\n\nPAS DE FRAIS D'AGENCE - PAS DE FRAIS DE DOSSIER.\nLogement ouvrant le droit aux APL.\n\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54013,
+  "guid": "6d200f44-ce2d-48a8-8177-2bd03697e1cb",
+  "reference": "54013",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/be/be198c30-8b38-44e8-89e3-bcb51d847957/large/14c5af80-60d1-4feb-ae50-43b24c0f157c",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/be/be198c30-8b38-44e8-89e3-bcb51d847957/large/37bb7d17-765e-48f6-a298-62ea1cf8e8b2",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61694,
+   "guid": "be198c30-8b38-44e8-89e3-bcb51d847957",
+   "reference": "61694",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 23.5,
+   "municipality": {
+    "id": 12776,
+    "postcode": "33600",
+    "code": "33318",
+    "name": "Pessac"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1261,
+   "guid": "f28e029b-de37-45be-85f6-7ffc3a2d54fd",
+   "reference": "1261",
+   "livingRules": "\nRèglement intérieur à respecter.\n\nUn accompagnement social est organisé pour les jeunes qui souhaitent en bénéficier : des permanences sont assurées par une association locale dans une salle dédiée.\n\nLes animaux ne sont pas admis.",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-15",
+  "endDateOfPublication": "2026-11-14",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence sociale ARAGO située rue du Romarin à Pessac est à proximité des transports en commun (tramway ligne B, Bus ligne 34), supermarchés, boulangeries, médecins, pharmacies. \n\n\nNous vous proposons un appartement meublé composé d'une pièce de vie équipée (kitchenette, cadre de lit, bureau...)\n\nPhotos non contractuelles\n\nPAS DE FRAIS D'AGENCE - PAS DE FRAIS DE DOSSIER.\nLogement ouvrant le droit aux APL.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 535.22,
+  "rentChargeAmount": 40.76,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 535.22,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": null,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

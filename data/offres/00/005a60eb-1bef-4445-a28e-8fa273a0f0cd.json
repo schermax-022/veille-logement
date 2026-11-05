@@ -1,0 +1,240 @@
+{
+ "guid": "005a60eb-1bef-4445-a28e-8fa273a0f0cd",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-05T15:37:10+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-05T15:37:10+01:00",
+ "liste": {
+  "id": 53880,
+  "guid": "005a60eb-1bef-4445-a28e-8fa273a0f0cd",
+  "reference": "53880",
+  "residency": {
+   "id": 8790,
+   "guid": "ba9595f5-3b1a-4e3f-856b-9ab7feebfd0d",
+   "reference": "8790",
+   "name": "RENE COTY",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61588,
+   "guid": "ae88c609-3924-430b-a086-c040b79429ab",
+   "reference": "61588",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 57.0,
+   "municipality": {
+    "id": 29984,
+    "postcode": "76600",
+    "code": "76351",
+    "name": "Le Havre"
+   },
+   "description": ""
+  },
+  "availableAt": "2027-01-30",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 688.94,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 88.0,
+  "startDateOfPublication": "2026-11-05",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ae/ae88c609-3924-430b-a086-c040b79429ab/medium/c35b8202-a02b-4e42-b4f2-fa18aabb9ecf",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence René Coty, située rue Casimir Perier au Havre, bénéficie d'un emplacement central particulièrement recherché. A proximité immédiate des commerces, des services, des établissements scolaires et des transports en commun, elle offre un cadre de vie pratique facilitant le quotidien.\nSa localisation permet de rejoindre rapidement le centre-ville, la gare ainsi que les principaux axes de circulation. La résidence s'inscrit dans un environnement urbain dynamique, tout en offrant le confort d'un cadre résidentiel agréable.\n\nNous vous proposons un grand T2 de 57 m² situé au 4ème étage sans ascenseur.\n\nLogement disponible en janvier 2027.\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53880,
+  "guid": "005a60eb-1bef-4445-a28e-8fa273a0f0cd",
+  "reference": "53880",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ae/ae88c609-3924-430b-a086-c040b79429ab/large/e50ae2a1-1676-41fb-8553-a87fd2ecbe70",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61588,
+   "guid": "ae88c609-3924-430b-a086-c040b79429ab",
+   "reference": "61588",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 57.0,
+   "municipality": {
+    "id": 29984,
+    "postcode": "76600",
+    "code": "76351",
+    "name": "Le Havre"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8790,
+   "guid": "ba9595f5-3b1a-4e3f-856b-9ab7feebfd0d",
+   "reference": "8790",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "1945-01-01",
+   "constructionYear": 1945,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-30",
+  "endDateOfPublication": "2026-11-19",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence René Coty, située rue Casimir Perier au Havre, bénéficie d'un emplacement central particulièrement recherché. A proximité immédiate des commerces, des services, des établissements scolaires et des transports en commun, elle offre un cadre de vie pratique facilitant le quotidien.\nSa localisation permet de rejoindre rapidement le centre-ville, la gare ainsi que les principaux axes de circulation. La résidence s'inscrit dans un environnement urbain dynamique, tout en offrant le confort d'un cadre résidentiel agréable.\n\nNous vous proposons un grand T2 de 57 m² situé au 4ème étage sans ascenseur.\n\nLogement disponible en janvier 2027.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 534.6,
+  "rentChargeAmount": 66.34,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 534.6,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 88.0,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
