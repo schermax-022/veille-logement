@@ -1,0 +1,246 @@
+{
+ "guid": "cbcb961d-aac7-4f4c-97fc-42ce20cb3bdb",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-06T16:23:34+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-06T16:23:34+01:00",
+ "liste": {
+  "id": 49142,
+  "guid": "cbcb961d-aac7-4f4c-97fc-42ce20cb3bdb",
+  "reference": "49142",
+  "residency": {
+   "id": 8075,
+   "guid": "ad289fa2-0869-4b44-a125-b8a199ab0356",
+   "reference": "8075",
+   "name": "2382",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57044,
+   "guid": "383948de-485b-4ea3-a564-e87c7faed2c8",
+   "reference": "57044",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 71.76,
+   "municipality": {
+    "id": 30440,
+    "postcode": "77240",
+    "code": "77067",
+    "name": "Cesson"
+   },
+   "description": ""
+  },
+  "availableAt": "2027-01-15",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1073.27,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-06",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/38/383948de-485b-4ea3-a564-e87c7faed2c8/medium/3cbef7f9-4d89-4560-9a64-b620f42a5be6",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Bénéficiez de commerces et services de proximité, un accès aux établissements scolaires, à la culture, à divers sports et loisirs. La ville est desservie également par les transports en commun RER D à quelques minutes de la résidence et un réseau de bus.\n\nUne place de parking est également disponible en supplément (autour de 50€/mois)",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 49142,
+  "guid": "cbcb961d-aac7-4f4c-97fc-42ce20cb3bdb",
+  "reference": "49142",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/38/383948de-485b-4ea3-a564-e87c7faed2c8/large/7cdd5e1e-ab1e-44cb-8094-27766517dac4",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/38/383948de-485b-4ea3-a564-e87c7faed2c8/large/99340287-d7fe-4498-a194-16580bd7bbdf",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57044,
+   "guid": "383948de-485b-4ea3-a564-e87c7faed2c8",
+   "reference": "57044",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 71.76,
+   "municipality": {
+    "id": 30440,
+    "postcode": "77240",
+    "code": "77067",
+    "name": "Cesson"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8075,
+   "guid": "ad289fa2-0869-4b44-a125-b8a199ab0356",
+   "reference": "8075",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-15",
+  "endDateOfPublication": "2026-11-20",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Bénéficiez de commerces et services de proximité, un accès aux établissements scolaires, à la culture, à divers sports et loisirs. La ville est desservie également par les transports en commun RER D à quelques minutes de la résidence et un réseau de bus.\n\nUne place de parking est également disponible en supplément (autour de 50€/mois)",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 804.36,
+  "rentChargeAmount": 228.91,
+  "rentParkingAmount": 40.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 804.36,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
