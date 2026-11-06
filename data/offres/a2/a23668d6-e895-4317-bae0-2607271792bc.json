@@ -1,0 +1,246 @@
+{
+ "guid": "a23668d6-e895-4317-bae0-2607271792bc",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-06T14:42:05+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-06T14:42:05+01:00",
+ "liste": {
+  "id": 53931,
+  "guid": "a23668d6-e895-4317-bae0-2607271792bc",
+  "reference": "53931",
+  "residency": {
+   "id": 8457,
+   "guid": "11d261a4-c6d3-4026-b9c0-caea5d071322",
+   "reference": "8457",
+   "name": "RESIDENCE CHATEAUNEUF VILLAGE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61625,
+   "guid": "b5a67e97-2862-4bad-9c96-a338cc306183",
+   "reference": "61625",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 103.77,
+   "municipality": {
+    "id": 4360,
+    "postcode": "13790",
+    "code": "13025",
+    "name": "Châteauneuf-le-Rouge"
+   },
+   "description": "Ce petit ensemble résidentiel, composé d'appartements et de villas est situé au cœur d'un vrai village à 10 minutes d'Aix en Provence."
+  },
+  "availableAt": "2026-10-05",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1457.82,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-06",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b5/b5a67e97-2862-4bad-9c96-a338cc306183/medium/a2754a2f-7c9f-4e5f-87f8-bf1a402b7613",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé au sein du village de Châteauneuf-le-Rouge, ce logement bénéficie d’un environnement calme et agréable, à proximité des commerces, des services et des commodités essentielles du quotidien.\n\nLa commune offre un cadre de vie paisible au cœur de la Provence, avec un centre-village convivial et un environnement naturel apprécié. Sa situation permet également de profiter des équipements, commerces et services des communes voisines, notamment à Rousset et à Aix-en-Provence.\n\nLes transports en commun permettent de rejoindre les principaux pôles environnants, selon les dessertes disponibles.\n\nLa proximité de l’autoroute A8 et de la D7N facilite les déplacements vers Aix-en-Provence, Trets, Gardanne et les communes du Pays d’Aix.\n\nCe logement offre un cadre de vie agréable, alliant tranquillité, environnement provençal et accessibilité aux principaux bassins de vie et d’activité.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53931,
+  "guid": "a23668d6-e895-4317-bae0-2607271792bc",
+  "reference": "53931",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b5/b5a67e97-2862-4bad-9c96-a338cc306183/large/3603f411-0b52-4773-825f-be4191c5e73c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b5/b5a67e97-2862-4bad-9c96-a338cc306183/large/058ad21a-50e7-4b76-97bb-de55ea9e97f0",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61625,
+   "guid": "b5a67e97-2862-4bad-9c96-a338cc306183",
+   "reference": "61625",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 103.77,
+   "municipality": {
+    "id": 4360,
+    "postcode": "13790",
+    "code": "13025",
+    "name": "Châteauneuf-le-Rouge"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8457,
+   "guid": "11d261a4-c6d3-4026-b9c0-caea5d071322",
+   "reference": "8457",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 1992,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-05",
+  "endDateOfPublication": "2026-12-02",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé au sein du village de Châteauneuf-le-Rouge, ce logement bénéficie d’un environnement calme et agréable, à proximité des commerces, des services et des commodités essentielles du quotidien.\n\nLa commune offre un cadre de vie paisible au cœur de la Provence, avec un centre-village convivial et un environnement naturel apprécié. Sa situation permet également de profiter des équipements, commerces et services des communes voisines, notamment à Rousset et à Aix-en-Provence.\n\nLes transports en commun permettent de rejoindre les principaux pôles environnants, selon les dessertes disponibles.\n\nLa proximité de l’autoroute A8 et de la D7N facilite les déplacements vers Aix-en-Provence, Trets, Gardanne et les communes du Pays d’Aix.\n\nCe logement offre un cadre de vie agréable, alliant tranquillité, environnement provençal et accessibilité aux principaux bassins de vie et d’activité.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1397.64,
+  "rentChargeAmount": 60.18,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1397.64,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
