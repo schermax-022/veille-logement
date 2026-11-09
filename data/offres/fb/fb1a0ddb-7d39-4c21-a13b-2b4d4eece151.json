@@ -1,0 +1,245 @@
+{
+ "guid": "fb1a0ddb-7d39-4c21-a13b-2b4d4eece151",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-09T22:17:59+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-09T22:17:59+01:00",
+ "liste": {
+  "id": 48161,
+  "guid": "fb1a0ddb-7d39-4c21-a13b-2b4d4eece151",
+  "reference": "48161",
+  "residency": {
+   "id": 7996,
+   "guid": "1515346d-0165-47ca-8bde-32ebd143081a",
+   "reference": "7996",
+   "name": "MILLÉNAIRE",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 56266,
+   "guid": "dc24137b-bc8c-41ab-b0b5-292cfea1f23e",
+   "reference": "56266",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 47.0,
+   "municipality": {
+    "id": 13177,
+    "postcode": "34000",
+    "code": "34172",
+    "name": "Montpellier"
+   },
+   "description": ""
+  },
+  "availableAt": "2027-01-04",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 652.61,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dc24137b-bc8c-41ab-b0b5-292cfea1f23e/medium/e6ca6155-1372-4b16-b6cc-4a0810493d3a",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Secteur Millenaire, quartier dynamique à l'est de Montpellier proche des transports en commun, ligne bus 14 et Tram 1 arrêt millenaire, et des commerces essentiels.\nLes logements sont constitués d’un séjour avec un couchage, une table, des chaises et un coin kitchenette avec plaque de cuisson, évier et réfrigérateur. La salle de bain est équipée d’une douche et d’un lavabo.  \nChaque logement est équipé d'une box internet avec WiFi, incluse dans les charges de la résidence. \nLa résidence met à disposition une laverie avec machine à laver et sèche-linge au prix de 5 €. \nPossibilité de location d’une place de stationnement (+ 15 € / mois) \nLogement disponible début janvier 2027",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 48161,
+  "guid": "fb1a0ddb-7d39-4c21-a13b-2b4d4eece151",
+  "reference": "48161",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/dc/dc24137b-bc8c-41ab-b0b5-292cfea1f23e/large/92b7a547-ad83-4f9a-9f5c-d03b551cf5bd",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 56266,
+   "guid": "dc24137b-bc8c-41ab-b0b5-292cfea1f23e",
+   "reference": "56266",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 47.0,
+   "municipality": {
+    "id": 13177,
+    "postcode": "34000",
+    "code": "34172",
+    "name": "Montpellier"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7996,
+   "guid": "1515346d-0165-47ca-8bde-32ebd143081a",
+   "reference": "7996",
+   "livingRules": "",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": "2026-11-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-04",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Secteur Millenaire, quartier dynamique à l'est de Montpellier proche des transports en commun, ligne bus 14 et Tram 1 arrêt millenaire, et des commerces essentiels.\nLes logements sont constitués d’un séjour avec un couchage, une table, des chaises et un coin kitchenette avec plaque de cuisson, évier et réfrigérateur. La salle de bain est équipée d’une douche et d’un lavabo.  \nChaque logement est équipé d'une box internet avec WiFi, incluse dans les charges de la résidence. \nLa résidence met à disposition une laverie avec machine à laver et sèche-linge au prix de 5 €. \nPossibilité de location d’une place de stationnement (+ 15 € / mois) \nLogement disponible début janvier 2027",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 474.61,
+  "rentChargeAmount": 133.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": 45.0,
+  "securityDepositAmount": 607.61,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

@@ -1,0 +1,262 @@
+{
+ "guid": "1e3b1974-4edf-4ef2-bcfb-a65ef01ca406",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-09T22:17:59+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-09T22:17:59+01:00",
+ "liste": {
+  "id": 54061,
+  "guid": "1e3b1974-4edf-4ef2-bcfb-a65ef01ca406",
+  "reference": "54061",
+  "residency": {
+   "id": 235,
+   "guid": "3502d263-afeb-4088-89ac-d2fce0f2b69e",
+   "reference": "235",
+   "name": "ARLES ALEMBERT",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 46978,
+   "guid": "df70dde5-b3de-45e9-82cd-6555eb23d2db",
+   "reference": "46978",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 17.0,
+   "municipality": {
+    "id": 4338,
+    "postcode": "13200",
+    "code": "13004",
+    "name": "Arles"
+   },
+   "description": null
+  },
+  "availableAt": "2026-11-12",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 457.01,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-09",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/df/df70dde5-b3de-45e9-82cd-6555eb23d2db/medium/fd776f38-f23c-47c2-9985-199903732a6f",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé rue Terrin à Arles, ce logement bénéficie d’un emplacement pratique, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nArles offre un cadre de vie riche en patrimoine et en culture, avec un centre historique reconnu, de nombreux commerces, des marchés, des équipements sportifs et culturels ainsi que des services de proximité. La commune bénéficie également d’un environnement naturel remarquable, à proximité de la Camargue et des paysages provençaux.\n\nLes transports en commun permettent de rejoindre les différents quartiers de la ville et les communes voisines, selon les dessertes disponibles. La gare SNCF d’Arles facilite également les déplacements régionaux.\n\nLa proximité des principaux axes routiers, notamment la RN113 et les accès à l’autoroute A54, permet de rejoindre facilement Nîmes, Avignon, Salon-de-Provence et les communes environnantes.\n\nCe logement offre un cadre de vie agréable, alliant patrimoine, proximité des services et accessibilité au cœur de la Provence.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54061,
+  "guid": "1e3b1974-4edf-4ef2-bcfb-a65ef01ca406",
+  "reference": "54061",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/df/df70dde5-b3de-45e9-82cd-6555eb23d2db/large/5d18b1c8-903f-412d-89c2-37286a9eed44",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 46978,
+   "guid": "df70dde5-b3de-45e9-82cd-6555eb23d2db",
+   "reference": "46978",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 17.0,
+   "municipality": {
+    "id": 4338,
+    "postcode": "13200",
+    "code": "13004",
+    "name": "Arles"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 235,
+   "guid": "3502d263-afeb-4088-89ac-d2fce0f2b69e",
+   "reference": "235",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 1997,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-12",
+  "endDateOfPublication": "2026-11-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé rue Terrin à Arles, ce logement bénéficie d’un emplacement pratique, à proximité des commerces, des établissements scolaires, des services de santé et des commodités essentielles du quotidien.\n\nArles offre un cadre de vie riche en patrimoine et en culture, avec un centre historique reconnu, de nombreux commerces, des marchés, des équipements sportifs et culturels ainsi que des services de proximité. La commune bénéficie également d’un environnement naturel remarquable, à proximité de la Camargue et des paysages provençaux.\n\nLes transports en commun permettent de rejoindre les différents quartiers de la ville et les communes voisines, selon les dessertes disponibles. La gare SNCF d’Arles facilite également les déplacements régionaux.\n\nLa proximité des principaux axes routiers, notamment la RN113 et les accès à l’autoroute A54, permet de rejoindre facilement Nîmes, Avignon, Salon-de-Provence et les communes environnantes.\n\nCe logement offre un cadre de vie agréable, alliant patrimoine, proximité des services et accessibilité au cœur de la Provence.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 457.01,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 457.01,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
