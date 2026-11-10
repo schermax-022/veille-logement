@@ -1,0 +1,250 @@
+{
+ "guid": "dfb9a028-41e4-4361-a762-7d9a39662a29",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-10T19:52:52+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-10T19:52:52+01:00",
+ "liste": {
+  "id": 54369,
+  "guid": "dfb9a028-41e4-4361-a762-7d9a39662a29",
+  "reference": "54369",
+  "residency": {
+   "id": 8883,
+   "guid": "6b499291-86dc-4055-8c0b-91b3d18aba97",
+   "reference": "8883",
+   "name": "BELLE RIVE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62135,
+   "guid": "9966d4ec-7b56-4015-b683-1afcbc4b9f33",
+   "reference": "62135",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 67.78,
+   "municipality": {
+    "id": 22281,
+    "postcode": "59140",
+    "code": "59183",
+    "name": "Dunkerque"
+   },
+   "description": "Découvrez cette résidence neuve de standing idéalement située en plein centre-ville de Dunkerque. Profitez d'un cadre de vie moderne et privilégié au sein d'un environnement sécurisé. À proximité immédiate des commerces, services et commodités, vous bénéficiez également du réseau de bus gratuit pour faciliter vos déplacements. Une adresse idéale alliant confort, modernité et qualité de vie."
+  },
+  "availableAt": "2027-03-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 826.24,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-10",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/99/9966d4ec-7b56-4015-b683-1afcbc4b9f33/medium/c5d995f3-9943-457c-bd49-cba8ce6a41fc",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Découvrez cette résidence neuve de standing idéalement située en plein centre-ville de Dunkerque. Profitez d'un cadre de vie moderne et privilégié au sein d'un environnement sécurisé. À proximité immédiate des commerces, services et commodités, vous bénéficiez également du réseau de bus gratuit pour faciliter vos déplacements. Une adresse idéale alliant confort, modernité et qualité de vie.\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54369,
+  "guid": "dfb9a028-41e4-4361-a762-7d9a39662a29",
+  "reference": "54369",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/99/9966d4ec-7b56-4015-b683-1afcbc4b9f33/large/5aa49bb3-4b46-40d9-bb00-1e0d9d2cc760",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/99/9966d4ec-7b56-4015-b683-1afcbc4b9f33/large/18f163bb-bea6-4d0c-9805-8d591a0aa220",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62135,
+   "guid": "9966d4ec-7b56-4015-b683-1afcbc4b9f33",
+   "reference": "62135",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 67.78,
+   "municipality": {
+    "id": 22281,
+    "postcode": "59140",
+    "code": "59183",
+    "name": "Dunkerque"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 8883,
+   "guid": "6b499291-86dc-4055-8c0b-91b3d18aba97",
+   "reference": "8883",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "NONE"
+   ],
+   "deliveredAt": "2027-03-01",
+   "constructionYear": 2027,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-03-01",
+  "endDateOfPublication": "2026-12-09",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Découvrez cette résidence neuve de standing idéalement située en plein centre-ville de Dunkerque. Profitez d'un cadre de vie moderne et privilégié au sein d'un environnement sécurisé. À proximité immédiate des commerces, services et commodités, vous bénéficiez également du réseau de bus gratuit pour faciliter vos déplacements. Une adresse idéale alliant confort, modernité et qualité de vie.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 656.24,
+  "rentChargeAmount": 170.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 656.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

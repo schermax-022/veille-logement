@@ -1,0 +1,248 @@
+{
+ "guid": "67d9bf19-34fc-4ebf-a431-821b89daaeaf",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-10T19:52:52+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-10T19:52:52+01:00",
+ "liste": {
+  "id": 54230,
+  "guid": "67d9bf19-34fc-4ebf-a431-821b89daaeaf",
+  "reference": "54230",
+  "residency": {
+   "id": 5517,
+   "guid": "919471cc-d149-4ad8-9a2e-e3327585acd7",
+   "reference": "5517",
+   "name": "GENNEVILLIERS 09",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 35853,
+   "guid": "ef3bdc34-ead9-4bb4-b302-975241bb20f9",
+   "reference": "35853",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 81.0,
+   "municipality": {
+    "id": 34980,
+    "postcode": "92230",
+    "code": "92036",
+    "name": "Gennevilliers"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-12-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1168.9,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 62.5,
+  "startDateOfPublication": "2026-11-10",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ef/ef3bdc34-ead9-4bb4-b302-975241bb20f9/medium/594eebed-1caa-4c1d-97fa-d82ce8f3415a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Dans la commune de Gennevilliers (RUE EUGENE DELACROIX ), à proximité des commerces et des transports en commun, appartement de 4 pièces d'une superficie de 81m² situé au 2ème étage.\n\nChauffage collectif et ascenseur. \n\nLa gare la plus proche est celle de d’Asnières – Gennevilliers – Les Courtilles (métro 13)\n\nDisponibilité prévisionnelle Novembre 2025. \n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54230,
+  "guid": "67d9bf19-34fc-4ebf-a431-821b89daaeaf",
+  "reference": "54230",
+  "offerNumber": 3,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ef/ef3bdc34-ead9-4bb4-b302-975241bb20f9/large/f357ece4-1739-4449-ba71-de80af6a9207",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 35853,
+   "guid": "ef3bdc34-ead9-4bb4-b302-975241bb20f9",
+   "reference": "35853",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 81.0,
+   "municipality": {
+    "id": 34980,
+    "postcode": "92230",
+    "code": "92036",
+    "name": "Gennevilliers"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 15,
+    "ordering": 15,
+    "code": "12",
+    "label": "12"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 5517,
+   "guid": "919471cc-d149-4ad8-9a2e-e3327585acd7",
+   "reference": "5517",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "1979-01-01",
+   "constructionYear": 1979,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-31",
+  "endDateOfPublication": "2026-12-09",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Dans la commune de Gennevilliers (RUE EUGENE DELACROIX ), à proximité des commerces et des transports en commun, appartement de 4 pièces d'une superficie de 81m² situé au 2ème étage.\n\nChauffage collectif et ascenseur. \n\nLa gare la plus proche est celle de d’Asnières – Gennevilliers – Les Courtilles (métro 13)\n\nDisponibilité prévisionnelle Novembre 2025. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 838.5,
+  "rentChargeAmount": 267.9,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 838.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 62.5,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

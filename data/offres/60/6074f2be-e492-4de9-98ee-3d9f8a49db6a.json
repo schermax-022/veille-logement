@@ -1,0 +1,246 @@
+{
+ "guid": "6074f2be-e492-4de9-98ee-3d9f8a49db6a",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-10T19:52:52+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-10T19:52:52+01:00",
+ "liste": {
+  "id": 54036,
+  "guid": "6074f2be-e492-4de9-98ee-3d9f8a49db6a",
+  "reference": "54036",
+  "residency": {
+   "id": 8799,
+   "guid": "4ab170f5-f69a-4893-9f42-ceb9786347ff",
+   "reference": "8799",
+   "name": "ARCIS SUR AUBE, 51 RUE DE PARIS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61709,
+   "guid": "1675d253-5ae5-4aae-a3c2-321efba054f4",
+   "reference": "61709",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 73.0,
+   "municipality": {
+    "id": 3175,
+    "postcode": "10700",
+    "code": "10006",
+    "name": "Arcis-sur-Aube"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-30",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 577.95,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "startDateOfPublication": "2026-11-10",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/1675d253-5ae5-4aae-a3c2-321efba054f4/medium/6bc9d54a-a2c5-4c6c-9318-472540550017",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence Rue de Paris à ARCIS-SUR-AUBE, située à une trentaine de kilomètres de la ville de TROYES, proche d'un supermarché et des commerces de proximité, d'une école primaire et la A26.\n\nVenez découvrir ce logement en DUPLEX composé à l'étage inférieur : d'un séjour, d'une cuisine, d'une chambre et d'une salle de bains. Vous y trouverez deux chambres à l'étage.\n\nL'appartement donne vue sur le parking intérieur de la résidence.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54036,
+  "guid": "6074f2be-e492-4de9-98ee-3d9f8a49db6a",
+  "reference": "54036",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/1675d253-5ae5-4aae-a3c2-321efba054f4/large/29e7b341-8306-4104-a24e-cb048ad22832",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/16/1675d253-5ae5-4aae-a3c2-321efba054f4/large/97fc35e5-1144-49eb-92a4-2e0b11fc7039",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61709,
+   "guid": "1675d253-5ae5-4aae-a3c2-321efba054f4",
+   "reference": "61709",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 73.0,
+   "municipality": {
+    "id": 3175,
+    "postcode": "10700",
+    "code": "10006",
+    "name": "Arcis-sur-Aube"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8799,
+   "guid": "4ab170f5-f69a-4893-9f42-ceb9786347ff",
+   "reference": "8799",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-30",
+  "endDateOfPublication": "2026-11-19",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence Rue de Paris à ARCIS-SUR-AUBE, située à une trentaine de kilomètres de la ville de TROYES, proche d'un supermarché et des commerces de proximité, d'une école primaire et la A26.\n\nVenez découvrir ce logement en DUPLEX composé à l'étage inférieur : d'un séjour, d'une cuisine, d'une chambre et d'une salle de bains. Vous y trouverez deux chambres à l'étage.\n\nL'appartement donne vue sur le parking intérieur de la résidence.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 515.53,
+  "rentChargeAmount": 62.42,
+  "rentParkingAmount": 16.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 515.53,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 0.0,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

@@ -1,0 +1,250 @@
+{
+ "guid": "8902fd8d-d49c-4666-832e-26285d0c1628",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-10T19:52:52+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-10T19:52:52+01:00",
+ "liste": {
+  "id": 54404,
+  "guid": "8902fd8d-d49c-4666-832e-26285d0c1628",
+  "reference": "54404",
+  "residency": {
+   "id": 8883,
+   "guid": "6b499291-86dc-4055-8c0b-91b3d18aba97",
+   "reference": "8883",
+   "name": "BELLE RIVE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62163,
+   "guid": "b5adcd56-a96f-41aa-a1dc-d69f90301e90",
+   "reference": "62163",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 49.0,
+   "municipality": {
+    "id": 22281,
+    "postcode": "59140",
+    "code": "59183",
+    "name": "Dunkerque"
+   },
+   "description": "Découvrez cette résidence neuve de standing rue du 110è régiment d'infanterie idéalement située en plein centre-ville de Dunkerque. Profitez d'un cadre de vie moderne et privilégié au sein d'un environnement sécurisé. À proximité immédiate des commerces, services et commodités, vous bénéficiez également du réseau de bus gratuit pour faciliter vos déplacements. Une adresse idéale alliant confort, modernité et qualité de vie."
+  },
+  "availableAt": "2027-03-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 822.89,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-10",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b5/b5adcd56-a96f-41aa-a1dc-d69f90301e90/medium/e03c7e7e-7447-4e81-ba92-82987c185415",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Découvrez cette résidence neuve de standing rue du 110è régiment d'infanterie idéalement située en plein centre-ville de Dunkerque. Profitez d'un cadre de vie moderne et privilégié au sein d'un environnement sécurisé. À proximité immédiate des commerces, services et commodités, vous bénéficiez également du réseau de bus gratuit pour faciliter vos déplacements. Une adresse idéale alliant confort, modernité et qualité de vie.\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54404,
+  "guid": "8902fd8d-d49c-4666-832e-26285d0c1628",
+  "reference": "54404",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b5/b5adcd56-a96f-41aa-a1dc-d69f90301e90/large/f5e7671d-db1c-438f-9a15-7023ef77bd21",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b5/b5adcd56-a96f-41aa-a1dc-d69f90301e90/large/548c5dca-a33f-4d93-8794-58dbaef75542",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62163,
+   "guid": "b5adcd56-a96f-41aa-a1dc-d69f90301e90",
+   "reference": "62163",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 49.0,
+   "municipality": {
+    "id": 22281,
+    "postcode": "59140",
+    "code": "59183",
+    "name": "Dunkerque"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8883,
+   "guid": "6b499291-86dc-4055-8c0b-91b3d18aba97",
+   "reference": "8883",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "NONE"
+   ],
+   "deliveredAt": "2027-03-01",
+   "constructionYear": 2027,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-03-01",
+  "endDateOfPublication": "2026-12-09",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Découvrez cette résidence neuve de standing rue du 110è régiment d'infanterie idéalement située en plein centre-ville de Dunkerque. Profitez d'un cadre de vie moderne et privilégié au sein d'un environnement sécurisé. À proximité immédiate des commerces, services et commodités, vous bénéficiez également du réseau de bus gratuit pour faciliter vos déplacements. Une adresse idéale alliant confort, modernité et qualité de vie.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 652.89,
+  "rentChargeAmount": 170.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 652.89,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

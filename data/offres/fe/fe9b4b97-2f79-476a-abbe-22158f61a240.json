@@ -1,17 +1,17 @@
 {
  "guid": "fe9b4b97-2f79-476a-abbe-22158f61a240",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-11-04T23:38:40+01:00",
- "absente_depuis": "2026-11-05T00:24:10+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-05T00:24:10+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T21:45:29+02:00",
+ "fiche_recuperee_le": "2026-11-10T19:52:52+01:00",
  "liste": {
   "id": 47126,
   "guid": "fe9b4b97-2f79-476a-abbe-22158f61a240",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-06",
+  "startDateOfPublication": "2026-11-10",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/56/56a71519-040d-45f0-b0dd-af14aa87474c/medium/1f67743f-bd71-455e-b680-7ac98e430e03",
@@ -231,7 +231,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-08-19",
-  "endDateOfPublication": "2026-11-04",
+  "endDateOfPublication": "2026-12-09",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "SITUATION IDEALE !\n\nNANCY,  avenue du général Leclerc, à proximité des transports (ligne de TRAM Brabois-Essey), des écoles  ( ICN, ARTEM...) et des commerces, venez découvrir dans cette résidence étudiante : \n\nAppartement T1, d'une superficie de 27 m² au 1er étage avec ascenseur. \nLe logement dispose d'une salle de bains avec baignoire et WC, d'une kitchenette et d'une pièce de vie. \n\nVous pourrez louer une place de stationnement avec un supplément par mois de 33.15 euros.\n\nLogements exclusivement réservés aux étudiants de moins de 30 ans  (étudiants salariés, alternants et apprentis uniquement).\nConventionné APL.\n\n\n",
@@ -250,32 +250,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": 30,
-    "listValues": []
-   },
-   {
-    "id": 1,
-    "ordering": 2,
-    "code": "ETU",
-    "label": "Etudiant",
-    "type": "BOOLEAN",
-    "group": "PROFILE",
-    "boolValue": true,
-    "intStartValue": null,
-    "intEndValue": null,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,

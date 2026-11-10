@@ -1,0 +1,274 @@
+{
+ "guid": "5b4d2d06-4c7c-48cb-902e-92bf0bd8c16b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-10T19:52:52+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-10T19:52:52+01:00",
+ "liste": {
+  "id": 54405,
+  "guid": "5b4d2d06-4c7c-48cb-902e-92bf0bd8c16b",
+  "reference": "54405",
+  "residency": {
+   "id": 8886,
+   "guid": "1861d4f1-4be7-452a-9ec7-a15905379449",
+   "reference": "8886",
+   "name": "SANSAUMOINE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62161,
+   "guid": "a80783d9-21b3-4e19-997f-604695af67b9",
+   "reference": "62161",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 65.04,
+   "municipality": {
+    "id": 12560,
+    "postcode": "33560",
+    "code": "33096",
+    "name": "Carbon-Blanc"
+   },
+   "description": "Nous vous proposons une maison duplex non meublée composée au rez-de-chaussée d'une entrée avec placard, cuisine équipée ouverte sur séjour, terrasse, jardin, WC séparés ; au premier étage 2 chambres avec placard, salle de bain avec WC. "
+  },
+  "availableAt": "2026-12-16",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 824.04,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-10",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a8/a80783d9-21b3-4e19-997f-604695af67b9/medium/51fc5a93-f41d-4aab-af8d-98f5866c2ec5",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence \"Sansaumoine\" située avenue Lafontaine est à proximité des transports en commun (bus 29, 31), établissements scolaires, médecins, pharmacies, supermarchés, boulangeries. \n\nNous vous proposons une maison duplex non meublée composée au rez-de-chaussée d'une entrée avec placard, cuisine équipée ouverte sur séjour, terrasse, jardin, WC séparés ; au premier étage 2 chambres avec placard, salle de bain avec WC. \n",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54405,
+  "guid": "5b4d2d06-4c7c-48cb-902e-92bf0bd8c16b",
+  "reference": "54405",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a8/a80783d9-21b3-4e19-997f-604695af67b9/large/987bb76d-9699-455d-86ae-836abf30813c",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a8/a80783d9-21b3-4e19-997f-604695af67b9/large/576ff74f-f40c-447b-9f4c-8ba216ce035d",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a8/a80783d9-21b3-4e19-997f-604695af67b9/large/7c58c52a-6daa-4aa9-a9c1-506d9641c1c2",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62161,
+   "guid": "a80783d9-21b3-4e19-997f-604695af67b9",
+   "reference": "62161",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 65.04,
+   "municipality": {
+    "id": 12560,
+    "postcode": "33560",
+    "code": "33096",
+    "name": "Carbon-Blanc"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 8,
+    "ordering": 8,
+    "code": "IPE",
+    "label": "Individuel pompe à chaleur",
+    "commercialLabel": "Pompe à chaleur électrique individuelle non comprise dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": {
+    "id": 1,
+    "ordering": 1,
+    "code": "D",
+    "label": "Duplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    },
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 8886,
+   "guid": "1861d4f1-4be7-452a-9ec7-a15905379449",
+   "reference": "8886",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "NONE"
+   ],
+   "deliveredAt": "2026-12-16",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-16",
+  "endDateOfPublication": "2026-11-23",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "La résidence \"Sansaumoine\" située avenue Lafontaine est à proximité des transports en commun (bus 29, 31), établissements scolaires, médecins, pharmacies, supermarchés, boulangeries. \n\nNous vous proposons une maison duplex non meublée composée au rez-de-chaussée d'une entrée avec placard, cuisine équipée ouverte sur séjour, terrasse, jardin, WC séparés ; au premier étage 2 chambres avec placard, salle de bain avec WC. \n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 752.07,
+  "rentChargeAmount": 71.97,
+  "rentParkingAmount": 45.74,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 752.07,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
