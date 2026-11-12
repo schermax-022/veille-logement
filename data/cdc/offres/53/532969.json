@@ -1,23 +1,23 @@
 {
  "guid": "532969",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T23:55:34+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-11-05T07:59:33+01:00",
- "absente_depuis": "2026-11-05T09:19:32+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-05T09:19:32+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-08T01:48:47+02:00",
+ "fiche_recuperee_le": "2026-11-12T09:48:25+01:00",
  "liste": {
   "guid": "532969",
   "id_lot": "532969",
   "id_article": "538881",
   "categorie": "intermediaire",
-  "loyer_cc": 833.05,
+  "loyer_cc": 799.63,
   "latitude": 43.97151,
   "longitude": 4.79087,
   "programme": "3848",
@@ -35,14 +35,14 @@
   "titre": "3 pièces - 1er étage - 63m²",
   "reference": "0158-010026",
   "adresse_complete": "3 Bd Léon Gambetta - VILLENEUVE LES AVIGNON (30400)",
-  "loyer_cc_affiche": 833.05,
+  "loyer_cc_affiche": 799.63,
   "avantages": [
    "Sans honoraires"
   ],
   "lignes_prix": [
    {
     "libelle": "Loyer charges comprises",
-    "valeur": "833,05 € / mois"
+    "valeur": "799,63 € / mois"
    },
    {
     "libelle": "Charges générales",
@@ -50,7 +50,7 @@
    },
    {
     "libelle": "Dépôt de garantie",
-    "valeur": "761,22 €"
+    "valeur": "727,80 €"
    },
    {
     "libelle": "Facture d'énergie estimée",
@@ -59,11 +59,16 @@
   ],
   "gamme": "Logement intermédiaire",
   "les_plus": [
-   "Ascenseur"
+   "Ascenseur",
+   "Exposition Est",
+   "Jardin / Terrasse"
   ],
   "caracteristiques": {
    "Logement": [
-    "Ascenseur"
+    "Ascenseur",
+    "Exposition Est",
+    "Jardin / Terrasse",
+    "TEOM inclus"
    ],
    "Résidence et parties communes": [
     "Année de construction : 2020"
@@ -80,7 +85,7 @@
    "classe": "A",
    "valeur": 2.0
   },
-  "description": "SANS HONORAIRES.\nQuartier Gambetta -\nAgréable T3 de 63² comprenant une cuisine non aménagée ouverte sur séjour donnant accès à un spacieux balcon de 9m², 2 chambres et une salle de bain. Profitez d'une place de stationnement comprise avec votre logement. La résidence se situe à côté d'un arrêt de bus et à proximité de nombreux commerces.\nRéférence à rappeler lors de nos échanges : 0158 - 010026\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+  "description": "SANS HONORAIRES.\nQuartier Gambetta -\nAgréable T3 de 63² situé en rez de jardin. Il est composé d'une pièce de vie avec coin cuisine non aménagée ouverte sur séjour de 30M² donnant accès à une terrasse de 9M² et et un jardinet de 20M², 2 chambres et une salle de bain. Profitez d'une place de stationnement comprise avec votre logement. La résidence se situe à côté d'un arrêt de bus et à proximité de nombreux commerces.\nSoumis à plafond de ressources et photos non contractuelles\nRéférence à rappeler lors de nos échanges : 0158 - 010026\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
   "adresse": "3 Bd Léon Gambetta",
   "ville": "VILLENEUVE LES AVIGNON",
   "code_postal": "30400",
@@ -92,8 +97,8 @@
    "https://referentiel-photos.cdc-habitat.fr/photos/1148625FEC4DC5D8C12589B1004E0C37.jpg",
    "https://referentiel-photos.cdc-habitat.fr/photos/528E2E035678C1DBC12589B1004E1E03.jpg"
   ],
-  "latitude": 43.97165,
-  "longitude": 4.79094
+  "latitude": 43.97151,
+  "longitude": 4.79087
  },
  "fiche_essais": 0
 }
