@@ -1,17 +1,17 @@
 {
  "guid": "f13631ea-1899-456e-a43c-44a1adbe193e",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-11-07T20:36:19+01:00",
- "absente_depuis": "2026-11-07T23:57:50+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-07T23:57:50+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T21:17:53+02:00",
+ "fiche_recuperee_le": "2026-11-12T13:30:52+01:00",
  "liste": {
   "id": 46346,
   "guid": "f13631ea-1899-456e-a43c-44a1adbe193e",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-09-09",
+  "startDateOfPublication": "2026-11-12",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/3c/3c591810-afd5-4eaa-b1e4-af2d7303bd4f/medium/fbe5121c-5b25-4bdc-b4e7-793f317c0748",
@@ -223,7 +223,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2027-01-18",
-  "endDateOfPublication": "2026-11-07",
+  "endDateOfPublication": "2026-11-29",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": true,
   "description": "Située en plein coeur de Pornic, nichée dans un quartier résidentiel au bord du canal de Haute Perche et offrant un cadre de vie exceptionnel. Son emplacement idéal vous permet de tout faire à pied : parc, plages, écoles, commerces et toutes les commodités sont à portée de main. Gare TER à 2 minutes à pied.\n\nAppartement T2 Neuf (Non Meublé) avec une terrasse de 8.45 m² et un local vélo.\nDisponible le 18 Janvier 2027 (Sous réserve du délai de livraison)\n\n\n",
@@ -242,20 +242,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": null,
-    "intEndValue": 29,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": true,
   "isNewLodging": true,
