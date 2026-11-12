@@ -1,0 +1,252 @@
+{
+ "guid": "db8d5b37-70c7-4b3c-8f04-7c380fb5791b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-12T15:00:59+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-12T15:00:59+01:00",
+ "liste": {
+  "id": 54086,
+  "guid": "db8d5b37-70c7-4b3c-8f04-7c380fb5791b",
+  "reference": "54086",
+  "residency": {
+   "id": 8562,
+   "guid": "d38232f3-9358-4a46-b132-b42b90217e61",
+   "reference": "8562",
+   "name": "1.9923",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61764,
+   "guid": "78957032-cb12-431e-bb6c-a76c8b6b793b",
+   "reference": "61764",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 67.07,
+   "municipality": {
+    "id": 23092,
+    "postcode": "60610",
+    "code": "60338",
+    "name": "Lacroix-Saint-Ouen"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-06-13",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 830.27,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-12",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/78/78957032-cb12-431e-bb6c-a76c8b6b793b/medium/a6d9430f-55a5-4ff2-972b-f672989c81d6",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Sur la commune de Lacroix Saint-Ouen, proche de Compiègne, nous vous proposons à la location un appartement composé de 2 chambres, situé rue des Plaideurs.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54086,
+  "guid": "db8d5b37-70c7-4b3c-8f04-7c380fb5791b",
+  "reference": "54086",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/78/78957032-cb12-431e-bb6c-a76c8b6b793b/large/22028baa-3049-498c-92b2-65716eb6ded9",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/78/78957032-cb12-431e-bb6c-a76c8b6b793b/large/f93194a6-d91a-4e67-9057-6bc356cfaeff",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/78/78957032-cb12-431e-bb6c-a76c8b6b793b/large/003e0e57-2ab3-4f8d-a1e0-4c3b5ed848f5",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61764,
+   "guid": "78957032-cb12-431e-bb6c-a76c8b6b793b",
+   "reference": "61764",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 67.07,
+   "municipality": {
+    "id": 23092,
+    "postcode": "60610",
+    "code": "60338",
+    "name": "Lacroix-Saint-Ouen"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8562,
+   "guid": "d38232f3-9358-4a46-b132-b42b90217e61",
+   "reference": "8562",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2022-09-06",
+   "constructionYear": 2022,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-06-13",
+  "endDateOfPublication": "2026-11-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Sur la commune de Lacroix Saint-Ouen, proche de Compiègne, nous vous proposons à la location un appartement composé de 2 chambres, situé rue des Plaideurs.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 766.11,
+  "rentChargeAmount": 64.16,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 766.11,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
