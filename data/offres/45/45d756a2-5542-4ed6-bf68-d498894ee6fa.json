@@ -1,0 +1,230 @@
+{
+ "guid": "45d756a2-5542-4ed6-bf68-d498894ee6fa",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-12T11:15:44+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-12T11:15:44+01:00",
+ "liste": {
+  "id": 54414,
+  "guid": "45d756a2-5542-4ed6-bf68-d498894ee6fa",
+  "reference": "54414",
+  "residency": {
+   "id": 3763,
+   "guid": "926e34bf-1922-432e-8041-7fad277fb9fd",
+   "reference": "3763",
+   "name": "COEUR VILLAGE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 36239,
+   "guid": "d08c753f-9acb-494b-bb94-518ef9b48525",
+   "reference": "36239",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 32.0,
+   "municipality": {
+    "id": 4470,
+    "postcode": "13015",
+    "code": "13215",
+    "name": "Marseille 15e Arrondissement"
+   },
+   "description": "Nous vous proposons un appartement de type 2 complété par une place de stationnement."
+  },
+  "availableAt": "2026-12-09",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 667.02,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-12",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d0/d08c753f-9acb-494b-bb94-518ef9b48525/medium/a10e820e-6549-4dcd-9223-9c9cb75b44c1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé rue Le Chatelier, dans le 15e arrondissement de Marseille, ce logement profite d’un environnement urbain et résidentiel, à proximité des commerces, des établissements scolaires, des services de santé et des commodités du quotidien.\n\nLe secteur bénéficie d’une situation pratique au nord de Marseille, avec un accès aux commerces de proximité, aux équipements et aux différents services de l’arrondissement. Il permet également de rejoindre les quartiers voisins et les principaux pôles d’activité du secteur.\n\nLes transports en commun desservent les différents quartiers de Marseille et facilitent les déplacements au sein de la métropole, selon les lignes et dessertes disponibles.\n\nLa proximité des axes routiers structurants permet de rejoindre les grands boulevards, les autoroutes et les communes environnantes, notamment en direction de l’étang de Berre et du centre de Marseille.\n\nCe logement offre un cadre de vie pratique, associant proximité des services, accessibilité et mobilité au sein de la métropole marseillaise.\n\nL'offre comprend le stationnement.\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54414,
+  "guid": "45d756a2-5542-4ed6-bf68-d498894ee6fa",
+  "reference": "54414",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d0/d08c753f-9acb-494b-bb94-518ef9b48525/large/c79d99de-c96c-4077-8eb8-f6efe65374fa",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 36239,
+   "guid": "d08c753f-9acb-494b-bb94-518ef9b48525",
+   "reference": "36239",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 32.0,
+   "municipality": {
+    "id": 4470,
+    "postcode": "13015",
+    "code": "13215",
+    "name": "Marseille 15e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 3763,
+   "guid": "926e34bf-1922-432e-8041-7fad277fb9fd",
+   "reference": "3763",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-09",
+  "endDateOfPublication": "2026-11-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Situé rue Le Chatelier, dans le 15e arrondissement de Marseille, ce logement profite d’un environnement urbain et résidentiel, à proximité des commerces, des établissements scolaires, des services de santé et des commodités du quotidien.\n\nLe secteur bénéficie d’une situation pratique au nord de Marseille, avec un accès aux commerces de proximité, aux équipements et aux différents services de l’arrondissement. Il permet également de rejoindre les quartiers voisins et les principaux pôles d’activité du secteur.\n\nLes transports en commun desservent les différents quartiers de Marseille et facilitent les déplacements au sein de la métropole, selon les lignes et dessertes disponibles.\n\nLa proximité des axes routiers structurants permet de rejoindre les grands boulevards, les autoroutes et les communes environnantes, notamment en direction de l’étang de Berre et du centre de Marseille.\n\nCe logement offre un cadre de vie pratique, associant proximité des services, accessibilité et mobilité au sein de la métropole marseillaise.\n\nL'offre comprend le stationnement.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 495.87,
+  "rentChargeAmount": 137.59,
+  "rentParkingAmount": 33.56,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
