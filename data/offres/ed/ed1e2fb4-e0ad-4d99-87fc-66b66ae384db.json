@@ -1,17 +1,17 @@
 {
  "guid": "ed1e2fb4-e0ad-4d99-87fc-66b66ae384db",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-11-02T16:40:14+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-11T20:31:43+01:00",
- "absente_depuis": "2026-11-12T01:34:39+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-12T01:34:39+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-02T16:40:14+01:00",
+ "fiche_recuperee_le": "2026-11-13T15:30:51+01:00",
  "liste": {
   "id": 53530,
   "guid": "ed1e2fb4-e0ad-4d99-87fc-66b66ae384db",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-11-02",
+  "startDateOfPublication": "2026-11-13",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/0d/0db54ab1-e063-4adc-9ca8-a1fd79cdfb38/medium/9d248f21-b80e-4bc2-b35f-787566e8b6f5",
@@ -279,7 +279,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-10-19",
-  "endDateOfPublication": "2026-11-11",
+  "endDateOfPublication": "2026-11-17",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
   "description": "La résidence se situe à proximité de la gare (10 minutes à pied), proche du Lac des Grissiotières et restaurant. Parking gratuit devant la résidence.\n\nLes logements sont équipés d’un lit, bureau, salle de bain, coin micro-ondes et réfrigérateur.\nLa résidence dispose également d’espaces collectifs : salon TV, salle de détente, cuisine collective, salle à manger et terrasse extérieure.\nVous trouverez également une laverie, un séchoir, un local sécurisé pour deux-roues, ainsi que des aménagements extérieurs.\n\nNous vous proposons une chambre de 17 m², située au rez-de-chaussée. Elle est composée d’un lit, bureau, salle de bain, coin micro-ondes et réfrigérateur.\n\n",
@@ -298,20 +298,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": 30,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
