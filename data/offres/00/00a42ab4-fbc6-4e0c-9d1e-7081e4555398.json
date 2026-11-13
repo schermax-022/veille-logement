@@ -1,0 +1,265 @@
+{
+ "guid": "00a42ab4-fbc6-4e0c-9d1e-7081e4555398",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-13T16:01:04+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-13T16:01:04+01:00",
+ "liste": {
+  "id": 54662,
+  "guid": "00a42ab4-fbc6-4e0c-9d1e-7081e4555398",
+  "reference": "54662",
+  "residency": {
+   "id": 961,
+   "guid": "584590db-3e49-4c5a-818d-d304bdfe3d88",
+   "reference": "961",
+   "name": "GEORGE GERSHWIN",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 12145,
+   "guid": "b5a00ced-3730-40fb-a993-043931cc5285",
+   "reference": "12145",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 19.0,
+   "municipality": {
+    "id": 30481,
+    "postcode": "77700",
+    "code": "77111",
+    "name": "Chessy"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-13",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 460.6,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b5/b5a00ced-3730-40fb-a993-043931cc5285/medium/c0f56e95-d2c8-4d96-87d0-28d095d73b0d",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La Résidence est située au coeur du nouveau Quartier des Congrès à Chessy, en Seine et Marne.\n\nA 8 minutes à pieds de la Gare RER A (Station Val d’Europe) reliant Paris d’un côté ou la Gare TGV Marne La Vallée de l’autre ; elle est idéalement située.\n\nLa proximité des transports, des commerces, du Centre Commercial Val d’Europe, de l’Université, des Centres de Formation et de nombreuses infrastructures rendent la Résidence agréable à vivre.\n\nlogement équipé, éligible APL\n\n\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54662,
+  "guid": "00a42ab4-fbc6-4e0c-9d1e-7081e4555398",
+  "reference": "54662",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b5/b5a00ced-3730-40fb-a993-043931cc5285/large/7f9e0733-1bd1-4a34-af0b-08e78692db8e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 12145,
+   "guid": "b5a00ced-3730-40fb-a993-043931cc5285",
+   "reference": "12145",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 19.0,
+   "municipality": {
+    "id": 30481,
+    "postcode": "77700",
+    "code": "77111",
+    "name": "Chessy"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 961,
+   "guid": "584590db-3e49-4c5a-818d-d304bdfe3d88",
+   "reference": "961",
+   "livingRules": "Règlement intérieur au sein de la résidence : \n\n- Pas d'animal\n- Pas d'hébergement",
+   "type": {
+    "id": 1,
+    "ordering": 2,
+    "code": "RJA",
+    "label": "Résidence sociale jeunes actifs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-13",
+  "endDateOfPublication": "2026-11-19",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La Résidence est située au coeur du nouveau Quartier des Congrès à Chessy, en Seine et Marne.\n\nA 8 minutes à pieds de la Gare RER A (Station Val d’Europe) reliant Paris d’un côté ou la Gare TGV Marne La Vallée de l’autre ; elle est idéalement située.\n\nLa proximité des transports, des commerces, du Centre Commercial Val d’Europe, de l’Université, des Centres de Formation et de nombreuses infrastructures rendent la Résidence agréable à vivre.\n\nlogement équipé, éligible APL\n\n\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 460.6,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 34,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
