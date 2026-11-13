@@ -1,17 +1,17 @@
 {
  "guid": "b44a11eb-3f8e-4cda-aa7a-c01ab5bc3896",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-28T19:18:55+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-29T12:03:58+01:00",
- "absente_depuis": "2026-10-29T12:44:42+01:00",
- "absences": 2,
- "retrait_detecte": "2026-10-29T12:44:42+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-28T19:18:55+01:00",
+ "fiche_recuperee_le": "2026-11-13T19:30:52+01:00",
  "liste": {
   "id": 38255,
   "guid": "b44a11eb-3f8e-4cda-aa7a-c01ab5bc3896",
@@ -60,9 +60,9 @@
     "code": "92063",
     "name": "Rueil-Malmaison"
    },
-   "description": "Exclusivité, appartement T1 à Rueil Malmaison, 74,53 m², 4e étage.  Sans frais d'agence.  Cet appartement comprend une pièce à vivre avec une cuisine ouverte, offrant un cadre de vie agréable.  L'immeuble est sans ascenseur, avec la présence d’un(e) régisseur(se) assurant la gestion de la copropriété.  Chauffage individuel, place de parking incluse.  Commerces à proximité. Transports en commun à moins de 4 km, avec la gare Rueil-Malmaison desservie par la ligne A du RER. Grands axes routiers facilement accessibles."
+   "description": "Exclusivité, appartement T1 à Rueil Malmaison, 74,53 m², 4e étage.  Sans frais d'agence.  Cet appartement comprend une pièce à vivre avec une cuisine ouverte, offrant un cadre de vie agréable.  L'immeuble est sans ascenseur, avec la présence d’un(e) régisseur(se) assurant la gestion de la copropriété.  Chauffage individuel, place de parking incluse.  Commerces à proximité. Transports en commun à moins de 4 km, avec la gare Rueil-Malmaison desservie par la ligne A du RER. Grands axes routiers facilement accessibles.\nPour votre information, le loyer indiqué sur cette annonce sera augmenté de 1,15 % au 1er janvier 2027, selon la variation de l’indice de révision des loyers"
   },
-  "availableAt": "2026-10-28",
+  "availableAt": "2026-11-13",
   "isLodgingFirstTimeAvailable": false,
   "paymentType": {
    "id": 2,
@@ -77,7 +77,7 @@
   "startDateOfPublication": "2026-04-29",
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/medium/152d85e9-1df0-41ef-b331-e617e46d5a1d",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/medium/133f16ad-b4db-4055-b04f-fcc43ddbe9a7",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "MEDIUM"
@@ -108,9 +108,81 @@
     "dimension": "LARGE"
    },
    {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/de655008-f6f0-4fa0-a284-5328fa3e5846",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
     "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/6f3c3de7-e9d3-48b5-8d27-5b8f17f1bd61",
     "urlContentType": "image/jpeg",
     "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/88a72f8b-50cc-4d68-9310-8ad09b35a4cf",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/6f20badf-7de3-4c36-89a7-6e61cfb675e2",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/c9585615-91ef-4239-873b-3dbf6f9a1582",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/e913b348-3c7a-4f0b-8eec-fdb5230f32c0",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/e41eb33e-6136-40be-8fc0-fde923bdb2d2",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/0d1fc772-001d-41de-a2c3-006a62ebeee6",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/65700eff-4622-4ef3-aba6-ca1dc34191f5",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/ff758032-78a8-4845-a6f0-4d025743198c",
+    "urlContentType": "image/jpeg",
+    "ordering": 10,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/536bd944-d472-47bf-a1f2-04a396f98d17",
+    "urlContentType": "image/jpeg",
+    "ordering": 11,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/850348f5-5554-4efb-8505-42791c4e421e",
+    "urlContentType": "image/jpeg",
+    "ordering": 12,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d2/d2dacd4e-a803-4a9c-865f-629ce3486d0d/large/c7b18577-9954-4d1e-b3df-557e0d20c38b",
+    "urlContentType": "image/jpeg",
+    "ordering": 13,
     "dimension": "LARGE"
    }
   ],
@@ -221,7 +293,7 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-10-28",
+  "availableAt": "2026-11-13",
   "endDateOfPublication": "2027-04-28",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
