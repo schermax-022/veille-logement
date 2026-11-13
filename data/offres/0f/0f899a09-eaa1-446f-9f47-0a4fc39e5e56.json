@@ -1,17 +1,17 @@
 {
  "guid": "0f899a09-eaa1-446f-9f47-0a4fc39e5e56",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-16T15:12:39+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-12T23:49:43+01:00",
- "absente_depuis": "2026-11-13T00:00:57+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-13T00:00:57+01:00",
- "remises_en_ligne": 1,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 2,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-03T17:59:36+01:00",
+ "fiche_recuperee_le": "2026-11-13T15:15:41+01:00",
  "liste": {
   "id": 52275,
   "guid": "0f899a09-eaa1-446f-9f47-0a4fc39e5e56",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-11-03",
+  "startDateOfPublication": "2026-11-13",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/medium/b5c20a1a-78e0-4467-8c39-ce6a69021d2d",
@@ -102,15 +102,63 @@
   "demandGuid": null,
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/f2709b89-8dce-403b-84aa-662e8b1c462c",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/3a82b5bb-d0b3-4f38-ab89-b2d7caa0de9a",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/a56341c9-39e5-40c0-b9d2-455a5bd08087",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/22fa1b9d-dbda-432a-9773-6510363e1f89",
     "urlContentType": "image/jpeg",
     "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/840e82e9-ad93-45a3-9551-89003b931adb",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/f31f2542-b427-4cac-b18f-d9b9fed3ed25",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/104bc0e9-6310-4e28-aa8e-587d4d305569",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/ace26a21-8f31-4b51-8bf7-8a2a43f26ac1",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/d715a9d2-88ed-4a7d-8130-04d01bc26292",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/b24bab07-0248-4465-b8ac-7a09b1e6c624",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/b8204980-0564-4509-b4db-cd7614bb2a85",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d9/d98ff1b9-1ed8-407d-8b8a-4c7b31bf88c9/large/aa9902e1-ce05-4511-9c29-92192e1fbc79",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
     "dimension": "LARGE"
    }
   ],
@@ -173,7 +221,7 @@
     "label": "C"
    },
    "annualEnergyExpenditure": 0.0,
-   "elevatorPresence": "UNKNOWN",
+   "elevatorPresence": "YES",
    "parkingCapacity": null,
    "parkingTypes": [
     {
@@ -233,10 +281,10 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-10-16",
-  "endDateOfPublication": "2026-11-17",
+  "endDateOfPublication": "2026-11-16",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
-  "description": "\nLa résidence située rue Abel est à proximité des transports en commun (tramway ligne C; lignes de bus), médecins, pharmacies, supermarchés, boulangeries. \n\nCe logement est équipé d'un lit, d'un bureau, d'une chaise, d'une kitchenette (frigo, plaques de cuisson) et salle de bain privative.\n",
+  "description": "\nLa résidence située rue Abel est à proximité des transports en commun (tramway ligne C; lignes de bus), médecins, pharmacies, supermarchés, boulangeries. \n\nElle ouvre droit aux APL - Pas de frais d'agence\n\nNous vous proposons cet appartement équipé d'un lit, d'un bureau, avec chaise, d'une kitchenette (frigo, plaques de cuisson) et salle de bain privative.\n\nPhotos non contractuelles\n",
   "paymentType": {
    "id": 2,
    "ordering": 1,
