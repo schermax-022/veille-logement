@@ -1,0 +1,288 @@
+{
+ "guid": "d7b46e9b-c6a5-49c6-9a0a-95566830ba34",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-13T14:15:40+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-13T14:15:40+01:00",
+ "liste": {
+  "id": 54472,
+  "guid": "d7b46e9b-c6a5-49c6-9a0a-95566830ba34",
+  "reference": "54472",
+  "residency": {
+   "id": 5411,
+   "guid": "97b6d412-7f72-41ec-b180-e926fabb4b2d",
+   "reference": "5411",
+   "name": "GRENOBLE LESDIGUIERE",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 35247,
+   "guid": "3502bece-e8fd-4f4a-9f2b-6b2a94aaca1b",
+   "reference": "35247",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 31.5,
+   "municipality": {
+    "id": 14372,
+    "postcode": "38100",
+    "code": "38185",
+    "name": "Grenoble"
+   },
+   "description": null
+  },
+  "availableAt": "2026-11-13",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 631.75,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-13",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/35/3502bece-e8fd-4f4a-9f2b-6b2a94aaca1b/medium/00e8f1f8-b560-4c8f-ae30-6def9cc823a3",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Au sud de Grenoble, à la limite d’Échirolles et à proximité du stade Lesdiguières, découvrez cette nouvelle résidence moderne à la conception bioclimatique pensée dans le respect de l’environnement. Les logements sont tous meublés et équipés avec pour chacun, des toilettes, une salle de bain et une cuisine.\n\nCette résidence équipée d’un visiophone et d’un gardien, mets à disposition des locataires, une salle commune, le wifi, un garage à vélo et un service de lingerie.\n\n La redevance inclut l'ensemble des charges (chauffage, électricité, eau, taxe ordonnances ménagères et entretien parties communes).\n\n Infrastructures à proximités (écoles, commerces, boulangerie, etc.) et transports en communs accessibles : Bus ligne C2 au pied de la résidence, Tramway ligne E, Accès A480 à 5 min de la résidence.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54472,
+  "guid": "d7b46e9b-c6a5-49c6-9a0a-95566830ba34",
+  "reference": "54472",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/35/3502bece-e8fd-4f4a-9f2b-6b2a94aaca1b/large/2cb0e880-0aa7-4eb1-8e61-2f0f210648b0",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/35/3502bece-e8fd-4f4a-9f2b-6b2a94aaca1b/large/35920b20-d12e-4148-9129-8b1721afa0be",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 35247,
+   "guid": "3502bece-e8fd-4f4a-9f2b-6b2a94aaca1b",
+   "reference": "35247",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 31.5,
+   "municipality": {
+    "id": 14372,
+    "postcode": "38100",
+    "code": "38185",
+    "name": "Grenoble"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 10,
+    "ordering": 10,
+    "code": "7",
+    "label": "7"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 5411,
+   "guid": "97b6d412-7f72-41ec-b180-e926fabb4b2d",
+   "reference": "5411",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": false
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-13",
+  "endDateOfPublication": "2026-11-20",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Au sud de Grenoble, à la limite d’Échirolles et à proximité du stade Lesdiguières, découvrez cette nouvelle résidence moderne à la conception bioclimatique pensée dans le respect de l’environnement. Les logements sont tous meublés et équipés avec pour chacun, des toilettes, une salle de bain et une cuisine.\n\nCette résidence équipée d’un visiophone et d’un gardien, mets à disposition des locataires, une salle commune, le wifi, un garage à vélo et un service de lingerie.\n\n La redevance inclut l'ensemble des charges (chauffage, électricité, eau, taxe ordonnances ménagères et entretien parties communes).\n\n Infrastructures à proximités (écoles, commerces, boulangerie, etc.) et transports en communs accessibles : Bus ligne C2 au pied de la résidence, Tramway ligne E, Accès A480 à 5 min de la résidence.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 631.75,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 631.75,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
