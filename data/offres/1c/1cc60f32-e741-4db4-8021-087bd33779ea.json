@@ -1,17 +1,17 @@
 {
  "guid": "1cc60f32-e741-4db4-8021-087bd33779ea",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-11-06T11:44:03+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-12T11:01:01+01:00",
- "absente_depuis": "2026-11-12T11:15:44+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-12T11:15:44+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-06T11:44:03+01:00",
+ "fiche_recuperee_le": "2026-11-13T11:00:58+01:00",
  "liste": {
   "id": 42046,
   "guid": "1cc60f32-e741-4db4-8021-087bd33779ea",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-11-06",
+  "startDateOfPublication": "2026-11-13",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/52/528eb7d1-998e-4138-b108-7ba79225615c/medium/e725f43b-b3d3-4872-8674-dbc3c63deaef",
@@ -238,7 +238,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-11-06",
-  "endDateOfPublication": "2026-11-13",
+  "endDateOfPublication": "2026-11-20",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": true,
   "description": "Nouvelle résidence à Lyon 9ème.\n\nRésidence la Traverse située rue du Docteur Horand 69009 LYON\nIdéalement située à Vaise, secteur St pierre de Vaise.\nCommerces, supermarché et établissements scolaires à proximité.\nTransports en commun: Métro D  station: \"Valmy\".\nAccès rapide autoroute A6 et périphérique.\n\nAppartement meublé et équipé, situé au 6ème étage avec ascenseur.\nLogement disponible immédiatement (sous réserve de travaux) pour une redevance mensuelle incluant les charges générales, une provision d’eau chaude et d’eau froide, une provision de chauffage et l’électricité. \nLe mode de chauffage est collectif. \n\nMerci de situer l'environnement avant de postuler à une offre. \n \n\nLa date limite de dépôt de candidature n’est pas contractuelle\n\n\n",
@@ -257,20 +257,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": null,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": true,
   "isNewLodging": true,
