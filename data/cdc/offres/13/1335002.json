@@ -1,17 +1,17 @@
 {
  "guid": "1335002",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T23:55:34+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-11-13T10:19:08+01:00",
- "absente_depuis": "2026-11-13T10:34:22+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-13T10:34:22+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-08T01:17:03+02:00",
+ "fiche_recuperee_le": "2026-11-13T12:03:57+01:00",
  "liste": {
   "guid": "1335002",
   "id_lot": "1335002",
@@ -54,16 +54,35 @@
    {
     "libelle": "Dépôt de garantie",
     "valeur": "666,98 €"
+   },
+   {
+    "libelle": "Facture d'énergie estimée",
+    "valeur": "394,00 €"
    }
   ],
   "gamme": "Logement intermédiaire",
-  "les_plus": [],
+  "les_plus": [
+   "Ascenseur",
+   "Eau froide comprise",
+   "Parking"
+  ],
   "caracteristiques": {
+   "Logement": [
+    "Ascenseur",
+    "Eau froide comprise",
+    "Parking",
+    "Electrique",
+    "Loggia",
+    "TEOM inclus"
+   ],
    "Résidence et parties communes": [
     "Balcon / Terrasse / Loggia",
     "Ascenseur",
     "Espaces verts",
     "Année de construction : 2026"
+   ],
+   "Chauffage et énergie": [
+    "Collectif Electrique"
    ]
   },
   "description": "SANS HONORAIRES.\nLABARTHE-SUR-LÈZE ? T3 NEUF AVEC LOGGIA ET PARKING\nDécouvrez ce T3 neuf de 65,5 m², situé au 1er étage avec ascenseurs.\nL?appartement se compose d?une entrée avec rangement, d?un séjour avec cuisine de 24 m², de deux chambres de 14 m² et 12 m², d?une salle de bains de 4,5 m² et de WC séparés.\nLe logement bénéficie également d?une loggia de 8 m², idéale pour profiter d?un espace extérieur.\nVous apprécierez particulièrement son agencement fonctionnel, ses rangements, sa loggia ainsi que sa place de parking comprise.\nLa résidence bénéficie d?un environnement pratique, avec commerces et transports accessibles à proximité. Le secteur est notamment desservi par la ligne de bus 316 et la gare de Pins-Justaret se situe à quelques kilomètres.\nUn logement neuf, agréable et fonctionnel, à découvrir rapidement !\nAdresse : Lieu-dit Les Clauses, 31860 LABARTHE-SUR-LÈZE\nRéférence à rappeler lors de nos échanges : B291 - 393771\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
@@ -72,7 +91,10 @@
   "code_postal": "31860",
   "telephone": "0972153303",
   "photos": [
-   "https://referentiel-photos.cdc-habitat.fr/photos/E4CA5B5EBBA1F890C1258E830051C45D.png"
+   "https://referentiel-photos.cdc-habitat.fr/photos/A545E6ECAD7A8C17C1258E9D00511409.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/E4CA5B5EBBA1F890C1258E830051C45D.png",
+   "https://referentiel-photos.cdc-habitat.fr/photos/D19744462D54ADCFC1258E9D00511EBD.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/715818DDA4B298B5C1258E9D00512B1F.jpg"
   ],
   "latitude": 43.45491,
   "longitude": 1.40034
