@@ -1,17 +1,17 @@
 {
  "guid": "f84c629c-5799-445c-907d-a27930052507",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-11-02T12:37:52+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-04T07:24:08+01:00",
- "absente_depuis": "2026-11-04T08:44:26+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-04T08:44:26+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-03T08:49:16+01:00",
+ "fiche_recuperee_le": "2026-11-13T12:30:51+01:00",
  "liste": {
   "id": 53644,
   "guid": "f84c629c-5799-445c-907d-a27930052507",
@@ -60,9 +60,9 @@
     "code": "92020",
     "name": "Châtillon"
    },
-   "description": "Exclusivité - appartement 2 pièces de 41 m² à Chatillon  Sans frais d'agence.  Le bien se compose d’un séjour, d’une cuisine et d’une chambre.  Présence d'un gardien. Ascenseur accessible. L’appartement se situe au 5e étage.  Chauffage collectif au gaz. Un box est disponible.  Quartier desservi par le RER B à Fontenay-Aux-Roses et le tramway T6 à Parc André Malraux. Commerces à proximité."
+   "description": "Exclusivité - appartement 2 pièces de 41 m² à Chatillon  Sans frais d'agence.  Le bien se compose d’un séjour, d’une cuisine et d’une chambre.  Présence d'un gardien. Ascenseur accessible. L’appartement se situe au 5e étage.  Chauffage collectif au gaz. Un box est disponible.  Quartier desservi par le RER B à Fontenay-Aux-Roses et le tramway T6 à Parc André Malraux. Commerces à proximité.\nPour votre information, le loyer indiqué sur cette annonce sera augmenté de 1,15 % au 1er janvier 2027, selon la variation de l’indice de révision des loyers"
   },
-  "availableAt": "2026-11-03",
+  "availableAt": "2026-11-13",
   "isLodgingFirstTimeAvailable": false,
   "paymentType": {
    "id": 2,
@@ -177,10 +177,10 @@
    },
    "isFurnished": false,
    "prmMode": {
-    "id": 3,
-    "ordering": 3,
-    "code": "NA",
-    "label": "Accessible mais non adapté PMR"
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
    },
    "floor": {
     "id": 8,
@@ -219,7 +219,14 @@
    "parkingTypes": [],
    "isKitchenEquipped": false,
    "apartmentType": null,
-   "lodgingAnnexTypes": [],
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
    "outdoorTypes": [],
    "isParkingMandatory": true,
    "numberOfRoomsHousing": 1
@@ -257,7 +264,7 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-11-03",
+  "availableAt": "2026-11-13",
   "endDateOfPublication": "2027-11-01",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
