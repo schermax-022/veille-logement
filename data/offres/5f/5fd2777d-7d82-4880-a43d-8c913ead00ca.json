@@ -1,0 +1,254 @@
+{
+ "guid": "5fd2777d-7d82-4880-a43d-8c913ead00ca",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-16T19:30:55+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-16T19:30:55+01:00",
+ "liste": {
+  "id": 54793,
+  "guid": "5fd2777d-7d82-4880-a43d-8c913ead00ca",
+  "reference": "54793",
+  "residency": {
+   "id": 4180,
+   "guid": "44c4bb5b-36bf-4e24-8479-1d609654c3ac",
+   "reference": "4180",
+   "name": "GENNEVILLIERS 03",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 45678,
+   "guid": "3756d1ad-839b-4cb2-94b1-2c33565f4681",
+   "reference": "45678",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 69.0,
+   "municipality": {
+    "id": 34980,
+    "postcode": "92230",
+    "code": "92036",
+    "name": "Gennevilliers"
+   },
+   "description": "A LOUER, Appartement T3 / 14ème étage à Gennevilliers, 69 m².  Sans frais d'agence.  L'appartement comprend un salon, deux chambres et une cuisine.   Chauffage collectif au gaz. Un emplacement de stationnement inclus. Un gardien est présent.  Commerces à proximité.  Transports Métro ligne 13  (station Asnières - Gennevilliers Les Courtilles). \nPour votre information, le loyer indiqué sur cette annonce sera augmenté de 1,15 % au 1er janvier 2027, selon la variation de l’indice de révision des loyers"
+  },
+  "availableAt": "2026-11-16",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1256.71,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-16",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/37/3756d1ad-839b-4cb2-94b1-2c33565f4681/medium/e5b3fb7f-b13d-418d-a134-1f86615d1bb1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A LOUER, Appartement T3 / 14ème étage à Gennevilliers, 69 m².  Sans frais d'agence.  L'appartement comprend un salon, deux chambres et une cuisine.   Chauffage collectif au gaz. Un emplacement de stationnement inclus. Un gardien est présent.  Commerces à proximité.  Transports Métro ligne 13  (station Asnières - Gennevilliers Les Courtilles). \nPour votre information, le loyer indiqué sur cette annonce sera augmenté de 1,15 % au 1er janvier 2027, selon la variation de l’indice de révision des loyers",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54793,
+  "guid": "5fd2777d-7d82-4880-a43d-8c913ead00ca",
+  "reference": "54793",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/37/3756d1ad-839b-4cb2-94b1-2c33565f4681/large/7564fef8-1fd9-453a-9d50-e30062cd1851",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/37/3756d1ad-839b-4cb2-94b1-2c33565f4681/large/5f6a8e3e-de9f-49d8-b0c4-e239582dc70b",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 45678,
+   "guid": "3756d1ad-839b-4cb2-94b1-2c33565f4681",
+   "reference": "45678",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 69.0,
+   "municipality": {
+    "id": 34980,
+    "postcode": "92230",
+    "code": "92036",
+    "name": "Gennevilliers"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": {
+    "id": 17,
+    "ordering": 17,
+    "code": "14",
+    "label": "14"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 5,
+    "ordering": 5,
+    "code": "E",
+    "label": "E"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 4180,
+   "guid": "44c4bb5b-36bf-4e24-8479-1d609654c3ac",
+   "reference": "4180",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-16",
+  "endDateOfPublication": "2027-11-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "A LOUER, Appartement T3 / 14ème étage à Gennevilliers, 69 m².  Sans frais d'agence.  L'appartement comprend un salon, deux chambres et une cuisine.   Chauffage collectif au gaz. Un emplacement de stationnement inclus. Un gardien est présent.  Commerces à proximité.  Transports Métro ligne 13  (station Asnières - Gennevilliers Les Courtilles). \nPour votre information, le loyer indiqué sur cette annonce sera augmenté de 1,15 % au 1er janvier 2027, selon la variation de l’indice de révision des loyers",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1002.38,
+  "rentChargeAmount": 203.34,
+  "rentParkingAmount": 50.99,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1052.38,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
