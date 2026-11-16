@@ -1,0 +1,261 @@
+{
+ "guid": "ead75b4e-850d-4a25-93ea-315755b4906c",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-16T14:45:44+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-16T14:45:44+01:00",
+ "liste": {
+  "id": 54753,
+  "guid": "ead75b4e-850d-4a25-93ea-315755b4906c",
+  "reference": "54753",
+  "residency": {
+   "id": 8909,
+   "guid": "a825b2a4-88b6-477a-becb-6f4a94156f2a",
+   "reference": "8909",
+   "name": "ONDOA",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62602,
+   "guid": "ef982870-aa4d-48a4-917b-a75bd1ae5ec6",
+   "reference": "62602",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 87.39,
+   "municipality": {
+    "id": 15508,
+    "postcode": "40990",
+    "code": "40279",
+    "name": "Saint-Paul-lès-Dax"
+   },
+   "description": "Nous vous proposons un pavillon composé d'une entrée, cuisine ouverte sur séjour donnant sur une terrasse de 7.50m² et grand jardin de 144m², 3 chambres dont 1chambre parentale au rdc et 2 chambres à l'étage , salle d'eau avec WC à l'étage.\n"
+  },
+  "availableAt": "2026-12-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1047.66,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-16",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ef/ef982870-aa4d-48a4-917b-a75bd1ae5ec6/medium/d29d107c-04ad-4a2a-bef9-701e0daf1f36",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence ONDOA, rue des Cerfs se situe à proximité des services et commerces: boulangerie, supermarché, médecins, transports en commun (bus ligne 1). \n\nNous vous proposons un pavillon composé d'une entrée, cuisine ouverte sur séjour donnant sur une terrasse de 7.50m² et grand jardin de 144m², 3 chambres dont 1chambre parentale au rdc et 2 chambres à l'étage , salle d'eau avec WC à l'étage.\n\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54753,
+  "guid": "ead75b4e-850d-4a25-93ea-315755b4906c",
+  "reference": "54753",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ef/ef982870-aa4d-48a4-917b-a75bd1ae5ec6/large/1795a93d-1a7f-403a-b28f-e1ed6a6160cb",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ef/ef982870-aa4d-48a4-917b-a75bd1ae5ec6/large/23f69f0e-0dd8-4a8d-be34-f2f6d94cc11e",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ef/ef982870-aa4d-48a4-917b-a75bd1ae5ec6/large/0100e374-20f9-4c52-bf60-d233ef286193",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62602,
+   "guid": "ef982870-aa4d-48a4-917b-a75bd1ae5ec6",
+   "reference": "62602",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 87.39,
+   "municipality": {
+    "id": 15508,
+    "postcode": "40990",
+    "code": "40279",
+    "name": "Saint-Paul-lès-Dax"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 3,
+    "ordering": 3,
+    "code": "NA",
+    "label": "Accessible mais non adapté PMR"
+   },
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 6,
+     "ordering": 4,
+     "code": "EST",
+     "label": "Emplacement de stationnement"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 3
+  },
+  "residency": {
+   "id": 8909,
+   "guid": "a825b2a4-88b6-477a-becb-6f4a94156f2a",
+   "reference": "8909",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-11-27",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-01",
+  "endDateOfPublication": "2026-11-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence ONDOA, rue des Cerfs se situe à proximité des services et commerces: boulangerie, supermarché, médecins, transports en commun (bus ligne 1). \n\nNous vous proposons un pavillon composé d'une entrée, cuisine ouverte sur séjour donnant sur une terrasse de 7.50m² et grand jardin de 144m², 3 chambres dont 1chambre parentale au rdc et 2 chambres à l'étage , salle d'eau avec WC à l'étage.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 978.0,
+  "rentChargeAmount": 69.66,
+  "rentParkingAmount": 120.36,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 978.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
