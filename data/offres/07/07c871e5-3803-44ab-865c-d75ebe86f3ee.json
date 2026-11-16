@@ -1,0 +1,277 @@
+{
+ "guid": "07c871e5-3803-44ab-865c-d75ebe86f3ee",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-16T14:15:47+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-16T14:15:47+01:00",
+ "liste": {
+  "id": 44207,
+  "guid": "07c871e5-3803-44ab-865c-d75ebe86f3ee",
+  "reference": "44207",
+  "residency": {
+   "id": 3239,
+   "guid": "cab9f551-6563-426f-b0bd-57a5e34e708c",
+   "reference": "3239",
+   "name": "RENNES - JOSEPH MARTRAY",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 53109,
+   "guid": "d637ddeb-09f3-492f-a82d-237f8230259a",
+   "reference": "53109",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 116.5,
+   "municipality": {
+    "id": 13576,
+    "postcode": "35000",
+    "code": "35238",
+    "name": "Rennes"
+   },
+   "description": "Appartement de type T5 comprenant : entrée, séjour, cuisine séparée, cellier, 2 wc séparés, dgt.,salle de bains, 4 chambres dont 1 avec dressing et 1 avec placard et 1 avec placard et salle d'eau, terrasse, cave."
+  },
+  "availableAt": "2026-08-17",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1233.45,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-16",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d6/d637ddeb-09f3-492f-a82d-237f8230259a/medium/4eece232-8426-401b-b57e-59ad164bd8d0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A Rennes, Rue Joseph Martray, à proximité de la station de métro \"Villejean université\" (ligne A) et à 15 min du centre-ville, nous vous proposons un appartement  comprenant :  entrée, séjour, cuisine séparée, cellier, 2 wc séparés, salle de bains, 4 chambres dont 1 avec dressing et 1 avec placard et 1 avec placard et salle d'eau, terrasse, cave. \n\nRésidence avec chauffage et eau chaude collective. \n\nStationnement en sous-sol.\n\nPostulez ! L'équipe locative Action Logement vous contactera pour faire le point sur votre demande.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 44207,
+  "guid": "07c871e5-3803-44ab-865c-d75ebe86f3ee",
+  "reference": "44207",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d6/d637ddeb-09f3-492f-a82d-237f8230259a/large/d36a790c-2f57-47ce-a214-139435be64c1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/d6/d637ddeb-09f3-492f-a82d-237f8230259a/large/1407b612-50cd-40f1-a8e5-d627ff4cc236",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 53109,
+   "guid": "d637ddeb-09f3-492f-a82d-237f8230259a",
+   "reference": "53109",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 116.5,
+   "municipality": {
+    "id": 13576,
+    "postcode": "35000",
+    "code": "35238",
+    "name": "Rennes"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 3239,
+   "guid": "cab9f551-6563-426f-b0bd-57a5e34e708c",
+   "reference": "3239",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2016,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-08-17",
+  "endDateOfPublication": "2026-12-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A Rennes, Rue Joseph Martray, à proximité de la station de métro \"Villejean université\" (ligne A) et à 15 min du centre-ville, nous vous proposons un appartement  comprenant :  entrée, séjour, cuisine séparée, cellier, 2 wc séparés, salle de bains, 4 chambres dont 1 avec dressing et 1 avec placard et 1 avec placard et salle d'eau, terrasse, cave. \n\nRésidence avec chauffage et eau chaude collective. \n\nStationnement en sous-sol.\n\nPostulez ! L'équipe locative Action Logement vous contactera pour faire le point sur votre demande.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 990.45,
+  "rentChargeAmount": 243.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 990.45,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

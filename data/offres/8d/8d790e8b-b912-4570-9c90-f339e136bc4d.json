@@ -1,17 +1,17 @@
 {
  "guid": "8d790e8b-b912-4570-9c90-f339e136bc4d",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-14T15:10:59+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-13T23:45:37+01:00",
- "absente_depuis": "2026-11-14T00:00:55+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-14T00:00:55+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-14T15:10:59+02:00",
+ "fiche_recuperee_le": "2026-11-16T14:15:47+01:00",
  "liste": {
   "id": 52045,
   "guid": "8d790e8b-b912-4570-9c90-f339e136bc4d",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": true,
   "agencyFeesAmount": 2236.0,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-14",
+  "startDateOfPublication": "2026-11-16",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/c2/c26ed406-f0d2-4a24-b6c4-a8bcf619112c/medium/bb58d52e-833c-48ae-b2ec-58a05134a448",
@@ -188,11 +188,11 @@
    "toiletType": null,
    "bathroomType": null,
    "heatingMode": {
-    "id": 10,
-    "ordering": 10,
-    "code": "IAU",
-    "label": "Individuel autre",
-    "commercialLabel": "Chauffage individuel non compris dans les charges"
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
    },
    "hotWaterType": "INDIVIDUAL",
    "coldWaterType": "INDIVIDUAL",
@@ -260,13 +260,15 @@
    },
    "lifeStyles": [],
    "services": [],
-   "requiredWarrantyTypes": [],
+   "requiredWarrantyTypes": [
+    "VISALE"
+   ],
    "deliveredAt": "2026-10-14",
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-10-14",
-  "endDateOfPublication": "2026-11-13",
+  "endDateOfPublication": "2026-11-30",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
   "description": "A Marquette-lez-Lille, nous vous proposons une maison 3 chambres, située Hameau du blanc.\n\nLe logement comprend un poêle à granulés, une cuisine ouverte, une douche + baignoire et WC séparés. Les chambres sont à l'étage.\n\nSituée dans une ville à taille humaine, vous retrouverez : supermarché, écoles, espaces verts et complexes sportifs.\n\nLes transports en communs et accès routiers sont proches : Gare SNCF, bus ligne B/88 au pied du logement et accès routier M108.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.\n\n",

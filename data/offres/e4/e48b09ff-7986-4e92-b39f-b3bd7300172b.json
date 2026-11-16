@@ -1,0 +1,250 @@
+{
+ "guid": "e48b09ff-7986-4e92-b39f-b3bd7300172b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-16T14:15:47+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-16T14:15:47+01:00",
+ "liste": {
+  "id": 54722,
+  "guid": "e48b09ff-7986-4e92-b39f-b3bd7300172b",
+  "reference": "54722",
+  "residency": {
+   "id": 6304,
+   "guid": "1c81abb5-b2fd-496f-85d0-a160a5c7a56f",
+   "reference": "6304",
+   "name": "ALLUVIONS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 42305,
+   "guid": "a8e649d0-72a8-4572-8a1d-f05a52e22074",
+   "reference": "42305",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 94.0,
+   "municipality": {
+    "id": 18333,
+    "postcode": "50000",
+    "code": "50502",
+    "name": "Saint-Lô"
+   },
+   "description": "Belle maison à louer avec une petite véranda de 9 m² et une terrasse de 15 m².\nLa cuisine est équipée et aménagée. Trois chambres.\nVous pourrez également bénéficier un garage d'environ 15 m² (Rue de l'Yser) avec un accès par le jardin, une cave de 38 m², un caveau de 9 m² et un emplacement de voiture devant le garage."
+  },
+  "availableAt": "2027-01-03",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 850.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-16",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a8/a8e649d0-72a8-4572-8a1d-f05a52e22074/medium/fc49b203-936e-4eec-b259-ffd0a23cd3d1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Belle maison à louer avec une petite véranda de 9 m² et une terrasse de 15 m².\nLa cuisine est équipée et aménagée. Trois chambres.\nVous pourrez également bénéficier un garage d'environ 15 m² (Rue de l'Yser) avec un accès par le jardin, une cave de 38 m², un caveau de 9 m² et un emplacement de voiture devant le garage.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54722,
+  "guid": "e48b09ff-7986-4e92-b39f-b3bd7300172b",
+  "reference": "54722",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a8/a8e649d0-72a8-4572-8a1d-f05a52e22074/large/530c3e3d-7674-4470-866f-915460ed1d8f",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/a8/a8e649d0-72a8-4572-8a1d-f05a52e22074/large/9161447a-7301-4efd-b21b-7d743d4a5398",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 42305,
+   "guid": "a8e649d0-72a8-4572-8a1d-f05a52e22074",
+   "reference": "42305",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 94.0,
+   "municipality": {
+    "id": 18333,
+    "postcode": "50000",
+    "code": "50502",
+    "name": "Saint-Lô"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 6304,
+   "guid": "1c81abb5-b2fd-496f-85d0-a160a5c7a56f",
+   "reference": "6304",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-03",
+  "endDateOfPublication": "2026-12-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Belle maison à louer avec une petite véranda de 9 m² et une terrasse de 15 m².\nLa cuisine est équipée et aménagée. Trois chambres.\nVous pourrez également bénéficier un garage d'environ 15 m² (Rue de l'Yser) avec un accès par le jardin, une cave de 38 m², un caveau de 9 m² et un emplacement de voiture devant le garage.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 850.0,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
