@@ -1,0 +1,235 @@
+{
+ "guid": "bd622e6d-8d94-4737-b2a0-c37ef99f15df",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-16T16:46:00+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-16T16:46:00+01:00",
+ "liste": {
+  "id": 54439,
+  "guid": "bd622e6d-8d94-4737-b2a0-c37ef99f15df",
+  "reference": "54439",
+  "residency": {
+   "id": 7033,
+   "guid": "e8aadfef-1447-4ef3-873a-c256dc420002",
+   "reference": "7033",
+   "name": "RILLIEUX LA PAPE   128 HLM",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 48473,
+   "guid": "23acca27-85bf-419d-a231-177e552cf3f6",
+   "reference": "48473",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 64.0,
+   "municipality": {
+    "id": 27592,
+    "postcode": "69140",
+    "code": "69286",
+    "name": "Rillieux-la-Pape"
+   },
+   "description": "  Type T4, 64 m2 , Ref : 00110-00001-00001-00044 , A RILLIEUX LA PAPE, au 4° étage, sans ascenseur , Chauffage urbain collectif,  Financement : PLI , Disponible le 27/04/2026, Loyer HC 609.63 €, Charges 172.83 €, Loyer CC 782.46 € (chauffage et eau chaude compris) Dépot de garantie 609.63 €, Indice d'émission de gaz à effet de serre (GES) : 56 à 80, Diagnostic de performance énergétique (DPE) : 151 à 230, Date du DPE : 13/12/2023"
+  },
+  "availableAt": "2026-03-27",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 782.46,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-16",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/23/23acca27-85bf-419d-a231-177e552cf3f6/medium/270f3892-74d9-45e4-83bb-28ccd900e2be",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence située à Rillieux la Pape - RUE DE LA SAONE \nCommerces, supermarché, groupe scolaire se situent dans un rayon de 800 m. autour de la résidence.\nLes transports en commun: ligne de bus 33 arrêt: CHEVALIER.\n\nAppartement situé au 4 -ème étage de la résidence sans ascenseur.\nIl comprend un séjour, une cuisine, trois chambres, salle de bains et WC.\nCharges incluses: charges générales d'immeubles, production d'eau chaude ainsi que le chauffage.\nLe chauffage est collectif urbain.\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54439,
+  "guid": "bd622e6d-8d94-4737-b2a0-c37ef99f15df",
+  "reference": "54439",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/23/23acca27-85bf-419d-a231-177e552cf3f6/large/d0502565-1c93-465f-80a0-193256e2418a",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 48473,
+   "guid": "23acca27-85bf-419d-a231-177e552cf3f6",
+   "reference": "48473",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 64.0,
+   "municipality": {
+    "id": 27592,
+    "postcode": "69140",
+    "code": "69286",
+    "name": "Rillieux-la-Pape"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 7033,
+   "guid": "e8aadfef-1447-4ef3-873a-c256dc420002",
+   "reference": "7033",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-03-27",
+  "endDateOfPublication": "2026-12-05",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence située à Rillieux la Pape - RUE DE LA SAONE \nCommerces, supermarché, groupe scolaire se situent dans un rayon de 800 m. autour de la résidence.\nLes transports en commun: ligne de bus 33 arrêt: CHEVALIER.\n\nAppartement situé au 4 -ème étage de la résidence sans ascenseur.\nIl comprend un séjour, une cuisine, trois chambres, salle de bains et WC.\nCharges incluses: charges générales d'immeubles, production d'eau chaude ainsi que le chauffage.\nLe chauffage est collectif urbain.\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 609.63,
+  "rentChargeAmount": 172.83,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 609.63,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
