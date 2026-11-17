@@ -1,17 +1,17 @@
 {
  "guid": "9a5ec402-6289-4f83-abe2-0cd4341e96c9",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-30T10:26:30+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-10T12:45:24+01:00",
- "absente_depuis": "2026-11-10T19:52:52+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-10T19:52:52+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-30T10:26:30+01:00",
+ "fiche_recuperee_le": "2026-11-17T09:15:44+01:00",
  "liste": {
   "id": 53505,
   "guid": "9a5ec402-6289-4f83-abe2-0cd4341e96c9",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-30",
+  "startDateOfPublication": "2026-11-17",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/a6/a68bcd09-9ccd-4c82-b2e9-56c4c2b423df/medium/979fa480-bbaf-4f7a-a78b-dd399e653fb8",
@@ -222,7 +222,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-11-14",
-  "endDateOfPublication": "2026-11-14",
+  "endDateOfPublication": "2026-11-20",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "Située en bordure de la rue Haxo, la résidence HAXO est desservie par la ligne 3 (Porte de Bagnolet et Gambetta) et la ligne 3b (Saint-Fargeau).\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n\n",
@@ -241,20 +241,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": 24,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
