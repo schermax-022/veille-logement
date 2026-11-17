@@ -1,17 +1,17 @@
 {
  "guid": "419b49e4-3fb4-4d04-bdbd-e2753ad4939d",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-11-02T11:47:52+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-07T20:36:19+01:00",
- "absente_depuis": "2026-11-07T23:57:50+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-07T23:57:50+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-02T11:47:52+01:00",
+ "fiche_recuperee_le": "2026-11-17T17:01:01+01:00",
  "liste": {
   "id": 53515,
   "guid": "419b49e4-3fb4-4d04-bdbd-e2753ad4939d",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-11-02",
+  "startDateOfPublication": "2026-11-17",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/67/67743032-68d7-4348-b22b-75e8d0312838/medium/3b49ca11-633c-45cf-b9ef-0b7eccfd6b63",
@@ -237,7 +237,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-11-07",
-  "endDateOfPublication": "2026-11-07",
+  "endDateOfPublication": "2026-11-22",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "Résidence Lafayette située rue du 14 juillet 1789, 69100 VILLEURBANNE.\nIdéalement située à Villeurbanne, Secteur Ferrandière.\nCommerces, supermarché et établissements scolaires à proximité.\nTransports en commun: Ligne C9 Arrêt:  \"Ferrandière\" , ligne C16 Arrêt \"Patinoire Baraban\".\n\nAppartement meublé et équipé, situé au 3ème étage avec ascenseur.\nLogement disponible à partir du 07/11/2026 (sous réserve de travaux) pour une redevance mensuelle incluant les charges générales, une provision d’eau chaude et d’eau froide, une provision de chauffage et l’électricité.\nLe mode de chauffage est collectif.\n\nMerci de situer l'environnement avant de postuler à une offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\nLes animaux sont interdits dans la résidence.\n",
@@ -256,7 +256,20 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": true,
   "isNewLodging": false,
