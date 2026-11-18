@@ -1,17 +1,17 @@
 {
  "guid": "f435b780-158a-424b-bf9e-0ad811b700d2",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-23T11:05:06+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-26T08:09:29+01:00",
- "absente_depuis": "2026-10-26T08:56:52+01:00",
- "absences": 2,
- "retrait_detecte": "2026-10-26T08:56:52+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-23T11:05:06+02:00",
+ "fiche_recuperee_le": "2026-11-18T12:01:01+01:00",
  "liste": {
   "id": 52953,
   "guid": "f435b780-158a-424b-bf9e-0ad811b700d2",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-23",
+  "startDateOfPublication": "2026-11-18",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/04/042c7647-0554-4e71-973b-ca63eb6b6e2b/medium/66406ea2-800e-432b-a667-5652eb53bec6",
@@ -245,7 +245,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-11-09",
-  "endDateOfPublication": "2026-11-05",
+  "endDateOfPublication": "2026-11-19",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "Cette résidence pour jeunes bénéficie d'une localisation en cœur de ville, à proximité de la Mairie, et de nombreux équipements culturels et commerces de proximité. La gare (RER A) accessible à pied en 20 min et en bus en 5 min permet d’atteindre Châtelet en 40 min et La Défense en 25 min.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n\n",
@@ -264,20 +264,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": 29,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
