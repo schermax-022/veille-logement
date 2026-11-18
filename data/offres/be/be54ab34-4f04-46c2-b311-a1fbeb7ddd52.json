@@ -1,17 +1,17 @@
 {
  "guid": "be54ab34-4f04-46c2-b311-a1fbeb7ddd52",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-13T19:48:53+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-29T12:03:58+01:00",
- "absente_depuis": "2026-10-29T12:44:42+01:00",
- "absences": 2,
- "retrait_detecte": "2026-10-29T12:44:42+01:00",
- "remises_en_ligne": 1,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 2,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-28T08:48:31+01:00",
+ "fiche_recuperee_le": "2026-11-18T19:30:57+01:00",
  "liste": {
   "id": 44358,
   "guid": "be54ab34-4f04-46c2-b311-a1fbeb7ddd52",
@@ -60,9 +60,9 @@
     "code": "92060",
     "name": "Le Plessis-Robinson"
    },
-   "description": "Exclusivité - appartement 3 pièces de 64 m² au Plessis Robinson avec balcon.  Sans frais d'agence.  L'espace de vie inclut un salon, une cuisine indépendante, deux chambres, une salle de bains et un WC séparé.  Le bien se trouve au 1er étage d'un immeuble de 5 étages. La sécurité est assurée par un système d'accès et un ascenseur facilite les déplacements.  Balcon, cave, chauffage individuel, une place de parking.   Transports : station Robinson du RER B à proximité. Commerces à proximité. Établissements scolaires accessibles."
+   "description": "Exclusivité - appartement 3 pièces de 64 m² au Plessis Robinson avec balcon.  Sans frais d'agence.  L'espace de vie inclut un salon, une cuisine indépendante, deux chambres, une salle de bains et un WC séparé.  Le bien se trouve au 1er étage d'un immeuble de 5 étages.  Balcon, cave, chauffage individuel à accumulation de chaleur, une place de parking.   Transports : station Robinson du RER B à proximité. Commerces à proximité. Établissements scolaires accessibles.\nPour votre information, le loyer indiqué sur cette annonce sera augmenté de 1,15 % au 1er janvier 2027, selon la variation de l’indice de révision des loyers"
   },
-  "availableAt": "2026-10-28",
+  "availableAt": "2026-11-18",
   "isLodgingFirstTimeAvailable": false,
   "paymentType": {
    "id": 2,
@@ -77,7 +77,7 @@
   "startDateOfPublication": "2026-07-20",
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad2c76ad-2c8b-4ab7-9afd-b8ab88f94979/medium/c05c1fc0-ad0e-4f22-9bdc-27bad35ff925",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad2c76ad-2c8b-4ab7-9afd-b8ab88f94979/medium/7c6940db-cddf-4b54-9e53-91736bb02d2c",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "MEDIUM"
@@ -102,21 +102,15 @@
   "demandGuid": null,
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad2c76ad-2c8b-4ab7-9afd-b8ab88f94979/large/404620d2-edb9-472b-a284-db06bfa19740",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad2c76ad-2c8b-4ab7-9afd-b8ab88f94979/large/02f3c94b-1bf8-4b5a-acae-7454abf41043",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad2c76ad-2c8b-4ab7-9afd-b8ab88f94979/large/6e22f06d-14dd-4500-b253-944c071da17e",
-    "urlContentType": "image/png",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad2c76ad-2c8b-4ab7-9afd-b8ab88f94979/large/404620d2-edb9-472b-a284-db06bfa19740",
+    "urlContentType": "image/jpeg",
     "ordering": 0,
-    "dimension": "LARGE"
-   },
-   {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad2c76ad-2c8b-4ab7-9afd-b8ab88f94979/large/81e25aca-2dff-425a-9396-4bcfa6a04c9c",
-    "urlContentType": "image/png",
-    "ordering": 1,
     "dimension": "LARGE"
    },
    {
@@ -153,12 +147,6 @@
     "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad2c76ad-2c8b-4ab7-9afd-b8ab88f94979/large/5d8fe3f2-e544-4676-956c-89ac3cbf6629",
     "urlContentType": "image/jpeg",
     "ordering": 6,
-    "dimension": "LARGE"
-   },
-   {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/ad/ad2c76ad-2c8b-4ab7-9afd-b8ab88f94979/large/d0f01880-d838-4b6b-83c2-82d38a137f3b",
-    "urlContentType": "image/jpeg",
-    "ordering": 7,
     "dimension": "LARGE"
    }
   ],
@@ -226,7 +214,7 @@
     "label": "C"
    },
    "annualEnergyExpenditure": null,
-   "elevatorPresence": "YES",
+   "elevatorPresence": "NO",
    "parkingCapacity": null,
    "parkingTypes": [],
    "isKitchenEquipped": false,
@@ -283,7 +271,7 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-10-28",
+  "availableAt": "2026-11-18",
   "endDateOfPublication": "2027-07-19",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
