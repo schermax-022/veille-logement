@@ -1,17 +1,17 @@
 {
  "guid": "f7060edf-1fa3-4563-b20b-b4460fd98b1d",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-11-03T17:07:35+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-17T23:45:53+01:00",
- "absente_depuis": "2026-11-18T00:01:06+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-18T00:01:06+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-03T17:07:35+01:00",
+ "fiche_recuperee_le": "2026-11-18T17:01:04+01:00",
  "liste": {
   "id": 53761,
   "guid": "f7060edf-1fa3-4563-b20b-b4460fd98b1d",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-11-03",
+  "startDateOfPublication": "2026-11-18",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8ebb11f1-bedf-4b87-8742-5d1ad1b205b4/medium/73104e00-9b23-4a91-9efa-1d8e06e07058",
@@ -267,7 +267,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-11-02",
-  "endDateOfPublication": "2026-11-17",
+  "endDateOfPublication": "2026-11-25",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
   "description": "La résidence AINTZIRA est située 16 Rue Chiquito de Cambo, à proximité de la gare, des lignes de bus (Txik Txak).\n\nNous vous proposons un appartement meublé et équipé composé d'une pièce de vie, cuisine, salle de bain, WC, place de parking. \n\nSur place est disponible une laverie, un espace de coworking, un jardin et une terrasse.\n\nAucun frais d’agence n’est à prévoir. Le dépôt de garantie correspond à un mois de loyer.\n\n",
@@ -286,20 +286,7 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [
-   {
-    "id": 3,
-    "ordering": 1,
-    "code": "AGE",
-    "label": "Âge",
-    "type": "INTEGER_INTERVAL",
-    "group": "AGE",
-    "boolValue": null,
-    "intStartValue": 18,
-    "intEndValue": 30,
-    "listValues": []
-   }
-  ],
+  "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": true,
   "isNewLodging": false,
