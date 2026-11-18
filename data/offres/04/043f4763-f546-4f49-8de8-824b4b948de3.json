@@ -1,0 +1,238 @@
+{
+ "guid": "043f4763-f546-4f49-8de8-824b4b948de3",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-18T11:30:59+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-18T11:30:59+01:00",
+ "liste": {
+  "id": 54936,
+  "guid": "043f4763-f546-4f49-8de8-824b4b948de3",
+  "reference": "54936",
+  "residency": {
+   "id": 8994,
+   "guid": "acd8998c-9781-4f68-af95-4418fddc5099",
+   "reference": "8994",
+   "name": "HAMEAU DU PARC",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62790,
+   "guid": "f5108f30-1b8e-454e-b0e3-36fa58fea1ad",
+   "reference": "62790",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 99.0,
+   "municipality": {
+    "id": 31120,
+    "postcode": "78770",
+    "code": "78616",
+    "name": "Thoiry"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-12-17",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1003.82,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-18",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f5/f5108f30-1b8e-454e-b0e3-36fa58fea1ad/medium/6d9bc8bf-2bf2-4882-9b33-b35673b067b5",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "\nCe logement est proche de toutes commodités (Commerces de proximité, supermarchés et services accessible à pied, restaurants, pharmacies et équipements du quotidien à quelques minutes).\n\nAccès rapide aux transports en commun facilitant les déplacements vers Paris et les environs.\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54936,
+  "guid": "043f4763-f546-4f49-8de8-824b4b948de3",
+  "reference": "54936",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/f5/f5108f30-1b8e-454e-b0e3-36fa58fea1ad/large/3c2854f2-3485-463d-be05-9845a9f6fb41",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62790,
+   "guid": "f5108f30-1b8e-454e-b0e3-36fa58fea1ad",
+   "reference": "62790",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 10,
+    "ordering": 9,
+    "code": "T5",
+    "label": "T5",
+    "commercialLabel": "T5"
+   },
+   "area": 99.0,
+   "municipality": {
+    "id": 31120,
+    "postcode": "78770",
+    "code": "78616",
+    "name": "Thoiry"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 8994,
+   "guid": "acd8998c-9781-4f68-af95-4418fddc5099",
+   "reference": "8994",
+   "livingRules": "",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-17",
+  "endDateOfPublication": "2026-12-18",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "\nCe logement est proche de toutes commodités (Commerces de proximité, supermarchés et services accessible à pied, restaurants, pharmacies et équipements du quotidien à quelques minutes).\n\nAccès rapide aux transports en commun facilitant les déplacements vers Paris et les environs.\nLa date limite de dépôt de candidature n'est pas contractuelle\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 937.82,
+  "rentChargeAmount": 66.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 24,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
