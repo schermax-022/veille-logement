@@ -1,17 +1,17 @@
 {
  "guid": "7312f3f4-b6e7-4024-838c-d10e47d19911",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-28T15:19:35+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-11T20:31:43+01:00",
- "absente_depuis": "2026-11-12T01:34:39+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-12T01:34:39+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-28T15:19:35+01:00",
+ "fiche_recuperee_le": "2026-11-18T07:30:55+01:00",
  "liste": {
   "id": 53342,
   "guid": "7312f3f4-b6e7-4024-838c-d10e47d19911",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-28",
+  "startDateOfPublication": "2026-11-18",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/d3/d3c597c1-eaea-4511-bda3-6cf29693b8ce/medium/8bb415ed-a185-40ef-8a54-a8d1154b6e6a",
@@ -245,7 +245,7 @@
    "lastRehabilitatedDate": "2011-04-01"
   },
   "availableAt": "2026-11-19",
-  "endDateOfPublication": "2026-11-11",
+  "endDateOfPublication": "2026-11-29",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "La Résidence est sur deux niveaux.\nElle est composée de  21 studios meublés d'environ 25 m²\nLa Résidence est située 10 Rue de Stalingrad à DIEPPE.\n\n\nNous vous proposons ce studio de 24m² situé 10, rue de Stalingrad à DIEPPE, proche de toutes commodités.\nMeublé et équipé.\n\nLa résidence se trouve dans un environnement calme, tout en restant proche des commodités essentielles : \nTransports : arrêt de bus à 10 minutes à pied (lignes 1,2,14 ). Accès rapide au centre-ville et à la gare de DIEPPE  en moins de 5 minutes.\nCommodités : supermarché à 800 m.\n\nLogement disponible à partir du 24 janvier 2026.\n\n\n",
@@ -264,7 +264,20 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
