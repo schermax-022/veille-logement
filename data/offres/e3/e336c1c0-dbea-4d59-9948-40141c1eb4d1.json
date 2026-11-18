@@ -1,0 +1,255 @@
+{
+ "guid": "e336c1c0-dbea-4d59-9948-40141c1eb4d1",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-18T11:15:50+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-18T11:15:50+01:00",
+ "liste": {
+  "id": 54788,
+  "guid": "e336c1c0-dbea-4d59-9948-40141c1eb4d1",
+  "reference": "54788",
+  "residency": {
+   "id": 587,
+   "guid": "4f461b73-5b75-4056-910d-808d1229f4aa",
+   "reference": "587",
+   "name": "MARSEILLE LITTORAL",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62621,
+   "guid": "cf9f6b09-0be9-4023-a3f5-1df7f02dc853",
+   "reference": "62621",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.11,
+   "municipality": {
+    "id": 4470,
+    "postcode": "13015",
+    "code": "13215",
+    "name": "Marseille 15e Arrondissement"
+   },
+   "description": null
+  },
+  "availableAt": "2026-11-17",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 657.69,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-18",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cf/cf9f6b09-0be9-4023-a3f5-1df7f02dc853/medium/8e56541b-7f44-4621-b1d0-8dfd266b9d46",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé chemin du Cap Janet, dans le 15e arrondissement de Marseille, ce logement se trouve dans un secteur urbain et portuaire du nord de la ville. L’environnement est marqué par la présence d’activités économiques, de zones d’habitation et d’infrastructures liées au fonctionnement du territoire marseillais.\n\nLe secteur bénéficie de la proximité de différents commerces et services, tandis que les équipements scolaires, les structures de santé et les services publics sont accessibles dans les quartiers environnants. Le 15e arrondissement dispose également de plusieurs infrastructures sportives et espaces de loisirs.\n\nLes transports en commun permettent de rejoindre les autres quartiers de Marseille et les principaux pôles de la métropole, selon les lignes et les dessertes disponibles. Les connexions avec le réseau de métro et de bus facilitent les déplacements au sein de la ville.\n\nLa localisation permet de rejoindre les principaux axes routiers du nord de Marseille, notamment les voies en direction du centre-ville, des quartiers voisins et des accès autoroutiers. La proximité des infrastructures portuaires constitue également une caractéristique de ce secteur.\n\nCe secteur offre ainsi un emplacement au sein d’un territoire urbain et économique, avec des possibilités de déplacement vers les différents pôles de Marseille et de sa métropole.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 54788,
+  "guid": "e336c1c0-dbea-4d59-9948-40141c1eb4d1",
+  "reference": "54788",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/cf/cf9f6b09-0be9-4023-a3f5-1df7f02dc853/large/3d0ae968-e7f4-42d6-af90-7cba54b1a540",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62621,
+   "guid": "cf9f6b09-0be9-4023-a3f5-1df7f02dc853",
+   "reference": "62621",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.11,
+   "municipality": {
+    "id": 4470,
+    "postcode": "13015",
+    "code": "13215",
+    "name": "Marseille 15e Arrondissement"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 587,
+   "guid": "4f461b73-5b75-4056-910d-808d1229f4aa",
+   "reference": "587",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 1965,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-17",
+  "endDateOfPublication": "2026-11-25",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Situé chemin du Cap Janet, dans le 15e arrondissement de Marseille, ce logement se trouve dans un secteur urbain et portuaire du nord de la ville. L’environnement est marqué par la présence d’activités économiques, de zones d’habitation et d’infrastructures liées au fonctionnement du territoire marseillais.\n\nLe secteur bénéficie de la proximité de différents commerces et services, tandis que les équipements scolaires, les structures de santé et les services publics sont accessibles dans les quartiers environnants. Le 15e arrondissement dispose également de plusieurs infrastructures sportives et espaces de loisirs.\n\nLes transports en commun permettent de rejoindre les autres quartiers de Marseille et les principaux pôles de la métropole, selon les lignes et les dessertes disponibles. Les connexions avec le réseau de métro et de bus facilitent les déplacements au sein de la ville.\n\nLa localisation permet de rejoindre les principaux axes routiers du nord de Marseille, notamment les voies en direction du centre-ville, des quartiers voisins et des accès autoroutiers. La proximité des infrastructures portuaires constitue également une caractéristique de ce secteur.\n\nCe secteur offre ainsi un emplacement au sein d’un territoire urbain et économique, avec des possibilités de déplacement vers les différents pôles de Marseille et de sa métropole.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 657.69,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 657.69,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
