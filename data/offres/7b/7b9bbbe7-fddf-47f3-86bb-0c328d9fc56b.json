@@ -1,0 +1,254 @@
+{
+ "guid": "7b9bbbe7-fddf-47f3-86bb-0c328d9fc56b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-19T12:01:03+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-19T12:01:03+01:00",
+ "liste": {
+  "id": 55062,
+  "guid": "7b9bbbe7-fddf-47f3-86bb-0c328d9fc56b",
+  "reference": "55062",
+  "residency": {
+   "id": 9003,
+   "guid": "38f4b045-33bc-4463-b3fb-8d002b9dd26a",
+   "reference": "9003",
+   "name": "URBAN VILLAGE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62914,
+   "guid": "2445e594-2088-4914-b3d5-ff967563d9e7",
+   "reference": "62914",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 83.0,
+   "municipality": {
+    "id": 4441,
+    "postcode": "13560",
+    "code": "13105",
+    "name": "Sénas"
+   },
+   "description": ""
+  },
+  "availableAt": "2027-01-10",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1151.45,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/2445e594-2088-4914-b3d5-ff967563d9e7/medium/4f821c5c-0dd2-4252-89d1-f28217704d45",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé  chemin du Cimetière, à Sénas, ce logement bénéficie d’un environnement résidentiel au sein d’une commune provençale à taille humaine. La ville offre un cadre de vie agréable, entre espaces naturels, zones agricoles et secteurs urbanisés, tout en conservant une proximité avec les principales communes des environs.\n\nSénas dispose de commerces et de services de proximité permettant de répondre aux besoins du quotidien. La commune propose également différents équipements publics, établissements scolaires, structures de santé et installations sportives, contribuant à la vie locale.\n\nLes transports en commun permettent de rejoindre les communes voisines et les principaux pôles du secteur, selon les dessertes disponibles. La gare de Sénas constitue également une possibilité de déplacement vers d’autres villes de la région.\n\nLa commune bénéficie d’une situation géographique favorable pour les déplacements en voiture, notamment grâce à la proximité de l’autoroute A7 et des axes routiers reliant Salon-de-Provence, Cavaillon et les autres communes du territoire.\n\nCette localisation permet ainsi de profiter d’un environnement calme et résidentiel, tout en conservant un accès aux commodités et aux principaux axes de circulation.\n\n",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55062,
+  "guid": "7b9bbbe7-fddf-47f3-86bb-0c328d9fc56b",
+  "reference": "55062",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/2445e594-2088-4914-b3d5-ff967563d9e7/large/41424ac2-33f9-4078-a8e9-0c8805623a7a",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/2445e594-2088-4914-b3d5-ff967563d9e7/large/f02c557f-cb9c-46f7-8b1d-a7b51d1f2b07",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/24/2445e594-2088-4914-b3d5-ff967563d9e7/large/7f4e3f36-6ba9-451e-bdcf-0040c7991bdd",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62914,
+   "guid": "2445e594-2088-4914-b3d5-ff967563d9e7",
+   "reference": "62914",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 83.0,
+   "municipality": {
+    "id": 4441,
+    "postcode": "13560",
+    "code": "13105",
+    "name": "Sénas"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 9003,
+   "guid": "38f4b045-33bc-4463-b3fb-8d002b9dd26a",
+   "reference": "9003",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-10",
+  "endDateOfPublication": "2027-03-12",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Situé  chemin du Cimetière, à Sénas, ce logement bénéficie d’un environnement résidentiel au sein d’une commune provençale à taille humaine. La ville offre un cadre de vie agréable, entre espaces naturels, zones agricoles et secteurs urbanisés, tout en conservant une proximité avec les principales communes des environs.\n\nSénas dispose de commerces et de services de proximité permettant de répondre aux besoins du quotidien. La commune propose également différents équipements publics, établissements scolaires, structures de santé et installations sportives, contribuant à la vie locale.\n\nLes transports en commun permettent de rejoindre les communes voisines et les principaux pôles du secteur, selon les dessertes disponibles. La gare de Sénas constitue également une possibilité de déplacement vers d’autres villes de la région.\n\nLa commune bénéficie d’une situation géographique favorable pour les déplacements en voiture, notamment grâce à la proximité de l’autoroute A7 et des axes routiers reliant Salon-de-Provence, Cavaillon et les autres communes du territoire.\n\nCette localisation permet ainsi de profiter d’un environnement calme et résidentiel, tout en conservant un accès aux commodités et aux principaux axes de circulation.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1017.0,
+  "rentChargeAmount": 114.45,
+  "rentParkingAmount": 20.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
