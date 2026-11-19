@@ -11,7 +11,7 @@
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-19T10:01:06+01:00",
+ "fiche_recuperee_le": "2026-11-19T17:31:12+01:00",
  "liste": {
   "id": 54999,
   "guid": "879b3b2b-20a3-44ab-8f2c-381df6ec9748",
@@ -70,7 +70,7 @@
    "code": "MSL",
    "label": "Mensuel"
   },
-  "totalRentAmountBaseBound": 660.15,
+  "totalRentAmountBaseBound": 779.76,
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
@@ -233,10 +233,10 @@
     "label": "Non communiqué"
    },
    "energyPerformanceCertificate": {
-    "id": 8,
-    "ordering": 8,
-    "code": "NC",
-    "label": "Non communiqué"
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
    },
    "annualEnergyExpenditure": 0.0,
    "elevatorPresence": "YES",
@@ -321,12 +321,12 @@
    "code": "MSL",
    "label": "Mensuel"
   },
-  "housingFeeBaseBound": 523.06,
+  "housingFeeBaseBound": 642.67,
   "rentChargeAmount": 119.61,
   "rentParkingAmount": 17.48,
   "compulsoryBenefitAmount": null,
-  "securityDepositAmount": null,
-  "areAgencyFeesRequested": null,
+  "securityDepositAmount": 523.06,
+  "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
