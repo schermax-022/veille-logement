@@ -11,7 +11,7 @@
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-18T08:30:58+01:00",
+ "fiche_recuperee_le": "2026-11-19T08:30:55+01:00",
  "liste": {
   "id": 54917,
   "guid": "308db72d-b0de-43a8-a263-44f9442c5047",
@@ -62,7 +62,7 @@
    },
    "description": "Exclusivité - appartement 2 pièces de 50 m2 à Melun.  Sans frais d'agence.  Le bien bénéficie d'un séjour et d'une cuisine, ainsi que d'une chambre.  L'appartement est situé au troisième étage d'un immeuble de trois étages. Un gardien est présent dans la résidence.  Chauffage individuel. Une place de parking est incluse.  Transports en commun avec une station de RER ligne D à proximité. Commerces autour.\nPour votre information, le loyer indiqué sur cette annonce sera augmenté de 1,15 % au 1er janvier 2027, selon la variation de l’indice de révision des loyers"
   },
-  "availableAt": "2026-11-18",
+  "availableAt": "2026-11-19",
   "isLodgingFirstTimeAvailable": false,
   "paymentType": {
    "id": 2,
@@ -220,12 +220,19 @@
     "label": "D"
    },
    "annualEnergyExpenditure": null,
-   "elevatorPresence": "NO",
+   "elevatorPresence": "YES",
    "parkingCapacity": null,
    "parkingTypes": [],
    "isKitchenEquipped": false,
    "apartmentType": null,
-   "lodgingAnnexTypes": [],
+   "lodgingAnnexTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "CAV",
+     "label": "Cave"
+    }
+   ],
    "outdoorTypes": [],
    "isParkingMandatory": true,
    "numberOfRoomsHousing": 1
@@ -263,7 +270,7 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-11-18",
+  "availableAt": "2026-11-19",
   "endDateOfPublication": "2027-11-16",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
