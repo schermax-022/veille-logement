@@ -1,0 +1,269 @@
+{
+ "guid": "bbff8376-c05b-4ff0-9499-3ad4cfa6ee97",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-19T11:01:04+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-19T11:01:04+01:00",
+ "liste": {
+  "id": 55064,
+  "guid": "bbff8376-c05b-4ff0-9499-3ad4cfa6ee97",
+  "reference": "55064",
+  "residency": {
+   "id": 424,
+   "guid": "deee7145-2592-411c-8252-3564b7eb89f5",
+   "reference": "424",
+   "name": "FLEURY MEROGIS RS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62915,
+   "guid": "c10a4098-e2de-4ac0-b727-4f3b0369b9de",
+   "reference": "62915",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 25.0,
+   "municipality": {
+    "id": 34839,
+    "postcode": "91700",
+    "code": "91235",
+    "name": "Fleury-Mérogis"
+   },
+   "description": null
+  },
+  "availableAt": "2026-11-26",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 575.98,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c1/c10a4098-e2de-4ac0-b727-4f3b0369b9de/medium/2c15e6c5-04ea-4298-a18e-b320fbc9e8d1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Ce logement est proche de toutes commodités (Commerces de proximité, supermarchés et services accessible à pied, restaurants, pharmacies et équipements du quotidien à quelques minutes).\n\nAccès rapide aux transports en commun facilitant les déplacements vers Paris et les environs.\nLa date limite de dépôt de candidature n'est pas contractuelle\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55064,
+  "guid": "bbff8376-c05b-4ff0-9499-3ad4cfa6ee97",
+  "reference": "55064",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c1/c10a4098-e2de-4ac0-b727-4f3b0369b9de/large/635daa31-3966-4cee-898d-ebcd4a5250ad",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62915,
+   "guid": "c10a4098-e2de-4ac0-b727-4f3b0369b9de",
+   "reference": "62915",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 25.0,
+   "municipality": {
+    "id": 34839,
+    "postcode": "91700",
+    "code": "91235",
+    "name": "Fleury-Mérogis"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 424,
+   "guid": "deee7145-2592-411c-8252-3564b7eb89f5",
+   "reference": "424",
+   "livingRules": null,
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": false
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-26",
+  "endDateOfPublication": "2026-11-25",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Ce logement est proche de toutes commodités (Commerces de proximité, supermarchés et services accessible à pied, restaurants, pharmacies et équipements du quotidien à quelques minutes).\n\nAccès rapide aux transports en commun facilitant les déplacements vers Paris et les environs.\nLa date limite de dépôt de candidature n'est pas contractuelle\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 575.98,
+  "rentChargeAmount": 0.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 575.98,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
