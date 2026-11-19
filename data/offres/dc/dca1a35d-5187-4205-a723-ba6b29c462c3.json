@@ -1,0 +1,254 @@
+{
+ "guid": "dca1a35d-5187-4205-a723-ba6b29c462c3",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-19T10:30:54+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-19T10:30:54+01:00",
+ "liste": {
+  "id": 55063,
+  "guid": "dca1a35d-5187-4205-a723-ba6b29c462c3",
+  "reference": "55063",
+  "residency": {
+   "id": 9010,
+   "guid": "59ad28a9-769d-4b8a-ade7-bb984873ef77",
+   "reference": "9010",
+   "name": "MILLESIME 2",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62913,
+   "guid": "3cce3e8d-de9c-4692-b4a2-10da85b9159f",
+   "reference": "62913",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.77,
+   "municipality": {
+    "id": 26352,
+    "postcode": "66100",
+    "code": "66136",
+    "name": "Perpignan"
+   },
+   "description": "L'appartement comprend, une entrée avec placard, un séjour-cuisine, une chambre avec un petit rangement style dressing, une salle de bain, un wc séparé et un balcon. "
+  },
+  "availableAt": "2027-01-31",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 598.25,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3c/3cce3e8d-de9c-4692-b4a2-10da85b9159f/medium/e941e8e6-8fad-40a4-a0bf-2cdc99f96821",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La rue Jean Abélanet est située dans un secteur résidentiel de la ville, à proximité des commerces de quartier, des services de santé et des équipements publics. Les habitants bénéficient d'un accès rapide aux zones commerciales et aux infrastructures sportives qui font de Perpignan un pôle majeur des Pyrénées-Orientales.\n\nLe quartier est desservi par le réseau de transports urbains Sankéo, facilitant les déplacements vers le centre-ville, la gare SNCF et les principaux pôles d'activités. \n\nL'appartement comprend, une entrée avec placard, un séjour-cuisine, une chambre avec un petit rangement style dressing, une salle de bain, un wc séparé et un balcon. \n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55063,
+  "guid": "dca1a35d-5187-4205-a723-ba6b29c462c3",
+  "reference": "55063",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3c/3cce3e8d-de9c-4692-b4a2-10da85b9159f/large/a5d25839-5e11-407f-a77f-6825ce5ac18a",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3c/3cce3e8d-de9c-4692-b4a2-10da85b9159f/large/aaea1f9c-10b6-42ab-bcf8-4c324752c244",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3c/3cce3e8d-de9c-4692-b4a2-10da85b9159f/large/90768bf2-adbb-42ce-8268-66ecb473a44f",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62913,
+   "guid": "3cce3e8d-de9c-4692-b4a2-10da85b9159f",
+   "reference": "62913",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.77,
+   "municipality": {
+    "id": 26352,
+    "postcode": "66100",
+    "code": "66136",
+    "name": "Perpignan"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 9010,
+   "guid": "59ad28a9-769d-4b8a-ade7-bb984873ef77",
+   "reference": "9010",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-31",
+  "endDateOfPublication": "2026-12-18",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La rue Jean Abélanet est située dans un secteur résidentiel de la ville, à proximité des commerces de quartier, des services de santé et des équipements publics. Les habitants bénéficient d'un accès rapide aux zones commerciales et aux infrastructures sportives qui font de Perpignan un pôle majeur des Pyrénées-Orientales.\n\nLe quartier est desservi par le réseau de transports urbains Sankéo, facilitant les déplacements vers le centre-ville, la gare SNCF et les principaux pôles d'activités. \n\nL'appartement comprend, une entrée avec placard, un séjour-cuisine, une chambre avec un petit rangement style dressing, une salle de bain, un wc séparé et un balcon. \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 509.3,
+  "rentChargeAmount": 88.95,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 509.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
