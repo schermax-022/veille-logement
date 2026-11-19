@@ -1,17 +1,17 @@
 {
  "guid": "904e8626-8bc8-408b-a0cb-3d70e0013957",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-27T12:21:19+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-28T18:34:54+01:00",
- "absente_depuis": "2026-10-28T19:18:55+01:00",
- "absences": 2,
- "retrait_detecte": "2026-10-28T19:18:55+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-28T08:48:31+01:00",
+ "fiche_recuperee_le": "2026-11-19T19:31:17+01:00",
  "liste": {
   "id": 53241,
   "guid": "904e8626-8bc8-408b-a0cb-3d70e0013957",
@@ -60,9 +60,9 @@
     "code": "78686",
     "name": "Viroflay"
    },
-   "description": "Exclusivité - appartement 2 pièces de 50 m² à Viroflay  Sans frais d'agence.  Le logement se compose d'un séjour, d'une cuisine ouverte, d'une chambre, et d'une salle d'eau avec un WC.  L'appartement se trouve au 2e étage d'un immeuble de 3 étages avec ascenseur.  Chauffage au gaz. Une place de parking est incluse.  Transports à proximité avec une station RER C et un arrêt de tramway T6. Commerces autour."
+   "description": "Exclusivité - appartement 2 pièces de 50 m² à Viroflay  Sans frais d'agence.  Le logement se compose d'un séjour, d'une cuisine ouverte, d'une chambre, et d'une salle d'eau avec un WC.  L'appartement se trouve au 2e étage d'un immeuble de 3 étages avec ascenseur.  Chauffage au gaz. Une place de parking est incluse.  Transports à proximité avec une station RER C et un arrêt de tramway T6. Commerces autour.\nPour votre information, le loyer indiqué sur cette annonce sera augmenté de 1,15 % au 1er janvier 2027, selon la variation de l’indice de révision des loyers"
   },
-  "availableAt": "2026-10-28",
+  "availableAt": "2026-11-19",
   "isLodgingFirstTimeAvailable": true,
   "paymentType": {
    "id": 2,
@@ -114,12 +114,6 @@
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/56/56f7e043-662a-4eef-93ff-f4ee4bbc03c8/large/caac2ccd-8f1a-4ee0-957b-78e29d675d5f",
-    "urlContentType": "image/jpeg",
-    "ordering": 2,
-    "dimension": "LARGE"
-   },
-   {
     "url": "https://assets.logement-actionlogement.fr/lodgings/56/56f7e043-662a-4eef-93ff-f4ee4bbc03c8/large/4ad18427-faa2-4ed7-92c1-0c4253f71b86",
     "urlContentType": "image/jpeg",
     "ordering": 3,
@@ -147,6 +141,12 @@
     "url": "https://assets.logement-actionlogement.fr/lodgings/56/56f7e043-662a-4eef-93ff-f4ee4bbc03c8/large/0c8c8a5f-61fa-481e-bfe7-e8eaeebb23cd",
     "urlContentType": "image/jpeg",
     "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/56/56f7e043-662a-4eef-93ff-f4ee4bbc03c8/large/304d8297-b086-48c4-870b-9acc1183c5b2",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
     "dimension": "LARGE"
    },
    {
@@ -255,7 +255,7 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-10-28",
+  "availableAt": "2026-11-19",
   "endDateOfPublication": "2027-10-26",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": true,
