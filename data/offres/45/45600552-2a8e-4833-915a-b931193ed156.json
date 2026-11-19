@@ -1,17 +1,17 @@
 {
  "guid": "45600552-2a8e-4833-915a-b931193ed156",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-12T15:34:15+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-09T22:17:59+01:00",
- "absente_depuis": "2026-11-10T04:38:39+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-10T04:38:39+01:00",
- "remises_en_ligne": 1,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 2,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-06T23:38:55+01:00",
+ "fiche_recuperee_le": "2026-11-19T10:01:06+01:00",
  "liste": {
   "id": 51808,
   "guid": "45600552-2a8e-4833-915a-b931193ed156",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-11-06",
+  "startDateOfPublication": "2026-11-19",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/ec/ec7ddd4d-0a13-4cfa-8d1d-6124851c0020/medium/e303e0a7-59f8-4a85-960d-a41198ebbf44",
@@ -188,7 +188,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-10-12",
-  "endDateOfPublication": "2026-11-09",
+  "endDateOfPublication": "2026-11-22",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "Ce logement est proche de toutes commodités (Commerces de proximité, supermarchés et services accessible à pied, restaurants, pharmacies et équipements du quotidien à quelques minutes).\n\nAccès rapide aux transports en commun facilitant les déplacements vers Paris et les environs.\n\nLa date limite de dépôt de candidature n'est pas contractuelle\n",
@@ -207,7 +207,20 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 30,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
