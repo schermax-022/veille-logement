@@ -1,0 +1,262 @@
+{
+ "guid": "67bfb127-7a8e-45c5-9678-e03eb13ddae1",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-19T09:15:56+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-19T09:15:56+01:00",
+ "liste": {
+  "id": 49555,
+  "guid": "67bfb127-7a8e-45c5-9678-e03eb13ddae1",
+  "reference": "49555",
+  "residency": {
+   "id": 5959,
+   "guid": "c0878661-4de3-4796-8925-1f4ccc79faa2",
+   "reference": "5959",
+   "name": "TERRE SUD- NE PAS UTILISER",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 57339,
+   "guid": "9ab453f2-0a88-450b-9724-f45b20c2d25d",
+   "reference": "57339",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 47.0,
+   "municipality": {
+    "id": 12502,
+    "postcode": "33130",
+    "code": "33039",
+    "name": "Bègles"
+   },
+   "description": "Nous vous proposons un appartement non meublé composé d'une entrée avec dégagement, cuisine non équipée ouverte sur séjour, salle de bain avec WC, 1 chambre et 1 loggia"
+  },
+  "availableAt": "2026-10-17",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 749.24,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab453f2-0a88-450b-9724-f45b20c2d25d/medium/8da1fd7a-20ce-4630-a69d-7aa1257a6fcf",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence se situe rue Louis Denis Mallet à moins de 5mns en voiture des établissements scolaires, supermarchés, transports en commun (Tram C, lignes de bus 89,90,5... ) Idéalement localisée elle propose un accès direct à la rocade sortie n°18.\n\n\n\nNous vous proposons un appartement non meublé composé d'une entrée avec dégagement, cuisine non équipée ouverte sur séjour, salle de bain avec WC, 1 chambre et 1 loggia\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 49555,
+  "guid": "67bfb127-7a8e-45c5-9678-e03eb13ddae1",
+  "reference": "49555",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab453f2-0a88-450b-9724-f45b20c2d25d/large/ae32df47-1393-4f13-962a-b2c8c296ba2b",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9a/9ab453f2-0a88-450b-9724-f45b20c2d25d/large/6232fc86-d804-4b0b-b410-16a95d180b64",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 57339,
+   "guid": "9ab453f2-0a88-450b-9724-f45b20c2d25d",
+   "reference": "57339",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 47.0,
+   "municipality": {
+    "id": 12502,
+    "postcode": "33130",
+    "code": "33039",
+    "name": "Bègles"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "CEL",
+     "label": "Cellier"
+    }
+   ],
+   "outdoorTypes": [
+    {
+     "id": 4,
+     "ordering": 4,
+     "code": "LOG",
+     "label": "Loggia"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 5959,
+   "guid": "c0878661-4de3-4796-8925-1f4ccc79faa2",
+   "reference": "5959",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-17",
+  "endDateOfPublication": "2026-12-03",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence se situe rue Louis Denis Mallet à moins de 5mns en voiture des établissements scolaires, supermarchés, transports en commun (Tram C, lignes de bus 89,90,5... ) Idéalement localisée elle propose un accès direct à la rocade sortie n°18.\n\n\n\nNous vous proposons un appartement non meublé composé d'une entrée avec dégagement, cuisine non équipée ouverte sur séjour, salle de bain avec WC, 1 chambre et 1 loggia\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 650.07,
+  "rentChargeAmount": 38.91,
+  "rentParkingAmount": 57.41,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 650.07,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": 2.85,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
