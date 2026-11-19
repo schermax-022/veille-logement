@@ -1,0 +1,261 @@
+{
+ "guid": "a46cd700-7abb-4577-877d-8e2163453b20",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-19T15:15:48+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-19T15:15:48+01:00",
+ "liste": {
+  "id": 55147,
+  "guid": "a46cd700-7abb-4577-877d-8e2163453b20",
+  "reference": "55147",
+  "residency": {
+   "id": 9020,
+   "guid": "51bf5c5f-a8b0-4438-911d-cc0baca38928",
+   "reference": "9020",
+   "name": "RUE DE MONTREUX",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62994,
+   "guid": "63089f88-0939-42ab-995d-57e0af3e588d",
+   "reference": "62994",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 57.86,
+   "municipality": {
+    "id": 27253,
+    "postcode": "68300",
+    "code": "68297",
+    "name": "Saint-Louis"
+   },
+   "description": "Venez découvrir ce T2 composé : d'une entrée, d'une cuisine ouverte sur séjour donnant accès à la TERRASSE, d'un coin bureau, d'une chambre et d'une salle d'eau avec douche et WC.\n\nPossibilité de louer un stationnement pour 50€ mensuel en sus.\n"
+  },
+  "availableAt": "2027-01-31",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 850.59,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/63/63089f88-0939-42ab-995d-57e0af3e588d/medium/13064ade-7ca5-45a3-8af7-cd878e32fe28",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "PROGRAMME NEUF\nRue de Montreux à SAINT-LOUIS, à proximité immédiate du tram et du centre-ville, à quelques kilomètres de la Suisse.\n\nVenez découvrir ce T2 comprenant une entrée,  une cuisine ouverte sur séjour, un espace bureau, une chambre et une salle d'eau avec douche et WC.\nUne magnifique terrasse de 37.70 m² agrémente le bien.\nPossibilité de louer un stationnement pour un montant mensuel  de 50€ en sus.\n\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55147,
+  "guid": "a46cd700-7abb-4577-877d-8e2163453b20",
+  "reference": "55147",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/63/63089f88-0939-42ab-995d-57e0af3e588d/large/94e4dfb5-a40f-4d5b-9e61-5e54e6181e2c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/63/63089f88-0939-42ab-995d-57e0af3e588d/large/f02fbafd-980e-4419-a16c-4cda985027cc",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/63/63089f88-0939-42ab-995d-57e0af3e588d/large/29c0609a-4b25-4ed5-93ae-ce3e2b7fb6ad",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62994,
+   "guid": "63089f88-0939-42ab-995d-57e0af3e588d",
+   "reference": "62994",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 57.86,
+   "municipality": {
+    "id": 27253,
+    "postcode": "68300",
+    "code": "68297",
+    "name": "Saint-Louis"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "COG",
+    "label": "Collectif gaz",
+    "commercialLabel": "Chauffage collectif gaz compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 9020,
+   "guid": "51bf5c5f-a8b0-4438-911d-cc0baca38928",
+   "reference": "9020",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-31",
+  "endDateOfPublication": "2026-12-16",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "PROGRAMME NEUF\nRue de Montreux à SAINT-LOUIS, à proximité immédiate du tram et du centre-ville, à quelques kilomètres de la Suisse.\n\nVenez découvrir ce T2 comprenant une entrée,  une cuisine ouverte sur séjour, un espace bureau, une chambre et une salle d'eau avec douche et WC.\nUne magnifique terrasse de 37.70 m² agrémente le bien.\nPossibilité de louer un stationnement pour un montant mensuel  de 50€ en sus.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 689.09,
+  "rentChargeAmount": 161.5,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 689.09,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
