@@ -1,17 +1,17 @@
 {
  "guid": "38416e96-a682-4b96-a6ee-f20c178d5414",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-13T08:59:39+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-11T20:31:43+01:00",
- "absente_depuis": "2026-11-12T01:34:39+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-12T01:34:39+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-06T16:23:34+01:00",
+ "fiche_recuperee_le": "2026-11-19T08:45:50+01:00",
  "liste": {
   "id": 48765,
   "guid": "38416e96-a682-4b96-a6ee-f20c178d5414",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-13",
+  "startDateOfPublication": "2026-11-19",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/e1/e18b710d-56e8-482f-8551-d0263344fdbb/medium/01f01c56-efdf-407d-a55a-6c57faec77f1",
@@ -261,7 +261,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2027-01-01",
-  "endDateOfPublication": "2026-11-11",
+  "endDateOfPublication": "2026-12-18",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "NOUVELLE RESIDENCE POUR LES JEUNES A BAYEUX, 2 Rue D'aprigny.\n\nLa résidence se compose de deux bâtiments  (bâtiment A ouverture en janvier 2027 et bâtiment B ouverture en Février 2027), dans l’ancien hôpital Dunand.\n\nPensée comme un tremplin vers l’autonomie, cette résidence offrira un cadre moderne, convivial et sécurisé à des jeunes de 16 à 30 ans en parcours d’insertion, en formation, en emploi ou en situation d’alternance.\n\nStudios meublés, loyers accessibles, espaces partagés, connexion internet, à proximité des transports, des commerces et des lieux de formation.\n\nUn logement mais aussi un accompagnement si vous en avez besoin, pour vous aider à avancer dans vos projets (emploi, formation, mobilité…).\n\n78 logements meublés et équipés neufs (de 16 à 37 m²), conçus pour offrir confort, autonomie et accès aux aides au logement (APL).\n\n2 logements en colocation (T4 et T5), spécialement pensés pour les jeunes saisonniers.\n\nLa résidence intègrera de nouveaux services pour faciliter la vie quotidienne : cafétéria, laverie, garage à vélos, wifi, salle d’animation, terrasses, etc.\n\n\nComposé d’un lit double, un bureau, une table et des chaises, une kitchenette avec frigo, plaque électrique ou induction, placard de rangement, salle de bain avec douche et sanitaire.\n\nCharges : 26,50 euros : comprend la connexion WIFI accès espace commun (laverie, baby-foot, billard, animations). Possibilité APL dès le 1er mois.\n\n\n",
@@ -280,7 +280,51 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 30,
+    "listValues": []
+   },
+   {
+    "id": 1,
+    "ordering": 2,
+    "code": "ETU",
+    "label": "Etudiant",
+    "type": "BOOLEAN",
+    "group": "PROFILE",
+    "boolValue": true,
+    "intStartValue": null,
+    "intEndValue": null,
+    "listValues": []
+   },
+   {
+    "id": 5,
+    "ordering": 4,
+    "code": "GEN",
+    "label": "Genre",
+    "type": "UNIQUE_CHOICE_LIST",
+    "group": "GENDER",
+    "boolValue": null,
+    "intStartValue": null,
+    "intEndValue": null,
+    "listValues": [
+     {
+      "id": 2,
+      "ordering": 2,
+      "code": "FEM",
+      "label": "Femme"
+     }
+    ]
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
