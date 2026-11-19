@@ -1,0 +1,260 @@
+{
+ "guid": "de51d155-3b98-4d39-ae25-f0daccd6097b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-19T15:30:57+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-19T15:30:57+01:00",
+ "liste": {
+  "id": 55163,
+  "guid": "de51d155-3b98-4d39-ae25-f0daccd6097b",
+  "reference": "55163",
+  "residency": {
+   "id": 39,
+   "guid": "01f1646e-adff-448a-9b05-c5e11ec059ef",
+   "reference": "39",
+   "name": "MARGUERITE DURAS",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 1793,
+   "guid": "b83ea2cd-a99e-46fe-9071-6a46c508145f",
+   "reference": "1793",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.2,
+   "municipality": {
+    "id": 35032,
+    "postcode": "93200",
+    "code": "93066",
+    "name": "Saint-Denis"
+   },
+   "description": "Logement équipé"
+  },
+  "availableAt": "2026-10-13",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 588.46,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b8/b83ea2cd-a99e-46fe-9071-6a46c508145f/medium/8eab5101-fe23-4b14-b0c6-22204bb655c6",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "À Saint-Denis,  à quelques minutes à pied de la Porte de Paris, la résidence Marguerite Duras est particulièrement bien desservie par les transports en commun : métro ligne 13, RER B et D et plusieurs lignes de bus situent la résidence à 15 minutes de Paris. Les commerces sont proches : supérette, boulangerie, restaurants pour faciliter votre quotidien.\n\nLogement équipé\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55163,
+  "guid": "de51d155-3b98-4d39-ae25-f0daccd6097b",
+  "reference": "55163",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b8/b83ea2cd-a99e-46fe-9071-6a46c508145f/large/044ce4f7-12e0-4a63-9f68-36c48c31cbf1",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 1793,
+   "guid": "b83ea2cd-a99e-46fe-9071-6a46c508145f",
+   "reference": "1793",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 20.2,
+   "municipality": {
+    "id": 35032,
+    "postcode": "93200",
+    "code": "93066",
+    "name": "Saint-Denis"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 39,
+   "guid": "01f1646e-adff-448a-9b05-c5e11ec059ef",
+   "reference": "39",
+   "livingRules": "Règlement intérieur au sein de la résidence :\n- Pas d'animal\n- Pas d'hébergement",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-10-13",
+  "endDateOfPublication": "2026-11-22",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "À Saint-Denis,  à quelques minutes à pied de la Porte de Paris, la résidence Marguerite Duras est particulièrement bien desservie par les transports en commun : métro ligne 13, RER B et D et plusieurs lignes de bus situent la résidence à 15 minutes de Paris. Les commerces sont proches : supérette, boulangerie, restaurants pour faciliter votre quotidien.\n\nLogement équipé\n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 585.1,
+  "rentChargeAmount": 3.36,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 585.1,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
