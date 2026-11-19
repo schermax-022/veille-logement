@@ -1,0 +1,277 @@
+{
+ "guid": "02aa2391-e123-43ed-8ec2-2c780578ad1d",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-19T12:30:57+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-19T12:30:57+01:00",
+ "liste": {
+  "id": 55118,
+  "guid": "02aa2391-e123-43ed-8ec2-2c780578ad1d",
+  "reference": "55118",
+  "residency": {
+   "id": 8258,
+   "guid": "1d8911e3-640f-4dac-b3a9-ae3a7f376728",
+   "reference": "8258",
+   "name": "GROUPE 0718L",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62973,
+   "guid": "4bc30deb-4085-4d17-9413-080f4be1a00e",
+   "reference": "62973",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 27.9,
+   "municipality": {
+    "id": 35034,
+    "postcode": "93400",
+    "code": "93070",
+    "name": "Saint-Ouen-sur-Seine"
+   },
+   "description": "Immeuble neuf, date de livraison estimée à mi décembre 2026. Studio de 27,9m² avec une loggia de 3,91m² situé au 1er étage. Il se compose d’un salon/séjour de 20,60m2 avec une cuisine ouverte non équipée, non meublée. Une salle d'eau avec WC. Chauffage et eau chaude collectifs. Pas de parking.  NB : Photos des logements non contractuelles, fournies à titre illustratif des prestations types.Réservation sur plan uniquement, sans visite."
+  },
+  "availableAt": "2026-12-15",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 662.86,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-19",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4b/4bc30deb-4085-4d17-9413-080f4be1a00e/medium/a3efc7b5-064c-4445-85f3-3e2f1b829fd9",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Immeuble neuf, date de livraison estimée à mi décembre 2026. Studio de 27,9m² avec une loggia de 3,91m² situé au 1er étage. Il se compose d’un salon/séjour de 20,60m2 avec une cuisine ouverte non équipée, non meublée. Une salle d'eau avec WC. Chauffage et eau chaude collectifs. Pas de parking.  NB : Photos des logements non contractuelles, fournies à titre illustratif des prestations types.Réservation sur plan uniquement, sans visite.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55118,
+  "guid": "02aa2391-e123-43ed-8ec2-2c780578ad1d",
+  "reference": "55118",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4b/4bc30deb-4085-4d17-9413-080f4be1a00e/large/2babe369-52d3-4de8-b802-f0bc03aa81d4",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4b/4bc30deb-4085-4d17-9413-080f4be1a00e/large/ae692ebc-9d46-47ba-82e1-0e7def7b70f7",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4b/4bc30deb-4085-4d17-9413-080f4be1a00e/large/d17d5ad1-8de9-4322-aff4-47f3fbfc8a4a",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4b/4bc30deb-4085-4d17-9413-080f4be1a00e/large/dbafd70f-4cf5-43f3-9308-3c7fab88c915",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4b/4bc30deb-4085-4d17-9413-080f4be1a00e/large/779bdecc-7bf1-42b0-bd7b-6a91bc0be52d",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/4b/4bc30deb-4085-4d17-9413-080f4be1a00e/large/701fa497-c244-4679-bc70-cfcb4bc01f86",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62973,
+   "guid": "4bc30deb-4085-4d17-9413-080f4be1a00e",
+   "reference": "62973",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 27.9,
+   "municipality": {
+    "id": 35034,
+    "postcode": "93400",
+    "code": "93070",
+    "name": "Saint-Ouen-sur-Seine"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": false,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 8258,
+   "guid": "1d8911e3-640f-4dac-b3a9-ae3a7f376728",
+   "reference": "8258",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-15",
+  "endDateOfPublication": "2027-11-18",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Immeuble neuf, date de livraison estimée à mi décembre 2026. Studio de 27,9m² avec une loggia de 3,91m² situé au 1er étage. Il se compose d’un salon/séjour de 20,60m2 avec une cuisine ouverte non équipée, non meublée. Une salle d'eau avec WC. Chauffage et eau chaude collectifs. Pas de parking.  NB : Photos des logements non contractuelles, fournies à titre illustratif des prestations types.Réservation sur plan uniquement, sans visite.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 537.66,
+  "rentChargeAmount": 125.2,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 537.66,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
