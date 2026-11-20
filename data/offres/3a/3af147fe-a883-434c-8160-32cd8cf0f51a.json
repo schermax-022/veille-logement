@@ -1,0 +1,246 @@
+{
+ "guid": "3af147fe-a883-434c-8160-32cd8cf0f51a",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-20T14:15:45+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": "envoyee",
+ "alerte_envoyee_le": "2026-11-20T14:17:49+01:00",
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-20T14:15:45+01:00",
+ "liste": {
+  "id": 55178,
+  "guid": "3af147fe-a883-434c-8160-32cd8cf0f51a",
+  "reference": "55178",
+  "residency": {
+   "id": 6116,
+   "guid": "be2a5f29-a6c2-4c00-a799-2a58c45dd86c",
+   "reference": "6116",
+   "name": "PARIS 49 51 ROQUETTE    ",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63021,
+   "guid": "95c65b55-e89e-4f56-bbbb-cdd56bddd7cd",
+   "reference": "63021",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 53.02,
+   "municipality": {
+    "id": 29649,
+    "postcode": "75011",
+    "code": "75111",
+    "name": "Paris 11e Arrondissement"
+   },
+   "description": "Dans une rue très commerçante, cet immeuble avec centre intérieure comprend 88 logements avec parkings. Il est situé à 300 et 500m du métro lignes 1, 5, 8 et 9. Les écoles se trouvent également à proximité.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          "
+  },
+  "availableAt": "2026-12-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1074.55,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-20",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/95/95c65b55-e89e-4f56-bbbb-cdd56bddd7cd/medium/f78d6172-e089-49e2-bbb4-13971012deb3",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A Paris, dans le 11ème, Rue de la Roquette. Dans une rue très commerçante, cet immeuble avec centre intérieure comprend 88 logements avec parkings. Il est situé à 300 et 500 mètres du métro lignes 1, 5, 8 et 9. Les écoles se trouvent également à proximité.\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55178,
+  "guid": "3af147fe-a883-434c-8160-32cd8cf0f51a",
+  "reference": "55178",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/95/95c65b55-e89e-4f56-bbbb-cdd56bddd7cd/large/fa5822b8-b300-4432-b72f-62116f96bca8",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/95/95c65b55-e89e-4f56-bbbb-cdd56bddd7cd/large/d66956c7-10a8-4a73-821c-1610b0988bd3",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63021,
+   "guid": "95c65b55-e89e-4f56-bbbb-cdd56bddd7cd",
+   "reference": "63021",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 53.02,
+   "municipality": {
+    "id": 29649,
+    "postcode": "75011",
+    "code": "75111",
+    "name": "Paris 11e Arrondissement"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 6116,
+   "guid": "be2a5f29-a6c2-4c00-a799-2a58c45dd86c",
+   "reference": "6116",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 1997,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-31",
+  "endDateOfPublication": "2026-11-26",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A Paris, dans le 11ème, Rue de la Roquette. Dans une rue très commerçante, cet immeuble avec centre intérieure comprend 88 logements avec parkings. Il est situé à 300 et 500 mètres du métro lignes 1, 5, 8 et 9. Les écoles se trouvent également à proximité.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 968.75,
+  "rentChargeAmount": 105.8,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 979.89,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
