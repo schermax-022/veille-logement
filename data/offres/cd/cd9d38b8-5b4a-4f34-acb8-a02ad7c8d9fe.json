@@ -1,17 +1,17 @@
 {
  "guid": "cd9d38b8-5b4a-4f34-acb8-a02ad7c8d9fe",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-13T10:51:33+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-22T23:47:58+02:00",
- "absente_depuis": "2026-10-23T00:14:50+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-23T00:14:50+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-13T10:51:33+02:00",
+ "fiche_recuperee_le": "2026-11-20T14:45:43+01:00",
  "liste": {
   "id": 42733,
   "guid": "cd9d38b8-5b4a-4f34-acb8-a02ad7c8d9fe",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-13",
+  "startDateOfPublication": "2026-11-20",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/ae/aeb50a6f-15d5-43d5-9d4c-c4c7692cad00/medium/8f11a2ad-b22a-46d8-a5e9-28812da3569a",
@@ -251,7 +251,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-04-08",
-  "endDateOfPublication": "2026-10-22",
+  "endDateOfPublication": "2026-11-27",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
   "description": "Résidence sociale jeunes actifs ARAGO à Pessac,\n\nPlace du Romarin, Pessac (33600).\n\nVous découvrirez à Pessac plusieurs circuits touristiques, son patrimoine historique ainsi que de nombreux espaces verts dont la forêt du Bourgailh. \n\nLa résidence ARAGO est proche du centre ville de Pessac, située à 10 mn à pied de la ligne B du Tramway et de la ligne de bus 34 menant de Mérignac à Talence qui est localisée en bas de la résidence.\n\nUn supermarché et une pharmacie sont accessibles en moins de 5 mn à pied.\nLes commerces de proximité (boulangerie, boucherie... ) se situent à 15 minutes en transports en communs de cette résidence livrée en 2014.\n\nCe logement est équipé d'un lit, d'un bureau, d'une chaise, d'une kitchenette (frigo, plaques de cuisson) et d'une salle de bain privative.\n\nEau, chauffage, charges communes, taxe d'ordures ménagères, électricité et internet sont compris dans le loyer.\n\nQue vous soyez étudiant(e) avec un emploi, alternant(e), en CDD, CDI, ou intérimaire ce logement est  idéal pour vous.\n\nPAS DE FRAIS D'AGENCE - PAS DE FRAIS DE DOSSIER.\n\n Logement ouvrant le droit aux APL.\n\n\n",
@@ -270,7 +270,20 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,

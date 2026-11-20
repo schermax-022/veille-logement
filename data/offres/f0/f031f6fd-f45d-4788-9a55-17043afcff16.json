@@ -1,0 +1,249 @@
+{
+ "guid": "f031f6fd-f45d-4788-9a55-17043afcff16",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-20T14:45:43+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-20T14:45:43+01:00",
+ "liste": {
+  "id": 55168,
+  "guid": "f031f6fd-f45d-4788-9a55-17043afcff16",
+  "reference": "55168",
+  "residency": {
+   "id": 7897,
+   "guid": "31199e97-bd01-4784-93d3-75003b75f99c",
+   "reference": "7897",
+   "name": "JULES SIMON",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63012,
+   "guid": "8feab0f9-32f8-47d0-afd0-805fcd109277",
+   "reference": "63012",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 38.16,
+   "municipality": {
+    "id": 12526,
+    "postcode": "33100",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "description": "Ce logement est présenté dans le cadre de louer pour l'emploi. \n\nNous vous proposons un appartement non meublé composé d'une cuisine équipée, séjour, salle d'eau avec WC, au R-1 la chambre.\n\n Garantie VISALE obligatoire : https://www.visale.fr/visale-pour-les-locataires/avantages/\n"
+  },
+  "availableAt": "2026-11-15",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 580.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-20",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8f/8feab0f9-32f8-47d0-afd0-805fcd109277/medium/7de2aef3-0da6-42ff-a1bd-e8944695b532",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence se situe Boulevard Jules Simon à proximité des commerces et services : transports en commun (lignes de tram A,E, bus 25...) supermarché, écoles supérieures, cabinet médical, à 5 min du centre de Bordeaux.\n\nCe logement est présenté dans le cadre de louer pour l'emploi. \n\nNous vous proposons un appartement non meublé composé d'une cuisine équipée, séjour, salle d'eau avec WC, au R-1 la chambre.\n\n Garantie VISALE obligatoire : https://www.visale.fr/visale-pour-les-locataires/avantages/\n\n\n",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55168,
+  "guid": "f031f6fd-f45d-4788-9a55-17043afcff16",
+  "reference": "55168",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8f/8feab0f9-32f8-47d0-afd0-805fcd109277/large/a658460b-d014-45e5-90fa-1c3c4638a4f7",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63012,
+   "guid": "8feab0f9-32f8-47d0-afd0-805fcd109277",
+   "reference": "63012",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 38.16,
+   "municipality": {
+    "id": 12526,
+    "postcode": "33100",
+    "code": "33063",
+    "name": "Bordeaux"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 1,
+    "ordering": 1,
+    "code": "RDC",
+    "label": "Rez-de-chaussée"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "UNKNOWN",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "NON",
+     "label": "Pas de stationnement"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": {
+    "id": 3,
+    "ordering": 3,
+    "code": "S",
+    "label": "Souplex"
+   },
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 7897,
+   "guid": "31199e97-bd01-4784-93d3-75003b75f99c",
+   "reference": "7897",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "VISALE"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-15",
+  "endDateOfPublication": "2026-12-19",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "La résidence se situe Boulevard Jules Simon à proximité des commerces et services : transports en commun (lignes de tram A,E, bus 25...) supermarché, écoles supérieures, cabinet médical, à 5 min du centre de Bordeaux.\n\nCe logement est présenté dans le cadre de louer pour l'emploi. \n\nNous vous proposons un appartement non meublé composé d'une cuisine équipée, séjour, salle d'eau avec WC, au R-1 la chambre.\n\n Garantie VISALE obligatoire : https://www.visale.fr/visale-pour-les-locataires/avantages/\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 540.0,
+  "rentChargeAmount": 40.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 540.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
