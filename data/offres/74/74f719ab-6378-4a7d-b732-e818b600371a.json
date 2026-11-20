@@ -1,17 +1,17 @@
 {
  "guid": "74f719ab-6378-4a7d-b732-e818b600371a",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-11-15T23:45:39+01:00",
- "absente_depuis": "2026-11-16T00:00:56+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-16T00:00:56+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T19:47:43+02:00",
+ "fiche_recuperee_le": "2026-11-20T14:30:55+01:00",
  "liste": {
   "id": 36337,
   "guid": "74f719ab-6378-4a7d-b732-e818b600371a",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-06",
+  "startDateOfPublication": "2026-11-20",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/a6/a697ed28-2f11-4f69-81b3-b07a1b831b64/medium/4195a980-ac4f-4d5e-adb9-86ecb42a5c41",
@@ -267,7 +267,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-04-02",
-  "endDateOfPublication": "2026-11-15",
+  "endDateOfPublication": "2027-01-31",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
   "description": "Située dans le quartier Tortière à Nantes, à quelques minutes à pied de l'Erdre, la résidence Imagin'Erdre est à 15 minutes du centre-ville par les transports en commun (lignes 10 et 23 Arrêt Lemoine) . Son emplacement privilégié en fait le lieu de vie idéal pour tout étudiant, alternant ou apprenti.\n\nLogement meublé avec kitchenette équipée, lit, bureau, chaise, table, bibliothèque et placard.\n\n",
@@ -286,7 +286,20 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": true,
   "isNewLodging": false,

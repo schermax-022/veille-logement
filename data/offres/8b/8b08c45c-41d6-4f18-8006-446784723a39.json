@@ -1,17 +1,17 @@
 {
  "guid": "8b08c45c-41d6-4f18-8006-446784723a39",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-11-15T23:45:39+01:00",
- "absente_depuis": "2026-11-16T00:00:56+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-16T00:00:56+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T22:46:42+02:00",
+ "fiche_recuperee_le": "2026-11-20T14:30:55+01:00",
  "liste": {
   "id": 36336,
   "guid": "8b08c45c-41d6-4f18-8006-446784723a39",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-06",
+  "startDateOfPublication": "2026-11-20",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/ea/ea68b389-ea17-45cf-afa5-cf1d88098f8c/medium/951a400c-fae0-4369-aab4-b3e3e52a74ef",
@@ -255,7 +255,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-04-02",
-  "endDateOfPublication": "2026-11-15",
+  "endDateOfPublication": "2027-01-31",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
   "description": "Située dans le quartier Gare Sud, à quelques minutes à pied de la gare. Son emplacement privilégié en fait un lieu de vie idéal pour un étudiant, alternant, apprenti qui prend le train (Ligne C23 et N°5 arrêt Haubans) Cette résidence est située à 15 minutes du centre ville. Parking payant.\n\nDans une résidence sécurisée, nous vous proposons un logement meublé avec kitchenette équipée, lit, bureau, chaise, table, bibliothèque et placard. \n\n",
@@ -274,7 +274,20 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
