@@ -1,0 +1,255 @@
+{
+ "guid": "f489518f-24a0-4f91-abcf-d9e0d845652f",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-20T11:15:46+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-20T11:15:46+01:00",
+ "liste": {
+  "id": 55105,
+  "guid": "f489518f-24a0-4f91-abcf-d9e0d845652f",
+  "reference": "55105",
+  "residency": {
+   "id": 6675,
+   "guid": "bc9d77cf-af8d-47dd-be04-3804feebc3b7",
+   "reference": "6675",
+   "name": "LES MURIERS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62957,
+   "guid": "86b20c6b-0007-4b6c-a5af-57b98f3f7cd6",
+   "reference": "62957",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 36.97,
+   "municipality": {
+    "id": 13062,
+    "postcode": "34170",
+    "code": "34057",
+    "name": "Castelnau-le-Lez"
+   },
+   "description": "L’appartement comprend : une grande pièce à vivre sur cuisine (semi équipée) ; salle de bain avec douche à l’italienne , wc et une terrasse de 20m². \n\nLes charges comprennent l'eau froide, l'eau chaude et le chauffage.  "
+  },
+  "availableAt": "2026-11-19",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 661.35,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-20",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/86/86b20c6b-0007-4b6c-a5af-57b98f3f7cd6/medium/aecf8fc1-650a-40e2-b2b2-841fba8b0ce5",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cet ensemble immobilier récent, situé rue Archimède à Castelnau‑le‑Lez, profite d’un emplacement privilégié aux portes de Montpellier et d’un environnement doté de toutes les commodités essentielles.\n\nPour vos déplacements, le réseau de bus (dont la ligne A) facilite l’accès aux transports en commun.\n\nAccès à l'autoroute A9 par la sortie 29.\n\nL’appartement comprend : une grande pièce à vivre sur cuisine (semi équipée) ; salle de bain avec douche à l’italienne, un wc et une terrasse.  \n\nLe parking en sous sol est accessible depuis l'ascenseur. \n\n\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55105,
+  "guid": "f489518f-24a0-4f91-abcf-d9e0d845652f",
+  "reference": "55105",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/86/86b20c6b-0007-4b6c-a5af-57b98f3f7cd6/large/0e3ffa18-9764-4306-bb1f-a8455a10be06",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/86/86b20c6b-0007-4b6c-a5af-57b98f3f7cd6/large/20235691-d7aa-4c1a-9b27-86704f456dcb",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62957,
+   "guid": "86b20c6b-0007-4b6c-a5af-57b98f3f7cd6",
+   "reference": "62957",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 36.97,
+   "municipality": {
+    "id": 13062,
+    "postcode": "34170",
+    "code": "34057",
+    "name": "Castelnau-le-Lez"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 7,
+    "ordering": 7,
+    "code": "4",
+    "label": "4"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": 1,
+   "parkingTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "PCO",
+     "label": "Parking sous-terrain"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 6675,
+   "guid": "bc9d77cf-af8d-47dd-be04-3804feebc3b7",
+   "reference": "6675",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2022,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-19",
+  "endDateOfPublication": "2026-12-18",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Cet ensemble immobilier récent, situé rue Archimède à Castelnau‑le‑Lez, profite d’un emplacement privilégié aux portes de Montpellier et d’un environnement doté de toutes les commodités essentielles.\n\nPour vos déplacements, le réseau de bus (dont la ligne A) facilite l’accès aux transports en commun.\n\nAccès à l'autoroute A9 par la sortie 29.\n\nL’appartement comprend : une grande pièce à vivre sur cuisine (semi équipée) ; salle de bain avec douche à l’italienne, un wc et une terrasse.  \n\nLe parking en sous sol est accessible depuis l'ascenseur. \n\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 515.4,
+  "rentChargeAmount": 145.95,
+  "rentParkingAmount": 44.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 515.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}

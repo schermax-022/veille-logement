@@ -1,0 +1,250 @@
+{
+ "guid": "d80bc94e-086c-4f33-996d-6e3ecce14e5e",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-20T11:15:46+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-20T11:15:46+01:00",
+ "liste": {
+  "id": 55217,
+  "guid": "d80bc94e-086c-4f33-996d-6e3ecce14e5e",
+  "reference": "55217",
+  "residency": {
+   "id": 9034,
+   "guid": "3a99e038-f47c-4b1a-a708-ec1a520a46c8",
+   "reference": "9034",
+   "name": "RUE DU REVEIL",
+   "type": {
+    "id": 4,
+    "ordering": 13,
+    "code": "AUT",
+    "label": "Autres résidences",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63071,
+   "guid": "40ce831f-f532-4b69-ada9-686d3ece77b9",
+   "reference": "63071",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 31.0,
+   "municipality": {
+    "id": 13343,
+    "postcode": "34420",
+    "code": "34336",
+    "name": "Villeneuve-lès-Béziers"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-20",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 500.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-20",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/40/40ce831f-f532-4b69-ada9-686d3ece77b9/medium/661cb5a7-d9b1-4cdf-aac8-d3718eabaa66",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Au centre du village, et proche du grand parking gratuit de la maison de retraite, nous vous proposons à la locataion cette belle maison MEUBLÉE composée de la façon suivante :\n- Au rez-de-chaussée : Une belle cuisine aménagée et équipée\n- Au 1er étage : Un coin Salon TV et une salle d'eau avec WC\n- Au 2e étage : Un coin nuit avec dressing",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55217,
+  "guid": "d80bc94e-086c-4f33-996d-6e3ecce14e5e",
+  "reference": "55217",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/40/40ce831f-f532-4b69-ada9-686d3ece77b9/large/8a7aebfe-ac94-4ebf-8605-8cc15cfef6ba",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/40/40ce831f-f532-4b69-ada9-686d3ece77b9/large/2b1b3c5b-240b-4202-a2c5-d974e3cfe9b1",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/40/40ce831f-f532-4b69-ada9-686d3ece77b9/large/8f6bca19-7ba5-4943-a28a-b6db7257e701",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/40/40ce831f-f532-4b69-ada9-686d3ece77b9/large/fa25213e-6fb8-4b03-82c7-765af462eaa3",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63071,
+   "guid": "40ce831f-f532-4b69-ada9-686d3ece77b9",
+   "reference": "63071",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 31.0,
+   "municipality": {
+    "id": 13343,
+    "postcode": "34420",
+    "code": "34336",
+    "name": "Villeneuve-lès-Béziers"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 1
+  },
+  "residency": {
+   "id": 9034,
+   "guid": "3a99e038-f47c-4b1a-a708-ec1a520a46c8",
+   "reference": "9034",
+   "livingRules": "",
+   "type": {
+    "id": 4,
+    "ordering": 13,
+    "code": "AUT",
+    "label": "Autres résidences",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "VISALE"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-20",
+  "endDateOfPublication": "2026-12-19",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Au centre du village, et proche du grand parking gratuit de la maison de retraite, nous vous proposons à la locataion cette belle maison MEUBLÉE composée de la façon suivante :\n- Au rez-de-chaussée : Une belle cuisine aménagée et équipée\n- Au 1er étage : Un coin Salon TV et une salle d'eau avec WC\n- Au 2e étage : Un coin nuit avec dressing",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 490.0,
+  "rentChargeAmount": 10.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 980.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
