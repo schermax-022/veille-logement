@@ -1,17 +1,17 @@
 {
  "guid": "1351448",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T23:55:34+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-11-17T15:34:44+01:00",
- "absente_depuis": "2026-11-17T15:49:02+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-17T15:49:02+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T23:55:34+02:00",
+ "fiche_recuperee_le": "2026-11-20T16:04:49+01:00",
  "liste": {
   "guid": "1351448",
   "id_lot": "1351448",
@@ -60,10 +60,25 @@
    }
   ],
   "gamme": "Logement à loyer libre",
-  "les_plus": [],
+  "les_plus": [
+   "Ascenseur",
+   "Eau chaude comprise",
+   "Parking"
+  ],
   "caracteristiques": {
+   "Logement": [
+    "Ascenseur",
+    "Eau chaude comprise",
+    "Parking",
+    "Visiophonie",
+    "Gaz",
+    "Balcon"
+   ],
    "Résidence et parties communes": [
     "Année de construction : 2014"
+   ],
+   "Chauffage et énergie": [
+    "Collectif Chauffage urbain"
    ]
   },
   "dpe": {
@@ -74,7 +89,7 @@
    "classe": "C",
    "valeur": 12.0
   },
-  "description": "SANS HONORAIRES.\nPromenade du Verger\nAgréable appartement T3 de 68 m² situé au 7ème étage d'une résidence récente de 2014, bien entretenue et gardiennée. Il se compose d'un séjour cuisine; de deux chambres; d'une salle de bain avec baignoire.\nUne place de parking ainsi qu'une cave sont incluses.\ndisponibilité immédiate\nRéférence à rappeler lors de nos échanges : A109 - 306621\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
+  "description": "SANS HONORAIRES.\nPromenade du Verger- Vue Tour effeil\nAgréable appartement T3 de 68 m² situé au 7ème étage d'une résidence récente de 2014, bien entretenue et gardiennée. Il se compose d'un séjour cuisine; de deux chambres; d'une salle de bain avec baignoire.\nUne place de parking ainsi qu'une cave sont incluses.\ndisponibilité immédiate!\nRéférence à rappeler lors de nos échanges : A109 - 306621\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr",
   "adresse": "80 Promenade du Verger",
   "ville": "ISSY LES MOULINEAUX",
   "code_postal": "92130",
