@@ -1,17 +1,17 @@
 {
  "guid": "1c4464d2-c2e2-4578-b1cd-72bc34dea1cd",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-23T17:04:34+02:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-10-28T23:29:55+01:00",
- "absente_depuis": "2026-10-29T00:09:09+01:00",
- "absences": 2,
- "retrait_detecte": "2026-10-29T00:09:09+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-23T17:04:34+02:00",
+ "fiche_recuperee_le": "2026-11-20T08:30:57+01:00",
  "liste": {
   "id": 52982,
   "guid": "1c4464d2-c2e2-4578-b1cd-72bc34dea1cd",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-23",
+  "startDateOfPublication": "2026-11-20",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/4c/4c9af31f-6aba-4c8a-9460-3b0807b90bb1/medium/a4711164-5e2c-4191-9ff6-6aed1b47fe2b",
@@ -78,7 +78,7 @@
     "dimension": "MEDIUM"
    }
   ],
-  "description": "La résidence située cours Edouard Vaillant est à proximité des transports en commun (ligne C, Bus 7), médecins, pharmacies, boulangeries, supermarchés. \n\nNous vous proposons un studio meublé et équipé composé d'un séjour et coin cuisine (meuble kitchenette avec évier, cadre de lit, sommier et matelas pour un lit simple, bureau, chaise…) avec salle de bain avec WC privative.\n\nQue vous soyez étudiant(e) avec un emploi, alternant(e), en CDD, CDI, ou intérimaire âgé(e) de moins de 30 ans, ce logement est  idéal.\n\nPAS DE FRAIS D'AGENCE - PAS DE FRAIS DE DOSSIER.\n\n\n",
+  "description": "La résidence située cours Edouard Vaillant est à proximité des transports en commun (ligne C, Bus 7), médecins, pharmacies, boulangeries, supermarchés. \nPrésence d'une laverie et d'un local à vélos.\nElle donne droit aux APL\n\nNous vous proposons un studio meublé et équipé composé d'un séjour et coin cuisine (meuble kitchenette avec évier, cadre de lit, sommier et matelas pour un lit simple, bureau, chaise…) avec salle de bain avec WC privative.\n\n\n",
   "isRecent": false,
   "isNewLodging": false,
   "candidacy": null,
@@ -239,16 +239,18 @@
      "isIncluded": true
     }
    ],
-   "requiredWarrantyTypes": [],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
    "deliveredAt": null,
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-10-20",
-  "endDateOfPublication": "2026-10-28",
+  "endDateOfPublication": "2026-11-29",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
-  "description": "La résidence située cours Edouard Vaillant est à proximité des transports en commun (ligne C, Bus 7), médecins, pharmacies, boulangeries, supermarchés. \n\nNous vous proposons un studio meublé et équipé composé d'un séjour et coin cuisine (meuble kitchenette avec évier, cadre de lit, sommier et matelas pour un lit simple, bureau, chaise…) avec salle de bain avec WC privative.\n\nQue vous soyez étudiant(e) avec un emploi, alternant(e), en CDD, CDI, ou intérimaire âgé(e) de moins de 30 ans, ce logement est  idéal.\n\nPAS DE FRAIS D'AGENCE - PAS DE FRAIS DE DOSSIER.\n\n\n",
+  "description": "La résidence située cours Edouard Vaillant est à proximité des transports en commun (ligne C, Bus 7), médecins, pharmacies, boulangeries, supermarchés. \nPrésence d'une laverie et d'un local à vélos.\nElle donne droit aux APL\n\nNous vous proposons un studio meublé et équipé composé d'un séjour et coin cuisine (meuble kitchenette avec évier, cadre de lit, sommier et matelas pour un lit simple, bureau, chaise…) avec salle de bain avec WC privative.\n\n\n",
   "paymentType": {
    "id": 2,
    "ordering": 1,
@@ -274,7 +276,7 @@
     "group": "AGE",
     "boolValue": null,
     "intStartValue": 18,
-    "intEndValue": 29,
+    "intEndValue": 30,
     "listValues": []
    }
   ],
