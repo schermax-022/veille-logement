@@ -1,17 +1,17 @@
 {
  "guid": "672805d6-7c25-4ab7-8b94-7865a5ea258d",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-15T10:31:06+02:00",
- "absente_depuis": "2026-10-15T12:27:28+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-15T12:27:28+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-07T23:17:09+02:00",
+ "fiche_recuperee_le": "2026-11-23T15:45:51+01:00",
  "liste": {
   "id": 35907,
   "guid": "672805d6-7c25-4ab7-8b94-7865a5ea258d",
@@ -69,7 +69,7 @@
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-09-28",
+  "startDateOfPublication": "2026-11-23",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/27/27d26da8-9d2d-4ad3-bd1a-008e31424aee/medium/a3b00b12-e85f-4586-8065-6bd52bb50100",
@@ -188,7 +188,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-03-27",
-  "endDateOfPublication": "2026-11-26",
+  "endDateOfPublication": "2027-01-21",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "Nous vous proposons de louer une chambre à Moréac et de vivre l'expérience enrichissante de l'hébergement temporaire chez l'habitant. \nA votre disposition, cuisine, salle d'eau (douche) et autres équipements présent dans le logement. \nLocal vélo et parking\n\nL’hébergement temporaire chez l’habitant est une solution de logement clé en main, rapide et flexible. \nOffre pour les -30 ans.\n* avril à octobre = 15 euros la nuitée ou 250 euros par mois\n\n* novembre à mars = 17 euros la nuitée ou 270 euros par mois\n\n* durée d’hébergement de 8 mois maximum sur une année civile\n\n*les hébergements proposés par le dispositif HTH ne constituent pas une adresse principale.\n\nPostulez ! Action Logement prendra contact avec vous pour faire le point sur votre demande",
@@ -207,7 +207,20 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 30,
+    "listValues": []
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
