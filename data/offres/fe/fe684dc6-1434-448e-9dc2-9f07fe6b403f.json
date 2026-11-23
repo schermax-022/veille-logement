@@ -1,0 +1,246 @@
+{
+ "guid": "fe684dc6-1434-448e-9dc2-9f07fe6b403f",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-23T17:15:44+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-23T17:15:44+01:00",
+ "liste": {
+  "id": 55004,
+  "guid": "fe684dc6-1434-448e-9dc2-9f07fe6b403f",
+  "reference": "55004",
+  "residency": {
+   "id": 6744,
+   "guid": "0b6c01bc-6316-4551-a97d-fc448467f029",
+   "reference": "6744",
+   "name": "2023",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62856,
+   "guid": "abaa0eb5-3567-4c90-b098-231fa9d0bb92",
+   "reference": "62856",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 55.29,
+   "municipality": {
+    "id": 35087,
+    "postcode": "94350",
+    "code": "94079",
+    "name": "Villiers-sur-Marne"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-06",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1011.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ab/abaa0eb5-3567-4c90-b098-231fa9d0bb92/medium/d5d078f6-30f4-4ed3-a45f-15531383f378",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La commune de Villiers sur Marne bénéficie de commerces de proximité, un accès aux établissements scolaires, à la culture, à divers sports et loisirs. Accédez également aux transports en commun RER E à proximité de la résidence, un réseau de bus et à l’axe routier A4.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55004,
+  "guid": "fe684dc6-1434-448e-9dc2-9f07fe6b403f",
+  "reference": "55004",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ab/abaa0eb5-3567-4c90-b098-231fa9d0bb92/large/5066f09a-3d7f-4801-ada3-0ed914ed734d",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/ab/abaa0eb5-3567-4c90-b098-231fa9d0bb92/large/58c44f6d-1f68-446b-ad16-164583a47676",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62856,
+   "guid": "abaa0eb5-3567-4c90-b098-231fa9d0bb92",
+   "reference": "62856",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 55.29,
+   "municipality": {
+    "id": 35087,
+    "postcode": "94350",
+    "code": "94079",
+    "name": "Villiers-sur-Marne"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 6744,
+   "guid": "0b6c01bc-6316-4551-a97d-fc448467f029",
+   "reference": "6744",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2020-01-14",
+   "constructionYear": 2020,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-06",
+  "endDateOfPublication": "2026-11-29",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La commune de Villiers sur Marne bénéficie de commerces de proximité, un accès aux établissements scolaires, à la culture, à divers sports et loisirs. Accédez également aux transports en commun RER E à proximité de la résidence, un réseau de bus et à l’axe routier A4.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 755.36,
+  "rentChargeAmount": 184.52,
+  "rentParkingAmount": 71.62,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 755.36,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
