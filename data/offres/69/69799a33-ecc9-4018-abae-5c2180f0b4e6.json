@@ -1,17 +1,17 @@
 {
  "guid": "69799a33-ecc9-4018-abae-5c2180f0b4e6",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-11-04T12:38:53+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-11T05:20:54+01:00",
- "absente_depuis": "2026-11-11T13:00:19+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-11T13:00:19+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-10T19:52:52+01:00",
+ "fiche_recuperee_le": "2026-11-23T19:30:53+01:00",
  "liste": {
   "id": 53869,
   "guid": "69799a33-ecc9-4018-abae-5c2180f0b4e6",
@@ -62,7 +62,7 @@
    },
    "description": "Exclusivité - appartement 2 pièces de 49 m² à Joinville-le-Pont  Sans frais d'agence.  Le bien comprend notamment un salon et une chambre ainsi qu’une cuisine.  L’appartement se trouve au rez-de-chaussée d’un immeuble de 3 étages.  Chauffage individuel. Une place de parking est incluse.  Le quartier est desservi par la ligne A du RER à la station Joinville-Le-Pont. Commerces à proximité.\nPour votre information, le loyer indiqué sur cette annonce sera augmenté de 1,15 % au 1er janvier 2027, selon la variation de l’indice de révision des loyers"
   },
-  "availableAt": "2026-11-10",
+  "availableAt": "2026-11-23",
   "isLodgingFirstTimeAvailable": false,
   "paymentType": {
    "id": 2,
@@ -77,7 +77,7 @@
   "startDateOfPublication": "2026-11-04",
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/b7/b7ac15cb-7b8d-46c0-a266-0dee117835e0/medium/da99c3f2-9b96-4718-a356-fb231c10b005",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b7/b7ac15cb-7b8d-46c0-a266-0dee117835e0/medium/209eea5b-48cc-4d58-ba1c-51884c84656e",
     "urlContentType": "image/jpeg",
     "ordering": 0,
     "dimension": "MEDIUM"
@@ -102,9 +102,21 @@
   "demandGuid": null,
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/b7/b7ac15cb-7b8d-46c0-a266-0dee117835e0/large/28c17afd-397e-45a1-b541-5838ab41e219",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b7/b7ac15cb-7b8d-46c0-a266-0dee117835e0/large/de10f92d-6bb4-4543-a189-056260d86e3d",
     "urlContentType": "image/jpeg",
     "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b7/b7ac15cb-7b8d-46c0-a266-0dee117835e0/large/fd5acc7a-440a-4e44-8f53-37c9bbbaf640",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/b7/b7ac15cb-7b8d-46c0-a266-0dee117835e0/large/7ad3f2f0-ef4b-472d-b255-dbb26808b57b",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
     "dimension": "LARGE"
    }
   ],
@@ -207,7 +219,7 @@
    "constructionYear": null,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-11-10",
+  "availableAt": "2026-11-23",
   "endDateOfPublication": "2027-11-03",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
