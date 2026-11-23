@@ -1,0 +1,266 @@
+{
+ "guid": "6604b53e-be0e-4570-b285-d8e0686f8e2b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-23T12:01:02+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-23T12:01:02+01:00",
+ "liste": {
+  "id": 55171,
+  "guid": "6604b53e-be0e-4570-b285-d8e0686f8e2b",
+  "reference": "55171",
+  "residency": {
+   "id": 9026,
+   "guid": "63b53fa2-5fa1-44e6-b195-4733af71e211",
+   "reference": "9026",
+   "name": "BEZIERS",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63016,
+   "guid": "fc2658dd-d349-4547-b810-6a4adb17fa54",
+   "reference": "63016",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 91.0,
+   "municipality": {
+    "id": 13171,
+    "postcode": "34290",
+    "code": "34166",
+    "name": "Montblanc"
+   },
+   "description": "Logement entièrement rénové en 2026. "
+  },
+  "availableAt": "2027-01-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 850.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-23",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc2658dd-d349-4547-b810-6a4adb17fa54/medium/b6580c0f-dfcb-4d32-be40-7d8c87fb81e0",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence profite d’un emplacement pratique à proximité du centre du village. Les commerces de proximité, services du quotidien, écoles maternelle et élémentaire ainsi que les équipements sportifs et associatifs sont facilement accessibles. La commune bénéficie d’un accès rapide à Béziers, à l’autoroute A75 et à l’A9, facilitant les déplacements vers les principaux bassins d’emploi du secteur..\n\nLogement entièrement rénové en 2026. \n\nL’appartement comprend un séjour, une cuisine ouverte,  3 chambres, une salle de bain et un balcon. \n\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55171,
+  "guid": "6604b53e-be0e-4570-b285-d8e0686f8e2b",
+  "reference": "55171",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc2658dd-d349-4547-b810-6a4adb17fa54/large/6946b040-4629-4d02-bb4c-c555100c9438",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc2658dd-d349-4547-b810-6a4adb17fa54/large/abeb1807-fa38-4ab9-b63f-9089dd0fad28",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc2658dd-d349-4547-b810-6a4adb17fa54/large/f769bb46-cac8-4a26-9e79-146970c61ddf",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc2658dd-d349-4547-b810-6a4adb17fa54/large/362187e0-6654-4651-9128-4c42eadde2f2",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/fc/fc2658dd-d349-4547-b810-6a4adb17fa54/large/4e511636-f1b2-434a-8d78-79aee53f6ee7",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63016,
+   "guid": "fc2658dd-d349-4547-b810-6a4adb17fa54",
+   "reference": "63016",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 91.0,
+   "municipality": {
+    "id": 13171,
+    "postcode": "34290",
+    "code": "34166",
+    "name": "Montblanc"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 6,
+    "ordering": 6,
+    "code": "INE",
+    "label": "Individuel électrique",
+    "commercialLabel": "Chauffage individuel électrique non compris dans les charges"
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "INDIVIDUAL",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": 2,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": true,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 9026,
+   "guid": "63b53fa2-5fa1-44e6-b195-4733af71e211",
+   "reference": "9026",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2027-01-01",
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-01",
+  "endDateOfPublication": "2026-12-19",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Cette résidence profite d’un emplacement pratique à proximité du centre du village. Les commerces de proximité, services du quotidien, écoles maternelle et élémentaire ainsi que les équipements sportifs et associatifs sont facilement accessibles. La commune bénéficie d’un accès rapide à Béziers, à l’autoroute A75 et à l’A9, facilitant les déplacements vers les principaux bassins d’emploi du secteur..\n\nLogement entièrement rénové en 2026. \n\nL’appartement comprend un séjour, une cuisine ouverte,  3 chambres, une salle de bain et un balcon. \n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 820.0,
+  "rentChargeAmount": 30.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 820.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
