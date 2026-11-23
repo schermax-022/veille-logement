@@ -1,17 +1,17 @@
 {
  "guid": "69c4377e-3cb7-45d9-8676-184de40d53b8",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-18T23:31:36+02:00",
- "absente_depuis": "2026-10-18T23:58:29+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-18T23:58:29+02:00",
- "remises_en_ligne": 1,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 2,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-12T13:19:18+02:00",
+ "fiche_recuperee_le": "2026-11-23T16:15:47+01:00",
  "liste": {
   "id": 49080,
   "guid": "69c4377e-3cb7-45d9-8676-184de40d53b8",
@@ -20,7 +20,7 @@
    "id": 8071,
    "guid": "2abc292d-8721-4bd5-86d6-75dd62a22daa",
    "reference": "8071",
-   "name": "VIEILLE LEVEE",
+   "name": "RESIDENCE VILLA LIGERIA",
    "type": {
     "id": 15,
     "ordering": 1,
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-10-12",
+  "startDateOfPublication": "2026-11-23",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/6a/6a47f0f9-42e5-48b8-ad1b-fcc8630db04a/medium/28f7cd40-af0f-4ee3-9565-33e7a87f9d9b",
@@ -210,14 +210,22 @@
     }
    },
    "lifeStyles": [],
-   "services": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
    "requiredWarrantyTypes": [],
-   "deliveredAt": "2026-12-27",
-   "constructionYear": 2026,
+   "deliveredAt": "2026-11-23",
+   "constructionYear": 2025,
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-12-27",
-  "endDateOfPublication": "2026-10-18",
+  "endDateOfPublication": "2026-12-06",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
   "description": "Résidence NEUVE Quartier Hippodrome Orléans Sud \n\nAppartement NEUF T3 d'une superficie de 60 m² en rez de jardin\nSitué RUE VIEILLE LEVEE 45100 ORLEANS\n\nParking couvert\nCuisine équipée d'une plaque à induction, four et hotte\n\nClasse énergétique : Certification environnementale RE2020 seuils 2025\n\nProche des écoles, collèges et lycées.\nProche tous commerces.\n\nIdéalement situé, à proximité des bords de Loire, jardin des plantes et Hippodrome d'Orléans\n\nArrêt de bus \"Champ de Mars\" ligne 7, \"Lab'O\" ligne 1\n\nLa date limite de candidature n'est pas contractuelle\nRéférence Action Logement : 56995",
