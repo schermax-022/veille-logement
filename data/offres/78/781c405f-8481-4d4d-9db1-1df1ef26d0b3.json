@@ -1,17 +1,17 @@
 {
  "guid": "781c405f-8481-4d4d-9db1-1df1ef26d0b3",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-11-23T09:15:40+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-23T09:30:55+01:00",
- "absente_depuis": "2026-11-23T09:45:43+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-23T09:45:43+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-23T09:15:40+01:00",
+ "fiche_recuperee_le": "2026-11-23T15:15:44+01:00",
  "liste": {
   "id": 55288,
   "guid": "781c405f-8481-4d4d-9db1-1df1ef26d0b3",
@@ -63,7 +63,7 @@
    "description": ""
   },
   "availableAt": "2026-11-26",
-  "isLodgingFirstTimeAvailable": null,
+  "isLodgingFirstTimeAvailable": true,
   "paymentType": {
    "id": 2,
    "ordering": 1,
@@ -77,7 +77,7 @@
   "startDateOfPublication": "2026-11-23",
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/66/66fd86c1-61f5-4460-88d8-29354f815a20/medium/5230ad85-b8cb-42b5-af38-17679b6deda3",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/66/66fd86c1-61f5-4460-88d8-29354f815a20/medium/eb9e163c-23db-4a3c-b7ce-8eb249977252",
     "urlContentType": "image/png",
     "ordering": 0,
     "dimension": "MEDIUM"
@@ -85,7 +85,7 @@
   ],
   "description": "Sur la commune de BREUIL LE SEC, disposant de commerces, des écoles et proche des transports en commun (gare de CLERMONT)\n\nNous vous proposons à la location un appartement de 3 chambres comprenant une place de parking.\n\nLa date limite de dépôt des candidatures n'est pas contractuelle.",
   "isRecent": true,
-  "isNewLodging": false,
+  "isNewLodging": true,
   "candidacy": null,
   "orientationCode": null,
   "rentType": "RENT_STANDARD",
@@ -102,7 +102,7 @@
   "demandGuid": null,
   "pictures": [
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/66/66fd86c1-61f5-4460-88d8-29354f815a20/large/f7873844-0156-46c3-a783-00ec3d646496",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/66/66fd86c1-61f5-4460-88d8-29354f815a20/large/268e8894-0877-4f56-a283-63559c561c74",
     "urlContentType": "image/png",
     "ordering": 0,
     "dimension": "LARGE"
@@ -205,7 +205,7 @@
   "availableAt": "2026-11-26",
   "endDateOfPublication": "2026-12-16",
   "isLodgingRehabilitated": null,
-  "isLodgingFirstTimeAvailable": null,
+  "isLodgingFirstTimeAvailable": true,
   "description": "Sur la commune de BREUIL LE SEC, disposant de commerces, des écoles et proche des transports en commun (gare de CLERMONT)\n\nNous vous proposons à la location un appartement de 3 chambres comprenant une place de parking.\n\nLa date limite de dépôt des candidatures n'est pas contractuelle.",
   "paymentType": {
    "id": 2,
@@ -225,7 +225,7 @@
   "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": true,
-  "isNewLodging": false,
+  "isNewLodging": true,
   "isOfferRentReferenceIncreased": false,
   "rentReferenceIncreased": null,
   "rentType": "RENT_STANDARD",
