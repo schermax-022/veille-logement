@@ -1,0 +1,273 @@
+{
+ "guid": "3668b007-5c30-4a44-adc2-edd4ef86239b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-24T12:45:41+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-24T12:45:41+01:00",
+ "liste": {
+  "id": 55430,
+  "guid": "3668b007-5c30-4a44-adc2-edd4ef86239b",
+  "reference": "55430",
+  "residency": {
+   "id": 7274,
+   "guid": "e19872eb-7c3e-4a35-b81e-4918d8a87473",
+   "reference": "7274",
+   "name": "CONSTELLATION",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 50720,
+   "guid": "2738d8c9-d62c-4d5a-b5b0-f8ee75f8636a",
+   "reference": "50720",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.56,
+   "municipality": {
+    "id": 13576,
+    "postcode": "35000",
+    "code": "35238",
+    "name": "Rennes"
+   },
+   "description": ""
+  },
+  "availableAt": "2027-01-01",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 436.15,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-24",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/2738d8c9-d62c-4d5a-b5b0-f8ee75f8636a/medium/283e0220-1db0-4c0d-af73-4576483e7bc5",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Dans cette résidence au cœur d'un campus étudiant, rue d'Abrissel à Rennes, nous vous proposons cet appartement, avec une kitchenette, une salle d'eau équipée, lit, table et une bibliothèque.\n\nLa résidence bénéficie d'un emplacement privilégié, facilitant les déplacements au quotidien. Elle est également très bien desservie par les transports avec la ligne de métro A: station Pontchaillou à environ 10minutes à pied et un réseau de bus à proximité.\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55430,
+  "guid": "3668b007-5c30-4a44-adc2-edd4ef86239b",
+  "reference": "55430",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/2738d8c9-d62c-4d5a-b5b0-f8ee75f8636a/large/4f46e7c8-d5ee-43f2-a471-ae79242ebc56",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/27/2738d8c9-d62c-4d5a-b5b0-f8ee75f8636a/large/6e980062-545d-4e3b-89f9-6cfb78f1ae7a",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 50720,
+   "guid": "2738d8c9-d62c-4d5a-b5b0-f8ee75f8636a",
+   "reference": "50720",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 18.56,
+   "municipality": {
+    "id": 13576,
+    "postcode": "35000",
+    "code": "35238",
+    "name": "Rennes"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 8,
+    "ordering": 8,
+    "code": "5",
+    "label": "5"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7274,
+   "guid": "e19872eb-7c3e-4a35-b81e-4918d8a87473",
+   "reference": "7274",
+   "livingRules": "",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": "2026-08-26",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-01-01",
+  "endDateOfPublication": "2026-11-29",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Dans cette résidence au cœur d'un campus étudiant, rue d'Abrissel à Rennes, nous vous proposons cet appartement, avec une kitchenette, une salle d'eau équipée, lit, table et une bibliothèque.\n\nLa résidence bénéficie d'un emplacement privilégié, facilitant les déplacements au quotidien. Elle est également très bien desservie par les transports avec la ligne de métro A: station Pontchaillou à environ 10minutes à pied et un réseau de bus à proximité.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 336.11,
+  "rentChargeAmount": 100.04,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 336.11,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 16,
+    "intEndValue": 30,
+    "listValues": []
+   },
+   {
+    "id": 1,
+    "ordering": 2,
+    "code": "ETU",
+    "label": "Etudiant",
+    "type": "BOOLEAN",
+    "group": "PROFILE",
+    "boolValue": true,
+    "intStartValue": null,
+    "intEndValue": null,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
