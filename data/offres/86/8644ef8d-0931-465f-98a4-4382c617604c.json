@@ -1,0 +1,243 @@
+{
+ "guid": "8644ef8d-0931-465f-98a4-4382c617604c",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-24T12:01:05+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-24T12:01:05+01:00",
+ "liste": {
+  "id": 55455,
+  "guid": "8644ef8d-0931-465f-98a4-4382c617604c",
+  "reference": "55455",
+  "residency": {
+   "id": 7218,
+   "guid": "231a2a9e-d88b-411b-90aa-ff1cc625f1d9",
+   "reference": "7218",
+   "name": "L'ECHAPPEE - LES RIVES DU BOHRIE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63325,
+   "guid": "91e13bb1-3003-4829-8dae-6a62714a335a",
+   "reference": "63325",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 41.51,
+   "municipality": {
+    "id": 26786,
+    "postcode": "67540",
+    "code": "67365",
+    "name": "Ostwald"
+   },
+   "description": "Venez découvrir ce logement T2 composé d'une entrée, d'une cuisine ouverte sur séjour, d'une chambre et d'une salle d'eau avec douche et WC."
+  },
+  "availableAt": "2026-12-15",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 607.52,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-24",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/91/91e13bb1-3003-4829-8dae-6a62714a335a/medium/206f17c0-3b67-4a89-ad54-c748cc34b529",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": " Résidence récente, allée Santa Maria à OSTWALD, au sein de l'Éco Quartier « Les Rives du Bohrie ». Située aux portes de Strasbourg, à 20 minutes de la gare, de l'aéroport d'Entzheim et de l'Allemagne.\n Norme énergétique RT2012\n\nVenez découvrir ce logement T2 composé d'une entrée, d'une cuisine ouverte sur séjour, d'une chambre et d'une salle d'eau avec douche et WC.\n\n",
+  "isRecent": true,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55455,
+  "guid": "8644ef8d-0931-465f-98a4-4382c617604c",
+  "reference": "55455",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/91/91e13bb1-3003-4829-8dae-6a62714a335a/large/f6946b32-0408-443f-a74c-d5d4446f5bbe",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63325,
+   "guid": "91e13bb1-3003-4829-8dae-6a62714a335a",
+   "reference": "63325",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 41.51,
+   "municipality": {
+    "id": 26786,
+    "postcode": "67540",
+    "code": "67365",
+    "name": "Ostwald"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 5,
+    "ordering": 5,
+    "code": "COU",
+    "label": "Collectif urbain",
+    "commercialLabel": "Chauffage collectif urbain compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 7218,
+   "guid": "231a2a9e-d88b-411b-90aa-ff1cc625f1d9",
+   "reference": "7218",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2021,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-15",
+  "endDateOfPublication": "2026-12-07",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": " Résidence récente, allée Santa Maria à OSTWALD, au sein de l'Éco Quartier « Les Rives du Bohrie ». Située aux portes de Strasbourg, à 20 minutes de la gare, de l'aéroport d'Entzheim et de l'Allemagne.\n Norme énergétique RT2012\n\nVenez découvrir ce logement T2 composé d'une entrée, d'une cuisine ouverte sur séjour, d'une chambre et d'une salle d'eau avec douche et WC.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 476.93,
+  "rentChargeAmount": 130.59,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 476.93,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
