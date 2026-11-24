@@ -1,17 +1,17 @@
 {
  "guid": "1366403",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-11-07T10:06:56+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-24T13:49:07+01:00",
- "absente_depuis": "2026-11-24T14:04:35+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-24T14:04:35+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-07T10:06:56+01:00",
+ "fiche_recuperee_le": "2026-11-24T16:04:27+01:00",
  "liste": {
   "guid": "1366403",
   "id_lot": "1366403",
@@ -60,12 +60,13 @@
   "gamme": "Logement intermédiaire",
   "les_plus": [
    "Parking",
-   "Gaz",
-   "Balcon"
+   "Visiophonie",
+   "Gaz"
   ],
   "caracteristiques": {
    "Logement": [
     "Parking",
+    "Visiophonie",
     "Gaz",
     "Balcon",
     "TEOM inclus"
@@ -93,9 +94,15 @@
   "adresse": "1 RUE DU JOLIMETZ",
   "ville": "VALENCIENNES",
   "code_postal": "59300",
-  "telephone": "0366676927",
+  "telephone": "0972153300",
   "photos": [
-   "https://referentiel-photos.cdc-habitat.fr/photos/361C0BC0D3F8CA30C1258C14003D2A4D.jpg"
+   "https://referentiel-photos.cdc-habitat.fr/photos/361C0BC0D3F8CA30C1258C14003D2A4D.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/AD6608F0C8B6CCF0C1258EA700791C53.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/BF6FD5E67A883B29C1258EA700792271.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/8D13202B0824B8BBC1258EA7007935BC.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/BB4E8DB1A34EC640C1258EA7007938FC.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/E6525E3D72439668C1258EA700793C03.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/2561D5F4D05F748BC1258EA700791029.png"
   ],
   "latitude": 50.35294,
   "longitude": 3.51422
