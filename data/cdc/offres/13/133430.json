@@ -1,17 +1,17 @@
 {
  "guid": "133430",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-11-09T22:27:16+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-12T10:48:33+01:00",
- "absente_depuis": "2026-11-12T11:04:23+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-12T11:04:23+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-09T22:27:16+01:00",
+ "fiche_recuperee_le": "2026-11-24T19:05:56+01:00",
  "liste": {
   "guid": "133430",
   "id_lot": "133430",
@@ -59,13 +59,18 @@
   ],
   "gamme": "Logement intermédiaire",
   "les_plus": [
+   "Eau froide comprise",
    "Parking",
    "Exposition Sud / Est"
   ],
   "caracteristiques": {
    "Logement": [
+    "Eau froide comprise",
     "Parking",
-    "Exposition Sud / Est"
+    "Exposition Sud / Est",
+    "Gaz",
+    "Balcon",
+    "TEOM inclus"
    ],
    "Résidence et parties communes": [
     "Parking",
@@ -91,8 +96,12 @@
   "code_postal": "31140",
   "telephone": "0972153303",
   "photos": [
-   "https://referentiel-photos.cdc-habitat.fr/photos/92233FA80C148825C12583780035DD58.JPG",
-   "https://referentiel-photos.cdc-habitat.fr/photos/79351AFDCD89932FC1258AC2003B7658.jpg"
+   "https://referentiel-photos.cdc-habitat.fr/photos/04D68C5295269A9EC1258EB20047EA4F.JPEG",
+   "https://referentiel-photos.cdc-habitat.fr/photos/79351AFDCD89932FC1258AC2003B7658.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/8F6AFC4502C41C1BC1258EB20047DB2F.JPEG",
+   "https://referentiel-photos.cdc-habitat.fr/photos/30A1054DD624FB02C1258EB20047DB07.JPEG",
+   "https://referentiel-photos.cdc-habitat.fr/photos/4F465DD129F0B1A6C1258EB20047DB96.JPEG",
+   "https://referentiel-photos.cdc-habitat.fr/photos/53F8780D725C9F59C1258EB20047DBBC.JPEG"
   ],
   "latitude": 43.69708,
   "longitude": 1.40735
