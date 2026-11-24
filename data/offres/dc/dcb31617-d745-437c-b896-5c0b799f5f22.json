@@ -1,0 +1,250 @@
+{
+ "guid": "dcb31617-d745-437c-b896-5c0b799f5f22",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-24T16:06:20+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-24T16:06:20+01:00",
+ "liste": {
+  "id": 55360,
+  "guid": "dcb31617-d745-437c-b896-5c0b799f5f22",
+  "reference": "55360",
+  "residency": {
+   "id": 4977,
+   "guid": "ba810958-51f9-4988-9e56-a16c4f7dbbc8",
+   "reference": "4977",
+   "name": "COSY LODGE",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63250,
+   "guid": "34584e32-266b-41ed-a9c9-eddf8c154648",
+   "reference": "63250",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 44.92,
+   "municipality": {
+    "id": 27361,
+    "postcode": "69530",
+    "code": "69027",
+    "name": "Brignais"
+   },
+   "description": null
+  },
+  "availableAt": "2026-12-17",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 624.8,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-24",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34584e32-266b-41ed-a9c9-eddf8c154648/medium/531726b5-d08a-4a3e-b66d-e174e8fc5092",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence COSY LODGE – Rue du Général de Gaulle – BRIGNAIS.\nSituée dans le secteur Les basses BAROLLES.\n \nInfrastructures à proximité : commerces, supermarchés, établissements scolaires, parc enfants, cinéma.\nTransports en commun : ligne 12 et C10, arrêt « BRIGNAIS DE GAULLE au pied de l’immeuble.\n \nLe logement se situe au 2ème étage avec ascenseur.\nCharges incluses : charges générales d’immeuble.\nLe chauffage est individuel.\n\nLe logement sera disponible à compter du 22/12/2026 (sous réserve de travaux).\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55360,
+  "guid": "dcb31617-d745-437c-b896-5c0b799f5f22",
+  "reference": "55360",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/34/34584e32-266b-41ed-a9c9-eddf8c154648/large/616fc25a-17ac-4710-b09a-e39e6d6b6878",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63250,
+   "guid": "34584e32-266b-41ed-a9c9-eddf8c154648",
+   "reference": "63250",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 44.92,
+   "municipality": {
+    "id": 27361,
+    "postcode": "69530",
+    "code": "69027",
+    "name": "Brignais"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 4977,
+   "guid": "ba810958-51f9-4988-9e56-a16c4f7dbbc8",
+   "reference": "4977",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "GRD",
+     "label": "Gardien",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2019,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-17",
+  "endDateOfPublication": "2026-12-21",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence COSY LODGE – Rue du Général de Gaulle – BRIGNAIS.\nSituée dans le secteur Les basses BAROLLES.\n \nInfrastructures à proximité : commerces, supermarchés, établissements scolaires, parc enfants, cinéma.\nTransports en commun : ligne 12 et C10, arrêt « BRIGNAIS DE GAULLE au pied de l’immeuble.\n \nLe logement se situe au 2ème étage avec ascenseur.\nCharges incluses : charges générales d’immeuble.\nLe chauffage est individuel.\n\nLe logement sera disponible à compter du 22/12/2026 (sous réserve de travaux).\n\nMerci de situer l'environnement avant de postuler à cette offre.\nLa date limite de dépôt de candidature n’est pas contractuelle.\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 575.28,
+  "rentChargeAmount": 49.52,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 590.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
