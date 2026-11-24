@@ -1,17 +1,17 @@
 {
  "guid": "1332113",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-11-04T08:50:08+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-04T18:23:47+01:00",
- "absente_depuis": "2026-11-04T19:22:44+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-04T19:22:44+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-04T08:50:08+01:00",
+ "fiche_recuperee_le": "2026-11-24T17:04:25+01:00",
  "liste": {
   "guid": "1332113",
   "id_lot": "1332113",
@@ -51,8 +51,15 @@
    }
   ],
   "gamme": "Logement à loyer libre",
-  "les_plus": [],
+  "les_plus": [
+   "Cuisine aménagée",
+   "Parking"
+  ],
   "caracteristiques": {
+   "Logement": [
+    "Cuisine aménagée",
+    "Parking"
+   ],
    "Résidence et parties communes": [
     "Année de construction : 2026"
    ],
@@ -64,7 +71,16 @@
   "ville": "ORMOY",
   "code_postal": "91540",
   "telephone": "0972153039",
-  "photos": [],
+  "photos": [
+   "https://referentiel-photos.cdc-habitat.fr/photos/8EA0F06AF32AAF34C1258E30001BF493.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/FD8612E2B4B7C1FEC1258E30001BF71A.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/7FFB3AAA5628F5F0C1258E30001BF9A1.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/1C37813629917AB8C1258E30001BE7B9.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/272283F8AE2EA38CC1258E30001C18EE.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/8B70C5C8A6E61296C1258E30001C093D.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/3AED34A6FF774255C1258E30001C25D2.jpg",
+   "https://referentiel-photos.cdc-habitat.fr/photos/3BA1F0CDDBA3067CC1258E30001C2B15.jpg"
+  ],
   "latitude": 48.56757,
   "longitude": 2.45299
  },
