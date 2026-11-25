@@ -11,7 +11,7 @@
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-23T16:15:47+01:00",
+ "fiche_recuperee_le": "2026-11-25T13:31:02+01:00",
  "liste": {
   "id": 49080,
   "guid": "69c4377e-3cb7-45d9-8676-184de40d53b8",
@@ -53,16 +53,16 @@
     "label": "T3",
     "commercialLabel": "T3"
    },
-   "area": 60.85,
+   "area": 61.0,
    "municipality": {
     "id": 16850,
     "postcode": "45100",
     "code": "45234",
     "name": "Orléans"
    },
-   "description": "Résidence NEUVE Quartier Hippodrome Orléans Sud \n\nAppartement NEUF T3 d'une superficie de 60 m² en rez de jardin\nSitué RUE VIEILLE LEVEE 45100 ORLEANS\n\nParking couvert\nCuisine équipée d'une plaque à induction, four et hotte\n\nClasse énergétique : Certification environnementale RE2020 seuils 2025\n\nProche des écoles, collèges et lycées.\nProche tous commerces.\n\nIdéalement situé, à proximité des bords de Loire, jardin des plantes et Hippodrome d'Orléans\n\nArrêt de bus \"Champ de Mars\" ligne 7, \"Lab'O\" ligne 1\n\nLa date limite de candidature n'est pas contractuelle\nRéférence Action Logement : 56996"
+   "description": ""
   },
-  "availableAt": "2026-12-27",
+  "availableAt": "2026-11-21",
   "isLodgingFirstTimeAvailable": false,
   "paymentType": {
    "id": 2,
@@ -70,10 +70,10 @@
    "code": "MSL",
    "label": "Mensuel"
   },
-  "totalRentAmountBaseBound": 876.18,
-  "areAgencyFeesRequested": false,
+  "totalRentAmountBaseBound": 866.18,
+  "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
-  "estimatedExternalCharges": null,
+  "estimatedExternalCharges": 0.0,
   "startDateOfPublication": "2026-11-23",
   "pictures": [
    {
@@ -126,7 +126,7 @@
     "label": "T3",
     "commercialLabel": "T3"
    },
-   "area": 60.85,
+   "area": 61.0,
    "municipality": {
     "id": 16850,
     "postcode": "45100",
@@ -145,14 +145,14 @@
    "toiletType": null,
    "bathroomType": null,
    "heatingMode": {
-    "id": 7,
-    "ordering": 7,
-    "code": "ING",
-    "label": "Individuel gaz",
-    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
    },
-   "hotWaterType": "INDIVIDUAL",
-   "coldWaterType": "INDIVIDUAL",
+   "hotWaterType": null,
+   "coldWaterType": null,
    "electricityType": null,
    "greenhouseGasCertificate": {
     "id": 8,
@@ -166,30 +166,16 @@
     "code": "C",
     "label": "C"
    },
-   "annualEnergyExpenditure": 0.0,
-   "elevatorPresence": "UNKNOWN",
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
    "parkingCapacity": null,
-   "parkingTypes": [
-    {
-     "id": 2,
-     "ordering": 2,
-     "code": "PEX",
-     "label": "Parking extérieur"
-    }
-   ],
-   "isKitchenEquipped": true,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
    "apartmentType": null,
    "lodgingAnnexTypes": [],
-   "outdoorTypes": [
-    {
-     "id": 3,
-     "ordering": 3,
-     "code": "JAR",
-     "label": "Jardin"
-    }
-   ],
-   "isParkingMandatory": null,
-   "numberOfRoomsHousing": 0
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
   },
   "residency": {
    "id": 8071,
@@ -224,7 +210,7 @@
    "constructionYear": 2025,
    "lastRehabilitatedDate": null
   },
-  "availableAt": "2026-12-27",
+  "availableAt": "2026-11-21",
   "endDateOfPublication": "2026-12-06",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": false,
@@ -236,14 +222,14 @@
    "label": "Mensuel"
   },
   "housingFeeBaseBound": 796.18,
-  "rentChargeAmount": 80.0,
-  "rentParkingAmount": null,
+  "rentChargeAmount": 70.0,
+  "rentParkingAmount": 0.0,
   "compulsoryBenefitAmount": null,
-  "securityDepositAmount": null,
-  "areAgencyFeesRequested": false,
+  "securityDepositAmount": 796.18,
+  "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
-  "estimatedExternalCharges": null,
-  "rentAnnexChargesIncluded": null,
+  "estimatedExternalCharges": 0.0,
+  "rentAnnexChargesIncluded": 0.0,
   "offerTargetPopulations": [],
   "isOfferAvailable": true,
   "isRecent": true,
