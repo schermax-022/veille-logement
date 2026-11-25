@@ -1,0 +1,256 @@
+{
+ "guid": "7ecc86a2-8e77-4349-ba10-ab513007e663",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-25T17:30:54+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-25T17:30:54+01:00",
+ "liste": {
+  "id": 55498,
+  "guid": "7ecc86a2-8e77-4349-ba10-ab513007e663",
+  "reference": "55498",
+  "residency": {
+   "id": 9101,
+   "guid": "e5288753-a8a0-4a98-9712-775c900b0446",
+   "reference": "9101",
+   "name": "API RESIDENCE AIX EN PROVENCE",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63362,
+   "guid": "15d302c2-b788-4a8f-9ae0-8508f9c14adf",
+   "reference": "63362",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 31.37,
+   "municipality": {
+    "id": 4329,
+    "postcode": "13090",
+    "code": "13001",
+    "name": "Aix-en-Provence"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-24",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 992.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-25",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/15/15d302c2-b788-4a8f-9ae0-8508f9c14adf/medium/921d5993-48da-42e5-9589-54ceec96e4c2",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "\nSitué avenue de Brédasque, à Aix-en-Provence, ce logement bénéficie d’un cadre résidentiel au sein d’une ville reconnue pour son attractivité et sa qualité de vie. Le secteur s’inscrit dans un environnement urbain agréable, caractérisé par la présence de quartiers d’habitation, de commerces et d’espaces de verdure, tout en profitant de la proximité des différents pôles de la commune.\n\nAix-en-Provence propose une offre complète de commerces et de services permettant de répondre aux besoins du quotidien. La ville dispose également de nombreux établissements scolaires, structures de santé, équipements sportifs, services administratifs et infrastructures culturelles accessibles dans ses différents quartiers.\n\nLes transports en commun assurent la desserte des principaux secteurs de la ville et facilitent les déplacements vers le centre-ville ainsi que les communes environnantes. Le réseau de bus permet de rejoindre les différents pôles d’activité et les principaux lieux de correspondance de l’agglomération, selon les dessertes disponibles.\n\nLa commune bénéficie d’une situation géographique favorable grâce à la proximité des autoroutes A8 et A51, qui permettent de rejoindre notamment Marseille, Salon-de-Provence et les autres pôles régionaux. Les axes routiers urbains facilitent également les déplacements au sein de l’agglomération aixoise.\n\nCette localisation offre ainsi un cadre de vie résidentiel dans une ville dynamique, avec un accès aux commerces, aux services et aux nombreuses infrastructures d’Aix-en-Provence.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55498,
+  "guid": "7ecc86a2-8e77-4349-ba10-ab513007e663",
+  "reference": "55498",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/15/15d302c2-b788-4a8f-9ae0-8508f9c14adf/large/665952eb-4213-4a45-a9c5-586e8ca58d09",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/15/15d302c2-b788-4a8f-9ae0-8508f9c14adf/large/d9db9627-7d19-4979-9083-596427468ffc",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/15/15d302c2-b788-4a8f-9ae0-8508f9c14adf/large/ec8e5f0d-5069-4378-a4a1-e60488a6358f",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/15/15d302c2-b788-4a8f-9ae0-8508f9c14adf/large/550dee54-e474-42b7-be72-15e938f57a99",
+    "urlContentType": "image/png",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/15/15d302c2-b788-4a8f-9ae0-8508f9c14adf/large/a7c0c50f-ee6a-4c87-8891-e0e87d5a6fd7",
+    "urlContentType": "image/png",
+    "ordering": 4,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63362,
+   "guid": "15d302c2-b788-4a8f-9ae0-8508f9c14adf",
+   "reference": "63362",
+   "lodgingType": "TYPE",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 5,
+    "ordering": 4,
+    "code": "T1B",
+    "label": "T1bis",
+    "commercialLabel": "T1 bis"
+   },
+   "area": 31.37,
+   "municipality": {
+    "id": 4329,
+    "postcode": "13090",
+    "code": "13001",
+    "name": "Aix-en-Provence"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 9101,
+   "guid": "e5288753-a8a0-4a98-9712-775c900b0446",
+   "reference": "9101",
+   "livingRules": "",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [
+    "LEGAL_ENTITY"
+   ],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-24",
+  "endDateOfPublication": "2026-12-24",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "\nSitué avenue de Brédasque, à Aix-en-Provence, ce logement bénéficie d’un cadre résidentiel au sein d’une ville reconnue pour son attractivité et sa qualité de vie. Le secteur s’inscrit dans un environnement urbain agréable, caractérisé par la présence de quartiers d’habitation, de commerces et d’espaces de verdure, tout en profitant de la proximité des différents pôles de la commune.\n\nAix-en-Provence propose une offre complète de commerces et de services permettant de répondre aux besoins du quotidien. La ville dispose également de nombreux établissements scolaires, structures de santé, équipements sportifs, services administratifs et infrastructures culturelles accessibles dans ses différents quartiers.\n\nLes transports en commun assurent la desserte des principaux secteurs de la ville et facilitent les déplacements vers le centre-ville ainsi que les communes environnantes. Le réseau de bus permet de rejoindre les différents pôles d’activité et les principaux lieux de correspondance de l’agglomération, selon les dessertes disponibles.\n\nLa commune bénéficie d’une situation géographique favorable grâce à la proximité des autoroutes A8 et A51, qui permettent de rejoindre notamment Marseille, Salon-de-Provence et les autres pôles régionaux. Les axes routiers urbains facilitent également les déplacements au sein de l’agglomération aixoise.\n\nCette localisation offre ainsi un cadre de vie résidentiel dans une ville dynamique, avec un accès aux commerces, aux services et aux nombreuses infrastructures d’Aix-en-Provence.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 957.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": 35.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 957.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
