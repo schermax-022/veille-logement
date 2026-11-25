@@ -1,0 +1,290 @@
+{
+ "guid": "6369472f-51ab-464b-85e8-132994d33d58",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-25T16:01:06+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-25T16:01:06+01:00",
+ "liste": {
+  "id": 55568,
+  "guid": "6369472f-51ab-464b-85e8-132994d33d58",
+  "reference": "55568",
+  "residency": {
+   "id": 1440,
+   "guid": "1aff2de5-9088-4a3f-9037-b982d78c1c70",
+   "reference": "1440",
+   "name": "THUILLAT",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63439,
+   "guid": "32f4634c-82a6-4240-bad5-8eda3070f172",
+   "reference": "63439",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 33617,
+    "postcode": "87100",
+    "code": "87085",
+    "name": "Limoges"
+   },
+   "description": "Nous vous proposons un studio meublé composé d'une pièce de vie avec coin cuisine (équipée: plaque induction, réfrigérateur, micro-onde), salle de bain.\n"
+  },
+  "availableAt": "2026-11-01",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 500.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-25",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/32f4634c-82a6-4240-bad5-8eda3070f172/medium/c63d4ad8-9e08-4aed-b04a-76f04330b6eb",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence se situe Avenue Emile Labussière à proximité des commerces et services : supermarché, médecin, pharmacie, boulangerie, transports en commun (bus ligne 1, 2, 20, D10, N1)\n\nL'immeuble comprend 10 logements. \nUn espace commun est ouvert pour l'ensemble des locataires  : salon, cuisine,  terrasse et jardin, abri pour vélo.\nStationnement dans la rue.\n\nNous vous proposons un studio meublé composé d'une pièce de vie avec coin cuisine (équipée: plaque induction, réfrigérateur, micro-onde), salle de bain.\n\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55568,
+  "guid": "6369472f-51ab-464b-85e8-132994d33d58",
+  "reference": "55568",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/32f4634c-82a6-4240-bad5-8eda3070f172/large/46ff4db5-ff67-4377-916b-9d5ce56b2f55",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/32/32f4634c-82a6-4240-bad5-8eda3070f172/large/e07bd2bd-4b70-48dd-8396-3af9a6d9fabd",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63439,
+   "guid": "32f4634c-82a6-4240-bad5-8eda3070f172",
+   "reference": "63439",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 21.0,
+   "municipality": {
+    "id": 33617,
+    "postcode": "87100",
+    "code": "87085",
+    "name": "Limoges"
+   },
+   "isFurnished": true,
+   "prmMode": null,
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1440,
+   "guid": "1aff2de5-9088-4a3f-9037-b982d78c1c70",
+   "reference": "1440",
+   "livingRules": "Règlement intérieur",
+   "type": {
+    "id": 8,
+    "ordering": 1,
+    "code": "FJT",
+    "label": "Foyer jeunes travailleurs",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": "2023-04-15"
+  },
+  "availableAt": "2026-11-01",
+  "endDateOfPublication": "2026-12-02",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "La résidence se situe Avenue Emile Labussière à proximité des commerces et services : supermarché, médecin, pharmacie, boulangerie, transports en commun (bus ligne 1, 2, 20, D10, N1)\n\nL'immeuble comprend 10 logements. \nUn espace commun est ouvert pour l'ensemble des locataires  : salon, cuisine,  terrasse et jardin, abri pour vélo.\nStationnement dans la rue.\n\nNous vous proposons un studio meublé composé d'une pièce de vie avec coin cuisine (équipée: plaque induction, réfrigérateur, micro-onde), salle de bain.\n\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 500.0,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 307.0,
+  "areAgencyFeesRequested": false,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
