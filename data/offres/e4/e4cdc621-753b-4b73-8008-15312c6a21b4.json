@@ -1,0 +1,246 @@
+{
+ "guid": "e4cdc621-753b-4b73-8008-15312c6a21b4",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-25T16:15:45+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-25T16:15:45+01:00",
+ "liste": {
+  "id": 55011,
+  "guid": "e4cdc621-753b-4b73-8008-15312c6a21b4",
+  "reference": "55011",
+  "residency": {
+   "id": 9007,
+   "guid": "7369f090-5a25-4c0a-a65b-d40d003bea48",
+   "reference": "9007",
+   "name": "2378",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62864,
+   "guid": "9fc43df8-7612-4bad-9aaf-8ec489653ae1",
+   "reference": "62865",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.3,
+   "municipality": {
+    "id": 18853,
+    "postcode": "51100",
+    "code": "51454",
+    "name": "Reims"
+   },
+   "description": ""
+  },
+  "availableAt": "2027-03-31",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 675.6,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-25",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9f/9fc43df8-7612-4bad-9aaf-8ec489653ae1/medium/ffbf19a4-7bcb-4598-a728-a9017053b816",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "PROGRAMME NEUF \nA REIMS, Rue Andrée Paté (donnant Rue Pierre Maître), venez découvrir cette nouvelle résidence moderne \"COTE BOSQUET\" située à 3 km du centre ville, à 5 km de la zone commerciale de TINQUEUX, proche des transports en communs (bus, tram et train) et avec un accès rapide à l'autoroute A344.\n\nAppartement de type T2 10 rez-de-chaussée, composé d'une entrée avec placard de rangement, d'une cuisine ouverte sur un séjour avec une TERRASSE, d'une chambre et d'une salle d'eau avec douche et WC.\nChauffage collectif compris dans les charges. Place de stationnement.\nLivraison prévue le 31/03/2027.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55011,
+  "guid": "e4cdc621-753b-4b73-8008-15312c6a21b4",
+  "reference": "55011",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9f/9fc43df8-7612-4bad-9aaf-8ec489653ae1/large/00def6e8-078f-48ae-8c5f-9e64d11cd6e6",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/9f/9fc43df8-7612-4bad-9aaf-8ec489653ae1/large/8ed3f9d9-ba83-44aa-aa39-0673ab340349",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62864,
+   "guid": "9fc43df8-7612-4bad-9aaf-8ec489653ae1",
+   "reference": "62865",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 7,
+    "ordering": 6,
+    "code": "T2",
+    "label": "T2",
+    "commercialLabel": "T2"
+   },
+   "area": 46.3,
+   "municipality": {
+    "id": 18853,
+    "postcode": "51100",
+    "code": "51454",
+    "name": "Reims"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 9007,
+   "guid": "7369f090-5a25-4c0a-a65b-d40d003bea48",
+   "reference": "9007",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-03-31",
+  "endDateOfPublication": "2027-01-03",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "PROGRAMME NEUF \nA REIMS, Rue Andrée Paté (donnant Rue Pierre Maître), venez découvrir cette nouvelle résidence moderne \"COTE BOSQUET\" située à 3 km du centre ville, à 5 km de la zone commerciale de TINQUEUX, proche des transports en communs (bus, tram et train) et avec un accès rapide à l'autoroute A344.\n\nAppartement de type T2 10 rez-de-chaussée, composé d'une entrée avec placard de rangement, d'une cuisine ouverte sur un séjour avec une TERRASSE, d'une chambre et d'une salle d'eau avec douche et WC.\nChauffage collectif compris dans les charges. Place de stationnement.\nLivraison prévue le 31/03/2027.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 508.0,
+  "rentChargeAmount": 117.6,
+  "rentParkingAmount": 50.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 508.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
