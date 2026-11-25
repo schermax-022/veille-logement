@@ -1,0 +1,255 @@
+{
+ "guid": "1f7ef8b1-8dd5-45c0-b17e-1b3a614149dc",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-25T10:45:46+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-25T10:45:46+01:00",
+ "liste": {
+  "id": 55546,
+  "guid": "1f7ef8b1-8dd5-45c0-b17e-1b3a614149dc",
+  "reference": "55546",
+  "residency": {
+   "id": 9112,
+   "guid": "e3064023-de22-4d61-8c5d-733c9dc58a38",
+   "reference": "9112",
+   "name": "TARBES - SAINT EXUPERY",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63416,
+   "guid": "360cf48b-24ce-4c0d-aa30-8985fcea8c53",
+   "reference": "63416",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 102.28,
+   "municipality": {
+    "id": 26179,
+    "postcode": "65000",
+    "code": "65440",
+    "name": "Tarbes"
+   },
+   "description": "Une maison de type 4 comprenant : au rdc :  entrée avec placard, séjour, cuisine séparée, cellier, wc séparé, buanderie, chambre avec placard et salle d'eau, garage, terrasse et jardin ; à l'étage : coin bureau, 2 chambres avec placard, salle de bains et wc séparé."
+  },
+  "availableAt": "2026-12-07",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 780.03,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-25",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/36/360cf48b-24ce-4c0d-aa30-8985fcea8c53/medium/0d2dd7e2-a6f5-4647-9d63-bd3067aeece6",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence située Boulevard Saint Exupéry à Tarbes. \nLa ville dispose de toutes les commodités nécessaires : commerces, services, établissements scolaires, équipements sportifs, culturels et infrastructures de santé. \nEn matière de mobilité, Tarbes bénéficie d'un accès à l’autoroute A64 et elle est desservie par les transports en commun : réseau de bus, gare. \n\nLogement comprenant au rez-de-chaussée :  entrée avec placard, séjour, cuisine séparée, cellier, WC séparé, buanderie, chambre avec placard, salle d'eau, garage, terrasse et jardin. A l'étage : coin bureau, deux chambres avec placard, salle de bains et WC séparé.\n\nLa date de disponibilité du logement est donnée à titre indicatif et reste conditionnée à la réalisation éventuelle de travaux.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55546,
+  "guid": "1f7ef8b1-8dd5-45c0-b17e-1b3a614149dc",
+  "reference": "55546",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/36/360cf48b-24ce-4c0d-aa30-8985fcea8c53/large/c02582df-954b-4557-a3b6-fa3f7f297620",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/36/360cf48b-24ce-4c0d-aa30-8985fcea8c53/large/afc84e0e-f7b0-4777-abe3-d26b75f95d93",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63416,
+   "guid": "360cf48b-24ce-4c0d-aa30-8985fcea8c53",
+   "reference": "63416",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 102.28,
+   "municipality": {
+    "id": 26179,
+    "postcode": "65000",
+    "code": "65440",
+    "name": "Tarbes"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "GAR",
+     "label": "Box"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": true,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 9112,
+   "guid": "e3064023-de22-4d61-8c5d-733c9dc58a38",
+   "reference": "9112",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": 2010,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-07",
+  "endDateOfPublication": "2026-12-09",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Résidence située Boulevard Saint Exupéry à Tarbes. \nLa ville dispose de toutes les commodités nécessaires : commerces, services, établissements scolaires, équipements sportifs, culturels et infrastructures de santé. \nEn matière de mobilité, Tarbes bénéficie d'un accès à l’autoroute A64 et elle est desservie par les transports en commun : réseau de bus, gare. \n\nLogement comprenant au rez-de-chaussée :  entrée avec placard, séjour, cuisine séparée, cellier, WC séparé, buanderie, chambre avec placard, salle d'eau, garage, terrasse et jardin. A l'étage : coin bureau, deux chambres avec placard, salle de bains et WC séparé.\n\nLa date de disponibilité du logement est donnée à titre indicatif et reste conditionnée à la réalisation éventuelle de travaux.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 705.03,
+  "rentChargeAmount": 75.0,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 705.03,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
