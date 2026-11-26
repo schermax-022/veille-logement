@@ -11,7 +11,7 @@
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-24T15:15:46+01:00",
+ "fiche_recuperee_le": "2026-11-26T16:01:08+01:00",
  "liste": {
   "id": 55467,
   "guid": "d03f6665-2573-4164-a9f8-05ced6e2831d",
@@ -53,14 +53,14 @@
     "label": "T3",
     "commercialLabel": "T3"
    },
-   "area": 60.0,
+   "area": 58.0,
    "municipality": {
     "id": 23443,
     "postcode": "61000",
     "code": "61001",
     "name": "Alençon"
    },
-   "description": "Logement de type 3 lumineux et spacieux.\nEntrée, pièce de vie, chambre et salle de douches."
+   "description": "Très joli appartement avec bel hauteur de plafond refait à neuf en 2024.\nCuisine équipée four plaque hotte.\nBelle pièce de vie avec 2 chambres et salle de douche.\n2 places de parking.\nChauffage individuel électrique.\nCharges comprennent les ordures ménagères + entretien des parties communes."
   },
   "availableAt": "2026-11-30",
   "isLodgingFirstTimeAvailable": null,
@@ -108,15 +108,21 @@
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b07f67a-6316-4717-947c-23d9c5da6f09/large/946e290f-a6e2-4856-be5d-55c97941a6dd",
-    "urlContentType": "image/jpeg",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b07f67a-6316-4717-947c-23d9c5da6f09/large/395fc147-afad-4eed-b6b8-5213b6ac67b3",
+    "urlContentType": "image/png",
     "ordering": 1,
     "dimension": "LARGE"
    },
    {
-    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b07f67a-6316-4717-947c-23d9c5da6f09/large/4af6b5be-d7f3-4a0a-b978-e7ec62bc00f0",
-    "urlContentType": "image/jpeg",
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b07f67a-6316-4717-947c-23d9c5da6f09/large/d7611510-43e9-4329-88d6-b874806dc279",
+    "urlContentType": "image/png",
     "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/3b/3b07f67a-6316-4717-947c-23d9c5da6f09/large/b0b0d3aa-d9cf-4b95-a1f0-e374f74a02dc",
+    "urlContentType": "image/png",
+    "ordering": 3,
     "dimension": "LARGE"
    }
   ],
@@ -138,7 +144,7 @@
     "label": "T3",
     "commercialLabel": "T3"
    },
-   "area": 60.0,
+   "area": 58.0,
    "municipality": {
     "id": 23443,
     "postcode": "61000",
@@ -167,16 +173,16 @@
    "coldWaterType": "INDIVIDUAL",
    "electricityType": null,
    "greenhouseGasCertificate": {
-    "id": 8,
-    "ordering": 8,
-    "code": "NC",
-    "label": "Non communiqué"
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
    },
    "energyPerformanceCertificate": {
-    "id": 8,
-    "ordering": 8,
-    "code": "NC",
-    "label": "Non communiqué"
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
    },
    "annualEnergyExpenditure": 0.0,
    "elevatorPresence": "NO",
@@ -194,7 +200,7 @@
    "lodgingAnnexTypes": [],
    "outdoorTypes": [],
    "isParkingMandatory": false,
-   "numberOfRoomsHousing": 0
+   "numberOfRoomsHousing": 2
   },
   "residency": {
    "id": 4106,
