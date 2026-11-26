@@ -1,0 +1,252 @@
+{
+ "guid": "e0756387-f975-4e6c-b6f2-73f4c4b3be8f",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-26T11:15:46+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-26T11:15:46+01:00",
+ "liste": {
+  "id": 53930,
+  "guid": "e0756387-f975-4e6c-b6f2-73f4c4b3be8f",
+  "reference": "53930",
+  "residency": {
+   "id": 8794,
+   "guid": "7fb77fd1-ff6f-4933-b392-98837ee76b12",
+   "reference": "8794",
+   "name": "1170",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 61624,
+   "guid": "59333090-f539-49e9-8678-184186542a93",
+   "reference": "61624",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 11,
+    "ordering": 10,
+    "code": "T6",
+    "label": "T6",
+    "commercialLabel": "T6"
+   },
+   "area": 148.43,
+   "municipality": {
+    "id": 18544,
+    "postcode": "51370",
+    "code": "51118",
+    "name": "Champigny"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-11-23",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1472.95,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59333090-f539-49e9-8678-184186542a93/medium/8ffb8139-4060-4dd1-a0cf-80949101bd81",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Située Rue de la Garenne à CHAMPIGNY, proche des transports en commun et des commerces.\n\nVenez découvrir cette MAISON T5/6 composée au rez-de-chaussée, d'une cuisine, d'un séjour, d'un WC, d'un cellier, d'un vestiaire, d'un JARDIN et d'une TERRASSE.\nA l'étage, vous y trouverez quatre chambres, un jardin d'hier, une salle de bains avec baignoire, une salle d'eau avec douche et un WC séparé. \n\nDisponible de suite.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 53930,
+  "guid": "e0756387-f975-4e6c-b6f2-73f4c4b3be8f",
+  "reference": "53930",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59333090-f539-49e9-8678-184186542a93/large/0558f601-5aaa-42de-b9b0-3e931f32e806",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59333090-f539-49e9-8678-184186542a93/large/49b05a0e-28bb-4d83-9f4b-ef462db3aeeb",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/59/59333090-f539-49e9-8678-184186542a93/large/872a93be-4195-4056-9f3c-586063561899",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 61624,
+   "guid": "59333090-f539-49e9-8678-184186542a93",
+   "reference": "61624",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 1,
+    "ordering": 2,
+    "code": "M",
+    "label": "Maison"
+   },
+   "lodgingTypology": {
+    "id": 11,
+    "ordering": 10,
+    "code": "T6",
+    "label": "T6",
+    "commercialLabel": "T6"
+   },
+   "area": 148.43,
+   "municipality": {
+    "id": 18544,
+    "postcode": "51370",
+    "code": "51118",
+    "name": "Champigny"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 1,
+    "ordering": 1,
+    "code": "A",
+    "label": "A"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8794,
+   "guid": "7fb77fd1-ff6f-4933-b392-98837ee76b12",
+   "reference": "8794",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2009-08-10",
+   "constructionYear": 2009,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-11-23",
+  "endDateOfPublication": "2026-11-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Située Rue de la Garenne à CHAMPIGNY, proche des transports en commun et des commerces.\n\nVenez découvrir cette MAISON T5/6 composée au rez-de-chaussée, d'une cuisine, d'un séjour, d'un WC, d'un cellier, d'un vestiaire, d'un JARDIN et d'une TERRASSE.\nA l'étage, vous y trouverez quatre chambres, un jardin d'hier, une salle de bains avec baignoire, une salle d'eau avec douche et un WC séparé. \n\nDisponible de suite.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 1444.0,
+  "rentChargeAmount": 28.95,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 1444.0,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
