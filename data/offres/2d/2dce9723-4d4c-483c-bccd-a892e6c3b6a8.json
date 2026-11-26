@@ -1,0 +1,240 @@
+{
+ "guid": "2dce9723-4d4c-483c-bccd-a892e6c3b6a8",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-26T10:01:02+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-26T10:01:02+01:00",
+ "liste": {
+  "id": 55517,
+  "guid": "2dce9723-4d4c-483c-bccd-a892e6c3b6a8",
+  "reference": "55517",
+  "residency": {
+   "id": 8488,
+   "guid": "daa94331-d2cd-4dbd-bb3c-2141d57bc75e",
+   "reference": "8488",
+   "name": "1.9829",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63383,
+   "guid": "6c162672-256b-4cd7-86e6-8486dd42f99b",
+   "reference": "63383",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 59.65,
+   "municipality": {
+    "id": 23228,
+    "postcode": "60560",
+    "code": "60482",
+    "name": "Orry-la-Ville"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-06-26",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 985.5,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6c/6c162672-256b-4cd7-86e6-8486dd42f99b/medium/afb470ff-72ce-4266-9479-4c92ef74f80e",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A Orry La Ville, nous vous proposons à la location un appartement 2 chambres, situé avenue du 8 juin 1940.\n\nCommune disposant de commerces de proximité, des écoles et des transports.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55517,
+  "guid": "2dce9723-4d4c-483c-bccd-a892e6c3b6a8",
+  "reference": "55517",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/6c/6c162672-256b-4cd7-86e6-8486dd42f99b/large/e9e6c962-ccfa-4695-a08f-5b8b178a1d79",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63383,
+   "guid": "6c162672-256b-4cd7-86e6-8486dd42f99b",
+   "reference": "63383",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 59.65,
+   "municipality": {
+    "id": 23228,
+    "postcode": "60560",
+    "code": "60482",
+    "name": "Orry-la-Ville"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 8488,
+   "guid": "daa94331-d2cd-4dbd-bb3c-2141d57bc75e",
+   "reference": "8488",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2018-12-31",
+   "constructionYear": 2018,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-06-26",
+  "endDateOfPublication": "2026-12-08",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "A Orry La Ville, nous vous proposons à la location un appartement 2 chambres, situé avenue du 8 juin 1940.\n\nCommune disposant de commerces de proximité, des écoles et des transports.\n\nLa date limite de dépôt de candidature n’est pas contractuelle.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 900.97,
+  "rentChargeAmount": 84.53,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 900.97,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
