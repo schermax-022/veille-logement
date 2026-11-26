@@ -1,0 +1,294 @@
+{
+ "guid": "d39ff84a-a767-4de4-8af0-7feb05a81bd7",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-26T11:30:55+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-26T11:30:55+01:00",
+ "liste": {
+  "id": 51723,
+  "guid": "d39ff84a-a767-4de4-8af0-7feb05a81bd7",
+  "reference": "51723",
+  "residency": {
+   "id": 6360,
+   "guid": "da810373-4893-4850-868b-6d6c6c987944",
+   "reference": "6360",
+   "name": "1161",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 59242,
+   "guid": "c545add6-2595-487f-8ab9-25f6237a9a80",
+   "reference": "59242",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 84.0,
+   "municipality": {
+    "id": 18853,
+    "postcode": "51100",
+    "code": "51454",
+    "name": "Reims"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-09-21",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 879.59,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c545add6-2595-487f-8ab9-25f6237a9a80/medium/29574337-68ba-4141-8753-18af253828dc",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Situé Rue Prieur de la Marne à REIMS, à proximité immédiate du centre-ville, des commodités et des transports en commun.\n\nVenez découvrir ce T3/4 composé d'une entrée, d'une cuisine fermée, d'un séjour donnant accès à un BALCON, de deux chambres, d'une salle de bain avec baignoire et d'un WC séparé.\n\nDisponible de suite.",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 51723,
+  "guid": "d39ff84a-a767-4de4-8af0-7feb05a81bd7",
+  "reference": "51723",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c545add6-2595-487f-8ab9-25f6237a9a80/large/5710ffb9-a77d-444c-bd57-539804f480b8",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c545add6-2595-487f-8ab9-25f6237a9a80/large/31435d97-ddf5-4a96-9145-0ea5f3a15764",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c545add6-2595-487f-8ab9-25f6237a9a80/large/87a68d93-ea7c-47ce-845f-01f1d8add9f1",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c545add6-2595-487f-8ab9-25f6237a9a80/large/2fc9d83f-3fd6-44b3-960e-c8c4b040a800",
+    "urlContentType": "image/jpeg",
+    "ordering": 3,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c545add6-2595-487f-8ab9-25f6237a9a80/large/266c7749-7fb7-44f8-82a4-cbb831ab63dc",
+    "urlContentType": "image/jpeg",
+    "ordering": 4,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c545add6-2595-487f-8ab9-25f6237a9a80/large/79efad6f-a414-46d0-9234-a902b84a2df9",
+    "urlContentType": "image/jpeg",
+    "ordering": 5,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c545add6-2595-487f-8ab9-25f6237a9a80/large/5ce679eb-4654-4cd6-9b3e-ab6f00ab0ee1",
+    "urlContentType": "image/jpeg",
+    "ordering": 6,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c545add6-2595-487f-8ab9-25f6237a9a80/large/5135c5c2-f620-4909-87b7-17c8b80f1360",
+    "urlContentType": "image/jpeg",
+    "ordering": 7,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c545add6-2595-487f-8ab9-25f6237a9a80/large/e710edc9-1539-4708-958e-f0488ac04a2d",
+    "urlContentType": "image/jpeg",
+    "ordering": 8,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/c5/c545add6-2595-487f-8ab9-25f6237a9a80/large/d0dd9387-c503-4b74-9803-72969582a09c",
+    "urlContentType": "image/jpeg",
+    "ordering": 9,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 59242,
+   "guid": "c545add6-2595-487f-8ab9-25f6237a9a80",
+   "reference": "59242",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 84.0,
+   "municipality": {
+    "id": 18853,
+    "postcode": "51100",
+    "code": "51454",
+    "name": "Reims"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 10,
+    "ordering": 10,
+    "code": "IAU",
+    "label": "Individuel autre",
+    "commercialLabel": "Chauffage individuel non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "energyPerformanceCertificate": {
+    "id": 3,
+    "ordering": 3,
+    "code": "C",
+    "label": "C"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 6360,
+   "guid": "da810373-4893-4850-868b-6d6c6c987944",
+   "reference": "6360",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2010-10-22",
+   "constructionYear": 2010,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-09-21",
+  "endDateOfPublication": "2026-11-30",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Situé Rue Prieur de la Marne à REIMS, à proximité immédiate du centre-ville, des commodités et des transports en commun.\n\nVenez découvrir ce T3/4 composé d'une entrée, d'une cuisine fermée, d'un séjour donnant accès à un BALCON, de deux chambres, d'une salle de bain avec baignoire et d'un WC séparé.\n\nDisponible de suite.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 799.48,
+  "rentChargeAmount": 80.11,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 799.48,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
