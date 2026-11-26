@@ -1,17 +1,17 @@
 {
  "guid": "d44f2981-a5f4-4076-9cc3-47ff3f074618",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-11-05T12:23:13+01:00",
  "deja_en_ligne_au_demarrage": false,
  "derniere_presence": "2026-11-24T23:45:51+01:00",
- "absente_depuis": "2026-11-25T00:01:07+01:00",
- "absences": 2,
- "retrait_detecte": "2026-11-25T00:01:07+01:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-11-05T12:23:13+01:00",
+ "fiche_recuperee_le": "2026-11-26T06:30:51+01:00",
  "liste": {
   "id": 54010,
   "guid": "d44f2981-a5f4-4076-9cc3-47ff3f074618",
@@ -74,7 +74,7 @@
   "areAgencyFeesRequested": false,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-11-05",
+  "startDateOfPublication": "2026-11-26",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/d7/d7e8881b-9bdd-4d30-b363-1b1a723d7cea/medium/3aa2a876-b42a-44c5-a35f-4cc357d63d3b",
@@ -270,7 +270,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-11-05",
-  "endDateOfPublication": "2026-11-24",
+  "endDateOfPublication": "2026-12-05",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": null,
   "description": "La résidence PANNEVERT, située 95 Route de Darnetal à ROUEN est destinée aux jeunes actifs de moins de 30 ans et offre une location à la carte pour 24 mois maximum.\nLa formule est tout inclus. \nIdéalement située proche des commerces et des transports en commun\n\nStudio situé au sein d'une Résidence destinée aux jeunes salariés.\nLe studio entièrement meublé sera disponible à compter du 6 février prochain\n\n",
@@ -289,7 +289,20 @@
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
   "rentAnnexChargesIncluded": null,
-  "offerTargetPopulations": [],
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
   "isOfferAvailable": true,
   "isRecent": false,
   "isNewLodging": false,
