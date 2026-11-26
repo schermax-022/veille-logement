@@ -1,0 +1,246 @@
+{
+ "guid": "ebc7d834-021a-4d91-9810-d7ebfb6516fd",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-26T16:30:56+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-26T16:30:56+01:00",
+ "liste": {
+  "id": 55003,
+  "guid": "ebc7d834-021a-4d91-9810-d7ebfb6516fd",
+  "reference": "55003",
+  "residency": {
+   "id": 9004,
+   "guid": "415ca63f-3794-4854-8bb7-d61a63ce035c",
+   "reference": "9004",
+   "name": "2391",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 62855,
+   "guid": "711c5c48-4663-40cb-8819-a93f2e418414",
+   "reference": "62855",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 77.5,
+   "municipality": {
+    "id": 34884,
+    "postcode": "91310",
+    "code": "91425",
+    "name": "Montlhéry"
+   },
+   "description": ""
+  },
+  "availableAt": "2027-03-15",
+  "isLodgingFirstTimeAvailable": true,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 1228.46,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-26",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/711c5c48-4663-40cb-8819-a93f2e418414/medium/9990a203-56b0-4843-a3aa-a2e2868d4d10",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Dans la commune de Montlhéry, bénéficiez de commerces et services de proximité, un accès aux établissements scolaires, à divers sports et loisirs. Accédez aux transports en commun RER C par la commune voisine de Saint Michel sur Orge en 12 min par le bus lignes 4642 et 4641 ou en 8 min en voiture. Bénéficiez également d'un accès rapide à la N20 et N104 menant à l'A10 et A6.",
+  "isRecent": false,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55003,
+  "guid": "ebc7d834-021a-4d91-9810-d7ebfb6516fd",
+  "reference": "55003",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/711c5c48-4663-40cb-8819-a93f2e418414/large/a816312c-4581-415c-9ed6-d48fc46bc60c",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/71/711c5c48-4663-40cb-8819-a93f2e418414/large/a2380040-a3a3-4b0f-96f8-24b996cdcf3e",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 62855,
+   "guid": "711c5c48-4663-40cb-8819-a93f2e418414",
+   "reference": "62855",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 9,
+    "ordering": 8,
+    "code": "T4",
+    "label": "T4",
+    "commercialLabel": "T4"
+   },
+   "area": 77.5,
+   "municipality": {
+    "id": 34884,
+    "postcode": "91310",
+    "code": "91425",
+    "name": "Montlhéry"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 4,
+    "ordering": 4,
+    "code": "1",
+    "label": "1"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 9,
+    "ordering": 9,
+    "code": "CAU",
+    "label": "Collectif autre",
+    "commercialLabel": "Chauffage collectif autre compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 9004,
+   "guid": "415ca63f-3794-4854-8bb7-d61a63ce035c",
+   "reference": "9004",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-03-15",
+  "endDateOfPublication": "2026-12-25",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": true,
+  "description": "Dans la commune de Montlhéry, bénéficiez de commerces et services de proximité, un accès aux établissements scolaires, à divers sports et loisirs. Accédez aux transports en commun RER C par la commune voisine de Saint Michel sur Orge en 12 min par le bus lignes 4642 et 4641 ou en 8 min en voiture. Bénéficiez également d'un accès rapide à la N20 et N104 menant à l'A10 et A6.",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 938.98,
+  "rentChargeAmount": 239.48,
+  "rentParkingAmount": 50.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 938.98,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
