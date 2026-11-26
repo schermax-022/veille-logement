@@ -1,17 +1,17 @@
 {
  "guid": "1b3b1e6b-59db-4822-a87c-3359d73d3442",
- "statut": "retiree",
+ "statut": "en_ligne",
  "premiere_detection": "2026-10-07T18:07:27+02:00",
  "deja_en_ligne_au_demarrage": true,
  "derniere_presence": "2026-10-09T23:47:11+02:00",
- "absente_depuis": "2026-10-10T00:16:30+02:00",
- "absences": 2,
- "retrait_detecte": "2026-10-10T00:16:30+02:00",
- "remises_en_ligne": 0,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 1,
  "alerte": null,
  "alerte_envoyee_le": null,
  "fiche_statut": "ok",
- "fiche_recuperee_le": "2026-10-08T10:49:27+02:00",
+ "fiche_recuperee_le": "2026-11-26T16:15:41+01:00",
  "liste": {
   "id": 36408,
   "guid": "1b3b1e6b-59db-4822-a87c-3359d73d3442",
@@ -70,11 +70,11 @@
    "code": "MSL",
    "label": "Mensuel"
   },
-  "totalRentAmountBaseBound": 1005.0,
+  "totalRentAmountBaseBound": 1115.0,
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
-  "startDateOfPublication": "2026-09-25",
+  "startDateOfPublication": "2026-11-26",
   "pictures": [
    {
     "url": "https://assets.logement-actionlogement.fr/lodgings/84/84b44fa3-ebd5-4a77-a009-6e31155b0a69/medium/f209024e-e148-4f97-a745-793cacfd72d2",
@@ -192,7 +192,7 @@
      "label": "Balcon/Terrasse"
     }
    ],
-   "isParkingMandatory": false,
+   "isParkingMandatory": true,
    "numberOfRoomsHousing": 2
   },
   "residency": {
@@ -221,7 +221,7 @@
    "lastRehabilitatedDate": null
   },
   "availableAt": "2026-07-20",
-  "endDateOfPublication": "2026-10-09",
+  "endDateOfPublication": "2026-12-10",
   "isLodgingRehabilitated": null,
   "isLodgingFirstTimeAvailable": true,
   "description": "Beau T3 de 60.m² dans résidence neuve, situé au 2ème étage, loué avec une place de stationnement double et cuisine aménagée. Livraison prévisionnelle : 30/06/2026. Loyer payable d'avance. Garantie VISALE acceptée. Pas de frais d'agence. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site georisques.gouv.fr",
@@ -233,9 +233,9 @@
   },
   "housingFeeBaseBound": 913.64,
   "rentChargeAmount": 91.36,
-  "rentParkingAmount": 0.0,
+  "rentParkingAmount": 110.0,
   "compulsoryBenefitAmount": null,
-  "securityDepositAmount": 913.64,
+  "securityDepositAmount": 1013.64,
   "areAgencyFeesRequested": null,
   "agencyFeesAmount": null,
   "estimatedExternalCharges": null,
