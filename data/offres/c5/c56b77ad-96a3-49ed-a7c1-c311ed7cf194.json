@@ -1,0 +1,298 @@
+{
+ "guid": "c56b77ad-96a3-49ed-a7c1-c311ed7cf194",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-27T14:01:09+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-27T14:01:09+01:00",
+ "liste": {
+  "id": 55877,
+  "guid": "c56b77ad-96a3-49ed-a7c1-c311ed7cf194",
+  "reference": "55877",
+  "residency": {
+   "id": 163,
+   "guid": "7ab6c097-07a0-4d72-94ef-4b59343a115e",
+   "reference": "163",
+   "name": "CRETEIL MARC SEGUIN",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 17745,
+   "guid": "54791bea-4306-4e53-bc8a-305d5bfcc3a3",
+   "reference": "17745",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 35054,
+    "postcode": "94000",
+    "code": "94028",
+    "name": "Créteil"
+   },
+   "description": "Résidence meublé et équipé \n\ncentre commercial à proximité \n\nRer D à 10mn a pieds "
+  },
+  "availableAt": "2026-08-02",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 419.91,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-27",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/54/54791bea-4306-4e53-bc8a-305d5bfcc3a3/medium/26453c4a-2bfe-4c5d-8166-885fdf7fb781",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La proximité de la gare RER D le Vert de Maisons et du BUS 181 permet de rejoindre Paris en moins de 10 minutes. La résidence est située dans un quartier dynamique, proche de structures d’activité, notamment le centre de formation AFPA, à proximité de commerces pour ses courses au quotidien.\n\nRésidence meublé et équipé \n\ncentre commercial à proximité \n\nRer D à 10mn a pieds \n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55877,
+  "guid": "c56b77ad-96a3-49ed-a7c1-c311ed7cf194",
+  "reference": "55877",
+  "offerNumber": 2,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/54/54791bea-4306-4e53-bc8a-305d5bfcc3a3/large/79a74313-9061-4baa-a022-ce92640f6b04",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/54/54791bea-4306-4e53-bc8a-305d5bfcc3a3/large/4bd18573-770b-4b86-94b8-3289904fda83",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/54/54791bea-4306-4e53-bc8a-305d5bfcc3a3/large/e0b6e4e8-ab1c-4a23-a6e7-772ccd8b83dd",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 17745,
+   "guid": "54791bea-4306-4e53-bc8a-305d5bfcc3a3",
+   "reference": "17745",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 4,
+    "ordering": 3,
+    "code": "T1P",
+    "label": "T1'",
+    "commercialLabel": "T1'"
+   },
+   "area": 20.0,
+   "municipality": {
+    "id": 35054,
+    "postcode": "94000",
+    "code": "94028",
+    "name": "Créteil"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": {
+    "id": 1,
+    "ordering": 1,
+    "code": "RDC",
+    "label": "Rez-de-chaussée"
+   },
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": "COLLECTIVE",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "COLLECTIVE",
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 163,
+   "guid": "7ab6c097-07a0-4d72-94ef-4b59343a115e",
+   "reference": "163",
+   "livingRules": "Pas d'animal au sein de la résidence",
+   "type": {
+    "id": 2,
+    "ordering": 6,
+    "code": "RSC",
+    "label": "Résidence sociale",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 3,
+     "ordering": 4,
+     "code": "LIG",
+     "label": "Service de lingerie (location de draps et serviettes)",
+     "isIncluded": false
+    },
+    {
+     "id": 8,
+     "ordering": 9,
+     "code": "VEL",
+     "label": "Garage à vélo",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": false
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 17,
+     "ordering": 18,
+     "code": "JRD",
+     "label": "Espace vert",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-08-02",
+  "endDateOfPublication": "2026-12-06",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La proximité de la gare RER D le Vert de Maisons et du BUS 181 permet de rejoindre Paris en moins de 10 minutes. La résidence est située dans un quartier dynamique, proche de structures d’activité, notamment le centre de formation AFPA, à proximité de commerces pour ses courses au quotidien.\n\nRésidence meublé et équipé \n\ncentre commercial à proximité \n\nRer D à 10mn a pieds \n\nLa date limite de dépôt de candidature n'est pas contractuelle",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 419.91,
+  "rentChargeAmount": null,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": 18,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
