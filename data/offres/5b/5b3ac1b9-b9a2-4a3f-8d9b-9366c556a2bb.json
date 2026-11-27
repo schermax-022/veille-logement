@@ -1,0 +1,240 @@
+{
+ "guid": "5b3ac1b9-b9a2-4a3f-8d9b-9366c556a2bb",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-27T10:15:41+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-27T10:15:41+01:00",
+ "liste": {
+  "id": 55692,
+  "guid": "5b3ac1b9-b9a2-4a3f-8d9b-9366c556a2bb",
+  "reference": "55692",
+  "residency": {
+   "id": 9142,
+   "guid": "262f8a7c-4edc-4054-bf74-08d98d1470b7",
+   "reference": "9142",
+   "name": "PIERRE KERDYK",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63565,
+   "guid": "1d12ffd3-8abb-4389-a123-3b58255bffa2",
+   "reference": "63565",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 52.0,
+   "municipality": {
+    "id": 29984,
+    "postcode": "76600",
+    "code": "76351",
+    "name": "Le Havre"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-12-21",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 431.4,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 118.0,
+  "startDateOfPublication": "2026-11-27",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1d/1d12ffd3-8abb-4389-a123-3b58255bffa2/medium/ef8b4316-efbe-4dcc-a853-83d6b58ca381",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Résidence Pierre Kerdyk, LE HAVRE.\n\nSitué au 2 passage de Lignerolles au Havre, cet appartement prend place dans une résidence de caractère à l'architecture en briques typique du patrimoine havrais. La résidence bénéficie d'un environnement agréable, à proximité des commerces, des écoles, des transports en commun et des services du quotidien. Une adresse idéale pour profiter d'un cadre de vie pratique et confortable.\n\nNous vous proposons un appartement T3 de 52 m², situé au 2ᵉ étage sans ascenseur. Ce logement offre des espaces de vie fonctionnels et lumineux, adaptés à un couple ou à une petite famille, dans un cadre de vie alliant le charme de l'ancien et la proximité des commodités.\n\nIl est équipé d'un chauffage individuel, permettant une gestion autonome des consommations énergétiques et un meilleur confort au quotidien.\n\nLogement disponible pour fin décembre 2026.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55692,
+  "guid": "5b3ac1b9-b9a2-4a3f-8d9b-9366c556a2bb",
+  "reference": "55692",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/1d/1d12ffd3-8abb-4389-a123-3b58255bffa2/large/c0df3272-a74c-4e66-b426-b1183d170d82",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63565,
+   "guid": "1d12ffd3-8abb-4389-a123-3b58255bffa2",
+   "reference": "63565",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 52.0,
+   "municipality": {
+    "id": 29984,
+    "postcode": "76600",
+    "code": "76351",
+    "name": "Le Havre"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 2,
+    "ordering": 2,
+    "code": "NO",
+    "label": "Non"
+   },
+   "floor": {
+    "id": 5,
+    "ordering": 5,
+    "code": "2",
+    "label": "2"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 7,
+    "ordering": 7,
+    "code": "ING",
+    "label": "Individuel gaz",
+    "commercialLabel": "Chauffage individuel gaz non compris dans les charges"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": null,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": false,
+   "numberOfRoomsHousing": null
+  },
+  "residency": {
+   "id": 9142,
+   "guid": "262f8a7c-4edc-4054-bf74-08d98d1470b7",
+   "reference": "9142",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "1983-01-01",
+   "constructionYear": 1983,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-21",
+  "endDateOfPublication": "2026-12-11",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "Résidence Pierre Kerdyk, LE HAVRE.\n\nSitué au 2 passage de Lignerolles au Havre, cet appartement prend place dans une résidence de caractère à l'architecture en briques typique du patrimoine havrais. La résidence bénéficie d'un environnement agréable, à proximité des commerces, des écoles, des transports en commun et des services du quotidien. Une adresse idéale pour profiter d'un cadre de vie pratique et confortable.\n\nNous vous proposons un appartement T3 de 52 m², situé au 2ᵉ étage sans ascenseur. Ce logement offre des espaces de vie fonctionnels et lumineux, adaptés à un couple ou à une petite famille, dans un cadre de vie alliant le charme de l'ancien et la proximité des commodités.\n\nIl est équipé d'un chauffage individuel, permettant une gestion autonome des consommations énergétiques et un meilleur confort au quotidien.\n\nLogement disponible pour fin décembre 2026.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 239.02,
+  "rentChargeAmount": 74.38,
+  "rentParkingAmount": 0.0,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 239.02,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": 118.0,
+  "rentAnnexChargesIncluded": 0.0,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
