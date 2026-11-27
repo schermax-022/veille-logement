@@ -1,0 +1,307 @@
+{
+ "guid": "c202f828-38ef-47d3-a609-9c716b4deec2",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-27T11:31:00+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-27T11:31:00+01:00",
+ "liste": {
+  "id": 3269,
+  "guid": "c202f828-38ef-47d3-a609-9c716b4deec2",
+  "reference": "3269",
+  "residency": {
+   "id": 1371,
+   "guid": "b0b4ccec-4729-418c-bafb-9a8eb34cef31",
+   "reference": "1371",
+   "name": "RESIDENCE CAMPUS DES CARMES",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   }
+  },
+  "lodging": {
+   "id": 11858,
+   "guid": "8d2a776b-14a7-42ed-bcf9-a2d03c97ad05",
+   "reference": "11858",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 27.8,
+   "municipality": {
+    "id": 11958,
+    "postcode": "31000",
+    "code": "31555",
+    "name": "Toulouse"
+   },
+   "description": "Les appartements disposent d’aménagements modernes et fonctionnels : un séjour composé d’un coin chambre, un placard aménagé, un espace bureau, un coin cuisine équipée et une salle de bains."
+  },
+  "availableAt": "2026-12-10",
+  "isLodgingFirstTimeAvailable": false,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 547.36,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-27",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8d/8d2a776b-14a7-42ed-bcf9-a2d03c97ad05/medium/d6b28db0-9c09-43da-bdf1-0499ba989c89",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "Cette résidence étudiante est idéalement située en hyper centre de Toulouse et à 50 mètres du métro des Carmes (ligne B). \nDestinée à un public de moins de 30 ans uniquement et ayant le statut d'étudiant.\nSon entrée est sécurisée par un accès par badge, un vidéophone et la présence d'un régisseur.\nLa résidence dispose d'un espace de coworking, d'un coin lecture, d'une cuisine collaborative, d'un babyfoot et d'une bibliothèque partagée.\nL'électricité, le chauffage et l'eau chaude ne sont pas compris dans le loyer.\n\nLes appartements disposent d’aménagements modernes et fonctionnels : un séjour composé d’un coin chambre, un placard aménagé, un espace bureau, un coin cuisine équipée et une salle de bains.\n\n",
+  "isRecent": false,
+  "isNewLodging": false,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 3269,
+  "guid": "c202f828-38ef-47d3-a609-9c716b4deec2",
+  "reference": "3269",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8d/8d2a776b-14a7-42ed-bcf9-a2d03c97ad05/large/bb1a00ec-c86d-4ae5-97b2-94ddc0ad8e8c",
+    "urlContentType": "image/jpeg",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8d/8d2a776b-14a7-42ed-bcf9-a2d03c97ad05/large/f7b7f2fc-9b53-4a28-ac81-55049ef9ba08",
+    "urlContentType": "image/jpeg",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8d/8d2a776b-14a7-42ed-bcf9-a2d03c97ad05/large/3665c9ed-16ff-4472-a61a-a52038295cff",
+    "urlContentType": "image/jpeg",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 11858,
+   "guid": "8d2a776b-14a7-42ed-bcf9-a2d03c97ad05",
+   "reference": "11858",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": null,
+   "lodgingTypology": {
+    "id": 3,
+    "ordering": 2,
+    "code": "T1",
+    "label": "T1",
+    "commercialLabel": "T1"
+   },
+   "area": 27.8,
+   "municipality": {
+    "id": 11958,
+    "postcode": "31000",
+    "code": "31555",
+    "name": "Toulouse"
+   },
+   "isFurnished": true,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": null,
+   "kitchenType": "INDIVIDUAL",
+   "toiletType": "INDIVIDUAL",
+   "bathroomType": "INDIVIDUAL",
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": "INDIVIDUAL",
+   "coldWaterType": "COLLECTIVE",
+   "electricityType": "INDIVIDUAL",
+   "greenhouseGasCertificate": {
+    "id": 2,
+    "ordering": 2,
+    "code": "B",
+    "label": "B"
+   },
+   "energyPerformanceCertificate": {
+    "id": 4,
+    "ordering": 4,
+    "code": "D",
+    "label": "D"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "NC",
+     "label": "Non communiqué"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 0
+  },
+  "residency": {
+   "id": 1371,
+   "guid": "b0b4ccec-4729-418c-bafb-9a8eb34cef31",
+   "reference": "1371",
+   "livingRules": "",
+   "type": {
+    "id": 10,
+    "ordering": 4,
+    "code": "RE",
+    "label": "Résidence Etudiants",
+    "product": {
+     "id": 1,
+     "guid": "40ce59b9-265f-45da-b8b6-3396d06fe66c",
+     "ordering": 1,
+     "code": "TEMP",
+     "label": "Patrimoine Temporaire"
+    }
+   },
+   "lifeStyles": [],
+   "services": [
+    {
+     "id": 20,
+     "ordering": 3,
+     "code": "RSR",
+     "label": "Responsable de résidence",
+     "isIncluded": true
+    },
+    {
+     "id": 4,
+     "ordering": 5,
+     "code": "SPO",
+     "label": "Salle de sport",
+     "isIncluded": true
+    },
+    {
+     "id": 5,
+     "ordering": 6,
+     "code": "WFI",
+     "label": "Wifi",
+     "isIncluded": true
+    },
+    {
+     "id": 9,
+     "ordering": 10,
+     "code": "LAV",
+     "label": "Laverie",
+     "isIncluded": true
+    },
+    {
+     "id": 10,
+     "ordering": 11,
+     "code": "COM",
+     "label": "Salle de vie commune",
+     "isIncluded": true
+    },
+    {
+     "id": 14,
+     "ordering": 15,
+     "code": "MAT",
+     "label": "Prêt de matériel (informatique, vélo…)",
+     "isIncluded": true
+    },
+    {
+     "id": 18,
+     "ordering": 19,
+     "code": "SEC",
+     "label": "Accès sécurisé",
+     "isIncluded": true
+    }
+   ],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": null,
+   "constructionYear": null,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-10",
+  "endDateOfPublication": "2026-12-31",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": false,
+  "description": "Cette résidence étudiante est idéalement située en hyper centre de Toulouse et à 50 mètres du métro des Carmes (ligne B). \nDestinée à un public de moins de 30 ans uniquement et ayant le statut d'étudiant.\nSon entrée est sécurisée par un accès par badge, un vidéophone et la présence d'un régisseur.\nLa résidence dispose d'un espace de coworking, d'un coin lecture, d'une cuisine collaborative, d'un babyfoot et d'une bibliothèque partagée.\nL'électricité, le chauffage et l'eau chaude ne sont pas compris dans le loyer.\n\nLes appartements disposent d’aménagements modernes et fonctionnels : un séjour composé d’un coin chambre, un placard aménagé, un espace bureau, un coin cuisine équipée et une salle de bains.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 438.82,
+  "rentChargeAmount": 108.54,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 438.36,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [
+   {
+    "id": 3,
+    "ordering": 1,
+    "code": "AGE",
+    "label": "Âge",
+    "type": "INTEGER_INTERVAL",
+    "group": "AGE",
+    "boolValue": null,
+    "intStartValue": null,
+    "intEndValue": 29,
+    "listValues": []
+   }
+  ],
+  "isOfferAvailable": true,
+  "isRecent": false,
+  "isNewLodging": false,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
