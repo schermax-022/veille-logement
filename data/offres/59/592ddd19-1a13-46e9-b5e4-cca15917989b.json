@@ -1,0 +1,260 @@
+{
+ "guid": "592ddd19-1a13-46e9-b5e4-cca15917989b",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-27T15:01:03+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-27T15:01:03+01:00",
+ "liste": {
+  "id": 55772,
+  "guid": "592ddd19-1a13-46e9-b5e4-cca15917989b",
+  "reference": "55772",
+  "residency": {
+   "id": 9141,
+   "guid": "14138cb2-29a3-4246-82e3-afa2f79a04d1",
+   "reference": "9141",
+   "name": "SOUIMANGA",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63622,
+   "guid": "8e6b3226-cf92-4202-a3af-596c54ac4e4d",
+   "reference": "63622",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 61.69,
+   "municipality": {
+    "id": 35415,
+    "postcode": "97620",
+    "code": "97606",
+    "name": "Chirongui"
+   },
+   "description": "Bientôt disponible un appartement de type T3 se compose de 2 chambres et une cuisine , un séjour, une salle de bain et WC. Le logement comprend aussi une varangue."
+  },
+  "availableAt": "2027-03-31",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 866.49,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-27",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8e6b3226-cf92-4202-a3af-596c54ac4e4d/medium/23c04430-fdd9-497d-9d97-c5c6e20cb370",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "La résidence est située dans le secteur de Miréréni, elle est proche des commerces, du CHM de Mramadoudou, des établissements scolaires et des infrastructures locales, à proximité de la station essence. Le village desservi par le réseau de bus MSAFARA.\n\nBientôt disponible un appartement de type T3 se compose de 2 chambres et une cuisine , un séjour, une salle de bain et WC. Le logement comprend aussi une varangue.\n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55772,
+  "guid": "592ddd19-1a13-46e9-b5e4-cca15917989b",
+  "reference": "55772",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8e6b3226-cf92-4202-a3af-596c54ac4e4d/large/e2ebbcae-b1ba-492c-a2df-19d8c9d4df76",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/8e/8e6b3226-cf92-4202-a3af-596c54ac4e4d/large/32c13748-a680-4106-b6a2-0f084c545ea6",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63622,
+   "guid": "8e6b3226-cf92-4202-a3af-596c54ac4e4d",
+   "reference": "63622",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 61.69,
+   "municipality": {
+    "id": 35415,
+    "postcode": "97620",
+    "code": "97606",
+    "name": "Chirongui"
+   },
+   "isFurnished": false,
+   "prmMode": {
+    "id": 1,
+    "ordering": 1,
+    "code": "YES",
+    "label": "Oui"
+   },
+   "floor": {
+    "id": 3,
+    "ordering": 3,
+    "code": "0",
+    "label": "0"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 11,
+    "ordering": 11,
+    "code": "NXX",
+    "label": "Non communiqué",
+    "commercialLabel": "Mode de chauffage non communiqué"
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "NO",
+   "parkingCapacity": null,
+   "parkingTypes": [
+    {
+     "id": 2,
+     "ordering": 2,
+     "code": "PEX",
+     "label": "Parking extérieur"
+    }
+   ],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 9141,
+   "guid": "14138cb2-29a3-4246-82e3-afa2f79a04d1",
+   "reference": "9141",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2027-03-31",
+   "constructionYear": 2025,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2027-03-31",
+  "endDateOfPublication": "2026-12-13",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "La résidence est située dans le secteur de Miréréni, elle est proche des commerces, du CHM de Mramadoudou, des établissements scolaires et des infrastructures locales, à proximité de la station essence. Le village desservi par le réseau de bus MSAFARA.\n\nBientôt disponible un appartement de type T3 se compose de 2 chambres et une cuisine , un séjour, une salle de bain et WC. Le logement comprend aussi une varangue.\n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 816.49,
+  "rentChargeAmount": 50.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": null,
+  "areAgencyFeesRequested": null,
+  "agencyFeesAmount": null,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": false,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
