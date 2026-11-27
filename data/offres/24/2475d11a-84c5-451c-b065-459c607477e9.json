@@ -1,0 +1,260 @@
+{
+ "guid": "2475d11a-84c5-451c-b065-459c607477e9",
+ "statut": "en_ligne",
+ "premiere_detection": "2026-11-27T14:30:53+01:00",
+ "deja_en_ligne_au_demarrage": false,
+ "derniere_presence": null,
+ "absente_depuis": null,
+ "absences": 0,
+ "retrait_detecte": null,
+ "remises_en_ligne": 0,
+ "alerte": null,
+ "alerte_envoyee_le": null,
+ "fiche_statut": "ok",
+ "fiche_recuperee_le": "2026-11-27T14:30:53+01:00",
+ "liste": {
+  "id": 55798,
+  "guid": "2475d11a-84c5-451c-b065-459c607477e9",
+  "reference": "55798",
+  "residency": {
+   "id": 9159,
+   "guid": "1421262b-ecd8-4d73-b43d-9dca27ca01c1",
+   "reference": "9159",
+   "name": "LE FAHAM",
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   }
+  },
+  "lodging": {
+   "id": 63665,
+   "guid": "502616b6-1264-47f0-9c5f-1100f65243bc",
+   "reference": "63665",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 54.06,
+   "municipality": {
+    "id": 35384,
+    "postcode": "97490",
+    "code": "97411",
+    "name": "Saint-Denis"
+   },
+   "description": ""
+  },
+  "availableAt": "2026-12-28",
+  "isLodgingFirstTimeAvailable": null,
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "totalRentAmountBaseBound": 868.27,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 702.78,
+  "estimatedExternalCharges": null,
+  "startDateOfPublication": "2026-11-27",
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/502616b6-1264-47f0-9c5f-1100f65243bc/medium/3df17ba7-3bfa-474a-aa2b-3063674a88d9",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "MEDIUM"
+   }
+  ],
+  "description": "A LOUER DANS UNE RESIDENCE NEUVE - LE FAHAM\n\nAppartement T3 + Varangue et jardin\nCette résidence familiale offre un cadre de vie agréable et confortable, adapté aux besoins du quotidien. Située à Sainte-Clotilde, la résidence Le Faham bénéficie d'un emplacement privilégié à proximité des commerces, des établissements scolaires, des transports en commun et des principaux services.\n\nLivraison prévisionnelle (sous réserve) : décembre 2026  \n\n",
+  "isRecent": true,
+  "isNewLodging": true,
+  "candidacy": null,
+  "orientationCode": null,
+  "rentType": "RENT_STANDARD",
+  "totalProgressiveRentAmount": null,
+  "isDemandUniqueNumberRequired": false,
+  "demandUniqueNumberCorrespondenceCode": null,
+  "offerCategory": null
+ },
+ "fiche": {
+  "id": 55798,
+  "guid": "2475d11a-84c5-451c-b065-459c607477e9",
+  "reference": "55798",
+  "offerNumber": 1,
+  "demandGuid": null,
+  "pictures": [
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/502616b6-1264-47f0-9c5f-1100f65243bc/large/1884dfd2-35a5-4810-af62-8df456eedf20",
+    "urlContentType": "image/png",
+    "ordering": 0,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/502616b6-1264-47f0-9c5f-1100f65243bc/large/0294df76-6104-489e-9192-6d3f5b543cf9",
+    "urlContentType": "image/png",
+    "ordering": 1,
+    "dimension": "LARGE"
+   },
+   {
+    "url": "https://assets.logement-actionlogement.fr/lodgings/50/502616b6-1264-47f0-9c5f-1100f65243bc/large/6492dde4-15b5-4d1a-b95d-106c1cdc9c49",
+    "urlContentType": "image/png",
+    "ordering": 2,
+    "dimension": "LARGE"
+   }
+  ],
+  "lodging": {
+   "id": 63665,
+   "guid": "502616b6-1264-47f0-9c5f-1100f65243bc",
+   "reference": "63665",
+   "lodgingType": "IDENTIFIED",
+   "lodgingCategory": {
+    "id": 2,
+    "ordering": 1,
+    "code": "A",
+    "label": "Appartement"
+   },
+   "lodgingTypology": {
+    "id": 8,
+    "ordering": 7,
+    "code": "T3",
+    "label": "T3",
+    "commercialLabel": "T3"
+   },
+   "area": 54.06,
+   "municipality": {
+    "id": 35384,
+    "postcode": "97490",
+    "code": "97411",
+    "name": "Saint-Denis"
+   },
+   "isFurnished": false,
+   "prmMode": null,
+   "floor": {
+    "id": 1,
+    "ordering": 1,
+    "code": "RDC",
+    "label": "Rez-de-chaussée"
+   },
+   "kitchenType": null,
+   "toiletType": null,
+   "bathroomType": null,
+   "heatingMode": {
+    "id": 12,
+    "ordering": 12,
+    "code": "NCR",
+    "label": "Non concerné",
+    "commercialLabel": ""
+   },
+   "hotWaterType": null,
+   "coldWaterType": null,
+   "electricityType": null,
+   "greenhouseGasCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "energyPerformanceCertificate": {
+    "id": 8,
+    "ordering": 8,
+    "code": "NC",
+    "label": "Non communiqué"
+   },
+   "annualEnergyExpenditure": 0.0,
+   "elevatorPresence": "YES",
+   "parkingCapacity": null,
+   "parkingTypes": [],
+   "isKitchenEquipped": null,
+   "apartmentType": null,
+   "lodgingAnnexTypes": [],
+   "outdoorTypes": [
+    {
+     "id": 1,
+     "ordering": 1,
+     "code": "BAL_TER",
+     "label": "Balcon/Terrasse"
+    },
+    {
+     "id": 3,
+     "ordering": 3,
+     "code": "JAR",
+     "label": "Jardin"
+    }
+   ],
+   "isParkingMandatory": null,
+   "numberOfRoomsHousing": 2
+  },
+  "residency": {
+   "id": 9159,
+   "guid": "1421262b-ecd8-4d73-b43d-9dca27ca01c1",
+   "reference": "9159",
+   "livingRules": null,
+   "type": {
+    "id": 15,
+    "ordering": 1,
+    "code": "SOC",
+    "label": "Logement familial",
+    "product": {
+     "id": 2,
+     "guid": "712f4424-7590-4912-8ed8-f192b26557f8",
+     "ordering": 2,
+     "code": "PERN",
+     "label": "Patrimoine Pérenne"
+    }
+   },
+   "lifeStyles": [],
+   "services": [],
+   "requiredWarrantyTypes": [],
+   "deliveredAt": "2026-12-28",
+   "constructionYear": 2026,
+   "lastRehabilitatedDate": null
+  },
+  "availableAt": "2026-12-28",
+  "endDateOfPublication": "2026-12-15",
+  "isLodgingRehabilitated": null,
+  "isLodgingFirstTimeAvailable": null,
+  "description": "A LOUER DANS UNE RESIDENCE NEUVE - LE FAHAM\n\nAppartement T3 + Varangue et jardin\nCette résidence familiale offre un cadre de vie agréable et confortable, adapté aux besoins du quotidien. Située à Sainte-Clotilde, la résidence Le Faham bénéficie d'un emplacement privilégié à proximité des commerces, des établissements scolaires, des transports en commun et des principaux services.\n\nLivraison prévisionnelle (sous réserve) : décembre 2026  \n\n",
+  "paymentType": {
+   "id": 2,
+   "ordering": 1,
+   "code": "MSL",
+   "label": "Mensuel"
+  },
+  "housingFeeBaseBound": 773.27,
+  "rentChargeAmount": 95.0,
+  "rentParkingAmount": null,
+  "compulsoryBenefitAmount": null,
+  "securityDepositAmount": 773.27,
+  "areAgencyFeesRequested": true,
+  "agencyFeesAmount": 702.78,
+  "estimatedExternalCharges": null,
+  "rentAnnexChargesIncluded": null,
+  "offerTargetPopulations": [],
+  "isOfferAvailable": true,
+  "isRecent": true,
+  "isNewLodging": true,
+  "isOfferRentReferenceIncreased": true,
+  "rentReferenceIncreased": null,
+  "rentType": "RENT_STANDARD",
+  "totalRentAmountMax": null
+ },
+ "fiche_essais": 0
+}
